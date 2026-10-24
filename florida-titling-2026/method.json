@@ -1,0 +1,81 @@
+{
+  "assessment_year": 2026,
+  "assessment_as_of": "2026-01-01",
+  "valid_nal_counties": 66,
+  "input_vintage_archive_counts": {
+    "2026F": 56,
+    "2026P": 10
+  },
+  "included_dor_use_codes": {
+    "001": "Single Family",
+    "004": "Condominiums"
+  },
+  "measure": "Number of public NAL assessment records whose primary-owner string receives each algorithm label, in disjoint JV bands.",
+  "denominator_note": "Records, not unique owners, beneficial owners, households, purchases, buyers, or verified legal entities.",
+  "just_value_note": "JV is the property appraiser\u2019s opinion of market value after statutory adjustments. It is not sale price or an independently verified current market value.",
+  "classification_validated": false,
+  "classifier_sha256": "bfa31602e0757ee0e7b853e1346aa77558a3e783ecc3760e8e3b7ec0361cebb8",
+  "validation_method": "Three disjoint samples of 500 unique current-owner strings. An independent AI agent manually reasoned through each sample without classifier code or predictions. This is not a human audit. The first two samples informed calibration. Only the final sample is held out from the final classifier.",
+  "final_independent_holdout": {
+    "sample": "Final independent holdout",
+    "sample_size_unique_strings": 500,
+    "passed": false,
+    "failed_metrics": [
+      {
+        "class": "company",
+        "metric": "recall",
+        "value": 0.9265
+      },
+      {
+        "class": "other",
+        "metric": "precision",
+        "value": 0.8182
+      },
+      {
+        "class": "other",
+        "metric": "recall",
+        "value": 0.5625
+      }
+    ],
+    "threshold": 0.95,
+    "note": "Only failed precision/recall metrics are shown here. Raw small validation-sample confusion counts are not part of the public candidate."
+  },
+  "class_definitions": {
+    "individual": "Algorithm label for a natural-person-form recorded string. It does not verify a person.",
+    "trust": "Algorithm label for a trust-form recorded string. It does not establish anonymity or beneficial ownership.",
+    "company": "Algorithm label for a company-form recorded string. It does not verify legal entity status.",
+    "trustee-named-individual": "Algorithm label for a string paired with trustee markers. It does not verify identity or fiduciary capacity.",
+    "other": "Algorithm residual category, including ambiguous or unrecognized strings."
+  },
+  "limitations": [
+    "Unvalidated algorithm output, not ownership prevalence, beneficial ownership, anonymity, buyer identity or purchase-time titling.",
+    "The primary owner field may be truncated to 50 characters. Naming conventions and abbreviations can cause classification errors.",
+    "The public source omits confidential records, including records of owners exempt from public disclosure under section 119.071, Florida Statutes. The table cannot represent those omitted records.",
+    "Only DOR use codes001 and004 are included. Other residential and nonresidential categories are outside scope.",
+    "The algorithm was not tuned after the final independent holdout.",
+    "Small-cell protection applies to this combined table, not arbitrary future geography, use-code or value subdivisions."
+  ],
+  "excluded_input": [
+    {
+      "archive": "Jackson 42 Final SDF 2026.zip",
+      "member": "SDF42F202601.csv",
+      "reason": "Sales Data File (SDF), not NAL. Required OWN_NAME, JV and FILE_T columns are absent.",
+      "official_source_url": "https://floridarevenue.com/property/dataportal/Documents/PTO%20Data%20Portal/Tax%20Roll%20Data%20Files/NAL/2026F/Jackson%2042%20Final%20SDF%202026.zip"
+    }
+  ],
+  "source_urls": [
+    "https://floridarevenue.com/property/dataportal/Pages/default.aspx",
+    "https://floridarevenue.com/property/dataportal/Documents/PTO%20Data%20Portal/User%20Guides/2026%20Users%20guide%20and%20quick%20reference/2026_NAL_SDF_NAP_Users_Guide.pdf",
+    "https://floridarevenue.com/property/dataportal/Documents/PTO%20Data%20Portal/Tax%20Roll%20Data%20Files/NAL/2026F/",
+    "https://floridarevenue.com/property/dataportal/Documents/PTO%20Data%20Portal/Tax%20Roll%20Data%20Files/NAL/2026P/"
+  ],
+  "source_confidentiality_bias": "DOR states that its public files omit confidential records, including records of owners exempt under section119.071, Florida Statutes. The missing records are outside this table, and their class distribution is unknown.",
+  "edition": "0.1-preliminary",
+  "computed_on": "2026-10-24",
+  "records_scanned": 11069299,
+  "blank_just_value_fields_excluded": 56,
+  "qualifying_assessment_records": 25783,
+  "small_selected_use_missing_value_count": "Withheld",
+  "minimum_released_class_count": 152,
+  "no_county_or_person_results": true
+}

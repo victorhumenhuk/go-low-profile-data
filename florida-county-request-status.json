@@ -1,0 +1,677 @@
+{
+  "title": "Florida confidential-parcel count requests, submission status",
+  "checked_on": "2026-10-24",
+  "scope": "67 count-only requests. This log contains no confidential-parcel counts. Provider queue acceptance is not appraiser receipt, reading or fulfillment. No fees authorized.",
+  "rows": [
+    {
+      "county": "Alachua",
+      "request_id": "glp-c2-20261024-alachua",
+      "queued_at": "2026-10-24T17:14:44.491158+00:00",
+      "provider_status": "queued",
+      "route": "appraiser office or official",
+      "official_route_source": "https://www.acpafl.org/public-records-request/",
+      "appraiser_receipt": "unconfirmed",
+      "count_result": null
+    },
+    {
+      "county": "Baker",
+      "request_id": "glp-c2-20261024-baker",
+      "queued_at": "2026-10-24T17:15:32.305093+00:00",
+      "provider_status": "queued",
+      "route": "appraiser office or official",
+      "official_route_source": "https://www.bakerpa.com/contact.html",
+      "appraiser_receipt": "unconfirmed",
+      "count_result": null
+    },
+    {
+      "county": "Bay",
+      "request_id": "glp-c2-20261024-bay",
+      "queued_at": "2026-10-24T17:20:42.954852+00:00",
+      "provider_status": "queued",
+      "route": "appraiser office or official",
+      "official_route_source": "https://baypa.net/contact-us/",
+      "appraiser_receipt": "unconfirmed",
+      "count_result": null
+    },
+    {
+      "county": "Bradford",
+      "request_id": "glp-c2-20261024-bradford",
+      "queued_at": "2026-10-24T17:15:35.421192+00:00",
+      "provider_status": "queued",
+      "route": "appraiser office or official",
+      "official_route_source": "https://www.bradfordappraiser.com/Records_Request/",
+      "appraiser_receipt": "unconfirmed",
+      "count_result": null
+    },
+    {
+      "county": "Brevard",
+      "request_id": "glp-c2-20261024-brevard",
+      "queued_at": "2026-10-24T17:15:38.150633+00:00",
+      "provider_status": "queued",
+      "route": "appraiser office or official",
+      "official_route_source": "https://www.bcpao.us/ContactUs.aspx?t=1.4.0.3.b",
+      "appraiser_receipt": "unconfirmed",
+      "count_result": null
+    },
+    {
+      "county": "Broward",
+      "request_id": "glp-c2-20261024-broward",
+      "queued_at": "2026-10-24T17:15:41.378580+00:00",
+      "provider_status": "queued",
+      "route": "appraiser office or official",
+      "official_route_source": "https://web.bcpa.net/owneralert/FAQ",
+      "appraiser_receipt": "unconfirmed",
+      "count_result": null
+    },
+    {
+      "county": "Calhoun",
+      "request_id": "glp-c2-20261024-calhoun",
+      "queued_at": "2026-10-24T17:15:44.077469+00:00",
+      "provider_status": "queued",
+      "route": "appraiser office or official",
+      "official_route_source": "https://calhounpa.net/our-office/public-records-request/",
+      "appraiser_receipt": "unconfirmed",
+      "count_result": null
+    },
+    {
+      "county": "Charlotte",
+      "request_id": "glp-c2-20261024-charlotte",
+      "queued_at": "2026-10-24T17:35:28.301033+00:00",
+      "provider_status": "queued",
+      "route": "appraiser office or official",
+      "official_route_source": "https://www.flsenate.gov/Committees/DownloadMeetingDocument/7952",
+      "appraiser_receipt": "unconfirmed",
+      "count_result": null
+    },
+    {
+      "county": "Citrus",
+      "request_id": "glp-c2-20261024-citrus",
+      "queued_at": "2026-10-24T17:15:46.532560+00:00",
+      "provider_status": "queued",
+      "route": "appraiser office or official",
+      "official_route_source": "https://www.citruspa.org/_dnn/General/Contact",
+      "appraiser_receipt": "unconfirmed",
+      "count_result": null
+    },
+    {
+      "county": "Clay",
+      "request_id": "glp-c2-20261024-clay",
+      "queued_at": "2026-10-24T17:15:49.469416+00:00",
+      "provider_status": "queued",
+      "route": "appraiser office or official",
+      "official_route_source": "https://www.ccpao.com/2021/01/05/public-records-request/",
+      "appraiser_receipt": "unconfirmed",
+      "count_result": null
+    },
+    {
+      "county": "Collier",
+      "request_id": "glp-c2-20261024-collier",
+      "queued_at": "2026-10-24T17:38:27.429372+00:00",
+      "provider_status": "queued",
+      "route": "other county office, forwarding requested",
+      "official_route_source": "https://www.collierclerk.com/contact-us/",
+      "appraiser_receipt": "unconfirmed",
+      "count_result": null
+    },
+    {
+      "county": "Columbia",
+      "request_id": "glp-c2-20261024-columbia",
+      "queued_at": "2026-10-24T17:15:51.892897+00:00",
+      "provider_status": "queued",
+      "route": "appraiser office or official",
+      "official_route_source": "https://columbia.floridapa.com/Records_Request/",
+      "appraiser_receipt": "unconfirmed",
+      "count_result": null
+    },
+    {
+      "county": "DeSoto",
+      "request_id": "glp-c2-20261024-desoto",
+      "queued_at": "2026-10-24T17:15:54.427999+00:00",
+      "provider_status": "queued",
+      "route": "appraiser office or official",
+      "official_route_source": "https://www.desotopa.com/Records_Request/",
+      "appraiser_receipt": "unconfirmed",
+      "count_result": null
+    },
+    {
+      "county": "Dixie",
+      "request_id": "glp-c2-20261024-dixie",
+      "queued_at": "2026-10-24T17:35:25.957612+00:00",
+      "provider_status": "queued",
+      "route": "appraiser office or official",
+      "official_route_source": "https://floridarevenue.com/property/Documents/2025%20Dixie%20DR-493.pdf",
+      "appraiser_receipt": "unconfirmed",
+      "count_result": null
+    },
+    {
+      "county": "Duval",
+      "request_id": "glp-c2-20261024-duval",
+      "queued_at": "2026-10-24T17:15:57.645984+00:00",
+      "provider_status": "queued",
+      "route": "appraiser office or official",
+      "official_route_source": "https://www.jacksonville.gov/departments/property-appraiser/docs/property-appraiser-online-forms/data-and-document-request-form.aspx",
+      "appraiser_receipt": "unconfirmed",
+      "count_result": null
+    },
+    {
+      "county": "Escambia",
+      "request_id": "glp-c2-20261024-escambia",
+      "queued_at": "2026-10-24T17:16:00.142991+00:00",
+      "provider_status": "queued",
+      "route": "appraiser office or official",
+      "official_route_source": "https://escpa.org/",
+      "appraiser_receipt": "unconfirmed",
+      "count_result": null
+    },
+    {
+      "county": "Flagler",
+      "request_id": "glp-c2-20261024-flagler",
+      "queued_at": "2026-10-24T17:35:20.954510+00:00",
+      "provider_status": "queued",
+      "route": "appraiser office or official",
+      "official_route_source": "https://flaglerpa.com/wp-content/uploads/sites/76/2023/06/Req-for-Public-Records-Exempt.pdf",
+      "appraiser_receipt": "unconfirmed",
+      "count_result": null
+    },
+    {
+      "county": "Franklin",
+      "request_id": "glp-c2-20261024-franklin",
+      "queued_at": "2026-10-24T17:16:02.626266+00:00",
+      "provider_status": "queued",
+      "route": "appraiser office or official",
+      "official_route_source": "https://franklincountypa.net/public-records-request/",
+      "appraiser_receipt": "unconfirmed",
+      "count_result": null
+    },
+    {
+      "county": "Gadsden",
+      "request_id": "glp-c2-20261024-gadsden",
+      "queued_at": "2026-10-24T17:38:29.947672+00:00",
+      "provider_status": "queued",
+      "route": "other county office, forwarding requested",
+      "official_route_source": "https://www.gadsdenclerk.com/iisstart_files/sheet001.htm",
+      "appraiser_receipt": "unconfirmed",
+      "count_result": null
+    },
+    {
+      "county": "Gilchrist",
+      "request_id": "glp-c2-20261024-gilchrist",
+      "queued_at": "2026-10-24T17:16:05.274436+00:00",
+      "provider_status": "queued",
+      "route": "appraiser office or official",
+      "official_route_source": "https://www.qpublic.net/fl/gilchrist/docs/Public%20Records%20Request.docx",
+      "appraiser_receipt": "unconfirmed",
+      "count_result": null
+    },
+    {
+      "county": "Glades",
+      "request_id": "glp-c2-20261024-glades",
+      "queued_at": "2026-10-24T17:16:07.965595+00:00",
+      "provider_status": "queued",
+      "route": "appraiser office or official",
+      "official_route_source": "https://qpublic.net/fl/glades/contact.html",
+      "appraiser_receipt": "unconfirmed",
+      "count_result": null
+    },
+    {
+      "county": "Gulf",
+      "request_id": "glp-c2-20261024-gulf",
+      "queued_at": "2026-10-24T17:16:10.559568+00:00",
+      "provider_status": "queued",
+      "route": "appraiser office or official",
+      "official_route_source": "https://gulfpa.com/wp-content/uploads/sites/41/2020/04/Request-for-Release-of-Information.pdf",
+      "appraiser_receipt": "unconfirmed",
+      "count_result": null
+    },
+    {
+      "county": "Hamilton",
+      "request_id": "glp-c2-20261024-hamilton",
+      "queued_at": "2026-10-24T17:16:13.262750+00:00",
+      "provider_status": "queued",
+      "route": "appraiser office or official",
+      "official_route_source": "https://hamiltonpa.com/wp-content/uploads/sites/38/2025/07/FAQ-brochure.pdf",
+      "appraiser_receipt": "unconfirmed",
+      "count_result": null
+    },
+    {
+      "county": "Hardee",
+      "request_id": "glp-c2-20261024-hardee",
+      "queued_at": "2026-10-24T17:16:15.821327+00:00",
+      "provider_status": "queued",
+      "route": "appraiser office or official",
+      "official_route_source": "https://hardeepa.com/public-records-request/",
+      "appraiser_receipt": "unconfirmed",
+      "count_result": null
+    },
+    {
+      "county": "Hendry",
+      "request_id": "glp-c2-20261024-hendry",
+      "queued_at": "2026-10-24T17:35:14.733382+00:00",
+      "provider_status": "queued",
+      "route": "appraiser office or official",
+      "official_route_source": "https://hendryprop.com/wp-content/uploads/sites/54/2021/02/ADA_PA_WebsiteAccessibility.pdf",
+      "appraiser_receipt": "unconfirmed",
+      "count_result": null
+    },
+    {
+      "county": "Hernando",
+      "request_id": "glp-c2-20261024-hernando",
+      "queued_at": "2026-10-24T17:16:18.319285+00:00",
+      "provider_status": "queued",
+      "route": "appraiser office or official",
+      "official_route_source": "https://hernandocountypa-florida.us/PublicRecords",
+      "appraiser_receipt": "unconfirmed",
+      "count_result": null
+    },
+    {
+      "county": "Highlands",
+      "request_id": "glp-c2-20261024-highlands",
+      "queued_at": "2026-10-24T17:16:20.912800+00:00",
+      "provider_status": "queued",
+      "route": "appraiser office or official",
+      "official_route_source": "https://www.hcpao.org/About/Forms",
+      "appraiser_receipt": "unconfirmed",
+      "count_result": null
+    },
+    {
+      "county": "Hillsborough",
+      "request_id": "glp-c2-20261024-hillsborough",
+      "queued_at": "2026-10-24T17:16:23.389054+00:00",
+      "provider_status": "queued",
+      "route": "appraiser office or official",
+      "official_route_source": "https://www.hcpafl.org/Portals/HCPAFL/RecordsCustodianforHCPA_Marilyn.pdf?ver=2023-04-29-105106-420",
+      "appraiser_receipt": "unconfirmed",
+      "count_result": null
+    },
+    {
+      "county": "Holmes",
+      "request_id": "glp-c2-20261024-holmes",
+      "queued_at": "2026-10-24T17:16:26.015411+00:00",
+      "provider_status": "queued",
+      "route": "appraiser office or official",
+      "official_route_source": "https://www.qpublic.net/fl/holmes/",
+      "appraiser_receipt": "unconfirmed",
+      "count_result": null
+    },
+    {
+      "county": "Indian River",
+      "request_id": "glp-c2-20261024-indian-river",
+      "queued_at": "2026-10-24T17:16:28.692745+00:00",
+      "provider_status": "queued",
+      "route": "appraiser office or official",
+      "official_route_source": "https://www.ircpa.org/media/14214/website-request-public-record-information.pdf",
+      "appraiser_receipt": "unconfirmed",
+      "count_result": null
+    },
+    {
+      "county": "Jackson",
+      "request_id": "glp-c2-20261024-jackson",
+      "queued_at": "2026-10-24T17:20:46.072098+00:00",
+      "provider_status": "queued",
+      "route": "appraiser office or official",
+      "official_route_source": "https://jacksonpa.com/wp-content/uploads/sites/86/2025/10/2025-FINAL-MILLAGE-SHEET.pdf",
+      "appraiser_receipt": "unconfirmed",
+      "count_result": null
+    },
+    {
+      "county": "Jefferson",
+      "request_id": "glp-c2-20261024-jefferson",
+      "queued_at": "2026-10-24T17:20:48.672620+00:00",
+      "provider_status": "queued",
+      "route": "appraiser office or official",
+      "official_route_source": "https://jeffersonpa.net/wp-content/uploads/sites/6/2025/11/Press-Release-Property-Tax-Legislation-for-2026.pdf",
+      "appraiser_receipt": "unconfirmed",
+      "count_result": null
+    },
+    {
+      "county": "Lafayette",
+      "request_id": "glp-c2-20261024-lafayette",
+      "queued_at": "2026-10-24T17:16:31.206869+00:00",
+      "provider_status": "queued",
+      "route": "appraiser office or official",
+      "official_route_source": "https://www.lafayettepa.com/Records_Request/",
+      "appraiser_receipt": "unconfirmed",
+      "count_result": null
+    },
+    {
+      "county": "Lake",
+      "request_id": "glp-c2-20261024-lake",
+      "queued_at": "2026-10-24T17:35:23.523356+00:00",
+      "provider_status": "queued",
+      "route": "appraiser office or official",
+      "official_route_source": "https://www.lakecopropappr.com/pdfs/2025/Request_For_Forms/Request_for_Exemption_From_Public_Records_Disclosure_ADA.pdf",
+      "appraiser_receipt": "unconfirmed",
+      "count_result": null
+    },
+    {
+      "county": "Lee",
+      "request_id": "glp-c2-20261024-lee",
+      "queued_at": "2026-10-24T17:16:33.679879+00:00",
+      "provider_status": "queued",
+      "route": "appraiser office or official",
+      "official_route_source": "https://www.leepa.org/PublicRecordRequest.aspx",
+      "appraiser_receipt": "unconfirmed",
+      "count_result": null
+    },
+    {
+      "county": "Leon",
+      "request_id": "glp-c2-20261024-leon",
+      "queued_at": "2026-10-24T17:16:36.208205+00:00",
+      "provider_status": "queued",
+      "route": "appraiser office or official",
+      "official_route_source": "https://www.leonpa.gov/Contact-Us",
+      "appraiser_receipt": "unconfirmed",
+      "count_result": null
+    },
+    {
+      "county": "Levy",
+      "request_id": "glp-c2-20261024-levy",
+      "queued_at": "2026-10-24T17:16:38.573997+00:00",
+      "provider_status": "queued",
+      "route": "appraiser office or official",
+      "official_route_source": "https://www.qpublic.net/fl/levy/contact.html",
+      "appraiser_receipt": "unconfirmed",
+      "count_result": null
+    },
+    {
+      "county": "Liberty",
+      "request_id": "glp-c2-20261024-liberty",
+      "queued_at": "2026-10-24T17:20:54.074099+00:00",
+      "provider_status": "queued",
+      "route": "appraiser office or official",
+      "official_route_source": "https://libertypa.org/contact-us/",
+      "appraiser_receipt": "unconfirmed",
+      "count_result": null
+    },
+    {
+      "county": "Madison",
+      "request_id": "glp-c2-20261024-madison",
+      "queued_at": "2026-10-24T17:35:18.566578+00:00",
+      "provider_status": "queued",
+      "route": "appraiser office or official",
+      "official_route_source": "https://madisonpa.com/wp-content/uploads/sites/7/2024/12/Agriculture-Guidelines.pdf",
+      "appraiser_receipt": "unconfirmed",
+      "count_result": null
+    },
+    {
+      "county": "Manatee",
+      "request_id": "glp-c2-20261024-manatee",
+      "queued_at": "2026-10-24T17:16:41.237200+00:00",
+      "provider_status": "queued",
+      "route": "appraiser office or official",
+      "official_route_source": "https://www.manateepao.gov/public-records/",
+      "appraiser_receipt": "unconfirmed",
+      "count_result": null
+    },
+    {
+      "county": "Marion",
+      "request_id": "glp-c2-20261024-marion",
+      "queued_at": "2026-10-24T17:16:43.894594+00:00",
+      "provider_status": "queued",
+      "route": "appraiser office or official",
+      "official_route_source": "https://www.pa.marion.fl.us/PublicRecordsRequest.aspx",
+      "appraiser_receipt": "unconfirmed",
+      "count_result": null
+    },
+    {
+      "county": "Martin",
+      "request_id": "glp-c2-20261024-martin",
+      "queued_at": "2026-10-24T17:16:46.556449+00:00",
+      "provider_status": "queued",
+      "route": "appraiser office or official",
+      "official_route_source": "https://www.pamartinfl.gov/",
+      "appraiser_receipt": "unconfirmed",
+      "count_result": null
+    },
+    {
+      "county": "Miami-Dade",
+      "request_id": "glp-c2-20261024-miami-dade",
+      "queued_at": "2026-10-24T17:16:49.815704+00:00",
+      "provider_status": "queued",
+      "route": "appraiser office or official",
+      "official_route_source": "https://www.miamidadepa.gov/pa/contact/public-records-requests.page",
+      "appraiser_receipt": "unconfirmed",
+      "count_result": null
+    },
+    {
+      "county": "Monroe",
+      "request_id": "glp-c2-20261024-monroe",
+      "queued_at": "2026-10-24T17:20:37.006971+00:00",
+      "provider_status": "queued",
+      "route": "appraiser office or official",
+      "official_route_source": "https://www.mcpafl.org/general-information/public-records-request/",
+      "appraiser_receipt": "unconfirmed",
+      "count_result": null
+    },
+    {
+      "county": "Nassau",
+      "request_id": "glp-c2-20261024-nassau",
+      "queued_at": "2026-10-24T17:16:52.202403+00:00",
+      "provider_status": "queued",
+      "route": "appraiser office or official",
+      "official_route_source": "https://ncpafl.com/wp-content/uploads/2024/12/Public-Info-Request-1.pdf",
+      "appraiser_receipt": "unconfirmed",
+      "count_result": null
+    },
+    {
+      "county": "Okaloosa",
+      "request_id": "glp-c2-20261024-okaloosa",
+      "queued_at": "2026-10-24T17:20:40.087047+00:00",
+      "provider_status": "queued",
+      "route": "appraiser office or official",
+      "official_route_source": "https://www.okaloosapa.com/public-records-request/",
+      "appraiser_receipt": "unconfirmed",
+      "count_result": null
+    },
+    {
+      "county": "Okeechobee",
+      "request_id": "glp-c2-20261024-okeechobee",
+      "queued_at": "2026-10-24T17:16:54.932334+00:00",
+      "provider_status": "queued",
+      "route": "appraiser office or official",
+      "official_route_source": "https://www.okeechobeepa.com/public-records-request/",
+      "appraiser_receipt": "unconfirmed",
+      "count_result": null
+    },
+    {
+      "county": "Orange",
+      "request_id": "glp-c2-20261024-orange",
+      "queued_at": "2026-10-24T17:16:58.288846+00:00",
+      "provider_status": "queued",
+      "route": "appraiser office or official",
+      "official_route_source": "https://ocpaimages.ocpafl.org/api/Content/GetContentDynamicFile?contentFileID=414457",
+      "appraiser_receipt": "unconfirmed",
+      "count_result": null
+    },
+    {
+      "county": "Osceola",
+      "request_id": "glp-c2-20261024-osceola",
+      "queued_at": "2026-10-24T17:17:00.941880+00:00",
+      "provider_status": "queued",
+      "route": "appraiser office or official",
+      "official_route_source": "https://www.property-appraiser.org/wp-content/uploads/2021/10/Request-to-Release-Information-or-Remove-Confidential-Status-by-Owner.pdf",
+      "appraiser_receipt": "unconfirmed",
+      "count_result": null
+    },
+    {
+      "county": "Palm Beach",
+      "request_id": "glp-c2-20261024-palm-beach",
+      "queued_at": "2026-10-24T17:17:03.450164+00:00",
+      "provider_status": "queued",
+      "route": "appraiser office or official",
+      "official_route_source": "https://pbcpao.gov/public-records-requests.htm",
+      "appraiser_receipt": "unconfirmed",
+      "count_result": null
+    },
+    {
+      "county": "Pasco",
+      "request_id": "glp-c2-20261024-pasco",
+      "queued_at": "2026-10-24T17:17:06.068460+00:00",
+      "provider_status": "queued",
+      "route": "appraiser office or official",
+      "official_route_source": "https://pascopa.com/meet-your-appraiser/public-records-request/",
+      "appraiser_receipt": "unconfirmed",
+      "count_result": null
+    },
+    {
+      "county": "Pinellas",
+      "request_id": "glp-c2-20261024-pinellas",
+      "queued_at": "2026-10-24T17:38:24.794367+00:00",
+      "provider_status": "queued",
+      "route": "other county office, forwarding requested",
+      "official_route_source": "https://pinellas.gov/county-administrator",
+      "appraiser_receipt": "unconfirmed",
+      "count_result": null
+    },
+    {
+      "county": "Polk",
+      "request_id": "glp-c2-20261024-polk",
+      "queued_at": "2026-10-24T17:17:08.940577+00:00",
+      "provider_status": "queued",
+      "route": "appraiser office or official",
+      "official_route_source": "https://polkpa.org/Downloads/Files/PCPA_Public_Records.pdf",
+      "appraiser_receipt": "unconfirmed",
+      "count_result": null
+    },
+    {
+      "county": "Putnam",
+      "request_id": "glp-c2-20261024-putnam",
+      "queued_at": "2026-10-24T17:17:11.232505+00:00",
+      "provider_status": "queued",
+      "route": "appraiser office or official",
+      "official_route_source": "https://pa.putnam-fl.com/contact-information",
+      "appraiser_receipt": "unconfirmed",
+      "count_result": null
+    },
+    {
+      "county": "Santa Rosa",
+      "request_id": "glp-c2-20261024-santa-rosa",
+      "queued_at": "2026-10-24T17:17:13.422651+00:00",
+      "provider_status": "queued",
+      "route": "appraiser office or official",
+      "official_route_source": "https://srcpa.gov/public-records-request/",
+      "appraiser_receipt": "unconfirmed",
+      "count_result": null
+    },
+    {
+      "county": "Sarasota",
+      "request_id": "glp-c2-20261024-sarasota",
+      "queued_at": "2026-10-24T17:17:16.251049+00:00",
+      "provider_status": "queued",
+      "route": "appraiser office or official",
+      "official_route_source": "https://www.sarasotapropertyappraiser.gov/contact-us/notice-of-address-issue-from-usps/",
+      "appraiser_receipt": "unconfirmed",
+      "count_result": null
+    },
+    {
+      "county": "Seminole",
+      "request_id": "glp-c2-20261024-seminole",
+      "queued_at": "2026-10-24T17:38:32.495616+00:00",
+      "provider_status": "queued",
+      "route": "other county office, forwarding requested",
+      "official_route_source": "https://www.seminolecountyfl.gov/departments-services/county-managers-office/public-records-request",
+      "appraiser_receipt": "unconfirmed",
+      "count_result": null
+    },
+    {
+      "county": "St. Johns",
+      "request_id": "glp-c2-20261024-st-johns",
+      "queued_at": "2026-10-24T17:17:18.746499+00:00",
+      "provider_status": "queued",
+      "route": "appraiser office or official",
+      "official_route_source": "https://www.sjcpa.gov/contact/",
+      "appraiser_receipt": "unconfirmed",
+      "count_result": null
+    },
+    {
+      "county": "St. Lucie",
+      "request_id": "glp-c2-20261024-st-lucie",
+      "queued_at": "2026-10-24T17:17:21.478787+00:00",
+      "provider_status": "queued",
+      "route": "appraiser office or official",
+      "official_route_source": "https://www.paslc.gov/230/Public-Records-Request",
+      "appraiser_receipt": "unconfirmed",
+      "count_result": null
+    },
+    {
+      "county": "Sumter",
+      "request_id": "glp-c2-20261024-sumter",
+      "queued_at": "2026-10-24T17:17:23.946898+00:00",
+      "provider_status": "queued",
+      "route": "appraiser office or official",
+      "official_route_source": "https://www.sumterpa.com/wp-content/uploads/2024/05/Public-Records-Request-General-Posting-for-public-display-and-for-website2.0.pdf",
+      "appraiser_receipt": "unconfirmed",
+      "count_result": null
+    },
+    {
+      "county": "Suwannee",
+      "request_id": "glp-c2-20261024-suwannee",
+      "queued_at": "2026-10-24T17:17:26.201565+00:00",
+      "provider_status": "queued",
+      "route": "appraiser office or official",
+      "official_route_source": "https://www.suwanneepa.com/Records_Request/",
+      "appraiser_receipt": "unconfirmed",
+      "count_result": null
+    },
+    {
+      "county": "Taylor",
+      "request_id": "glp-c2-20261024-taylor",
+      "queued_at": "2026-10-24T17:17:29.450144+00:00",
+      "provider_status": "queued",
+      "route": "appraiser office or official",
+      "official_route_source": "https://qpublic.net/fl/taylor/contact.html",
+      "appraiser_receipt": "unconfirmed",
+      "count_result": null
+    },
+    {
+      "county": "Union",
+      "request_id": "glp-c2-20261024-union",
+      "queued_at": "2026-10-24T17:17:32.045434+00:00",
+      "provider_status": "queued",
+      "route": "appraiser office or official",
+      "official_route_source": "https://union.floridapa.com/Records_Request/",
+      "appraiser_receipt": "unconfirmed",
+      "count_result": null
+    },
+    {
+      "county": "Volusia",
+      "request_id": "glp-c2-20261024-volusia",
+      "queued_at": "2026-10-24T17:17:34.911329+00:00",
+      "provider_status": "queued",
+      "route": "appraiser office or official",
+      "official_route_source": "https://vcpa.vcgov.org/info/contact",
+      "appraiser_receipt": "unconfirmed",
+      "count_result": null
+    },
+    {
+      "county": "Wakulla",
+      "request_id": "glp-c2-20261024-wakulla",
+      "queued_at": "2026-10-24T17:17:38.431465+00:00",
+      "provider_status": "queued",
+      "route": "appraiser office or official",
+      "official_route_source": "https://mywakullapa.com/wp-content/uploads/sites/64/2025/06/PA-119-Wakulla-Confidentiality-Request.pdf",
+      "appraiser_receipt": "unconfirmed",
+      "count_result": null
+    },
+    {
+      "county": "Walton",
+      "request_id": "glp-c2-20261024-walton",
+      "queued_at": "2026-10-24T17:20:51.517823+00:00",
+      "provider_status": "queued",
+      "route": "appraiser office or official",
+      "official_route_source": "https://waltonpa.com/wp-content/uploads/sites/52/2026/01/Split-Combine-Application.pdf",
+      "appraiser_receipt": "unconfirmed",
+      "count_result": null
+    },
+    {
+      "county": "Washington",
+      "request_id": "glp-c2-20261024-washington",
+      "queued_at": "2026-10-24T17:32:20.570500+00:00",
+      "provider_status": "queued",
+      "route": "appraiser office or official",
+      "official_route_source": "https://www.qpublic.net/fl/washington/docs/2026_2027BudgetSummary.pdf",
+      "appraiser_receipt": "unconfirmed",
+      "count_result": null
+    }
+  ]
+}

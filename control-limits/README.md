@@ -1,7 +1,5 @@
 # Limits of search removal, DROP and freezes
 
-Published source compilation. See the root repository and source website for edition status.
-
 Scope. Five documented effects and limits of the named official controls.
 
 Version 1.0. Verified 2026-10-24.
@@ -11,10 +9,8 @@ Source downloads.
 - https://golowprofile.com/data/control-limits.json
 - https://golowprofile.com/data/control-limits.csv
 
-Cite Go Low Profile, the dataset title, version, verification date and source URL. Retain the stated limits and identify your changes.
+Cite Go Low Profile, the dataset title, version, verification date and source URL. Retain all stated limitations, failed-validation notices and unresolved fields. Identify changes.
 
-The original compilation is CC BY 4.0. Underlying sources retain their own rights. No owner, parcel or personal consumer data is included.
+Original compilation licensed under CC BY 4.0. Underlying sources retain their rights. No owner names, addresses, parcel or personal consumer records are included.
 
-Method. Compile the cited primary sources within the edition scope. Preserve field citations, check dates and unresolved cells. Company procedure entries do not claim a personal request test.
-
-Changelog. The accompanying JSON contains the dated edition changelog. The Standard uses the version history on its source page.
+Method and changelog appear in the JSON and source website. Consumer procedure entries do not claim a completed personal request.

@@ -14,3 +14,5 @@ No owner, parcel, address, private research evidence, credentials or customer re
 - [Methodology](https://golowprofile.com/methodology)
 - [Corrections](https://golowprofile.com/corrections)
 - [Source changes](https://golowprofile.com/reference/changes)
+
+Preliminary 2026 Florida title-string counts are included. Classification validation failed. These algorithm outputs are not verified ownership, beneficial-owner or buyer statistics. The county request-status log reports provider queues, not agency receipt or confidential-parcel counts.
