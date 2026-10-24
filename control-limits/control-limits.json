@@ -1,0 +1,101 @@
+{
+ "id": "control-limits",
+ "name": "Limits of search removal, DROP and freezes",
+ "description": "Specific documented control limits. No universal claim about all subscription services.",
+ "scope": "Five documented effects and limits of the named official controls.",
+ "version": "1.0",
+ "published": "2026-10-24",
+ "verified": "2026-10-24",
+ "update_policy": "Check the named control instructions quarterly.",
+ "columns": [
+  {
+   "key": "record_type",
+   "label": "Record or access"
+  },
+  {
+   "key": "control",
+   "label": "Control"
+  },
+  {
+   "key": "effect",
+   "label": "Documented effect"
+  },
+  {
+   "key": "next_step",
+   "label": "Next step"
+  },
+  {
+   "key": "limit",
+   "label": "Limit"
+  }
+ ],
+ "changelog": [
+  {
+   "date": "2026-10-24",
+   "change": "First scoped edition from official control instructions."
+  }
+ ],
+ "license": "https://creativecommons.org/licenses/by/4.0/",
+ "rows": [
+  {
+   "id": "drop-public-records",
+   "record_type": "Publicly available source records",
+   "control": "DROP",
+   "effect": "DROP excludes publicly available data from its deletion process.",
+   "next_step": "Use the record-holding office's official correction or protection procedure where one exists.",
+   "limit": "GLP cannot promise removal or decide a legal entitlement.",
+   "source": "CalPrivacy, How DROP works",
+   "url": "https://privacy.ca.gov/drop/how-drop-works/",
+   "checked_on": "2026-10-24",
+   "field_citations": {}
+  },
+  {
+   "id": "drop-first-party",
+   "record_type": "Information provided directly to a business",
+   "control": "DROP",
+   "effect": "The business is not required to delete first-party data based on the DROP request.",
+   "next_step": "Use that business's own privacy request route.",
+   "limit": "The applicable law and business's obligations can differ.",
+   "source": "CalPrivacy, How DROP works",
+   "url": "https://privacy.ca.gov/drop/how-drop-works/",
+   "checked_on": "2026-10-24",
+   "field_citations": {}
+  },
+  {
+   "id": "google-search-source",
+   "record_type": "A webpage removed from Google Search",
+   "control": "Google Results about you",
+   "effect": "Search removal does not remove the information from its source webpage.",
+   "next_step": "Contact the source website owner through its official route.",
+   "limit": "Google may deny requests for information valuable to the public.",
+   "source": "Google Search Help, Results about you",
+   "url": "https://support.google.com/websearch/answer/12719076?hl=en",
+   "checked_on": "2026-10-24",
+   "field_citations": {}
+  },
+  {
+   "id": "credit-freeze-access",
+   "record_type": "Credit report access",
+   "control": "A credit freeze",
+   "effect": "A freeze restricts access to the credit report. It is an access control, not evidence that source records were deleted.",
+   "next_step": "Manage each company's freeze separately and lift it when access is needed.",
+   "limit": "The statement about deletion is a logical distinction, not a claim that a particular record was deleted.",
+   "source": "USAGov, How to place or lift a security freeze",
+   "url": "https://www.usa.gov/credit-freeze",
+   "checked_on": "2026-10-24",
+   "field_citations": {}
+  },
+  {
+   "id": "lexis-existing-accounts",
+   "record_type": "Existing account review or collection",
+   "control": "LexisNexis security freeze",
+   "effect": "The published freeze does not block every permitted existing-account request.",
+   "next_step": "Read the company's current exceptions before relying on a freeze.",
+   "limit": "This does not establish every company's exemptions.",
+   "source": "LexisNexis security freeze instructions",
+   "url": "https://consumer.risk.lexisnexis.com/freeze",
+   "checked_on": "2026-10-24",
+   "field_citations": {}
+  }
+ ]
+}

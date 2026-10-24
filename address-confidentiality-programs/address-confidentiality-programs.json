@@ -1,0 +1,4384 @@
+{
+ "id": "address-confidentiality-programs",
+ "name": "Address confidentiality program research for 50 states and the District of Columbia",
+ "description": "Dated official program routes, administration and application categories. Record-specific findings retain their own conditions. Blank cells do not establish the absence of protection.",
+ "scope": "All 50 states and DC. Official programs, limited-record programs, enacted-but-unconfirmed operations, and bounded no-program findings. Specific record coverage is included only where the cited material establishes it.",
+ "version": "1.2",
+ "published": "2026-10-24",
+ "verified": "2026-10-24",
+ "update_policy": "Recheck official program routes and statutes quarterly and after legislative or departmental changes. Never infer specific record protection from general address substitution. Preserve dated count measures and unresolved gaps.",
+ "columns": [
+  {
+   "key": "state",
+   "label": "Jurisdiction"
+  },
+  {
+   "key": "program_name",
+   "label": "Program"
+  },
+  {
+   "key": "program_status",
+   "label": "Program status"
+  },
+  {
+   "key": "administering_office",
+   "label": "Administering office"
+  },
+  {
+   "key": "eligibility",
+   "label": "Statutory or published categories"
+  },
+  {
+   "key": "how_to_apply",
+   "label": "Application route"
+  },
+  {
+   "key": "substitute_address",
+   "label": "Substitute address"
+  },
+  {
+   "key": "record_voter",
+   "label": "Voter records"
+  },
+  {
+   "key": "record_driver_license",
+   "label": "Driver records"
+  },
+  {
+   "key": "record_school",
+   "label": "School records"
+  },
+  {
+   "key": "record_vital",
+   "label": "Vital records"
+  },
+  {
+   "key": "real_property_records",
+   "label": "Real property records"
+  },
+  {
+   "key": "property_limit",
+   "label": "Property limit"
+  },
+  {
+   "key": "participant_count",
+   "label": "Official participant count"
+  },
+  {
+   "key": "participant_count_as_of",
+   "label": "Count observation date"
+  },
+  {
+   "key": "statute",
+   "label": "Statute or legal reference"
+  },
+  {
+   "key": "program_url",
+   "label": "Official program or law route"
+  }
+ ],
+ "changelog": [
+  {
+   "date": "2026-10-24",
+   "change": "Completed research coverage of all 51 jurisdictions. Reconciled administrator and application passages, removed overbroad record claims, preserved field gaps, and corrected Florida administration and current eligibility changes."
+  },
+  {
+   "date": "2026-10-24",
+   "change": "Completed 51-jurisdiction administration and application review. Corrected administrator and procedure mismatches. Record-specific limits and unresolved cells remain explicit."
+  },
+  {
+   "date": "2026-10-24",
+   "change": "Completed bounded review of all 158 remaining record cells. Added 27 specifically supported findings and corrected Nebraska categories. The 131 remaining cells retain explicit review or access limits."
+  }
+ ],
+ "license": "https://creativecommons.org/licenses/by/4.0/",
+ "rows": [
+  {
+   "id": "alabama",
+   "state": "Alabama",
+   "program_name": "Domestic Violence Voter Affirmation",
+   "program_status": "Limited voter record confidentiality",
+   "administering_office": "County Board of Registrars",
+   "eligibility": "registered voters who are or have been victims of domestic violence; registered voters with legal custody of a minor victim; registered voters protected by a qualifying domestic violence order",
+   "how_to_apply": "Return the completed affirmation to the county Board of Registrars.",
+   "substitute_address": "The published affirmation omits addresses from public voter lists. It describes no substitute-address service.",
+   "record_voter": "The affirmation requests omission of residential and mailing addresses from publicly available voter lists.",
+   "record_driver_license": "",
+   "record_school": "",
+   "record_vital": "",
+   "real_property_records": "",
+   "property_limit": "",
+   "participant_count": "",
+   "participant_count_as_of": "",
+   "statute": "Code of Alabama 1975, Section 17-4-33(b).",
+   "program_url": "https://www.sos.alabama.gov/alabama-votes/voter/register-to-vote",
+   "source": "www.sos.alabama.gov official text",
+   "url": "https://www.sos.alabama.gov/sites/default/files/voter-pdfs/Domestic_Violence_Affidavit.pdf",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "program_scope": [
+     {
+      "source": "www.sos.alabama.gov official text",
+      "url": "https://www.sos.alabama.gov/sites/default/files/voter-pdfs/Domestic_Violence_Affidavit.pdf"
+     }
+    ],
+    "eligibility": [
+     {
+      "source": "www.sos.alabama.gov official text",
+      "url": "https://www.sos.alabama.gov/sites/default/files/voter-pdfs/Domestic_Violence_Affidavit.pdf"
+     }
+    ],
+    "statute": [
+     {
+      "source": "www.sos.alabama.gov official text",
+      "url": "https://www.sos.alabama.gov/sites/default/files/voter-pdfs/Domestic_Violence_Affidavit.pdf"
+     }
+    ],
+    "substitute_address": [
+     {
+      "source": "www.sos.alabama.gov official text",
+      "url": "https://www.sos.alabama.gov/sites/default/files/voter-pdfs/Domestic_Violence_Affidavit.pdf"
+     }
+    ],
+    "administering_office": [
+     {
+      "source": "www.sos.alabama.gov official text",
+      "url": "https://www.sos.alabama.gov/sites/default/files/voter-pdfs/Domestic_Violence_Affidavit.pdf"
+     }
+    ],
+    "how_to_apply": [
+     {
+      "source": "www.sos.alabama.gov official text",
+      "url": "https://www.sos.alabama.gov/sites/default/files/voter-pdfs/Domestic_Violence_Affidavit.pdf"
+     }
+    ],
+    "program_status": [
+     {
+      "source": "www.sos.alabama.gov official text",
+      "url": "https://www.sos.alabama.gov/sites/default/files/voter-pdfs/Domestic_Violence_Affidavit.pdf"
+     }
+    ],
+    "record_voter": [
+     {
+      "source": "www.sos.alabama.gov official text",
+      "url": "https://www.sos.alabama.gov/sites/default/files/voter-pdfs/Domestic_Violence_Affidavit.pdf"
+     }
+    ]
+   }
+  },
+  {
+   "id": "alaska",
+   "state": "Alaska",
+   "program_name": "Address Confidentiality Program",
+   "program_status": "Established operational enrollment not confirmed",
+   "administering_office": "Department of Administration",
+   "eligibility": "victims of domestic violence, stalking or sexual assault with a protective order or other departmental standards; guardians of minors with protective orders; peace officers; correctional officers; enrolled participants' household members; statutory registration exclusion applies",
+   "how_to_apply": "The enacted law requires enrollment regulations. An operational public application route was not confirmed.",
+   "substitute_address": "The enacted law requires a substitute post office box and mail forwarding.",
+   "record_voter": "",
+   "record_driver_license": "",
+   "record_school": "",
+   "record_vital": "",
+   "real_property_records": "",
+   "property_limit": "",
+   "participant_count": "",
+   "participant_count_as_of": "",
+   "statute": "AS 44.21.022, enacted by Section 75 of Chapter 9 SLA 2026 (HB 239).",
+   "program_url": "https://www.akleg.gov/basis/Bill/Detail/34?Root=HB239",
+   "source": "www.akleg.gov official text",
+   "url": "https://www.akleg.gov/basis/Bill/Text/34?Hsid=HB0239Z",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "program_scope": [
+     {
+      "source": "www.akleg.gov official text",
+      "url": "https://www.akleg.gov/basis/Bill/Text/34?Hsid=HB0239Z"
+     }
+    ],
+    "eligibility": [
+     {
+      "source": "www.akleg.gov official text",
+      "url": "https://www.akleg.gov/basis/Bill/Text/34?Hsid=HB0239Z"
+     }
+    ],
+    "substitute_address": [
+     {
+      "source": "www.akleg.gov official text",
+      "url": "https://www.akleg.gov/basis/Bill/Text/34?Hsid=HB0239Z"
+     }
+    ],
+    "statute": [
+     {
+      "source": "www.akleg.gov official text",
+      "url": "https://www.akleg.gov/basis/Bill/Text/34?Hsid=HB0239Z"
+     }
+    ],
+    "administering_office": [
+     {
+      "source": "www.akleg.gov official text",
+      "url": "https://www.akleg.gov/basis/Bill/Text/34?Hsid=HB0239Z"
+     },
+     {
+      "source": "www.akleg.gov official text",
+      "url": "https://www.akleg.gov/basis/Bill/Text/34?Hsid=HB0239Z"
+     }
+    ],
+    "how_to_apply": [
+     {
+      "source": "www.akleg.gov official text",
+      "url": "https://www.akleg.gov/basis/Bill/Text/34?Hsid=HB0239Z"
+     }
+    ],
+    "program_status": [
+     {
+      "source": "www.akleg.gov official text",
+      "url": "https://www.akleg.gov/basis/Bill/Text/34?Hsid=HB0239Z"
+     }
+    ]
+   }
+  },
+  {
+   "id": "arizona",
+   "state": "Arizona",
+   "program_name": "Address Confidentiality Program",
+   "program_status": "Operational official application route",
+   "administering_office": "Office of the Secretary of State",
+   "eligibility": "victims of domestic violence, sexual offenses, and/or stalking",
+   "how_to_apply": "Meet in person with a registered Application Assistant.",
+   "substitute_address": "The published program provides a substitute or designated address.",
+   "record_voter": "The Secretary of State secures the participant's voter record. Actual residence remains required for precinct designation.",
+   "record_driver_license": "A participant registering to vote at a driver examination facility while obtaining a license or ID must show the actual address on that credential. A participant whose license shows the substitute address may register through the separate protected process. This is a conditional rule, not a blanket license guarantee.",
+   "record_school": "Public schools must accept the substitute address and verify enrollment eligibility through the Secretary of State.",
+   "record_vital": "",
+   "real_property_records": "The substitute address cannot appear on recorded real-property documents. Recorder confidentiality requires the separate A.R.S. 11-483 procedure.",
+   "property_limit": "The substitute address cannot appear on recorded real-property documents. Recorder confidentiality requires the separate A.R.S. 11-483 procedure.",
+   "participant_count": "Over 3,000 active participants",
+   "participant_count_as_of": "2026-01-01",
+   "statute": "A.R.S. 41-161 through 41-169. Recorded-property confidentiality has separate procedures under 11-483 and 11-484.",
+   "program_url": "https://azsos.gov/services/acp",
+   "source": "azsos.gov official text",
+   "url": "https://azsos.gov/services/acp",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "eligibility": [
+     {
+      "source": "azsos.gov official text",
+      "url": "https://azsos.gov/services/acp"
+     }
+    ],
+    "program_scope": [
+     {
+      "source": "azsos.gov official text",
+      "url": "https://azsos.gov/services/acp"
+     }
+    ],
+    "substitute_address": [
+     {
+      "source": "azsos.gov official text",
+      "url": "https://azsos.gov/services/acp"
+     }
+    ],
+    "statute": [
+     {
+      "source": "azsos.gov official text",
+      "url": "https://azsos.gov/services/address-confidentiality-program/about-acp"
+     }
+    ],
+    "participant_count": [
+     {
+      "source": "azsos.gov official text",
+      "url": "https://azsos.gov/services/address-confidentiality-program/about-acp"
+     }
+    ],
+    "participant_count_as_of": [
+     {
+      "source": "azsos.gov official text",
+      "url": "https://azsos.gov/services/address-confidentiality-program/about-acp"
+     }
+    ],
+    "administering_office": [
+     {
+      "source": "azsos.gov official text",
+      "url": "https://azsos.gov/services/acp"
+     }
+    ],
+    "how_to_apply": [
+     {
+      "source": "azsos.gov official text",
+      "url": "https://azsos.gov/services/address-confidentiality-program/eligibility-enrollment"
+     }
+    ],
+    "real_property_records": [
+     {
+      "source": "www.azleg.gov official text",
+      "url": "https://www.azleg.gov/ars/41/00166.htm"
+     }
+    ],
+    "property_limit": [
+     {
+      "source": "www.azleg.gov official text",
+      "url": "https://www.azleg.gov/ars/41/00166.htm"
+     }
+    ],
+    "program_status": [
+     {
+      "source": "azsos.gov official text",
+      "url": "https://azsos.gov/services/acp"
+     }
+    ],
+    "record_voter": [
+     {
+      "source": "www.azleg.gov official text",
+      "url": "https://www.azleg.gov/ars/41/00166.htm"
+     }
+    ],
+    "record_school": [
+     {
+      "source": "www.azleg.gov official text",
+      "url": "https://www.azleg.gov/ars/41/00166.htm"
+     }
+    ],
+    "record_driver_license": [
+     {
+      "source": "www.azleg.gov official text",
+      "url": "https://www.azleg.gov/ars/41/00166.htm"
+     }
+    ]
+   }
+  },
+  {
+   "id": "arkansas",
+   "state": "Arkansas",
+   "program_name": "Address Confidentiality Program, driver-license route",
+   "program_status": "Limited driver license confidentiality",
+   "administering_office": "Department of Finance and Administration, Office of Driver Services",
+   "eligibility": "Victims of domestic violence or their dependents who meet the protective-order, affidavit, and participation requirements in the published DFA affidavit.",
+   "how_to_apply": "DFA lists an ACP information sheet and affidavit under Driver License Issuance.",
+   "substitute_address": "The published ACP affidavit displays a post-office-box address on the driver's license or ID and requests the actual residential street address.",
+   "record_voter": "",
+   "record_driver_license": "The published affidavit provides a post-office-box address on a driver's license or identification card after the listed conditions are met.",
+   "record_school": "",
+   "record_vital": "",
+   "real_property_records": "",
+   "property_limit": "",
+   "participant_count": "",
+   "participant_count_as_of": "",
+   "statute": "Ark. Code Ann. 27-16-811, as cited in the current published ACP affidavit.",
+   "program_url": "https://www.dfa.arkansas.gov/office/driver-services/driver-services-forms/",
+   "source": "www.dfa.arkansas.gov official text",
+   "url": "https://www.dfa.arkansas.gov/wp-content/uploads/ACP_Affidavit-2.pdf",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "program_scope": [
+     {
+      "source": "www.dfa.arkansas.gov official text",
+      "url": "https://www.dfa.arkansas.gov/wp-content/uploads/ACP_Affidavit-2.pdf"
+     }
+    ],
+    "statute": [
+     {
+      "source": "www.dfa.arkansas.gov official text",
+      "url": "https://www.dfa.arkansas.gov/wp-content/uploads/ACP_Affidavit-2.pdf"
+     }
+    ],
+    "eligibility": [
+     {
+      "source": "www.dfa.arkansas.gov official text",
+      "url": "https://www.dfa.arkansas.gov/wp-content/uploads/ACP_Affidavit-2.pdf"
+     },
+     {
+      "source": "www.dfa.arkansas.gov official text",
+      "url": "https://www.dfa.arkansas.gov/wp-content/uploads/ACP_Affidavit-2.pdf"
+     }
+    ],
+    "substitute_address": [
+     {
+      "source": "www.dfa.arkansas.gov official text",
+      "url": "https://www.dfa.arkansas.gov/wp-content/uploads/ACP_Affidavit-2.pdf"
+     }
+    ],
+    "administering_office": [
+     {
+      "source": "www.dfa.arkansas.gov official text",
+      "url": "https://www.dfa.arkansas.gov/wp-content/uploads/ACP_Affidavit-2.pdf"
+     },
+     {
+      "source": "www.dfa.arkansas.gov official text",
+      "url": "https://www.dfa.arkansas.gov/wp-content/uploads/ACP_Affidavit-2.pdf"
+     }
+    ],
+    "how_to_apply": [
+     {
+      "source": "www.dfa.arkansas.gov official text",
+      "url": "https://www.dfa.arkansas.gov/office/driver-services/driver-services-forms/"
+     }
+    ],
+    "program_status": [
+     {
+      "source": "www.dfa.arkansas.gov official text",
+      "url": "https://www.dfa.arkansas.gov/wp-content/uploads/ACP_Affidavit-2.pdf"
+     }
+    ],
+    "record_driver_license": [
+     {
+      "source": "www.dfa.arkansas.gov official text",
+      "url": "https://www.dfa.arkansas.gov/wp-content/uploads/ACP_Affidavit-2.pdf"
+     }
+    ]
+   }
+  },
+  {
+   "id": "california",
+   "state": "California",
+   "program_name": "Safe at Home",
+   "program_status": "Operational official application route",
+   "administering_office": "California Secretary of State's Office",
+   "eligibility": "California residents in fear for their safety or the safety of a minor child or incapacitated adult. Published categories include victims of domestic violence, stalking, sexual assault, human trafficking, child abduction, and elder or dependent adult abuse; qualifying reproductive or gender-affirming healthcare providers, employees, patients, or volunteers; qualifying public-entity employees or contractors; and household members of those categories.",
+   "how_to_apply": "Meet in person with a victim assistance counselor at a designated enrolling agency.",
+   "substitute_address": "The published program provides a substitute or designated address.",
+   "record_voter": "Participants can register as confidential voters through the program's confidential voter registration route.",
+   "record_driver_license": "The program FAQ identifies DMV record suppression as an additional service available to participants.",
+   "record_school": "",
+   "record_vital": "The FAQ excludes fetal-death, death, birth, marriage, and divorce certificates from the general substitute-address service.",
+   "real_property_records": "Participants may request substitute-address replacement on deeds, ownership-change forms, and deeds of trust, subject to Government Code 6207(a)(1) exceptions.",
+   "property_limit": "Participants may request substitute-address replacement on deeds, ownership-change forms, and deeds of trust, subject to Government Code 6207(a)(1) exceptions.",
+   "participant_count": "",
+   "participant_count_as_of": "",
+   "statute": "California Government Code 6205-6210 and 6215-6216; property provision 6209.5(a).",
+   "program_url": "https://www.sos.ca.gov/registries/safe-home",
+   "source": "www.sos.ca.gov official text",
+   "url": "https://www.sos.ca.gov/registries/safe-home/frequently-asked-questions1/",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "eligibility": [
+     {
+      "source": "www.sos.ca.gov official text",
+      "url": "https://www.sos.ca.gov/registries/safe-home/applicants"
+     }
+    ],
+    "program_scope": [
+     {
+      "source": "www.sos.ca.gov official text",
+      "url": "https://www.sos.ca.gov/registries/safe-home/frequently-asked-questions1/"
+     }
+    ],
+    "substitute_address": [
+     {
+      "source": "www.sos.ca.gov official text",
+      "url": "https://www.sos.ca.gov/registries/safe-home/frequently-asked-questions1/"
+     }
+    ],
+    "statute": [
+     {
+      "source": "www.sos.ca.gov official text",
+      "url": "https://www.sos.ca.gov/registries/safe-home/governing-laws/"
+     }
+    ],
+    "administering_office": [
+     {
+      "source": "www.sos.ca.gov official text",
+      "url": "https://www.sos.ca.gov/registries/safe-home"
+     }
+    ],
+    "how_to_apply": [
+     {
+      "source": "www.sos.ca.gov official text",
+      "url": "https://www.sos.ca.gov/registries/safe-home/frequently-asked-questions"
+     }
+    ],
+    "real_property_records": [
+     {
+      "source": "www.sos.ca.gov official text",
+      "url": "https://www.sos.ca.gov/registries/safe-home/frequently-asked-questions1/"
+     }
+    ],
+    "property_limit": [
+     {
+      "source": "www.sos.ca.gov official text",
+      "url": "https://www.sos.ca.gov/registries/safe-home/frequently-asked-questions1/"
+     }
+    ],
+    "program_status": [
+     {
+      "source": "www.sos.ca.gov official text",
+      "url": "https://www.sos.ca.gov/registries/safe-home/frequently-asked-questions1/"
+     }
+    ],
+    "record_voter": [
+     {
+      "source": "www.sos.ca.gov official text",
+      "url": "https://www.sos.ca.gov/registries/safe-home"
+     }
+    ],
+    "record_driver_license": [
+     {
+      "source": "www.sos.ca.gov official text",
+      "url": "https://www.sos.ca.gov/registries/safe-home/frequently-asked-questions1/"
+     }
+    ],
+    "record_vital": [
+     {
+      "source": "www.sos.ca.gov official text",
+      "url": "https://www.sos.ca.gov/registries/safe-home/frequently-asked-questions1/"
+     }
+    ]
+   }
+  },
+  {
+   "id": "colorado",
+   "state": "Colorado",
+   "program_name": "Address Confidentiality Program",
+   "program_status": "Operational official application route",
+   "administering_office": "Department of Personnel",
+   "eligibility": "Protected healthcare workers and survivors of stalking/harassment, sexual assault, human trafficking, and domestic violence.",
+   "how_to_apply": "Apply on the recommendation of an Application Assistant.",
+   "substitute_address": "The published program provides a substitute or designated address.",
+   "record_voter": "Election officials use the confidential actual address for precinct and election purposes, and the substitute address for mail. The substitute is not the voter registration address.",
+   "record_driver_license": "",
+   "record_school": "School districts must accept the substitute address of record and verify enrollment eligibility through the executive director.",
+   "record_vital": "",
+   "real_property_records": "The substitute address cannot be used on real-property documents recorded with a county clerk and recorder.",
+   "property_limit": "The statute excludes substitute-address use for property taxes and recorded real-property documents. A separate provision allows a written request restricting government internet disclosure of the participant's personal information or actual address after the required process.",
+   "participant_count": "",
+   "participant_count_as_of": "",
+   "statute": "C.R.S. 24-30-2104 and 24-30-2108, within the address confidentiality program provisions of Title 24, Article 30, Part 21.",
+   "program_url": "https://dcs.colorado.gov/acp",
+   "source": "dcs.colorado.gov official text",
+   "url": "https://dcs.colorado.gov/acp",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "eligibility": [
+     {
+      "source": "dcs.colorado.gov official text",
+      "url": "https://dcs.colorado.gov/acp"
+     }
+    ],
+    "program_scope": [
+     {
+      "source": "dcs.colorado.gov official text",
+      "url": "https://dcs.colorado.gov/acp"
+     }
+    ],
+    "substitute_address": [
+     {
+      "source": "dcs.colorado.gov official text",
+      "url": "https://dcs.colorado.gov/acp"
+     }
+    ],
+    "statute": [
+     {
+      "source": "olls.info official text",
+      "url": "https://olls.info/crs/crs2026-title-24.htm"
+     },
+     {
+      "source": "olls.info official text",
+      "url": "https://olls.info/crs/crs2026-title-24.htm"
+     }
+    ],
+    "administering_office": [
+     {
+      "source": "olls.info official text",
+      "url": "https://olls.info/crs/crs2026-title-24.htm"
+     },
+     {
+      "source": "olls.info official text",
+      "url": "https://olls.info/crs/crs2026-title-24.htm"
+     }
+    ],
+    "how_to_apply": [
+     {
+      "source": "olls.info official text",
+      "url": "https://olls.info/crs/crs2026-title-24.htm"
+     }
+    ],
+    "real_property_records": [
+     {
+      "source": "olls.info official text",
+      "url": "https://olls.info/crs/crs2026-title-24.htm"
+     }
+    ],
+    "property_limit": [
+     {
+      "source": "olls.info official text",
+      "url": "https://olls.info/crs/crs2026-title-24.htm"
+     },
+     {
+      "source": "olls.info official text",
+      "url": "https://olls.info/crs/crs2026-title-24.htm"
+     },
+     {
+      "source": "olls.info official text",
+      "url": "https://olls.info/crs/crs2026-title-18.htm"
+     }
+    ],
+    "program_status": [
+     {
+      "source": "dcs.colorado.gov official text",
+      "url": "https://dcs.colorado.gov/acp"
+     }
+    ],
+    "record_voter": [
+     {
+      "source": "olls.info official text",
+      "url": "https://olls.info/crs/crs2026-title-24.htm"
+     }
+    ],
+    "record_school": [
+     {
+      "source": "olls.info official text",
+      "url": "https://olls.info/crs/crs2026-title-24.htm"
+     }
+    ]
+   }
+  },
+  {
+   "id": "connecticut",
+   "state": "Connecticut",
+   "program_name": "Address Confidentiality Program",
+   "program_status": "Operational official application route",
+   "administering_office": "Office of the Connecticut Secretary of the State",
+   "eligibility": "victims of family violence, injury or risk of injury to a child, kidnapping, sexual assault, stalking, trafficking in persons, specified substantiated child abuse or neglect; persons for whom a termination of parental rights was granted",
+   "how_to_apply": "Meet with an Application Assistant. The assistant sends the completed application to ACP.",
+   "substitute_address": "The published program provides a substitute or designated address.",
+   "record_voter": "Presenting the ACP card to the town registrar suppresses the actual residential street, house number, and town from the voter list.",
+   "record_driver_license": "",
+   "record_school": "",
+   "record_vital": "A participant may present the ACP card and request confidential marriage records. This finding concerns marriage records only.",
+   "real_property_records": "",
+   "property_limit": "",
+   "participant_count": "",
+   "participant_count_as_of": "",
+   "statute": "Connecticut General Statutes 54-240a and the related Chapter 968a program provisions.",
+   "program_url": "https://portal.ct.gov/SOTS/Business-Services/ACP/Address-Confidentiality-Program",
+   "source": "portal.ct.gov official text",
+   "url": "https://portal.ct.gov/SOTS/Business-Services/ACP/Address-Confidentiality-Program",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "eligibility": [
+     {
+      "source": "www.cga.ct.gov official text",
+      "url": "https://www.cga.ct.gov/current/pub/chap_968a.htm"
+     }
+    ],
+    "program_scope": [
+     {
+      "source": "portal.ct.gov official text",
+      "url": "https://portal.ct.gov/SOTS/Business-Services/ACP/Address-Confidentiality-Program"
+     }
+    ],
+    "substitute_address": [
+     {
+      "source": "portal.ct.gov official text",
+      "url": "https://portal.ct.gov/SOTS/Business-Services/ACP/Address-Confidentiality-Program"
+     }
+    ],
+    "statute": [
+     {
+      "source": "www.cga.ct.gov official text",
+      "url": "https://www.cga.ct.gov/current/pub/chap_968a.htm"
+     }
+    ],
+    "administering_office": [
+     {
+      "source": "portal.ct.gov official text",
+      "url": "https://portal.ct.gov/SOTS/Business-Services/ACP/Address-Confidentiality-Program"
+     }
+    ],
+    "how_to_apply": [
+     {
+      "source": "portal.ct.gov official text",
+      "url": "https://portal.ct.gov/SOTS/Business-Services/ACP/Address-Confidentiality-Program"
+     }
+    ],
+    "program_status": [
+     {
+      "source": "portal.ct.gov official text",
+      "url": "https://portal.ct.gov/SOTS/Business-Services/ACP/Address-Confidentiality-Program"
+     }
+    ],
+    "record_voter": [
+     {
+      "source": "portal.ct.gov official text",
+      "url": "https://portal.ct.gov/SOTS/Business-Services/ACP/Address-Confidentiality-Program"
+     }
+    ],
+    "record_vital": [
+     {
+      "source": "portal.ct.gov official text",
+      "url": "https://portal.ct.gov/SOTS/Business-Services/ACP/Address-Confidentiality-Program"
+     }
+    ]
+   }
+  },
+  {
+   "id": "delaware",
+   "state": "Delaware",
+   "program_name": "Address Confidentiality Program",
+   "program_status": "Operational official application route",
+   "administering_office": "Department of Justice",
+   "eligibility": "A qualifying victim of domestic violence, sexual assault, human trafficking, kidnapping, or stalking; a person with a valid Department of Justice agreement under 11 Del. C. 9601(f); a household member of a participant; a person certified as obtaining or seeking domestic-violence program relief; or a reproductive health service provider or employee who fears for safety because of providing those services. The statute permits specified representative applications.",
+   "how_to_apply": "File an application with the Program in the manner it prescribes.",
+   "substitute_address": "The published program provides a substitute or designated address.",
+   "record_voter": "",
+   "record_driver_license": "",
+   "record_school": "",
+   "record_vital": "",
+   "real_property_records": "",
+   "property_limit": "",
+   "participant_count": "",
+   "participant_count_as_of": "",
+   "statute": "11 Delaware Code, Chapter 96, Subchapter II, Address Confidentiality Act.",
+   "program_url": "https://delcode.delaware.gov/title11/c096/sc02/index.html",
+   "source": "delcode.delaware.gov official text",
+   "url": "https://delcode.delaware.gov/title11/c096/sc02/index.html",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "eligibility": [
+     {
+      "source": "delcode.delaware.gov official text",
+      "url": "https://delcode.delaware.gov/title11/c096/sc02/index.html"
+     }
+    ],
+    "program_scope": [
+     {
+      "source": "delcode.delaware.gov official text",
+      "url": "https://delcode.delaware.gov/title11/c096/sc02/index.html"
+     }
+    ],
+    "substitute_address": [
+     {
+      "source": "delcode.delaware.gov official text",
+      "url": "https://delcode.delaware.gov/title11/c096/sc02/index.html"
+     }
+    ],
+    "statute": [
+     {
+      "source": "delcode.delaware.gov official text",
+      "url": "https://delcode.delaware.gov/title11/c096/sc02/index.html"
+     }
+    ],
+    "administering_office": [
+     {
+      "source": "delcode.delaware.gov official text",
+      "url": "https://delcode.delaware.gov/title11/c096/sc02/index.html"
+     }
+    ],
+    "how_to_apply": [
+     {
+      "source": "delcode.delaware.gov official text",
+      "url": "https://delcode.delaware.gov/title11/c096/sc02/index.html"
+     }
+    ],
+    "program_status": [
+     {
+      "source": "delcode.delaware.gov official text",
+      "url": "https://delcode.delaware.gov/title11/c096/sc02/index.html"
+     }
+    ]
+   }
+  },
+  {
+   "id": "district-of-columbia",
+   "state": "District of Columbia",
+   "program_name": "Address Confidentiality Program",
+   "program_status": "Operational official application route",
+   "administering_office": "Office of Victim Services and Justice Grants",
+   "eligibility": "people who have experienced domestic violence, sexual assault, stalking, or human trafficking; employees of organizations primarily serving those victims; employees of organizations focused on reproductive healthcare",
+   "how_to_apply": "Contact an Application Assistant to submit an application.",
+   "substitute_address": "Eligible participants receive a legal substitute address for their actual address.",
+   "record_voter": "OVSJG sends the actual address and authorization card to the Board of Elections unless the eligible participant opts out. A participant who votes must use a mail-in ballot. A participant may use the substitute address on a Board petition.",
+   "record_driver_license": "",
+   "record_school": "",
+   "record_vital": "",
+   "real_property_records": "OTR documents require the actual address. OTR must suppress participant-name indexing of assessment, tax and recorded documents, subject to specified court, lien and debt-collection exceptions. The law does not require erasing existing names or addresses.",
+   "property_limit": "",
+   "participant_count": "",
+   "participant_count_as_of": "",
+   "statute": "D.C. Code 4-555.01 et seq.; Address Confidentiality Act of 2018, D.C. Law 22-118.",
+   "program_url": "https://ovsjg.dc.gov/acp",
+   "source": "ovsjg.dc.gov official text",
+   "url": "https://ovsjg.dc.gov/acp",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "eligibility": [
+     {
+      "source": "ovsjg.dc.gov official text",
+      "url": "https://ovsjg.dc.gov/acp"
+     }
+    ],
+    "program_scope": [
+     {
+      "source": "ovsjg.dc.gov official text",
+      "url": "https://ovsjg.dc.gov/acp"
+     }
+    ],
+    "substitute_address": [
+     {
+      "source": "ovsjg.dc.gov official text",
+      "url": "https://ovsjg.dc.gov/acp"
+     }
+    ],
+    "statute": [
+     {
+      "source": "code.dccouncil.gov official text",
+      "url": "https://code.dccouncil.gov/us/dc/council/code/sections/4-555.02"
+     }
+    ],
+    "administering_office": [
+     {
+      "source": "ovsjg.dc.gov official text",
+      "url": "https://ovsjg.dc.gov/acp"
+     }
+    ],
+    "how_to_apply": [
+     {
+      "source": "ovsjg.dc.gov official text",
+      "url": "https://ovsjg.dc.gov/acp"
+     }
+    ],
+    "program_status": [
+     {
+      "source": "ovsjg.dc.gov official text",
+      "url": "https://ovsjg.dc.gov/acp"
+     }
+    ],
+    "record_voter": [
+     {
+      "source": "code.dccouncil.gov official text",
+      "url": "https://code.dccouncil.gov/us/dc/council/code/sections/4-555.05"
+     }
+    ],
+    "real_property_records": [
+     {
+      "source": "code.dccouncil.gov official text",
+      "url": "https://code.dccouncil.gov/us/dc/council/code/sections/4-555.05"
+     }
+    ]
+   }
+  },
+  {
+   "id": "florida",
+   "state": "Florida",
+   "program_name": "Address Confidentiality Program",
+   "program_status": "Operational official application route",
+   "administering_office": "Office of the Attorney General",
+   "eligibility": "victims of domestic violence or dating violence; victims of stalking or aggravated stalking who file the required sworn statement and comply with program procedures",
+   "how_to_apply": "File the application with the Office of the Attorney General.",
+   "substitute_address": "The published program provides a substitute or designated address.",
+   "record_voter": "Florida DOS identifies ACP participation as a route preventing public disclosure of voter registration information.",
+   "record_driver_license": "",
+   "record_school": "",
+   "record_vital": "",
+   "real_property_records": "",
+   "property_limit": "",
+   "participant_count": "",
+   "participant_count_as_of": "",
+   "statute": "Florida Statutes 741.401-741.409, 741.465 and 741.4651; current 741.403 includes dating violence.",
+   "program_url": "https://www.myfloridalegal.com/criminal-justice",
+   "source": "www.leg.state.fl.us official text",
+   "url": "https://www.leg.state.fl.us/Statutes/index.cfm?App_mode=Display_Statute&Search_String=&URL=0700-0799/0741/Sections/0741.403.html",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "eligibility": [
+     {
+      "source": "www.leg.state.fl.us official text",
+      "url": "https://www.leg.state.fl.us/Statutes/index.cfm?App_mode=Display_Statute&Search_String=&URL=0700-0799/0741/Sections/0741.403.html"
+     },
+     {
+      "source": "www.leg.state.fl.us official text",
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&Search_String=&URL=0700-0799%2F0741%2FSections%2F0741.4651.html"
+     }
+    ],
+    "statute": [
+     {
+      "source": "www.leg.state.fl.us official text",
+      "url": "https://www.leg.state.fl.us/Statutes/index.cfm?App_mode=Display_Statute&Search_String=&URL=0700-0799/0741/Sections/0741.403.html"
+     }
+    ],
+    "program_scope": [
+     {
+      "source": "www.leg.state.fl.us official text",
+      "url": "https://www.leg.state.fl.us/Statutes/index.cfm?App_mode=Display_Statute&Search_String=&URL=0700-0799/0741/Sections/0741.403.html"
+     }
+    ],
+    "substitute_address": [
+     {
+      "source": "www.leg.state.fl.us official text",
+      "url": "https://www.leg.state.fl.us/Statutes/index.cfm?App_mode=Display_Statute&Search_String=&URL=0700-0799/0741/Sections/0741.403.html"
+     }
+    ],
+    "administering_office": [
+     {
+      "source": "www.leg.state.fl.us official text",
+      "url": "https://www.leg.state.fl.us/Statutes/index.cfm?App_mode=Display_Statute&Search_String=&URL=0700-0799/0741/Sections/0741.403.html"
+     }
+    ],
+    "how_to_apply": [
+     {
+      "source": "www.leg.state.fl.us official text",
+      "url": "https://www.leg.state.fl.us/Statutes/index.cfm?App_mode=Display_Statute&Search_String=&URL=0700-0799/0741/Sections/0741.403.html"
+     }
+    ],
+    "program_status": [
+     {
+      "source": "www.leg.state.fl.us official text",
+      "url": "https://www.leg.state.fl.us/Statutes/index.cfm?App_mode=Display_Statute&Search_String=&URL=0700-0799/0741/Sections/0741.403.html"
+     }
+    ],
+    "record_voter": [
+     {
+      "source": "dos.fl.gov official text",
+      "url": "https://dos.fl.gov/elections/for-voters/voter-registration/voter-information-is-public-record/"
+     }
+    ]
+   }
+  },
+  {
+   "id": "georgia",
+   "state": "Georgia",
+   "program_name": "Safe at Home",
+   "program_status": "Operational official application route",
+   "administering_office": "Secretary of State's Office",
+   "eligibility": "survivors of domestic violence, sexual assault, human trafficking, stalking, or other eligible individuals whose safety may be compromised by public disclosure of their residential address",
+   "how_to_apply": "Apply independently or with an Advocate Assistant. Send the application and sworn statement to the Secretary of State.",
+   "substitute_address": "The published program provides a substitute or designated address.",
+   "record_voter": "Protected voter registration uses the substitute address in public records while retaining the precinct associated with actual residence.",
+   "record_driver_license": "The published statutory exemption permits DDS to collect or record the actual address for license issuance and necessary police data sharing. It does not promise a substitute address on every license. The exemption bars public and third-party disclosure of actual addresses.",
+   "record_school": "School districts may use the actual address to determine enrollment eligibility and establish bus service. They must use the substitute address on all public records.",
+   "record_vital": "",
+   "real_property_records": "Real estate holdings are exempt from Safe at Home. A purchased property address becomes publicly available.",
+   "property_limit": "Real estate holdings are exempt from Safe at Home. A purchased property address becomes publicly available.",
+   "participant_count": "",
+   "participant_count_as_of": "",
+   "statute": "O.C.G.A. 50-18-150 et seq.; exemptions referenced in 50-18-155.",
+   "program_url": "https://sos.ga.gov/safeathome",
+   "source": "sos.ga.gov official text",
+   "url": "https://sos.ga.gov/page/safe-home-compliance",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "eligibility": [
+     {
+      "source": "sos.ga.gov official text",
+      "url": "https://sos.ga.gov/safeathome"
+     }
+    ],
+    "program_scope": [
+     {
+      "source": "sos.ga.gov official text",
+      "url": "https://sos.ga.gov/page/safe-home-compliance"
+     }
+    ],
+    "substitute_address": [
+     {
+      "source": "sos.ga.gov official text",
+      "url": "https://sos.ga.gov/page/safe-home-compliance"
+     }
+    ],
+    "statute": [
+     {
+      "source": "sos.ga.gov official text",
+      "url": "https://sos.ga.gov/safeathome"
+     }
+    ],
+    "administering_office": [
+     {
+      "source": "sos.ga.gov official text",
+      "url": "https://sos.ga.gov/page/safe-home-faq"
+     }
+    ],
+    "how_to_apply": [
+     {
+      "source": "sos.ga.gov official text",
+      "url": "https://sos.ga.gov/page/safe-home-faq"
+     }
+    ],
+    "real_property_records": [
+     {
+      "source": "sos.ga.gov official text",
+      "url": "https://sos.ga.gov/page/safe-home-compliance"
+     }
+    ],
+    "property_limit": [
+     {
+      "source": "sos.ga.gov official text",
+      "url": "https://sos.ga.gov/page/safe-home-compliance"
+     }
+    ],
+    "program_status": [
+     {
+      "source": "sos.ga.gov official text",
+      "url": "https://sos.ga.gov/page/safe-home-compliance"
+     }
+    ],
+    "record_voter": [
+     {
+      "source": "sos.ga.gov official text",
+      "url": "https://sos.ga.gov/news/secretary-raffensperger-announces-launch-safe-home-program-protect-domestic-violence-survivors"
+     }
+    ],
+    "record_driver_license": [
+     {
+      "source": "sos.ga.gov official text",
+      "url": "https://sos.ga.gov/page/safe-home-compliance"
+     },
+     {
+      "source": "sos.ga.gov official text",
+      "url": "https://sos.ga.gov/page/safe-home-compliance"
+     }
+    ],
+    "record_school": [
+     {
+      "source": "sos.ga.gov official text",
+      "url": "https://sos.ga.gov/page/safe-home-compliance"
+     }
+    ]
+   }
+  },
+  {
+   "id": "hawaii",
+   "state": "Hawaii",
+   "program_name": "Address Confidentiality Program",
+   "program_status": "Operational official application route",
+   "administering_office": "Department of Law Enforcement",
+   "eligibility": "survivors of domestic abuse, a sexual offense, or stalking",
+   "how_to_apply": "Meet with a designated Application Assistant from an ACP-certified victim services organization.",
+   "substitute_address": "The published program provides a substitute or designated address.",
+   "record_voter": "Election officials use the actual address to determine residency, and the substitute address for other purposes. Participant names, addresses and phone numbers must not appear in published lists or registers.",
+   "record_driver_license": "",
+   "record_school": "The Department of Education uses the actual address for admission or assignment and the substitute address for student records.",
+   "record_vital": "",
+   "real_property_records": "",
+   "property_limit": "",
+   "participant_count": "",
+   "participant_count_as_of": "",
+   "statute": "Hawaii Revised Statutes Chapter 801G; Hawaii Administrative Rules Chapter 24-1000.",
+   "program_url": "https://law.hawaii.gov/resources/hawaii-address-confidentiality-program-acp/",
+   "source": "law.hawaii.gov official text",
+   "url": "https://law.hawaii.gov/resources/hawaii-address-confidentiality-program-acp/",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "eligibility": [
+     {
+      "source": "law.hawaii.gov official text",
+      "url": "https://law.hawaii.gov/resources/hawaii-address-confidentiality-program-acp/"
+     }
+    ],
+    "program_scope": [
+     {
+      "source": "law.hawaii.gov official text",
+      "url": "https://law.hawaii.gov/resources/hawaii-address-confidentiality-program-acp/"
+     }
+    ],
+    "substitute_address": [
+     {
+      "source": "law.hawaii.gov official text",
+      "url": "https://law.hawaii.gov/resources/hawaii-address-confidentiality-program-acp/"
+     }
+    ],
+    "statute": [
+     {
+      "source": "law.hawaii.gov official text",
+      "url": "https://law.hawaii.gov/resources/hawaii-address-confidentiality-program-acp/"
+     }
+    ],
+    "administering_office": [
+     {
+      "source": "data.capitol.hawaii.gov official text",
+      "url": "https://data.capitol.hawaii.gov/hrscurrent/Vol14_Ch0701-0853/HRS0801G/HRS_0801G-0001.htm"
+     },
+     {
+      "source": "data.capitol.hawaii.gov official text",
+      "url": "https://data.capitol.hawaii.gov/hrscurrent/Vol14_Ch0701-0853/HRS0801G/HRS_0801G-0002.htm"
+     }
+    ],
+    "how_to_apply": [
+     {
+      "source": "law.hawaii.gov official text",
+      "url": "https://law.hawaii.gov/resources/hawaii-address-confidentiality-program-acp/"
+     }
+    ],
+    "program_status": [
+     {
+      "source": "law.hawaii.gov official text",
+      "url": "https://law.hawaii.gov/resources/hawaii-address-confidentiality-program-acp/"
+     }
+    ],
+    "record_voter": [
+     {
+      "source": "data.capitol.hawaii.gov official text",
+      "url": "https://data.capitol.hawaii.gov/hrscurrent/Vol14_Ch0701-0853/HRS0801G/HRS_0801G-0009.htm"
+     }
+    ],
+    "record_school": [
+     {
+      "source": "data.capitol.hawaii.gov official text",
+      "url": "https://data.capitol.hawaii.gov/hrscurrent/Vol14_Ch0701-0853/HRS0801G/HRS_0801G-0009.htm"
+     }
+    ]
+   }
+  },
+  {
+   "id": "idaho",
+   "state": "Idaho",
+   "program_name": "Address Confidentiality Program",
+   "program_status": "Operational official application route",
+   "administering_office": "Office of the Secretary of State",
+   "eligibility": "survivors of domestic violence, sexual assault, stalking, human trafficking, or malicious harassment",
+   "how_to_apply": "Complete an application and submit it directly to the Office of the Secretary of State.",
+   "substitute_address": "The published program provides a substitute or designated address.",
+   "record_voter": "Participants can use substitute addresses for voter registration.",
+   "record_driver_license": "Participants can use substitute addresses for driver's licenses and state ID cards.",
+   "record_school": "The program expressly lists schools among the uses of substitute addresses.",
+   "record_vital": "",
+   "real_property_records": "",
+   "property_limit": "",
+   "participant_count": "",
+   "participant_count_as_of": "",
+   "statute": "Idaho Code Title 19, Chapter 57.",
+   "program_url": "https://sos.idaho.gov/acp/",
+   "source": "sos.idaho.gov official text",
+   "url": "https://sos.idaho.gov/acp/",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "eligibility": [
+     {
+      "source": "sos.idaho.gov official text",
+      "url": "https://sos.idaho.gov/acp/"
+     }
+    ],
+    "program_scope": [
+     {
+      "source": "sos.idaho.gov official text",
+      "url": "https://sos.idaho.gov/acp/"
+     }
+    ],
+    "substitute_address": [
+     {
+      "source": "sos.idaho.gov official text",
+      "url": "https://sos.idaho.gov/acp/"
+     }
+    ],
+    "statute": [
+     {
+      "source": "sos.idaho.gov official text",
+      "url": "https://sos.idaho.gov/acp/"
+     }
+    ],
+    "administering_office": [
+     {
+      "source": "sos.idaho.gov official text",
+      "url": "https://sos.idaho.gov/acp/"
+     }
+    ],
+    "how_to_apply": [
+     {
+      "source": "sos.idaho.gov official text",
+      "url": "https://sos.idaho.gov/acp/"
+     }
+    ],
+    "program_status": [
+     {
+      "source": "sos.idaho.gov official text",
+      "url": "https://sos.idaho.gov/acp/"
+     }
+    ],
+    "record_voter": [
+     {
+      "source": "sos.idaho.gov official text",
+      "url": "https://sos.idaho.gov/acp/"
+     }
+    ],
+    "record_driver_license": [
+     {
+      "source": "sos.idaho.gov official text",
+      "url": "https://sos.idaho.gov/acp/"
+     }
+    ],
+    "record_school": [
+     {
+      "source": "sos.idaho.gov official text",
+      "url": "https://sos.idaho.gov/acp/"
+     }
+    ]
+   }
+  },
+  {
+   "id": "illinois",
+   "state": "Illinois",
+   "program_name": "Address Confidentiality Program",
+   "program_status": "Operational official application route",
+   "administering_office": "Office of the Attorney General",
+   "eligibility": "Adults who have good reason to believe they are victims of domestic violence, sexual assault, human trafficking, or stalking and fear for safety. A parent or guardian may apply for a minor, or a guardian for a person with a disability.",
+   "how_to_apply": "Complete the secure online application or the PDF application with its submission instructions.",
+   "substitute_address": "The published program provides a substitute or designated address.",
+   "record_voter": "Participants must submit the ACP Voter Registration Application and vote by mail to protect their information from public disclosure.",
+   "record_driver_license": "Participants may update a driver's license or state ID with the ACP substitute address.",
+   "record_school": "",
+   "record_vital": "",
+   "real_property_records": "The ACP states that it cannot provide confidentiality for property records.",
+   "property_limit": "The ACP states that it cannot provide confidentiality for property records.",
+   "participant_count": "",
+   "participant_count_as_of": "",
+   "statute": "750 ILCS 61, including Section 15.",
+   "program_url": "https://illinoisattorneygeneral.gov/safer-communities/supporting-victims-of-crime/address-confidentiality-program/",
+   "source": "illinoisattorneygeneral.gov official text",
+   "url": "https://illinoisattorneygeneral.gov/safer-communities/supporting-victims-of-crime/address-confidentiality-program/",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "eligibility": [
+     {
+      "source": "www.ilga.gov official text",
+      "url": "https://www.ilga.gov/Documents/legislation/ilcs/documents/075000610K15.htm"
+     }
+    ],
+    "program_scope": [
+     {
+      "source": "illinoisattorneygeneral.gov official text",
+      "url": "https://illinoisattorneygeneral.gov/safer-communities/supporting-victims-of-crime/address-confidentiality-program/"
+     }
+    ],
+    "substitute_address": [
+     {
+      "source": "illinoisattorneygeneral.gov official text",
+      "url": "https://illinoisattorneygeneral.gov/safer-communities/supporting-victims-of-crime/address-confidentiality-program/"
+     }
+    ],
+    "statute": [
+     {
+      "source": "www.ilga.gov official text",
+      "url": "https://www.ilga.gov/Documents/legislation/ilcs/documents/075000610K15.htm"
+     }
+    ],
+    "administering_office": [
+     {
+      "source": "www.ilga.gov official text",
+      "url": "https://www.ilga.gov/Documents/legislation/ilcs/documents/075000610K15.htm"
+     }
+    ],
+    "how_to_apply": [
+     {
+      "source": "illinoisattorneygeneral.gov official text",
+      "url": "https://illinoisattorneygeneral.gov/safer-communities/supporting-victims-of-crime/address-confidentiality-program/"
+     }
+    ],
+    "real_property_records": [
+     {
+      "source": "illinoisattorneygeneral.gov official text",
+      "url": "https://illinoisattorneygeneral.gov/safer-communities/supporting-victims-of-crime/address-confidentiality-program/"
+     }
+    ],
+    "property_limit": [
+     {
+      "source": "illinoisattorneygeneral.gov official text",
+      "url": "https://illinoisattorneygeneral.gov/safer-communities/supporting-victims-of-crime/address-confidentiality-program/"
+     }
+    ],
+    "program_status": [
+     {
+      "source": "illinoisattorneygeneral.gov official text",
+      "url": "https://illinoisattorneygeneral.gov/safer-communities/supporting-victims-of-crime/address-confidentiality-program/"
+     }
+    ],
+    "record_voter": [
+     {
+      "source": "illinoisattorneygeneral.gov official text",
+      "url": "https://illinoisattorneygeneral.gov/safer-communities/supporting-victims-of-crime/address-confidentiality-program/"
+     }
+    ],
+    "record_driver_license": [
+     {
+      "source": "illinoisattorneygeneral.gov official text",
+      "url": "https://illinoisattorneygeneral.gov/safer-communities/supporting-victims-of-crime/address-confidentiality-program/"
+     }
+    ]
+   }
+  },
+  {
+   "id": "indiana",
+   "state": "Indiana",
+   "program_name": "Address Confidentiality Program",
+   "program_status": "Operational official application route",
+   "administering_office": "Office of the Attorney General",
+   "eligibility": "survivors of domestic violence, sexual assault, stalking, human trafficking, harassment, intimidation and invasion of privacy who fear for their safety",
+   "how_to_apply": "A trained victim advocate must sign the application. The advocate provides the documents.",
+   "substitute_address": "The published program provides a substitute or designated address.",
+   "record_voter": "The substitute address is used for voter registration.",
+   "record_driver_license": "The substitute address is used for driver's license and vehicle registration.",
+   "record_school": "The substitute address is used for school registration.",
+   "record_vital": "",
+   "real_property_records": "",
+   "property_limit": "",
+   "participant_count": "",
+   "participant_count_as_of": "",
+   "statute": "Indiana Code Article 5-26.5.",
+   "program_url": "https://www.in.gov/attorneygeneral/about-the-office/appeals/victim-services/address-confidentiality-program/",
+   "source": "www.in.gov official text",
+   "url": "https://www.in.gov/attorneygeneral/about-the-office/appeals/victim-services/address-confidentiality-program/",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "eligibility": [
+     {
+      "source": "www.in.gov official text",
+      "url": "https://www.in.gov/attorneygeneral/about-the-office/appeals/victim-services/address-confidentiality-program/"
+     }
+    ],
+    "program_scope": [
+     {
+      "source": "www.in.gov official text",
+      "url": "https://www.in.gov/attorneygeneral/about-the-office/appeals/victim-services/address-confidentiality-program/"
+     }
+    ],
+    "substitute_address": [
+     {
+      "source": "www.in.gov official text",
+      "url": "https://www.in.gov/attorneygeneral/about-the-office/appeals/victim-services/address-confidentiality-program/"
+     }
+    ],
+    "statute": [
+     {
+      "source": "www.in.gov official text",
+      "url": "https://www.in.gov/sos/elections/files/2026-Voter-Registration-Guidebook.FINAL.pdf"
+     }
+    ],
+    "administering_office": [
+     {
+      "source": "www.in.gov official text",
+      "url": "https://www.in.gov/attorneygeneral/about-the-office/appeals/victim-services/address-confidentiality-program/"
+     }
+    ],
+    "how_to_apply": [
+     {
+      "source": "www.in.gov official text",
+      "url": "https://www.in.gov/attorneygeneral/about-the-office/appeals/victim-services/address-confidentiality-program/"
+     }
+    ],
+    "program_status": [
+     {
+      "source": "www.in.gov official text",
+      "url": "https://www.in.gov/attorneygeneral/about-the-office/appeals/victim-services/address-confidentiality-program/"
+     }
+    ],
+    "record_voter": [
+     {
+      "source": "www.in.gov official text",
+      "url": "https://www.in.gov/attorneygeneral/about-the-office/appeals/victim-services/address-confidentiality-program/"
+     }
+    ],
+    "record_driver_license": [
+     {
+      "source": "www.in.gov official text",
+      "url": "https://www.in.gov/attorneygeneral/about-the-office/appeals/victim-services/address-confidentiality-program/"
+     }
+    ],
+    "record_school": [
+     {
+      "source": "www.in.gov official text",
+      "url": "https://www.in.gov/attorneygeneral/about-the-office/appeals/victim-services/address-confidentiality-program/"
+     }
+    ]
+   }
+  },
+  {
+   "id": "iowa",
+   "state": "Iowa",
+   "program_name": "Safe at Home",
+   "program_status": "Operational official application route",
+   "administering_office": "Secretary of State",
+   "eligibility": "Iowa residents who are qualifying victims of domestic abuse, domestic abuse assault, sexual abuse, assault, stalking, or human trafficking; active or retired state or local judicial officers or federal judges; active or retired prosecuting attorneys; active or retired peace officers or civilian law-enforcement employees; and specified spouses or children. The statute excludes specified sexual predators and registered sex offenders.",
+   "how_to_apply": "Download and complete the application, then mail it to Safe at Home.",
+   "substitute_address": "The published program provides a substitute or designated address.",
+   "record_voter": "The program provides confidential voter registration and absentee voting.",
+   "record_driver_license": "",
+   "record_school": "",
+   "record_vital": "",
+   "real_property_records": "The general designated-address rule does not apply to documents or records relating to real property.",
+   "property_limit": "The general designated-address rule does not apply to documents or records relating to real property.",
+   "participant_count": "",
+   "participant_count_as_of": "",
+   "statute": "Iowa Code Chapter 9E, including 9E.5 and 9E.7.",
+   "program_url": "https://safeathome.iowa.gov/",
+   "source": "safeathome.iowa.gov official text",
+   "url": "https://safeathome.iowa.gov/",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "eligibility": [
+     {
+      "source": "www.legis.iowa.gov official text",
+      "url": "https://www.legis.iowa.gov/docs/code/2026/9E.html"
+     }
+    ],
+    "program_scope": [
+     {
+      "source": "safeathome.iowa.gov official text",
+      "url": "https://safeathome.iowa.gov/"
+     }
+    ],
+    "substitute_address": [
+     {
+      "source": "safeathome.iowa.gov official text",
+      "url": "https://safeathome.iowa.gov/"
+     }
+    ],
+    "statute": [
+     {
+      "source": "www.legis.iowa.gov official text",
+      "url": "https://www.legis.iowa.gov/docs/code/2026/9E.html"
+     }
+    ],
+    "administering_office": [
+     {
+      "source": "www.legis.iowa.gov official text",
+      "url": "https://www.legis.iowa.gov/docs/code/2026/9E.html"
+     },
+     {
+      "source": "www.legis.iowa.gov official text",
+      "url": "https://www.legis.iowa.gov/docs/code/2026/9E.html"
+     }
+    ],
+    "how_to_apply": [
+     {
+      "source": "safeathome.iowa.gov official text",
+      "url": "https://safeathome.iowa.gov/"
+     }
+    ],
+    "real_property_records": [
+     {
+      "source": "www.legis.iowa.gov official text",
+      "url": "https://www.legis.iowa.gov/docs/code/2026/9E.html"
+     }
+    ],
+    "property_limit": [
+     {
+      "source": "www.legis.iowa.gov official text",
+      "url": "https://www.legis.iowa.gov/docs/code/2026/9E.html"
+     }
+    ],
+    "program_status": [
+     {
+      "source": "safeathome.iowa.gov official text",
+      "url": "https://safeathome.iowa.gov/"
+     }
+    ],
+    "record_voter": [
+     {
+      "source": "safeathome.iowa.gov official text",
+      "url": "https://safeathome.iowa.gov/"
+     }
+    ]
+   }
+  },
+  {
+   "id": "kansas",
+   "state": "Kansas",
+   "program_name": "Safe at Home",
+   "program_status": "Operational official application route",
+   "administering_office": "Attorney General's Office, Victim Services Division",
+   "eligibility": "victims of domestic violence, sexual assault, human trafficking or stalking",
+   "how_to_apply": "Use the official directory to locate a Safe at Home Enrolling Agent.",
+   "substitute_address": "The published program provides a substitute or designated address.",
+   "record_voter": "The program lists voter registration among records using the substitute address.",
+   "record_driver_license": "The program lists driver's and non-driver's licenses and vehicle registration among records using the substitute address.",
+   "record_school": "The program lists public school records among records using the substitute address.",
+   "record_vital": "",
+   "real_property_records": "",
+   "property_limit": "",
+   "participant_count": "",
+   "participant_count_as_of": "",
+   "statute": "K.S.A. 75-451 through 75-458.",
+   "program_url": "https://www.ag.ks.gov/divisions/victim-services/safe-at-home",
+   "source": "www.ag.ks.gov official text",
+   "url": "https://www.ag.ks.gov/divisions/victim-services/safe-at-home",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "eligibility": [
+     {
+      "source": "www.ag.ks.gov official text",
+      "url": "https://www.ag.ks.gov/divisions/victim-services/safe-at-home"
+     }
+    ],
+    "program_scope": [
+     {
+      "source": "www.ag.ks.gov official text",
+      "url": "https://www.ag.ks.gov/divisions/victim-services/safe-at-home"
+     }
+    ],
+    "substitute_address": [
+     {
+      "source": "www.ag.ks.gov official text",
+      "url": "https://www.ag.ks.gov/divisions/victim-services/safe-at-home"
+     }
+    ],
+    "statute": [
+     {
+      "source": "www.kslegislature.gov official text",
+      "url": "https://www.kslegislature.gov/b2023_24/laws/075_000_0000_chapter/075_004_0000_article/075_004_0051_section/075_004_0051_k/"
+     }
+    ],
+    "administering_office": [
+     {
+      "source": "www.ag.ks.gov official text",
+      "url": "https://www.ag.ks.gov/divisions/victim-services/safe-at-home"
+     }
+    ],
+    "how_to_apply": [
+     {
+      "source": "www.ag.ks.gov official text",
+      "url": "https://www.ag.ks.gov/divisions/victim-services/safe-at-home"
+     }
+    ],
+    "program_status": [
+     {
+      "source": "www.ag.ks.gov official text",
+      "url": "https://www.ag.ks.gov/divisions/victim-services/safe-at-home"
+     }
+    ],
+    "record_voter": [
+     {
+      "source": "www.ag.ks.gov official text",
+      "url": "https://www.ag.ks.gov/home/showpublisheddocument/10320/638460265912970000"
+     }
+    ],
+    "record_driver_license": [
+     {
+      "source": "www.ag.ks.gov official text",
+      "url": "https://www.ag.ks.gov/home/showpublisheddocument/10320/638460265912970000"
+     }
+    ],
+    "record_school": [
+     {
+      "source": "www.ag.ks.gov official text",
+      "url": "https://www.ag.ks.gov/home/showpublisheddocument/10320/638460265912970000"
+     }
+    ]
+   }
+  },
+  {
+   "id": "kentucky",
+   "state": "Kentucky",
+   "program_name": "Safe at Home",
+   "program_status": "Operational official application route",
+   "administering_office": "Secretary of State's Office",
+   "eligibility": "survivors of certain crimes, including sexual assault, domestic violence, trafficking, stalking and other crimes",
+   "how_to_apply": "Complete a Safe at Home Application and submit it to the Secretary of State's Office.",
+   "substitute_address": "Participants use the Secretary of State's address instead of their own on public records.",
+   "record_voter": "The program hides the address on public voter records and provides mail-in absentee voting.",
+   "record_driver_license": "",
+   "record_school": "",
+   "record_vital": "",
+   "real_property_records": "The official application acknowledgement warns that purchasing or selling real estate places the participant's information in public records.",
+   "property_limit": "The official application acknowledgement warns that purchasing or selling real estate places the participant's information in public records.",
+   "participant_count": "",
+   "participant_count_as_of": "",
+   "statute": "KRS 14.300 through 14.318, as identified by the official Safe at Home laws page.",
+   "program_url": "https://www.sos.ky.gov/safe-at-home/Pages/About-Safe-At-Home.aspx",
+   "source": "www.sos.ky.gov official text",
+   "url": "https://www.sos.ky.gov/safe-at-home/Pages/About-Safe-At-Home.aspx",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "eligibility": [
+     {
+      "source": "www.sos.ky.gov official text",
+      "url": "https://www.sos.ky.gov/safe-at-home/Pages/About-Safe-At-Home.aspx"
+     }
+    ],
+    "program_scope": [
+     {
+      "source": "www.sos.ky.gov official text",
+      "url": "https://www.sos.ky.gov/safe-at-home/Pages/About-Safe-At-Home.aspx"
+     }
+    ],
+    "substitute_address": [
+     {
+      "source": "www.sos.ky.gov official text",
+      "url": "https://www.sos.ky.gov/safe-at-home/Pages/About-Safe-At-Home.aspx"
+     }
+    ],
+    "statute": [
+     {
+      "source": "www.sos.ky.gov official text",
+      "url": "https://www.sos.ky.gov/safe-at-home/Pages/Safe-At-Home-Laws.aspx"
+     }
+    ],
+    "future_change_note": [
+     {
+      "source": "apps.legislature.ky.gov official text",
+      "url": "https://apps.legislature.ky.gov/record/26rs/sb195.html"
+     }
+    ],
+    "administering_office": [
+     {
+      "source": "www.sos.ky.gov official text",
+      "url": "https://www.sos.ky.gov/safe-at-home/Pages/About-Safe-At-Home.aspx"
+     }
+    ],
+    "how_to_apply": [
+     {
+      "source": "www.sos.ky.gov official text",
+      "url": "https://www.sos.ky.gov/safe-at-home/Pages/About-Safe-At-Home.aspx"
+     }
+    ],
+    "real_property_records": [
+     {
+      "source": "apps.legislature.ky.gov official text",
+      "url": "https://apps.legislature.ky.gov/law/kar/downloads/docs/14414/document.engrossed.pdf"
+     }
+    ],
+    "property_limit": [
+     {
+      "source": "apps.legislature.ky.gov official text",
+      "url": "https://apps.legislature.ky.gov/law/kar/downloads/docs/14414/document.engrossed.pdf"
+     }
+    ],
+    "program_status": [
+     {
+      "source": "www.sos.ky.gov official text",
+      "url": "https://www.sos.ky.gov/safe-at-home/Pages/About-Safe-At-Home.aspx"
+     }
+    ],
+    "record_voter": [
+     {
+      "source": "www.sos.ky.gov official text",
+      "url": "https://www.sos.ky.gov/safe-at-home/Pages/About-Safe-At-Home.aspx"
+     }
+    ]
+   }
+  },
+  {
+   "id": "louisiana",
+   "state": "Louisiana",
+   "program_name": "Address Confidentiality Program",
+   "program_status": "Operational official application route",
+   "administering_office": "Louisiana Secretary of State's Office",
+   "eligibility": "persons attempting to escape actual or threatened abuse, sexual assault or stalking",
+   "how_to_apply": "Call ACP for referral to a certified Application Assistant. The assistant submits the completed application.",
+   "substitute_address": "The published program provides a substitute or designated address.",
+   "record_voter": "The program expressly lists voter registration among substitute-address uses.",
+   "record_driver_license": "The program expressly lists driver's licenses among substitute-address uses.",
+   "record_school": "The program expressly lists public school records among substitute-address uses.",
+   "record_vital": "",
+   "real_property_records": "The published route requires a residence the victim does not own. ACP cannot protect a house purchased in the victim's name.",
+   "property_limit": "The published route requires a residence the victim does not own. ACP cannot protect a house purchased in the victim's name.",
+   "participant_count": "",
+   "participant_count_as_of": "",
+   "statute": "Louisiana Revised Statutes 44:51-57.",
+   "program_url": "https://www.sos.la.gov/our-office/address-confidentiality-program",
+   "source": "www.sos.la.gov official text",
+   "url": "https://www.sos.la.gov/our-office/address-confidentiality-program",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "eligibility": [
+     {
+      "source": "www.sos.la.gov official text",
+      "url": "https://www.sos.la.gov/our-office/address-confidentiality-program"
+     }
+    ],
+    "program_scope": [
+     {
+      "source": "www.sos.la.gov official text",
+      "url": "https://www.sos.la.gov/our-office/address-confidentiality-program"
+     }
+    ],
+    "substitute_address": [
+     {
+      "source": "www.sos.la.gov official text",
+      "url": "https://www.sos.la.gov/our-office/address-confidentiality-program"
+     }
+    ],
+    "statute": [
+     {
+      "source": "www.sos.la.gov official text",
+      "url": "https://www.sos.la.gov/our-office/address-confidentiality-program"
+     }
+    ],
+    "administering_office": [
+     {
+      "source": "www.sos.la.gov official text",
+      "url": "https://www.sos.la.gov/our-office/address-confidentiality-program"
+     }
+    ],
+    "how_to_apply": [
+     {
+      "source": "www.sos.la.gov official text",
+      "url": "https://www.sos.la.gov/our-office/address-confidentiality-program"
+     }
+    ],
+    "real_property_records": [
+     {
+      "source": "www.sos.la.gov official text",
+      "url": "https://www.sos.la.gov/our-office/address-confidentiality-program"
+     }
+    ],
+    "property_limit": [
+     {
+      "source": "www.sos.la.gov official text",
+      "url": "https://www.sos.la.gov/our-office/address-confidentiality-program"
+     }
+    ],
+    "program_status": [
+     {
+      "source": "www.sos.la.gov official text",
+      "url": "https://www.sos.la.gov/our-office/address-confidentiality-program"
+     }
+    ],
+    "record_voter": [
+     {
+      "source": "www.sos.la.gov official text",
+      "url": "https://www.sos.la.gov/our-office/address-confidentiality-program"
+     }
+    ],
+    "record_driver_license": [
+     {
+      "source": "www.sos.la.gov official text",
+      "url": "https://www.sos.la.gov/our-office/address-confidentiality-program"
+     }
+    ],
+    "record_school": [
+     {
+      "source": "www.sos.la.gov official text",
+      "url": "https://www.sos.la.gov/our-office/address-confidentiality-program"
+     }
+    ]
+   }
+  },
+  {
+   "id": "maine",
+   "state": "Maine",
+   "program_name": "Address Confidentiality Program",
+   "program_status": "Operational official application route",
+   "administering_office": "Secretary of State",
+   "eligibility": "victims of domestic violence, sexual assault, stalking or human trafficking; minor victims of kidnapping; reproductive or gender-affirming health care services practitioners",
+   "how_to_apply": "Apply to the Secretary of State on an Application Assistant's recommendation.",
+   "substitute_address": "The statute authorizes designated addresses for the protected categories.",
+   "record_voter": "A certified participant registers through the Secretary of State elections division using the assigned voter code and program address. Registration records are sealed and confidential. The participant's name must not appear on publicly available voter lists.",
+   "record_driver_license": "",
+   "record_school": "",
+   "record_vital": "",
+   "real_property_records": "",
+   "property_limit": "",
+   "participant_count": "",
+   "participant_count_as_of": "",
+   "statute": "5 M.R.S. 90-B.",
+   "program_url": "https://www.maine.gov/sos/about-us/address-confidentiality-program",
+   "source": "www.legislature.maine.gov official text",
+   "url": "https://www.legislature.maine.gov/statutes/5/title5sec90-B.html",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "eligibility": [
+     {
+      "source": "www.legislature.maine.gov official text",
+      "url": "https://www.legislature.maine.gov/statutes/5/title5sec90-B.html"
+     }
+    ],
+    "program_scope": [
+     {
+      "source": "www.legislature.maine.gov official text",
+      "url": "https://www.legislature.maine.gov/statutes/5/title5sec90-B.html"
+     }
+    ],
+    "substitute_address": [
+     {
+      "source": "www.legislature.maine.gov official text",
+      "url": "https://www.legislature.maine.gov/statutes/5/title5sec90-B.html"
+     }
+    ],
+    "statute": [
+     {
+      "source": "www.legislature.maine.gov official text",
+      "url": "https://www.legislature.maine.gov/statutes/5/title5sec90-B.html"
+     }
+    ],
+    "administering_office": [
+     {
+      "source": "www.maine.gov official text",
+      "url": "https://www.maine.gov/sos/about-us/address-confidentiality-program"
+     }
+    ],
+    "how_to_apply": [
+     {
+      "source": "www.legislature.maine.gov official text",
+      "url": "https://www.legislature.maine.gov/statutes/5/title5sec90-B.html"
+     }
+    ],
+    "program_status": [
+     {
+      "source": "www.legislature.maine.gov official text",
+      "url": "https://www.legislature.maine.gov/statutes/5/title5sec90-B.html"
+     }
+    ],
+    "record_voter": [
+     {
+      "source": "legislature.maine.gov official text",
+      "url": "https://legislature.maine.gov/statutes/21-a/title21-Asec122-A-2.html"
+     }
+    ]
+   }
+  },
+  {
+   "id": "maryland",
+   "state": "Maryland",
+   "program_name": "Safe at Home Address Confidentiality Program",
+   "program_status": "Operational official application route",
+   "administering_office": "Office of the Secretary of State",
+   "eligibility": "survivors of threatened, attempted or actual domestic violence, human trafficking, sexual assault, stalking, or harassment; individuals with increased threats or security/privacy concerns; qualifying guardians; family or household members",
+   "how_to_apply": "Apply through a registered Application Assistant. Contact ACP if traditional victim services do not apply or an assistant is unavailable.",
+   "substitute_address": "The published program provides a substitute or designated address.",
+   "record_voter": "The program expressly lists voter registration among confidential-address uses.",
+   "record_driver_license": "The program expressly lists Maryland driver's licenses among confidential-address uses.",
+   "record_school": "The program expressly lists school enrollment among confidential-address uses.",
+   "record_vital": "",
+   "real_property_records": "Notify ACP before financing or any real-property transaction to arrange a deed-shielding request.",
+   "property_limit": "Notify ACP before financing or any property transaction. The program cannot redact information after it becomes public.",
+   "participant_count": "",
+   "participant_count_as_of": "",
+   "statute": "Maryland State Government Article 7-301 through 7-313; Real Property Article 3-114 through 3-120.",
+   "program_url": "https://sos.maryland.gov/ACP/Pages/default.aspx",
+   "source": "sos.maryland.gov official text",
+   "url": "https://sos.maryland.gov/ACP/Pages/default.aspx",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "eligibility": [
+     {
+      "source": "sos.maryland.gov official text",
+      "url": "https://sos.maryland.gov/ACP/Pages/Apply-to-ACP.aspx"
+     }
+    ],
+    "program_scope": [
+     {
+      "source": "sos.maryland.gov official text",
+      "url": "https://sos.maryland.gov/ACP/Pages/default.aspx"
+     }
+    ],
+    "substitute_address": [
+     {
+      "source": "sos.maryland.gov official text",
+      "url": "https://sos.maryland.gov/ACP/Pages/default.aspx"
+     }
+    ],
+    "statute": [
+     {
+      "source": "sos.maryland.gov official text",
+      "url": "https://sos.maryland.gov/ACP/Pages/Legislation.aspx"
+     }
+    ],
+    "administering_office": [
+     {
+      "source": "sos.maryland.gov official text",
+      "url": "https://sos.maryland.gov/ACP/Pages/default.aspx"
+     }
+    ],
+    "how_to_apply": [
+     {
+      "source": "sos.maryland.gov official text",
+      "url": "https://sos.maryland.gov/ACP/Pages/Apply-to-ACP.aspx"
+     }
+    ],
+    "real_property_records": [
+     {
+      "source": "sos.maryland.gov official text",
+      "url": "https://sos.maryland.gov/ACP/Pages/Real-Property.aspx"
+     }
+    ],
+    "property_limit": [
+     {
+      "source": "sos.maryland.gov official text",
+      "url": "https://sos.maryland.gov/ACP/Pages/Real-Property.aspx"
+     }
+    ],
+    "program_status": [
+     {
+      "source": "sos.maryland.gov official text",
+      "url": "https://sos.maryland.gov/ACP/Pages/default.aspx"
+     }
+    ],
+    "record_voter": [
+     {
+      "source": "sos.maryland.gov official text",
+      "url": "https://sos.maryland.gov/ACP/Pages/default.aspx"
+     }
+    ],
+    "record_driver_license": [
+     {
+      "source": "sos.maryland.gov official text",
+      "url": "https://sos.maryland.gov/ACP/Pages/default.aspx"
+     }
+    ],
+    "record_school": [
+     {
+      "source": "sos.maryland.gov official text",
+      "url": "https://sos.maryland.gov/ACP/Pages/default.aspx"
+     }
+    ]
+   }
+  },
+  {
+   "id": "massachusetts",
+   "state": "Massachusetts",
+   "program_name": "Address Confidentiality Program",
+   "program_status": "Operational official application route",
+   "administering_office": "State Secretary",
+   "eligibility": "survivors of domestic violence, rape, sexual assault, or stalking; persons engaged in legally protected healthcare activity, including gender-affirming and reproductive health care services",
+   "how_to_apply": "Survivor applicants need an Application Assistant's recommendation. People engaged in legally protected healthcare activity may apply without that recommendation.",
+   "substitute_address": "The published program provides a substitute or designated address.",
+   "record_voter": "An ACP participant's name and address must not appear on the street list. The participant's name must not be disclosed under the street-list provision. This finding is limited to that record.",
+   "record_driver_license": "",
+   "record_school": "",
+   "record_vital": "",
+   "real_property_records": "",
+   "property_limit": "",
+   "participant_count": "",
+   "participant_count_as_of": "",
+   "statute": "Massachusetts General Laws Chapter 9A.",
+   "program_url": "https://www.sec.state.ma.us/divisions/acp/address-confidentiality-program.htm",
+   "source": "www.sec.state.ma.us official text",
+   "url": "https://www.sec.state.ma.us/divisions/acp/address-confidentiality-program.htm",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "eligibility": [
+     {
+      "source": "www.sec.state.ma.us official text",
+      "url": "https://www.sec.state.ma.us/divisions/acp/eligibility.htm"
+     }
+    ],
+    "statute": [
+     {
+      "source": "www.sec.state.ma.us official text",
+      "url": "https://www.sec.state.ma.us/divisions/acp/eligibility.htm"
+     }
+    ],
+    "program_scope": [
+     {
+      "source": "www.sec.state.ma.us official text",
+      "url": "https://www.sec.state.ma.us/divisions/acp/address-confidentiality-program.htm"
+     }
+    ],
+    "substitute_address": [
+     {
+      "source": "www.sec.state.ma.us official text",
+      "url": "https://www.sec.state.ma.us/divisions/acp/address-confidentiality-program.htm"
+     }
+    ],
+    "administering_office": [
+     {
+      "source": "malegislature.gov official text",
+      "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter9A/Section2"
+     },
+     {
+      "source": "malegislature.gov official text",
+      "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter9A/Section1"
+     }
+    ],
+    "how_to_apply": [
+     {
+      "source": "malegislature.gov official text",
+      "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter9A/Section2"
+     }
+    ],
+    "program_status": [
+     {
+      "source": "www.sec.state.ma.us official text",
+      "url": "https://www.sec.state.ma.us/divisions/acp/address-confidentiality-program.htm"
+     }
+    ],
+    "record_voter": [
+     {
+      "source": "malegislature.gov official text",
+      "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleVIII/Chapter51/Section4"
+     }
+    ]
+   }
+  },
+  {
+   "id": "michigan",
+   "state": "Michigan",
+   "program_name": "Address Confidentiality Program",
+   "program_status": "Operational official application route",
+   "administering_office": "Michigan Department of Attorney General",
+   "eligibility": "victims of stalking, domestic violence, sexual assault, human trafficking, and individuals at risk of being threatened or physically harmed",
+   "how_to_apply": "Use a certified Application Assistant or Victim Advocate. The Attorney General can help register applicants where an advocate is unavailable.",
+   "substitute_address": "The published program provides a substitute or designated address.",
+   "record_voter": "The qualified voter file includes the participant identification number. The participant's file information is confidential and exempt from FOIA, but election officials may use it for their duties.",
+   "record_driver_license": "The program provides a corrected driver's license or state ID with the designated address.",
+   "record_school": "The designated address can be used by schools and higher-education institutions when an address is required by public agencies.",
+   "record_vital": "",
+   "real_property_records": "",
+   "property_limit": "",
+   "participant_count": "",
+   "participant_count_as_of": "",
+   "statute": "Michigan Address Confidentiality Program Act, 2020 PA 301, MCL 780.851 et seq.",
+   "program_url": "https://www.michigan.gov/ag/initiatives/address-confidentiality-program",
+   "source": "www.michigan.gov official text",
+   "url": "https://www.michigan.gov/ag/initiatives/address-confidentiality-program/public-agencies",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "eligibility": [
+     {
+      "source": "www.michigan.gov official text",
+      "url": "https://www.michigan.gov/ag/initiatives/address-confidentiality-program/acp-applicants"
+     }
+    ],
+    "program_scope": [
+     {
+      "source": "www.michigan.gov official text",
+      "url": "https://www.michigan.gov/ag/initiatives/address-confidentiality-program/public-agencies"
+     }
+    ],
+    "substitute_address": [
+     {
+      "source": "www.michigan.gov official text",
+      "url": "https://www.michigan.gov/ag/initiatives/address-confidentiality-program/public-agencies"
+     }
+    ],
+    "statute": [
+     {
+      "source": "www.legislature.mi.gov official text",
+      "url": "https://www.legislature.mi.gov/Laws/MCL?objectName=MCL-ACT-301-OF-2020"
+     }
+    ],
+    "administering_office": [
+     {
+      "source": "www.michigan.gov official text",
+      "url": "https://www.michigan.gov/ag/initiatives/address-confidentiality-program"
+     }
+    ],
+    "how_to_apply": [
+     {
+      "source": "www.michigan.gov official text",
+      "url": "https://www.michigan.gov/ag/initiatives/address-confidentiality-program"
+     },
+     {
+      "source": "www.legislature.mi.gov official text",
+      "url": "https://www.legislature.mi.gov/documents/mcl/pdf/mcl-780-855.pdf"
+     }
+    ],
+    "program_status": [
+     {
+      "source": "www.michigan.gov official text",
+      "url": "https://www.michigan.gov/ag/initiatives/address-confidentiality-program/public-agencies"
+     }
+    ],
+    "record_driver_license": [
+     {
+      "source": "www.michigan.gov official text",
+      "url": "https://www.michigan.gov/ag/initiatives/address-confidentiality-program"
+     }
+    ],
+    "record_school": [
+     {
+      "source": "www.michigan.gov official text",
+      "url": "https://www.michigan.gov/ag/initiatives/address-confidentiality-program"
+     }
+    ],
+    "record_voter": [
+     {
+      "source": "www.legislature.mi.gov official text",
+      "url": "https://www.legislature.mi.gov/documents/mcl/pdf/mcl-168-509q.pdf"
+     }
+    ]
+   }
+  },
+  {
+   "id": "minnesota",
+   "state": "Minnesota",
+   "program_name": "Safe at Home",
+   "program_status": "Operational official application route",
+   "administering_office": "Office of the Minnesota Secretary of State",
+   "eligibility": "survivors of domestic violence, sexual assault, stalking, or others who fear for their safety",
+   "how_to_apply": "Every adult interested in applying must meet with a Safe at Home Application Assistant.",
+   "substitute_address": "The published program provides a substitute or designated address.",
+   "record_voter": "An eligible participant may register with the Secretary of State as a permanent absentee voter. The Secretary determines the actual precinct and sends its ballot. Participant names and addresses must not appear in the statewide voter registration system.",
+   "record_driver_license": "The driver-license or ID application may contain the designated Safe at Home address instead of the residence address. The principal-residence documentary requirement for REAL ID has a designated-address exception. This does not decide other credential requirements.",
+   "record_school": "",
+   "record_vital": "",
+   "real_property_records": "The participant must give a Real Property Notice before purchase completion. The official guidance states that retroactive privatization is unavailable.",
+   "property_limit": "The participant must give a Real Property Notice before purchase completion. The official guidance states that retroactive privatization is unavailable.",
+   "participant_count": "",
+   "participant_count_as_of": "",
+   "statute": "Minnesota Statutes Chapter 5B; real-property data in 13.045.",
+   "program_url": "https://www.sos.mn.gov/safe-at-home",
+   "source": "www.sos.mn.gov official text",
+   "url": "https://www.sos.mn.gov/about-the-office/news-room/secretary-of-state-statement-on-hf-3249-improvements-to-safe-at-home-program/",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "eligibility": [
+     {
+      "source": "www.sos.mn.gov official text",
+      "url": "https://www.sos.mn.gov/safe-at-home"
+     }
+    ],
+    "program_scope": [
+     {
+      "source": "www.sos.mn.gov official text",
+      "url": "https://www.sos.mn.gov/about-the-office/news-room/secretary-of-state-statement-on-hf-3249-improvements-to-safe-at-home-program/"
+     }
+    ],
+    "substitute_address": [
+     {
+      "source": "www.sos.mn.gov official text",
+      "url": "https://www.sos.mn.gov/about-the-office/news-room/secretary-of-state-statement-on-hf-3249-improvements-to-safe-at-home-program/"
+     }
+    ],
+    "statute": [
+     {
+      "source": "www.revisor.mn.gov official text",
+      "url": "https://www.revisor.mn.gov/statutes/?id=5B"
+     }
+    ],
+    "administering_office": [
+     {
+      "source": "www.sos.mn.gov official text",
+      "url": "https://www.sos.mn.gov/safe-at-home"
+     }
+    ],
+    "how_to_apply": [
+     {
+      "source": "www.sos.mn.gov official text",
+      "url": "https://www.sos.mn.gov/safe-at-home/enroll-in-safe-at-home/enrollment-process/?searchTerm=tax+id%2F1000"
+     }
+    ],
+    "real_property_records": [
+     {
+      "source": "www.sos.mn.gov official text",
+      "url": "https://www.sos.mn.gov/safe-at-home/about-safe-at-home/real-property-questions/"
+     }
+    ],
+    "property_limit": [
+     {
+      "source": "www.sos.mn.gov official text",
+      "url": "https://www.sos.mn.gov/safe-at-home/about-safe-at-home/real-property-questions/"
+     }
+    ],
+    "program_status": [
+     {
+      "source": "www.sos.mn.gov official text",
+      "url": "https://www.sos.mn.gov/about-the-office/news-room/secretary-of-state-statement-on-hf-3249-improvements-to-safe-at-home-program/"
+     }
+    ],
+    "record_voter": [
+     {
+      "source": "www.revisor.mn.gov official text",
+      "url": "https://www.revisor.mn.gov/statutes/cite/5B/full"
+     }
+    ],
+    "record_driver_license": [
+     {
+      "source": "www.revisor.mn.gov official text",
+      "url": "https://www.revisor.mn.gov/statutes/cite/171.06"
+     },
+     {
+      "source": "www.revisor.mn.gov official text",
+      "url": "https://www.revisor.mn.gov/statutes/cite/171.06"
+     }
+    ]
+   }
+  },
+  {
+   "id": "mississippi",
+   "state": "Mississippi",
+   "program_name": "Address Confidentiality Program",
+   "program_status": "Operational official application route",
+   "administering_office": "Office of the Attorney General",
+   "eligibility": "Mississippi residents who are victims of domestic violence, sexual assault, or stalking.",
+   "how_to_apply": "Complete the ACP application forms and submit them to the Office of the Attorney General.",
+   "substitute_address": "The published program provides a substitute or designated address.",
+   "record_voter": "The official brochure lists voter registration among substitute-address uses.",
+   "record_driver_license": "The official brochure lists Mississippi driver's licenses among substitute-address uses.",
+   "record_school": "The official brochure lists children's public-school enrollment among substitute-address uses.",
+   "record_vital": "",
+   "real_property_records": "",
+   "property_limit": "",
+   "participant_count": "",
+   "participant_count_as_of": "",
+   "statute": "Mississippi Code Annotated 99-47-1, implemented by Attorney General Chapter 07 ACP rules.",
+   "program_url": "https://attorneygenerallynnfitch.com/divisions/bureau-of-victim-assistance/",
+   "source": "attorneygenerallynnfitch.com official text",
+   "url": "https://attorneygenerallynnfitch.com/wp-content/uploads/2020/07/Walking-Away-brochure-ACP.pdf",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "eligibility": [
+     {
+      "source": "www.sos.ms.gov official text",
+      "url": "https://www.sos.ms.gov/adminsearch/ACCode/00000267c.pdf"
+     }
+    ],
+    "program_scope": [
+     {
+      "source": "attorneygenerallynnfitch.com official text",
+      "url": "https://attorneygenerallynnfitch.com/wp-content/uploads/2020/07/Walking-Away-brochure-ACP.pdf"
+     }
+    ],
+    "substitute_address": [
+     {
+      "source": "attorneygenerallynnfitch.com official text",
+      "url": "https://attorneygenerallynnfitch.com/wp-content/uploads/2020/07/Walking-Away-brochure-ACP.pdf"
+     }
+    ],
+    "statute": [
+     {
+      "source": "www.sos.ms.gov official text",
+      "url": "https://www.sos.ms.gov/adminsearch/ACCode/00000267c.pdf"
+     }
+    ],
+    "administering_office": [
+     {
+      "source": "www.sos.ms.gov official text",
+      "url": "https://www.sos.ms.gov/adminsearch/ACCode/00000267c.pdf"
+     }
+    ],
+    "how_to_apply": [
+     {
+      "source": "www.sos.ms.gov official text",
+      "url": "https://www.sos.ms.gov/adminsearch/ACCode/00000267c.pdf"
+     }
+    ],
+    "program_status": [
+     {
+      "source": "attorneygenerallynnfitch.com official text",
+      "url": "https://attorneygenerallynnfitch.com/wp-content/uploads/2020/07/Walking-Away-brochure-ACP.pdf"
+     }
+    ],
+    "record_voter": [
+     {
+      "source": "attorneygenerallynnfitch.com official text",
+      "url": "https://attorneygenerallynnfitch.com/wp-content/uploads/2020/07/Walking-Away-brochure-ACP.pdf"
+     }
+    ],
+    "record_driver_license": [
+     {
+      "source": "attorneygenerallynnfitch.com official text",
+      "url": "https://attorneygenerallynnfitch.com/wp-content/uploads/2020/07/Walking-Away-brochure-ACP.pdf"
+     }
+    ],
+    "record_school": [
+     {
+      "source": "attorneygenerallynnfitch.com official text",
+      "url": "https://attorneygenerallynnfitch.com/wp-content/uploads/2020/07/Walking-Away-brochure-ACP.pdf"
+     }
+    ]
+   }
+  },
+  {
+   "id": "missouri",
+   "state": "Missouri",
+   "program_name": "Safe at Home",
+   "program_status": "Operational official application route",
+   "administering_office": "Missouri Secretary of State's Office",
+   "eligibility": "victims of domestic violence, rape, sexual assault, human trafficking, stalking, or other crimes who fear for safety; their minor children and household members",
+   "how_to_apply": "Meet in person with a registered Application Assistant.",
+   "substitute_address": "The published program provides a substitute or designated address.",
+   "record_voter": "The substitute address can be used on new voter registration records.",
+   "record_driver_license": "The substitute address can be used on new driver's license, non-driver's license, and vehicle registration records.",
+   "record_school": "The substitute address can be used on new public-school records.",
+   "record_vital": "",
+   "real_property_records": "",
+   "property_limit": "",
+   "participant_count": 4209,
+   "participant_count_as_of": "2025-08-28",
+   "statute": "Missouri Revised Statutes 589.660 through 589.681.",
+   "program_url": "https://www.sos.mo.gov/business/safeathome/about",
+   "source": "www.sos.mo.gov official text",
+   "url": "https://www.sos.mo.gov/business/safeathome/about",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "eligibility": [
+     {
+      "source": "www.sos.mo.gov official text",
+      "url": "https://www.sos.mo.gov/business/safeathome/about"
+     }
+    ],
+    "program_scope": [
+     {
+      "source": "www.sos.mo.gov official text",
+      "url": "https://www.sos.mo.gov/business/safeathome/about"
+     }
+    ],
+    "substitute_address": [
+     {
+      "source": "www.sos.mo.gov official text",
+      "url": "https://www.sos.mo.gov/business/safeathome/about"
+     }
+    ],
+    "statute": [
+     {
+      "source": "www.revisor.mo.gov official text",
+      "url": "https://www.revisor.mo.gov/main/OneSection.aspx?section=589.660"
+     }
+    ],
+    "participant_count": [
+     {
+      "source": "www.sos.mo.gov official text",
+      "url": "https://www.sos.mo.gov/default.aspx?PageId=10561"
+     }
+    ],
+    "participant_count_as_of": [
+     {
+      "source": "www.sos.mo.gov official text",
+      "url": "https://www.sos.mo.gov/default.aspx?PageId=10561"
+     }
+    ],
+    "administering_office": [
+     {
+      "source": "www.sos.mo.gov official text",
+      "url": "https://www.sos.mo.gov/default.aspx?PageId=10561"
+     }
+    ],
+    "how_to_apply": [
+     {
+      "source": "www.sos.mo.gov official text",
+      "url": "https://www.sos.mo.gov/business/safeathome/applicationassistants"
+     }
+    ],
+    "program_status": [
+     {
+      "source": "www.sos.mo.gov official text",
+      "url": "https://www.sos.mo.gov/business/safeathome/about"
+     }
+    ],
+    "record_voter": [
+     {
+      "source": "www.sos.mo.gov official text",
+      "url": "https://www.sos.mo.gov/business/safeathome/about"
+     }
+    ],
+    "record_driver_license": [
+     {
+      "source": "www.sos.mo.gov official text",
+      "url": "https://www.sos.mo.gov/business/safeathome/about"
+     }
+    ],
+    "record_school": [
+     {
+      "source": "www.sos.mo.gov official text",
+      "url": "https://www.sos.mo.gov/business/safeathome/about"
+     }
+    ]
+   }
+  },
+  {
+   "id": "montana",
+   "state": "Montana",
+   "program_name": "Address Confidentiality Program",
+   "program_status": "Operational official application route",
+   "administering_office": "Office of Victim Services, Address Confidentiality Program",
+   "eligibility": "Montana residents who are victims of partner or family member assault, sexual assault, stalking, human trafficking, or eligible to apply for an order of protection",
+   "how_to_apply": "Mail, email, or fax the application and supporting documentation to the Office of Victim Services ACP.",
+   "substitute_address": "The statute provides a substitute address for official purposes and receipt and forwarding of service of process and mail.",
+   "record_voter": "",
+   "record_driver_license": "",
+   "record_school": "",
+   "record_vital": "",
+   "real_property_records": "",
+   "property_limit": "",
+   "participant_count": "",
+   "participant_count_as_of": "",
+   "statute": "Montana Code Annotated 40-15-115, Policy and program.",
+   "program_url": "https://dojmt.gov/victim-services/address-confidentiality-program/",
+   "source": "mca.legmt.gov official text",
+   "url": "https://mca.legmt.gov/bills/mca/title_0400/chapter_0150/part_0010/section_0150/0400-0150-0010-0150.html",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "eligibility": [
+     {
+      "source": "dojmt.gov official text",
+      "url": "https://dojmt.gov/victim-services/address-confidentiality-program/"
+     }
+    ],
+    "program_scope": [
+     {
+      "source": "mca.legmt.gov official text",
+      "url": "https://mca.legmt.gov/bills/mca/title_0400/chapter_0150/part_0010/section_0150/0400-0150-0010-0150.html"
+     }
+    ],
+    "substitute_address": [
+     {
+      "source": "mca.legmt.gov official text",
+      "url": "https://mca.legmt.gov/bills/mca/title_0400/chapter_0150/part_0010/section_0150/0400-0150-0010-0150.html"
+     }
+    ],
+    "statute": [
+     {
+      "source": "mca.legmt.gov official text",
+      "url": "https://mca.legmt.gov/bills/mca/title_0400/chapter_0150/part_0010/section_0150/0400-0150-0010-0150.html"
+     }
+    ],
+    "administering_office": [
+     {
+      "source": "dojmt.gov official text",
+      "url": "https://dojmt.gov/victim-services/address-confidentiality-program/"
+     }
+    ],
+    "how_to_apply": [
+     {
+      "source": "dojmt.gov official text",
+      "url": "https://dojmt.gov/victim-services/address-confidentiality-program/"
+     }
+    ],
+    "program_status": [
+     {
+      "source": "mca.legmt.gov official text",
+      "url": "https://mca.legmt.gov/bills/mca/title_0400/chapter_0150/part_0010/section_0150/0400-0150-0010-0150.html"
+     }
+    ]
+   }
+  },
+  {
+   "id": "nebraska",
+   "state": "Nebraska",
+   "program_name": "Address Confidentiality Program",
+   "program_status": "Operational official application route",
+   "administering_office": "Secretary of State's Office",
+   "eligibility": "victims of abuse, sexual assault, kidnapping, stalking or trafficking who fear for safety; qualifying parent or guardian applications for minors or incapacitated persons",
+   "how_to_apply": "Apply in person at a designated victim assistance center. The Secretary of State's Office does not accept applications directly.",
+   "substitute_address": "The published program provides a substitute or designated address.",
+   "record_voter": "A participant may file an affidavit with the election commissioner or county clerk for confidentiality of name, residence address, and telephone number, with statutory absentee voting.",
+   "record_driver_license": "",
+   "record_school": "",
+   "record_vital": "",
+   "real_property_records": "",
+   "property_limit": "",
+   "participant_count": "",
+   "participant_count_as_of": "",
+   "statute": "Nebraska Revised Statutes 42-1201 through 42-1210, the Address Confidentiality Act.",
+   "program_url": "https://sos.nebraska.gov/business-services/address-confidentiality-program",
+   "source": "sos.nebraska.gov official text",
+   "url": "https://sos.nebraska.gov/business-services/address-confidentiality-program",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "eligibility": [
+     {
+      "source": "nebraskalegislature.gov official text",
+      "url": "https://nebraskalegislature.gov/laws/display_html.php?begin_section=42-1201&end_section=42-1210"
+     }
+    ],
+    "program_scope": [
+     {
+      "source": "sos.nebraska.gov official text",
+      "url": "https://sos.nebraska.gov/business-services/address-confidentiality-program"
+     }
+    ],
+    "substitute_address": [
+     {
+      "source": "sos.nebraska.gov official text",
+      "url": "https://sos.nebraska.gov/business-services/address-confidentiality-program"
+     }
+    ],
+    "statute": [
+     {
+      "source": "nebraskalegislature.gov official text",
+      "url": "https://nebraskalegislature.gov/laws/statutes.php?statute=42-1201"
+     }
+    ],
+    "administering_office": [
+     {
+      "source": "sos.nebraska.gov official text",
+      "url": "https://sos.nebraska.gov/business-services/address-confidentiality-program"
+     }
+    ],
+    "how_to_apply": [
+     {
+      "source": "sos.nebraska.gov official text",
+      "url": "https://sos.nebraska.gov/business-services/address-confidentiality-program"
+     }
+    ],
+    "program_status": [
+     {
+      "source": "sos.nebraska.gov official text",
+      "url": "https://sos.nebraska.gov/business-services/address-confidentiality-program"
+     }
+    ],
+    "record_voter": [
+     {
+      "source": "www.nebraskalegislature.gov official text",
+      "url": "https://www.nebraskalegislature.gov/laws/laws-index/chap32-full.html"
+     }
+    ]
+   }
+  },
+  {
+   "id": "nevada",
+   "state": "Nevada",
+   "program_name": "Confidential Address Program",
+   "program_status": "Operational official application route",
+   "administering_office": "Division of Child and Family Services",
+   "eligibility": "victims of domestic violence, sexual assault, human trafficking and/or stalking",
+   "how_to_apply": "Meet in person with a CAP Certified Advocate.",
+   "substitute_address": "The published program provides a substitute or designated address.",
+   "record_voter": "Voter registration record protection is an express component of CAP.",
+   "record_driver_license": "",
+   "record_school": "For qualifying interdistrict enrollment, the Division confirms whether the pupil and resident parent or guardian participate in CAP. It must not provide other information.",
+   "record_vital": "",
+   "real_property_records": "",
+   "property_limit": "",
+   "participant_count": "",
+   "participant_count_as_of": "",
+   "statute": "NRS 217.462 through 217.471, as reproduced on the official CAP statutes and regulations page.",
+   "program_url": "https://www.dcfs.nv.gov/Programs/CAP/",
+   "source": "www.dcfs.nv.gov official text",
+   "url": "https://www.dcfs.nv.gov/Programs/CAP/",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "eligibility": [
+     {
+      "source": "www.dcfs.nv.gov official text",
+      "url": "https://www.dcfs.nv.gov/Programs/CAP/"
+     }
+    ],
+    "program_scope": [
+     {
+      "source": "www.dcfs.nv.gov official text",
+      "url": "https://www.dcfs.nv.gov/Programs/CAP/"
+     }
+    ],
+    "substitute_address": [
+     {
+      "source": "www.dcfs.nv.gov official text",
+      "url": "https://www.dcfs.nv.gov/Programs/CAP/"
+     }
+    ],
+    "statute": [
+     {
+      "source": "www.dcfs.nv.gov official text",
+      "url": "https://www.dcfs.nv.gov/Programs/CAP/statutes-and-regulations/"
+     }
+    ],
+    "administering_office": [
+     {
+      "source": "www.dcfs.nv.gov official text",
+      "url": "https://www.dcfs.nv.gov/Programs/CAP/"
+     }
+    ],
+    "how_to_apply": [
+     {
+      "source": "www.dcfs.nv.gov official text",
+      "url": "https://www.dcfs.nv.gov/Programs/CAP/"
+     }
+    ],
+    "program_status": [
+     {
+      "source": "www.dcfs.nv.gov official text",
+      "url": "https://www.dcfs.nv.gov/Programs/CAP/"
+     }
+    ],
+    "record_voter": [
+     {
+      "source": "www.dcfs.nv.gov official text",
+      "url": "https://www.dcfs.nv.gov/Programs/CAP/"
+     }
+    ],
+    "record_school": [
+     {
+      "source": "www.dcfs.nv.gov official text",
+      "url": "https://www.dcfs.nv.gov/Programs/CAP/statutes-and-regulations/"
+     }
+    ]
+   }
+  },
+  {
+   "id": "new-hampshire",
+   "state": "New Hampshire",
+   "program_name": "Address Confidentiality Program",
+   "program_status": "Operational official application route",
+   "administering_office": "Attorney General's Office",
+   "eligibility": "victims of domestic violence, stalking, or sexual assault who fear for their safety; qualifying applications for minors and incapacitated persons",
+   "how_to_apply": "Contact the nearest crisis center. An advocate assists with the application.",
+   "substitute_address": "The published program provides a substitute or designated address.",
+   "record_voter": "The official guide lists voting and voter registration among substitute-address uses.",
+   "record_driver_license": "The official guide lists driver's licenses and motor vehicle titles and registrations among substitute-address uses.",
+   "record_school": "The official guide lists children's school registration among substitute-address uses.",
+   "record_vital": "",
+   "real_property_records": "",
+   "property_limit": "",
+   "participant_count": "",
+   "participant_count_as_of": "",
+   "statute": "New Hampshire RSA 7:41 through 7:48.",
+   "program_url": "https://www.doj.nh.gov/bureaus/office-victimwitness-assistance/address-confidentiality-program",
+   "source": "www.doj.nh.gov official text",
+   "url": "https://www.doj.nh.gov/sites/g/files/ehbemt721/files/inline-documents/sonh/sexual-assault-survivors-booklet.pdf",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "eligibility": [
+     {
+      "source": "gc.nh.gov official text",
+      "url": "https://gc.nh.gov/rsa/html/I/7/7-43.htm"
+     }
+    ],
+    "program_scope": [
+     {
+      "source": "www.doj.nh.gov official text",
+      "url": "https://www.doj.nh.gov/sites/g/files/ehbemt721/files/inline-documents/sonh/sexual-assault-survivors-booklet.pdf"
+     }
+    ],
+    "substitute_address": [
+     {
+      "source": "www.doj.nh.gov official text",
+      "url": "https://www.doj.nh.gov/sites/g/files/ehbemt721/files/inline-documents/sonh/sexual-assault-survivors-booklet.pdf"
+     }
+    ],
+    "statute": [
+     {
+      "source": "gc.nh.gov official text",
+      "url": "https://gc.nh.gov/rsa/html/I/7/7-41.htm"
+     }
+    ],
+    "administering_office": [
+     {
+      "source": "mm.nh.gov official text",
+      "url": "https://mm.nh.gov/files/uploads/doj/remote-docs/law-enforcement-protocol.pdf"
+     }
+    ],
+    "how_to_apply": [
+     {
+      "source": "www.doj.nh.gov official text",
+      "url": "https://www.doj.nh.gov/sites/g/files/ehbemt721/files/inline-documents/sonh/sexual-assault-survivors-booklet.pdf"
+     }
+    ],
+    "program_status": [
+     {
+      "source": "www.doj.nh.gov official text",
+      "url": "https://www.doj.nh.gov/sites/g/files/ehbemt721/files/inline-documents/sonh/sexual-assault-survivors-booklet.pdf"
+     }
+    ],
+    "record_voter": [
+     {
+      "source": "www.doj.nh.gov official text",
+      "url": "https://www.doj.nh.gov/sites/g/files/ehbemt721/files/inline-documents/sonh/sexual-assault-survivors-booklet.pdf"
+     }
+    ],
+    "record_driver_license": [
+     {
+      "source": "www.doj.nh.gov official text",
+      "url": "https://www.doj.nh.gov/sites/g/files/ehbemt721/files/inline-documents/sonh/sexual-assault-survivors-booklet.pdf"
+     }
+    ],
+    "record_school": [
+     {
+      "source": "www.doj.nh.gov official text",
+      "url": "https://www.doj.nh.gov/sites/g/files/ehbemt721/files/inline-documents/sonh/sexual-assault-survivors-booklet.pdf"
+     }
+    ]
+   }
+  },
+  {
+   "id": "new-jersey",
+   "state": "New Jersey",
+   "program_name": "Address Confidentiality Program",
+   "program_status": "Operational official application route",
+   "administering_office": "Department of Children and Families, Division on Women",
+   "eligibility": "A reproductive health service patient or provider, a victim of domestic violence, sexual assault, or stalking, a person who has applied for a qualifying sexual-assault protection order, or a family member. The adopted rules define reproductive providers to include specified employees, volunteers, and contractors.",
+   "how_to_apply": "Use a participating victim service agency or private entity for enrollment assistance.",
+   "substitute_address": "The published program provides a substitute or designated address.",
+   "record_voter": "",
+   "record_driver_license": "The official brochure identifies a driver's license among the new government records using the legal substitute address.",
+   "record_school": "",
+   "record_vital": "",
+   "real_property_records": "",
+   "property_limit": "",
+   "participant_count": "",
+   "participant_count_as_of": "",
+   "statute": "N.J.S.A. 47:4-1 et seq.; N.J.A.C. 3A:71, readopted with amendments in 2024.",
+   "program_url": "https://nj.gov/dcf/divisions-offices/dow/acp.shtml",
+   "source": "nj.gov official text",
+   "url": "https://nj.gov/dcf/divisions-offices/dow/acp.shtml",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "eligibility": [
+     {
+      "source": "www.nj.gov official text",
+      "url": "https://www.nj.gov/dcf/providers/notices/N.J.A.C.3A.71-Readoption.pdf"
+     }
+    ],
+    "program_scope": [
+     {
+      "source": "nj.gov official text",
+      "url": "https://nj.gov/dcf/divisions-offices/dow/acp.shtml"
+     }
+    ],
+    "substitute_address": [
+     {
+      "source": "nj.gov official text",
+      "url": "https://nj.gov/dcf/divisions-offices/dow/acp.shtml"
+     }
+    ],
+    "statute": [
+     {
+      "source": "www.nj.gov official text",
+      "url": "https://www.nj.gov/dcf/providers/notices/N.J.A.C.3A.71-Readoption.pdf"
+     }
+    ],
+    "administering_office": [
+     {
+      "source": "www.nj.gov official text",
+      "url": "https://www.nj.gov/dcf/providers/notices/N.J.A.C.3A.71-Readoption.pdf"
+     },
+     {
+      "source": "www.nj.gov official text",
+      "url": "https://www.nj.gov/dcf/providers/notices/N.J.A.C.3A.71-Readoption.pdf"
+     }
+    ],
+    "how_to_apply": [
+     {
+      "source": "nj.gov official text",
+      "url": "https://nj.gov/dcf/divisions-offices/dow/acp.shtml"
+     }
+    ],
+    "program_status": [
+     {
+      "source": "nj.gov official text",
+      "url": "https://nj.gov/dcf/divisions-offices/dow/acp.shtml"
+     }
+    ],
+    "record_driver_license": [
+     {
+      "source": "www.nj.gov official text",
+      "url": "https://www.nj.gov/dcf/news/publications/ACP.Brochure.pdf"
+     }
+    ]
+   }
+  },
+  {
+   "id": "new-mexico",
+   "state": "New Mexico",
+   "program_name": "Safe at Home",
+   "program_status": "Operational official application route",
+   "administering_office": "Secretary of State",
+   "eligibility": "Survivors of domestic violence, sexual assault, attempted sexual assault, or stalking. Applicants must live in New Mexico or be moving there within the published 90-day period.",
+   "how_to_apply": "Complete the packet forms in an Application Assistant's presence. Notarize them with both present. The assistant submits them to the Secretary of State.",
+   "substitute_address": "Participants may use the Secretary of State's address as a substitute for their own to receive mail.",
+   "record_voter": "Eligible participants may use confidential voter registration and permanent absentee-ballot procedures through the Secretary of State.",
+   "record_driver_license": "",
+   "record_school": "The school must accept the substitute address upon presentation of the signature card. Safe at Home staff verify enrollment eligibility.",
+   "record_vital": "",
+   "real_property_records": "",
+   "property_limit": "",
+   "participant_count": "",
+   "participant_count_as_of": "",
+   "statute": "Confidential Substitute Address Act, NMSA 1978, Chapter 40, Article 13B. The retained 2023 chaptered law reenacts the short title at 40-13B-1.",
+   "program_url": "https://www.sos.nm.gov/safe-at-home/",
+   "source": "www.sos.nm.gov official text",
+   "url": "https://www.sos.nm.gov/safe-at-home/",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "eligibility": [
+     {
+      "source": "www.sos.nm.gov official text",
+      "url": "https://www.sos.nm.gov/wp-content/uploads/2026/04/SAH-Application-Packet.pdf"
+     }
+    ],
+    "program_scope": [
+     {
+      "source": "www.sos.nm.gov official text",
+      "url": "https://www.sos.nm.gov/safe-at-home/"
+     }
+    ],
+    "substitute_address": [
+     {
+      "source": "www.sos.nm.gov official text",
+      "url": "https://www.sos.nm.gov/safe-at-home/"
+     }
+    ],
+    "statute": [
+     {
+      "source": "www.nmlegis.gov official text",
+      "url": "https://www.nmlegis.gov/Sessions/23%20Regular/final/SB0180.PDF"
+     },
+     {
+      "source": "www.nmlegis.gov official text",
+      "url": "https://www.nmlegis.gov/Legislation/Legislation?Chamber=S&LegNo=180&LegType=B&year=23"
+     }
+    ],
+    "administering_office": [
+     {
+      "source": "www.sos.nm.gov official text",
+      "url": "https://www.sos.nm.gov/safe-at-home/"
+     }
+    ],
+    "how_to_apply": [
+     {
+      "source": "www.sos.nm.gov official text",
+      "url": "https://www.sos.nm.gov/safe-at-home/safe-at-home-eligibility-faqs-and-resources/"
+     }
+    ],
+    "program_status": [
+     {
+      "source": "www.sos.nm.gov official text",
+      "url": "https://www.sos.nm.gov/safe-at-home/"
+     }
+    ],
+    "record_voter": [
+     {
+      "source": "www.sos.nm.gov official text",
+      "url": "https://www.sos.nm.gov/safe-at-home/safe-at-home-eligibility-faqs-and-resources/"
+     }
+    ],
+    "record_school": [
+     {
+      "source": "www.sos.nm.gov official text",
+      "url": "https://www.sos.nm.gov/safe-at-home/safe-at-home-eligibility-faqs-and-resources/"
+     }
+    ]
+   }
+  },
+  {
+   "id": "new-york",
+   "state": "New York",
+   "program_name": "Address Confidentiality Program",
+   "program_status": "Operational official application route",
+   "administering_office": "Office of the Secretary of State",
+   "eligibility": "Victims of domestic violence, human trafficking, kidnapping, sexual offenses, or stalking; reproductive healthcare providers, employees, volunteers, or patients; specified immediate family members; and qualifying household members. The statute includes safety and representative-application requirements.",
+   "how_to_apply": "New participants may apply online. Applicants may mail, email, or fax the PDF application, request a paper copy, or use an Application Assistance Provider.",
+   "substitute_address": "The published program provides a substitute or designated address.",
+   "record_voter": "Participants may register confidentially using the Statement of Confidential Voter and must contact their county Board of Elections.",
+   "record_driver_license": "",
+   "record_school": "",
+   "record_vital": "",
+   "real_property_records": "",
+   "property_limit": "",
+   "participant_count": "",
+   "participant_count_as_of": "",
+   "statute": "New York Executive Law 108.",
+   "program_url": "https://dos.ny.gov/ACP",
+   "source": "dos.ny.gov official text",
+   "url": "https://dos.ny.gov/node/81586",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "eligibility": [
+     {
+      "source": "www.nysenate.gov official text",
+      "url": "https://www.nysenate.gov/legislation/laws/EXC/108"
+     },
+     {
+      "source": "www.nysenate.gov official text",
+      "url": "https://www.nysenate.gov/legislation/laws/EXC/108"
+     }
+    ],
+    "program_scope": [
+     {
+      "source": "dos.ny.gov official text",
+      "url": "https://dos.ny.gov/node/81586"
+     }
+    ],
+    "substitute_address": [
+     {
+      "source": "dos.ny.gov official text",
+      "url": "https://dos.ny.gov/node/81586"
+     }
+    ],
+    "statute": [
+     {
+      "source": "www.nysenate.gov official text",
+      "url": "https://www.nysenate.gov/legislation/laws/EXC/108"
+     }
+    ],
+    "administering_office": [
+     {
+      "source": "www.nysenate.gov official text",
+      "url": "https://www.nysenate.gov/legislation/laws/EXC/108"
+     }
+    ],
+    "how_to_apply": [
+     {
+      "source": "dos.ny.gov official text",
+      "url": "https://dos.ny.gov/how-apply-acp"
+     }
+    ],
+    "program_status": [
+     {
+      "source": "dos.ny.gov official text",
+      "url": "https://dos.ny.gov/node/81586"
+     }
+    ],
+    "record_voter": [
+     {
+      "source": "dos.ny.gov official text",
+      "url": "https://dos.ny.gov/ACP"
+     }
+    ]
+   }
+  },
+  {
+   "id": "north-carolina",
+   "state": "North Carolina",
+   "program_name": "Address Confidentiality Program",
+   "program_status": "Operational official application route",
+   "administering_office": "Office of the Attorney General",
+   "eligibility": "survivors of domestic violence, sexual assault, stalking, and human trafficking",
+   "how_to_apply": "Talk to an Application Assistant at a domestic violence or sexual assault center.",
+   "substitute_address": "The Attorney General's office designates a substitute address and forwards first-class mail.",
+   "record_voter": "Participants may use the substitute address to register to vote. The separate ACP voter-card and safety-statement procedure applies.",
+   "record_driver_license": "Participants may use the substitute address to obtain a driver's license.",
+   "record_school": "The local school unit uses the actual address for admission or assignment and keeps it confidential. Student records created under Chapter 115C must use the substitute address.",
+   "record_vital": "",
+   "real_property_records": "The substitute address cannot be used for listing, appraisal or assessment of property taxes. It also cannot be used by a register of deeds on recorded documents or for the specified land-registration index.",
+   "property_limit": "",
+   "participant_count": "More than 1,000, as stated on the undated official program page.",
+   "participant_count_as_of": "Count date not stated; official page retrieved 2026-10-24.",
+   "statute": "North Carolina General Statutes Chapter 15C.",
+   "program_url": "https://ncdoj.gov/public-protection/acp/",
+   "source": "ncdoj.gov official text",
+   "url": "https://ncdoj.gov/public-protection/acp/",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "eligibility": [
+     {
+      "source": "ncdoj.gov official text",
+      "url": "https://ncdoj.gov/public-protection/acp/"
+     }
+    ],
+    "program_scope": [
+     {
+      "source": "ncdoj.gov official text",
+      "url": "https://ncdoj.gov/public-protection/acp/"
+     }
+    ],
+    "substitute_address": [
+     {
+      "source": "ncdoj.gov official text",
+      "url": "https://ncdoj.gov/public-protection/acp/"
+     }
+    ],
+    "statute": [
+     {
+      "source": "www.ncleg.gov official text",
+      "url": "https://www.ncleg.gov/Laws/GeneralStatuteSections/Chapter15C"
+     }
+    ],
+    "participant_count": [
+     {
+      "source": "ncdoj.gov official text",
+      "url": "https://ncdoj.gov/public-protection/acp/"
+     }
+    ],
+    "administering_office": [
+     {
+      "source": "ncdoj.gov official text",
+      "url": "https://ncdoj.gov/public-protection/acp/"
+     }
+    ],
+    "how_to_apply": [
+     {
+      "source": "ncdoj.gov official text",
+      "url": "https://ncdoj.gov/public-protection/acp/"
+     }
+    ],
+    "program_status": [
+     {
+      "source": "ncdoj.gov official text",
+      "url": "https://ncdoj.gov/public-protection/acp/"
+     }
+    ],
+    "record_voter": [
+     {
+      "source": "ncdoj.gov official text",
+      "url": "https://ncdoj.gov/public-protection/acp/"
+     }
+    ],
+    "record_driver_license": [
+     {
+      "source": "ncdoj.gov official text",
+      "url": "https://ncdoj.gov/public-protection/acp/"
+     }
+    ],
+    "record_school": [
+     {
+      "source": "www.ncleg.gov official text",
+      "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_15C.html"
+     }
+    ],
+    "real_property_records": [
+     {
+      "source": "www.ncleg.gov official text",
+      "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_15C.html"
+     }
+    ]
+   }
+  },
+  {
+   "id": "north-dakota",
+   "state": "North Dakota",
+   "program_name": "No statewide route identified in the checked official sources",
+   "program_status": "No statewide enrollment route identified in the reviewed Secretary of State and Attorney General sources as of October24,2026. This is not proof of legal nonexistence.",
+   "administering_office": "",
+   "eligibility": "",
+   "how_to_apply": "",
+   "substitute_address": "",
+   "record_voter": "",
+   "record_driver_license": "",
+   "record_school": "",
+   "record_vital": "",
+   "real_property_records": "",
+   "property_limit": "",
+   "participant_count": "",
+   "participant_count_as_of": "",
+   "statute": "",
+   "program_url": "",
+   "source": "Secretary of State official website and Attorney General office review",
+   "url": "https://www.sos.nd.gov/",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "program_status": [
+     {
+      "source": "Secretary of State official website",
+      "url": "https://www.sos.nd.gov/"
+     },
+     {
+      "source": "Attorney General official website",
+      "url": "https://attorneygeneral.nd.gov/"
+     }
+    ]
+   }
+  },
+  {
+   "id": "ohio",
+   "state": "Ohio",
+   "program_name": "Safe at Home",
+   "program_status": "Operational official application route",
+   "administering_office": "Secretary of State",
+   "eligibility": "survivors, or people living with survivors, of domestic violence, human trafficking, rape, sexual battery, or menacing by stalking",
+   "how_to_apply": "Apply through a certified Application Assistant.",
+   "substitute_address": "The published program provides a substitute or designated address.",
+   "record_voter": "Confidential voter registration forms protect the participant's name and address.",
+   "record_driver_license": "The Bureau of Motor Vehicles may replace the driver's license or state-ID address with the Secretary of State's address.",
+   "record_school": "A participant may request that a nongovernment school or higher-education institution use the designated address and present the authorization card as proof. This provision does not impose an unconditional private-school acceptance duty.",
+   "record_vital": "",
+   "real_property_records": "A certified participant who acquires real property after the statutory trigger may submit a real-property confidentiality notice to the county recorder. This is a separate statutory procedure.",
+   "property_limit": "A certified participant who acquires real property after the statutory trigger may submit a real-property confidentiality notice to the county recorder. This is a separate statutory procedure.",
+   "participant_count": "",
+   "participant_count_as_of": "",
+   "statute": "Ohio Revised Code 111.41-111.47, including real-property notice Section 111.431.",
+   "program_url": "https://www.ohiosos.gov/public-integrity/safe-at-home",
+   "source": "www.ohiosos.gov official text",
+   "url": "https://www.ohiosos.gov/public-integrity/safe-at-home/frequently-asked-questions",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "eligibility": [
+     {
+      "source": "www.ohiosos.gov official text",
+      "url": "https://www.ohiosos.gov/public-integrity/safe-at-home/frequently-asked-questions"
+     }
+    ],
+    "program_scope": [
+     {
+      "source": "www.ohiosos.gov official text",
+      "url": "https://www.ohiosos.gov/public-integrity/safe-at-home/frequently-asked-questions"
+     }
+    ],
+    "substitute_address": [
+     {
+      "source": "www.ohiosos.gov official text",
+      "url": "https://www.ohiosos.gov/public-integrity/safe-at-home/frequently-asked-questions"
+     }
+    ],
+    "statute": [
+     {
+      "source": "www.ohiosos.gov official text",
+      "url": "https://www.ohiosos.gov/public-integrity/safe-at-home"
+     }
+    ],
+    "administering_office": [
+     {
+      "source": "codes.ohio.gov official text",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-111.42"
+     }
+    ],
+    "how_to_apply": [
+     {
+      "source": "www.ohiosos.gov official text",
+      "url": "https://www.ohiosos.gov/public-integrity/safe-at-home"
+     }
+    ],
+    "real_property_records": [
+     {
+      "source": "codes.ohio.gov official text",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-section-111.43"
+     }
+    ],
+    "property_limit": [
+     {
+      "source": "codes.ohio.gov official text",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-section-111.43"
+     }
+    ],
+    "program_status": [
+     {
+      "source": "www.ohiosos.gov official text",
+      "url": "https://www.ohiosos.gov/public-integrity/safe-at-home/frequently-asked-questions"
+     }
+    ],
+    "record_voter": [
+     {
+      "source": "www.ohiosos.gov official text",
+      "url": "https://www.ohiosos.gov/public-integrity/safe-at-home/frequently-asked-questions"
+     }
+    ],
+    "record_driver_license": [
+     {
+      "source": "www.ohiosos.gov official text",
+      "url": "https://www.ohiosos.gov/public-integrity/safe-at-home/frequently-asked-questions"
+     }
+    ],
+    "record_school": [
+     {
+      "source": "codes.ohio.gov official text",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-111.43"
+     }
+    ]
+   }
+  },
+  {
+   "id": "oklahoma",
+   "state": "Oklahoma",
+   "program_name": "Address Confidentiality Program",
+   "program_status": "Operational official application route",
+   "administering_office": "Office of the Attorney General",
+   "eligibility": "victims of domestic violence, sexual assault, stalking, human trafficking, and child abduction",
+   "how_to_apply": "Apply in person through a designated victim assistance program.",
+   "substitute_address": "The published program provides a substitute or designated address.",
+   "record_voter": "Eligible participants may apply for absentee voting. Neither their name nor address appears on public registered-voter lists.",
+   "record_driver_license": "Service Oklahoma's procedure uses a valid, unexpired Oklahoma ACP card. It uses the card's PO box for both the mailing and residential fields and the authorization number as the unit number. Cards from other states are not accepted under this procedure.",
+   "record_school": "Schools must accept the substitute address upon presentation of the authorization card. ACP staff verify enrollment and transfer records.",
+   "record_vital": "",
+   "real_property_records": "",
+   "property_limit": "",
+   "participant_count": "",
+   "participant_count_as_of": "",
+   "statute": "22 Oklahoma Statutes 60.14.",
+   "program_url": "https://oklahoma.gov/oag/about/divisions/victim-advocacy-and-services-unit/acp.html",
+   "source": "oklahoma.gov official text",
+   "url": "https://oklahoma.gov/oag/about/divisions/victim-advocacy-and-services-unit/acp.html",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "eligibility": [
+     {
+      "source": "oklahoma.gov official text",
+      "url": "https://oklahoma.gov/oag/about/divisions/victim-advocacy-and-services-unit/acp.html"
+     }
+    ],
+    "program_scope": [
+     {
+      "source": "oklahoma.gov official text",
+      "url": "https://oklahoma.gov/oag/about/divisions/victim-advocacy-and-services-unit/acp.html"
+     }
+    ],
+    "substitute_address": [
+     {
+      "source": "oklahoma.gov official text",
+      "url": "https://oklahoma.gov/oag/about/divisions/victim-advocacy-and-services-unit/acp.html"
+     }
+    ],
+    "statute": [
+     {
+      "source": "oklahoma.gov official text",
+      "url": "https://oklahoma.gov/content/dam/service-oklahoma/intranet/job-resources/sops/c--driver-license---other-transactions/C.06%20-%20Address%20Confidentiality%20Program.pdf"
+     }
+    ],
+    "administering_office": [
+     {
+      "source": "oklahoma.gov official text",
+      "url": "https://oklahoma.gov/oag/about/divisions/victim-advocacy-and-services-unit/acp.html"
+     }
+    ],
+    "how_to_apply": [
+     {
+      "source": "oklahoma.gov official text",
+      "url": "https://oklahoma.gov/oag/about/divisions/victim-advocacy-and-services-unit/acp.html"
+     }
+    ],
+    "program_status": [
+     {
+      "source": "oklahoma.gov official text",
+      "url": "https://oklahoma.gov/oag/about/divisions/victim-advocacy-and-services-unit/acp.html"
+     }
+    ],
+    "record_voter": [
+     {
+      "source": "oklahoma.gov official text",
+      "url": "https://oklahoma.gov/oag/about/divisions/victim-advocacy-and-services-unit/acp.html"
+     }
+    ],
+    "record_school": [
+     {
+      "source": "oklahoma.gov official text",
+      "url": "https://oklahoma.gov/oag/about/divisions/victim-advocacy-and-services-unit/acp.html"
+     }
+    ],
+    "record_driver_license": [
+     {
+      "source": "oklahoma.gov official text",
+      "url": "https://oklahoma.gov/content/dam/service-oklahoma/intranet/job-resources/sops/c--driver-license---other-transactions/C.06%20-%20Address%20Confidentiality%20Program.pdf"
+     }
+    ]
+   }
+  },
+  {
+   "id": "oregon",
+   "state": "Oregon",
+   "program_name": "Address Confidentiality Program",
+   "program_status": "Operational official application route",
+   "administering_office": "Oregon Department of Justice",
+   "eligibility": "survivors of domestic violence, sexual assault, stalking, human trafficking, bias crimes or bias incidents; qualifying reproductive and gender-affirming healthcare providers",
+   "how_to_apply": "Work with a designated Application Assistant. Eligible healthcare providers apply through the DOJ Civil Rights Unit.",
+   "substitute_address": "The published program provides a substitute or designated address.",
+   "record_voter": "Election officials use the actual address for voter registration and ordinarily may not disclose it. They use the substitute address to mail the ballot.",
+   "record_driver_license": "Participants may use the substitute address to obtain an Oregon driver's license or ID card.",
+   "record_school": "Participants may use the substitute address to enroll dependents in public school.",
+   "record_vital": "Participants may use the substitute address to apply for a marriage license. This finding concerns marriage licenses only.",
+   "real_property_records": "",
+   "property_limit": "",
+   "participant_count": "",
+   "participant_count_as_of": "",
+   "statute": "Oregon Revised Statutes 192.820-192.868; OAR Chapter 137, Division 79.",
+   "program_url": "https://www.doj.state.or.us/crime-victims/victims-services/address-confidentiality-program-acp/",
+   "source": "www.doj.state.or.us official text",
+   "url": "https://www.doj.state.or.us/crime-victims/victims-services/address-confidentiality-program-acp/",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "eligibility": [
+     {
+      "source": "www.doj.state.or.us official text",
+      "url": "https://www.doj.state.or.us/crime-victims/victims-services/address-confidentiality-program-acp/"
+     }
+    ],
+    "program_scope": [
+     {
+      "source": "www.doj.state.or.us official text",
+      "url": "https://www.doj.state.or.us/crime-victims/victims-services/address-confidentiality-program-acp/"
+     }
+    ],
+    "substitute_address": [
+     {
+      "source": "www.doj.state.or.us official text",
+      "url": "https://www.doj.state.or.us/crime-victims/victims-services/address-confidentiality-program-acp/"
+     }
+    ],
+    "statute": [
+     {
+      "source": "www.doj.state.or.us official text",
+      "url": "https://www.doj.state.or.us/crime-victims/victims-services/address-confidentiality-program-acp/"
+     }
+    ],
+    "administering_office": [
+     {
+      "source": "www.doj.state.or.us official text",
+      "url": "https://www.doj.state.or.us/child-support/resources/child-support-faqs/"
+     }
+    ],
+    "how_to_apply": [
+     {
+      "source": "www.doj.state.or.us official text",
+      "url": "https://www.doj.state.or.us/crime-victims/victims-services/address-confidentiality-program-acp/"
+     }
+    ],
+    "program_status": [
+     {
+      "source": "www.doj.state.or.us official text",
+      "url": "https://www.doj.state.or.us/crime-victims/victims-services/address-confidentiality-program-acp/"
+     }
+    ],
+    "record_driver_license": [
+     {
+      "source": "www.doj.state.or.us official text",
+      "url": "https://www.doj.state.or.us/crime-victims/victims-services/address-confidentiality-program-acp/"
+     }
+    ],
+    "record_school": [
+     {
+      "source": "www.doj.state.or.us official text",
+      "url": "https://www.doj.state.or.us/crime-victims/victims-services/address-confidentiality-program-acp/"
+     }
+    ],
+    "record_vital": [
+     {
+      "source": "www.doj.state.or.us official text",
+      "url": "https://www.doj.state.or.us/crime-victims/victims-services/address-confidentiality-program-acp/"
+     }
+    ],
+    "record_voter": [
+     {
+      "source": "www.oregonlegislature.gov official text",
+      "url": "https://www.oregonlegislature.gov/bills_laws/ors/ors192.html?hl=en-US"
+     }
+    ]
+   }
+  },
+  {
+   "id": "pennsylvania",
+   "state": "Pennsylvania",
+   "program_name": "Address Confidentiality Program",
+   "program_status": "Operational official application route",
+   "administering_office": "Office of Victim Advocate",
+   "eligibility": "victims of domestic violence, sexual assault, stalking, human trafficking, or child abduction",
+   "how_to_apply": "Register online or obtain enrollment assistance from a local victim service agency.",
+   "substitute_address": "The published program provides a substitute or designated address.",
+   "record_voter": "Participants may use the confidential substitute address for voter registration.",
+   "record_driver_license": "Participants may use the confidential substitute address for driver's licenses and ID cards.",
+   "record_school": "Participants may use the confidential substitute address for school records.",
+   "record_vital": "Participants may use the confidential substitute address for marriage licenses. This finding concerns marriage licenses only.",
+   "real_property_records": "",
+   "property_limit": "",
+   "participant_count": "",
+   "participant_count_as_of": "",
+   "statute": "23 Pa.C.S. Chapter 67, 6701-6713.",
+   "program_url": "https://www.pa.gov/agencies/ova/address-confidentiality",
+   "source": "www.pa.gov official text",
+   "url": "https://www.pa.gov/agencies/ova/address-confidentiality",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "eligibility": [
+     {
+      "source": "www.pa.gov official text",
+      "url": "https://www.pa.gov/agencies/ova/address-confidentiality"
+     }
+    ],
+    "program_scope": [
+     {
+      "source": "www.pa.gov official text",
+      "url": "https://www.pa.gov/agencies/ova/address-confidentiality"
+     }
+    ],
+    "substitute_address": [
+     {
+      "source": "www.pa.gov official text",
+      "url": "https://www.pa.gov/agencies/ova/address-confidentiality"
+     }
+    ],
+    "statute": [
+     {
+      "source": "www.legis.state.pa.us official text",
+      "url": "https://www.legis.state.pa.us/WU01/LI/LI/CT/HTM/23/00.067..HTM"
+     }
+    ],
+    "administering_office": [
+     {
+      "source": "www.pa.gov official text",
+      "url": "https://www.pa.gov/agencies/ova/address-confidentiality"
+     },
+     {
+      "source": "www.pa.gov official text",
+      "url": "https://www.pa.gov/agencies/ova/address-confidentiality"
+     }
+    ],
+    "how_to_apply": [
+     {
+      "source": "www.pa.gov official text",
+      "url": "https://www.pa.gov/agencies/ova/address-confidentiality"
+     }
+    ],
+    "program_status": [
+     {
+      "source": "www.pa.gov official text",
+      "url": "https://www.pa.gov/agencies/ova/address-confidentiality"
+     }
+    ],
+    "record_voter": [
+     {
+      "source": "www.pa.gov official text",
+      "url": "https://www.pa.gov/agencies/ova/address-confidentiality"
+     }
+    ],
+    "record_driver_license": [
+     {
+      "source": "www.pa.gov official text",
+      "url": "https://www.pa.gov/agencies/ova/address-confidentiality"
+     }
+    ],
+    "record_school": [
+     {
+      "source": "www.pa.gov official text",
+      "url": "https://www.pa.gov/agencies/ova/address-confidentiality"
+     }
+    ],
+    "record_vital": [
+     {
+      "source": "www.pa.gov official text",
+      "url": "https://www.pa.gov/agencies/ova/address-confidentiality"
+     }
+    ]
+   }
+  },
+  {
+   "id": "rhode-island",
+   "state": "Rhode Island",
+   "program_name": "Address Confidentiality Program",
+   "program_status": "Operational official application route",
+   "administering_office": "Rhode Island Department of State",
+   "eligibility": "victims of domestic violence, stalking, sexual assault, trafficking and/or abuse as defined by R.I. Gen. Laws 42-164-2",
+   "how_to_apply": "Contact the Department of State by email, phone, or in person for help completing the application.",
+   "substitute_address": "The published program provides a substitute or designated address.",
+   "record_voter": "The program enables participants to vote without exposing their actual residence to the abusive perpetrator.",
+   "record_driver_license": "The program enables participants to obtain a driver's license without exposing their actual residence to the abusive perpetrator.",
+   "record_school": "",
+   "record_vital": "The program expressly identifies marriage and birth registration. This does not establish coverage of all vital records.",
+   "real_property_records": "",
+   "property_limit": "",
+   "participant_count": "",
+   "participant_count_as_of": "",
+   "statute": "Rhode Island General Laws Chapter 42-164.",
+   "program_url": "https://www.sos.ri.gov/AddressConfidentialityProgram",
+   "source": "www.sos.ri.gov official text",
+   "url": "https://www.sos.ri.gov/AddressConfidentialityProgram",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "eligibility": [
+     {
+      "source": "www.sos.ri.gov official text",
+      "url": "https://www.sos.ri.gov/AddressConfidentialityProgram"
+     }
+    ],
+    "program_scope": [
+     {
+      "source": "www.sos.ri.gov official text",
+      "url": "https://www.sos.ri.gov/AddressConfidentialityProgram"
+     }
+    ],
+    "substitute_address": [
+     {
+      "source": "www.sos.ri.gov official text",
+      "url": "https://www.sos.ri.gov/AddressConfidentialityProgram"
+     }
+    ],
+    "statute": [
+     {
+      "source": "webserver.rilegislature.gov official text",
+      "url": "https://webserver.rilegislature.gov/PublicLaws/law22/law22190.htm"
+     }
+    ],
+    "administering_office": [
+     {
+      "source": "www.sos.ri.gov official text",
+      "url": "https://www.sos.ri.gov/AddressConfidentialityProgram"
+     }
+    ],
+    "how_to_apply": [
+     {
+      "source": "www.sos.ri.gov official text",
+      "url": "https://www.sos.ri.gov/AddressConfidentialityProgram"
+     }
+    ],
+    "program_status": [
+     {
+      "source": "www.sos.ri.gov official text",
+      "url": "https://www.sos.ri.gov/AddressConfidentialityProgram"
+     }
+    ],
+    "record_voter": [
+     {
+      "source": "www.sos.ri.gov official text",
+      "url": "https://www.sos.ri.gov/AddressConfidentialityProgram"
+     }
+    ],
+    "record_driver_license": [
+     {
+      "source": "www.sos.ri.gov official text",
+      "url": "https://www.sos.ri.gov/AddressConfidentialityProgram"
+     }
+    ],
+    "record_vital": [
+     {
+      "source": "www.sos.ri.gov official text",
+      "url": "https://www.sos.ri.gov/AddressConfidentialityProgram"
+     }
+    ]
+   }
+  },
+  {
+   "id": "south-carolina",
+   "state": "South Carolina",
+   "program_name": "Address Confidentiality Program",
+   "program_status": "Operational official application route",
+   "administering_office": "Attorney General",
+   "eligibility": "victims of domestic violence, human trafficking, stalking, harassment, or sexual offenses",
+   "how_to_apply": "Contact ACP to connect with an Application Assistant.",
+   "substitute_address": "The published program provides a substitute or designated address.",
+   "record_voter": "A participant must request an absentee ballot under 7-15-330. The ballot follows the actual-residence precinct. The absentee request is exempt from FOIA and must remain confidential with the county election board.",
+   "record_driver_license": "",
+   "record_school": "",
+   "record_vital": "",
+   "real_property_records": "",
+   "property_limit": "",
+   "participant_count": "",
+   "participant_count_as_of": "",
+   "statute": "S.C. Code 16-25-130, Victim address confidentiality program.",
+   "program_url": "https://www.scag.gov/inside-the-office/crime-victim-services-division/address-confidentiality-program-acp/",
+   "source": "www.scag.gov official text",
+   "url": "https://www.scag.gov/inside-the-office/crime-victim-services-division/address-confidentiality-program-acp/",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "eligibility": [
+     {
+      "source": "www.scag.gov official text",
+      "url": "https://www.scag.gov/inside-the-office/crime-victim-services-division/address-confidentiality-program-acp/"
+     }
+    ],
+    "program_scope": [
+     {
+      "source": "www.scag.gov official text",
+      "url": "https://www.scag.gov/inside-the-office/crime-victim-services-division/address-confidentiality-program-acp/"
+     }
+    ],
+    "substitute_address": [
+     {
+      "source": "www.scag.gov official text",
+      "url": "https://www.scag.gov/inside-the-office/crime-victim-services-division/address-confidentiality-program-acp/"
+     }
+    ],
+    "statute": [
+     {
+      "source": "www.scag.gov official text",
+      "url": "https://www.scag.gov/media/soqgsjsm/2024-south-carolina-code-of-laws-acp-section.pdf"
+     }
+    ],
+    "administering_office": [
+     {
+      "source": "www.scag.gov official text",
+      "url": "https://www.scag.gov/media/soqgsjsm/2024-south-carolina-code-of-laws-acp-section.pdf"
+     }
+    ],
+    "how_to_apply": [
+     {
+      "source": "www.scag.gov official text",
+      "url": "https://www.scag.gov/inside-the-office/crime-victim-services-division/address-confidentiality-program-acp/"
+     }
+    ],
+    "program_status": [
+     {
+      "source": "www.scag.gov official text",
+      "url": "https://www.scag.gov/inside-the-office/crime-victim-services-division/address-confidentiality-program-acp/"
+     }
+    ],
+    "record_voter": [
+     {
+      "source": "www.scag.gov official text",
+      "url": "https://www.scag.gov/media/soqgsjsm/2024-south-carolina-code-of-laws-acp-section.pdf"
+     }
+    ]
+   }
+  },
+  {
+   "id": "south-dakota",
+   "state": "South Dakota",
+   "program_name": "No statewide route identified in the checked official sources",
+   "program_status": "No statewide enrollment route identified in the reviewed Secretary of State and Attorney General sources as of October24,2026. This is not proof of legal nonexistence.",
+   "administering_office": "",
+   "eligibility": "",
+   "how_to_apply": "",
+   "substitute_address": "",
+   "record_voter": "",
+   "record_driver_license": "",
+   "record_school": "",
+   "record_vital": "",
+   "real_property_records": "",
+   "property_limit": "",
+   "participant_count": "",
+   "participant_count_as_of": "",
+   "statute": "",
+   "program_url": "",
+   "source": "Secretary of State official website and Attorney General office review",
+   "url": "https://sdsos.gov/",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "program_status": [
+     {
+      "source": "Secretary of State official website",
+      "url": "https://sdsos.gov/"
+     },
+     {
+      "source": "Attorney General official website",
+      "url": "https://atg.sd.gov/contact.aspx"
+     }
+    ]
+   }
+  },
+  {
+   "id": "tennessee",
+   "state": "Tennessee",
+   "program_name": "Safe at Home",
+   "program_status": "Operational official application route",
+   "administering_office": "Office of the Tennessee Secretary of State",
+   "eligibility": "victims of domestic abuse, stalking, human trafficking, or any sexual offense",
+   "how_to_apply": "Complete the required form with a certified Application Assistant. The assistant must sign and submit it.",
+   "substitute_address": "Approved participants receive a substitute mailing address for state and local government purposes, subject to limited exceptions.",
+   "record_voter": "The Secretary of State states that participants must vote by absentee ballot. Ballots receive confidential processing, and the statewide list identifies a participant only by the participant identification number.",
+   "record_driver_license": "The Secretary of State states that the substitute address may be used for motor vehicle records and printed on a driver's license.",
+   "record_school": "",
+   "record_vital": "",
+   "real_property_records": "The cited official rule excludes substitute-address use for property-tax listing, appraisal, assessment, collection, and recorded real-property documents.",
+   "property_limit": "The cited official rule excludes substitute-address use for property-tax listing, appraisal, assessment, collection, and recorded real-property documents.",
+   "participant_count": "",
+   "participant_count_as_of": "",
+   "statute": "Tennessee Code Annotated 40-38-601 et seq.; voting provision 40-38-607.",
+   "program_url": "https://sos.tn.gov/SafeAtHome",
+   "source": "sos-prod.tnsosgovfiles.com official text",
+   "url": "https://sos-prod.tnsosgovfiles.com/s3fs-public/document/Law%20Enforcement%20Packet%20P6_fillable.pdf?VersionId=Yik6hrRCLKvycM2nl1_It04muqX0k9Ur",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "program_scope": [
+     {
+      "source": "sos-prod.tnsosgovfiles.com official text",
+      "url": "https://sos-prod.tnsosgovfiles.com/s3fs-public/document/Law%20Enforcement%20Packet%20P6_fillable.pdf?VersionId=Yik6hrRCLKvycM2nl1_It04muqX0k9Ur"
+     }
+    ],
+    "substitute_address": [
+     {
+      "source": "sos-prod.tnsosgovfiles.com official text",
+      "url": "https://sos-prod.tnsosgovfiles.com/s3fs-public/document/Law%20Enforcement%20Packet%20P6_fillable.pdf?VersionId=Yik6hrRCLKvycM2nl1_It04muqX0k9Ur"
+     }
+    ],
+    "eligibility": [
+     {
+      "source": "sos.tn.gov official text",
+      "url": "https://sos.tn.gov/search?archistartdocument%3A=&authentications=&f%5B0%5D=division_category%3AAbout+SafeAtHome&f%5B10%5D=division_category%3AOther+Key+Services&f%5B11%5D=division_category%3APoll+Workers&f%5B12%5D=division_category%3APublic+Utilities&f%5B13%5D=division_category%3ATitle+VI+Training&f%5B14%5D=division_category%3AVisitor+Information&f%5B15%5D=division_category%3AVoter+Registration+Drive&f%5B1%5D=division_category%3AAccessible+Books+%26+Media&f%5B2%5D=division_category%3AAdministrative+Hearings&f%5B3%5D=division_category%3AApplicants&f%5B4%5D=division_category%3ACity+Charters&f%5B5%5D=division_category%3AExisting+Businesses&f%5B6%5D=division_category%3ALibrarians+%26+Archivists&f%5B7%5D=division_category%3ALimited+Liability+Partnerships&f%5B8%5D=division_category%3ANo+Trespass+Public+Notice+List&f%5B9%5D=division_category%3AOrdering+Records&facets_query=&page=2&recording=&search_keywords=&service_of_process=&students="
+     }
+    ],
+    "statute": [
+     {
+      "source": "sos.tn.gov official text",
+      "url": "https://sos.tn.gov/search?archistartdocument%3A=&authentications=&f%5B0%5D=division_category%3AAbout+SafeAtHome&f%5B10%5D=division_category%3AOther+Key+Services&f%5B11%5D=division_category%3APoll+Workers&f%5B12%5D=division_category%3APublic+Utilities&f%5B13%5D=division_category%3ATitle+VI+Training&f%5B14%5D=division_category%3AVisitor+Information&f%5B15%5D=division_category%3AVoter+Registration+Drive&f%5B1%5D=division_category%3AAccessible+Books+%26+Media&f%5B2%5D=division_category%3AAdministrative+Hearings&f%5B3%5D=division_category%3AApplicants&f%5B4%5D=division_category%3ACity+Charters&f%5B5%5D=division_category%3AExisting+Businesses&f%5B6%5D=division_category%3ALibrarians+%26+Archivists&f%5B7%5D=division_category%3ALimited+Liability+Partnerships&f%5B8%5D=division_category%3ANo+Trespass+Public+Notice+List&f%5B9%5D=division_category%3AOrdering+Records&facets_query=&page=2&recording=&search_keywords=&service_of_process=&students="
+     }
+    ],
+    "administering_office": [
+     {
+      "source": "sos-prod.tnsosgovfiles.com official text",
+      "url": "https://sos-prod.tnsosgovfiles.com/s3fs-public/document/Law%20Enforcement%20Packet%20P6_fillable.pdf?VersionId=Yik6hrRCLKvycM2nl1_It04muqX0k9Ur"
+     }
+    ],
+    "how_to_apply": [
+     {
+      "source": "sos.tn.gov official text",
+      "url": "https://sos.tn.gov/search?archivists=&authentications=&f%5B0%5D=division_category%3AApplicants&f%5B1%5D=division_category%3ACharitable+Giving&f%5B2%5D=division_category%3AElection+Information&f%5B3%5D=division_category%3AExisting+Charities&f%5B4%5D=division_category%3AMunicipal+Clerks&f%5B5%5D=division_category%3ARegional+Libraries&f%5B6%5D=division_category%3AVisitor+Information&f%5B7%5D=division_category%3AVoter+Registration+Promotion&facets_query=&genealogists=&recording=&search_keywords=&students="
+     }
+    ],
+    "real_property_records": [
+     {
+      "source": "www.capitol.tn.gov official text",
+      "url": "https://www.capitol.tn.gov/Archives/Joint/committees/gov-opps/RulesPackets/Rule%20Review%20Packet%20-%20Nov.%202020%20pt.2.pdf"
+     }
+    ],
+    "property_limit": [
+     {
+      "source": "www.capitol.tn.gov official text",
+      "url": "https://www.capitol.tn.gov/Archives/Joint/committees/gov-opps/RulesPackets/Rule%20Review%20Packet%20-%20Nov.%202020%20pt.2.pdf"
+     }
+    ],
+    "program_status": [
+     {
+      "source": "sos-prod.tnsosgovfiles.com official text",
+      "url": "https://sos-prod.tnsosgovfiles.com/s3fs-public/document/Law%20Enforcement%20Packet%20P6_fillable.pdf?VersionId=Yik6hrRCLKvycM2nl1_It04muqX0k9Ur"
+     }
+    ],
+    "record_voter": [
+     {
+      "source": "sos.tn.gov official text",
+      "url": "https://sos.tn.gov/search?archistartdocument%3A=&authentications=&f%5B0%5D=division_category%3AAbout+APD&f%5B10%5D=division_category%3ALibrarians+%26+Archivists&f%5B11%5D=division_category%3AMotor+Vehicle+Temporary+Liens&f%5B12%5D=division_category%3AOnline+Resources&f%5B13%5D=division_category%3AOrdering+Records&f%5B14%5D=division_category%3AOther+Key+Services&f%5B15%5D=division_category%3APoll+Workers&f%5B16%5D=division_category%3ARemote+Online+Notary&f%5B17%5D=division_category%3AStudent+Mock+Election&f%5B18%5D=division_category%3ATennessee+READS+%E2%80%93+%28Regional+eBook+%26+Audiobook+Download+System%29&f%5B19%5D=division_category%3AVoter+Registration&f%5B1%5D=division_category%3AAgencies+and+Businesses&f%5B2%5D=division_category%3AApplication+Assistants&f%5B3%5D=division_category%3AArchives+Development&f%5B4%5D=division_category%3ADeterminations+of+Necessity+for+Electronic+Meetings&f%5B5%5D=division_category%3AElection+Commission&f%5B6%5D=division_category%3AElection+Information&f%5B7%5D=division_category%3AExisting+Charities&f%5B8%5D=division_category%3AForms&f%5B9%5D=division_category%3AGoVoteTN&facets_query=&page=2&recording=&search_keywords=&service_of_process=&students="
+     },
+     {
+      "source": "sos.tn.gov official text",
+      "url": "https://sos.tn.gov/search?archistartdocument%3A=&authentications=&f%5B0%5D=division_category%3AAbout+APD&f%5B10%5D=division_category%3ALibrarians+%26+Archivists&f%5B11%5D=division_category%3AMotor+Vehicle+Temporary+Liens&f%5B12%5D=division_category%3AOnline+Resources&f%5B13%5D=division_category%3AOrdering+Records&f%5B14%5D=division_category%3AOther+Key+Services&f%5B15%5D=division_category%3APoll+Workers&f%5B16%5D=division_category%3ARemote+Online+Notary&f%5B17%5D=division_category%3AStudent+Mock+Election&f%5B18%5D=division_category%3ATennessee+READS+%E2%80%93+%28Regional+eBook+%26+Audiobook+Download+System%29&f%5B19%5D=division_category%3AVoter+Registration&f%5B1%5D=division_category%3AAgencies+and+Businesses&f%5B2%5D=division_category%3AApplication+Assistants&f%5B3%5D=division_category%3AArchives+Development&f%5B4%5D=division_category%3ADeterminations+of+Necessity+for+Electronic+Meetings&f%5B5%5D=division_category%3AElection+Commission&f%5B6%5D=division_category%3AElection+Information&f%5B7%5D=division_category%3AExisting+Charities&f%5B8%5D=division_category%3AForms&f%5B9%5D=division_category%3AGoVoteTN&facets_query=&page=2&recording=&search_keywords=&service_of_process=&students="
+     }
+    ],
+    "record_driver_license": [
+     {
+      "source": "sos.tn.gov official text",
+      "url": "https://sos.tn.gov/search?archistartdocument%3A=&authentications=&f%5B0%5D=division_category%3AAbsentee+Voting&f%5B1%5D=division_category%3AApplicants&f%5B2%5D=division_category%3AElection+Information&f%5B3%5D=division_category%3AForeign+Limited+Partnerships&f%5B4%5D=division_category%3AGeneral+Partnerships&f%5B5%5D=division_category%3ALegislative+History+%26+Recording&f%5B6%5D=division_category%3ANo+Trespass+Public+Notice+List&f%5B7%5D=division_category%3AOther+Key+Services&f%5B8%5D=division_category%3APublic+Utilities&f%5B9%5D=division_category%3ARegional+Libraries&facets_query=&recording=&search_keywords=&service_of_process=&students="
+     }
+    ]
+   }
+  },
+  {
+   "id": "texas",
+   "state": "Texas",
+   "program_name": "Address Confidentiality Program",
+   "program_status": "Operational official application route",
+   "administering_office": "Texas Office of the Attorney General",
+   "eligibility": "victims of family violence, sexual assault, human trafficking, stalking, or child abduction",
+   "how_to_apply": "Apply with an advocate or independently using the published form and supporting documents. Submit documents through the provided upload link or by mail.",
+   "substitute_address": "The program provides a substitute post-office-box address and forwards mail to the actual address.",
+   "record_voter": "Participants may use the substitute address to register to vote.",
+   "record_driver_license": "Participants may use the substitute address to obtain a driver's license.",
+   "record_school": "Participants may use the substitute address to enroll children in school.",
+   "record_vital": "",
+   "real_property_records": "ACP certification is a qualification for a separate Tax Code 25.025 home-address confidentiality election. File Form 50-284 with each relevant appraisal district. This is not a blanket deed-confidentiality finding.",
+   "property_limit": "ACP certification is a qualification for a separate Tax Code 25.025 home-address confidentiality election. File Form 50-284 with each relevant appraisal district. This is not a blanket deed-confidentiality finding.",
+   "participant_count": "",
+   "participant_count_as_of": "",
+   "statute": "Texas Code of Criminal Procedure, Chapter 58, Subchapter B.",
+   "program_url": "https://www.texasattorneygeneral.gov/crime-victims/victims-violent-crime/address-confidentiality-program",
+   "source": "www.texasattorneygeneral.gov official text",
+   "url": "https://www.texasattorneygeneral.gov/crime-victims/victims-violent-crime/address-confidentiality-program",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "eligibility": [
+     {
+      "source": "www.texasattorneygeneral.gov official text",
+      "url": "https://www.texasattorneygeneral.gov/crime-victims/victims-violent-crime/address-confidentiality-program"
+     }
+    ],
+    "program_scope": [
+     {
+      "source": "www.texasattorneygeneral.gov official text",
+      "url": "https://www.texasattorneygeneral.gov/crime-victims/victims-violent-crime/address-confidentiality-program"
+     }
+    ],
+    "substitute_address": [
+     {
+      "source": "www.texasattorneygeneral.gov official text",
+      "url": "https://www.texasattorneygeneral.gov/crime-victims/victims-violent-crime/address-confidentiality-program"
+     }
+    ],
+    "statute": [
+     {
+      "source": "comptroller.texas.gov official text",
+      "url": "https://comptroller.texas.gov/forms/50-284.pdf"
+     }
+    ],
+    "administering_office": [
+     {
+      "source": "www.dps.texas.gov official text",
+      "url": "https://www.dps.texas.gov/section/victim-employment-support-services-vess/address-confidentiality-program"
+     }
+    ],
+    "how_to_apply": [
+     {
+      "source": "www.texasattorneygeneral.gov official text",
+      "url": "https://www.texasattorneygeneral.gov/crime-victims/victims-violent-crime/address-confidentiality-program"
+     }
+    ],
+    "real_property_records": [
+     {
+      "source": "comptroller.texas.gov official text",
+      "url": "https://comptroller.texas.gov/forms/50-284.pdf"
+     },
+     {
+      "source": "comptroller.texas.gov official text",
+      "url": "https://comptroller.texas.gov/forms/50-284.pdf"
+     }
+    ],
+    "property_limit": [
+     {
+      "source": "comptroller.texas.gov official text",
+      "url": "https://comptroller.texas.gov/forms/50-284.pdf"
+     },
+     {
+      "source": "comptroller.texas.gov official text",
+      "url": "https://comptroller.texas.gov/forms/50-284.pdf"
+     }
+    ],
+    "program_status": [
+     {
+      "source": "www.texasattorneygeneral.gov official text",
+      "url": "https://www.texasattorneygeneral.gov/crime-victims/victims-violent-crime/address-confidentiality-program"
+     }
+    ],
+    "record_voter": [
+     {
+      "source": "www.texasattorneygeneral.gov official text",
+      "url": "https://www.texasattorneygeneral.gov/crime-victims/victims-violent-crime/address-confidentiality-program"
+     }
+    ],
+    "record_driver_license": [
+     {
+      "source": "www.texasattorneygeneral.gov official text",
+      "url": "https://www.texasattorneygeneral.gov/crime-victims/victims-violent-crime/address-confidentiality-program"
+     }
+    ],
+    "record_school": [
+     {
+      "source": "www.texasattorneygeneral.gov official text",
+      "url": "https://www.texasattorneygeneral.gov/crime-victims/victims-violent-crime/address-confidentiality-program"
+     }
+    ]
+   }
+  },
+  {
+   "id": "utah",
+   "state": "Utah",
+   "program_name": "Safe at Home",
+   "program_status": "Operational official application route",
+   "administering_office": "Department of Criminal Justice",
+   "eligibility": "survivors of abuse, child abuse, domestic violence, stalking, human trafficking, and sexual assault who fear physical danger if the perpetrator knows where they live",
+   "how_to_apply": "Meet with a certified Program Assistant to apply.",
+   "substitute_address": "The published program provides a substitute or designated address.",
+   "record_voter": "Election officials use the actual address for precinct and official election purposes, classify it as concealed and keep it confidential. The assigned address serves mailed correspondence, not voter registration. The participant must submit a valid card or notification form.",
+   "record_driver_license": "A participant who remains enrolled after moving may not change the assigned address with the Driver License Division. This is a specific change-of-address condition; it does not independently establish complete license-address suppression.",
+   "record_school": "The school district must accept the assigned address as the address of record and verify enrollment eligibility with the department. The department assists transfer of student records.",
+   "record_vital": "",
+   "real_property_records": "The assigned address cannot be used for listing, appraisal or property-tax assessment. Property-related mail uses the assigned address, subject to the State Tax Commission identification condition. This finding does not decide recorded-deed protection.",
+   "property_limit": "",
+   "participant_count": "",
+   "participant_count_as_of": "",
+   "statute": "Utah Code Title 75E, Chapter 11, including 75E-11-102, creation of the Safe at Home Program.",
+   "program_url": "https://safeathome.utah.gov/",
+   "source": "safeathome.utah.gov official text",
+   "url": "https://safeathome.utah.gov/",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "eligibility": [
+     {
+      "source": "safeathome.utah.gov official text",
+      "url": "https://safeathome.utah.gov/"
+     }
+    ],
+    "program_scope": [
+     {
+      "source": "safeathome.utah.gov official text",
+      "url": "https://safeathome.utah.gov/"
+     }
+    ],
+    "substitute_address": [
+     {
+      "source": "safeathome.utah.gov official text",
+      "url": "https://safeathome.utah.gov/"
+     }
+    ],
+    "statute": [
+     {
+      "source": "le.utah.gov official text",
+      "url": "https://le.utah.gov/xcode/Title75E/Chapter11/C75E-11-P1_2026050620260701.pdf"
+     }
+    ],
+    "administering_office": [
+     {
+      "source": "le.utah.gov official text",
+      "url": "https://le.utah.gov/xcode/Title75E/C75E_2026050620260701.pdf"
+     },
+     {
+      "source": "le.utah.gov official text",
+      "url": "https://le.utah.gov/xcode/Title75E/Chapter11/C75E-11-P1_2026050620260701.pdf"
+     }
+    ],
+    "how_to_apply": [
+     {
+      "source": "safeathome.utah.gov official text",
+      "url": "https://safeathome.utah.gov/"
+     }
+    ],
+    "program_status": [
+     {
+      "source": "safeathome.utah.gov official text",
+      "url": "https://safeathome.utah.gov/"
+     }
+    ],
+    "record_voter": [
+     {
+      "source": "le.utah.gov official text",
+      "url": "https://le.utah.gov/xcode/Title75E/Chapter11/C75E-11_2026050620260701.pdf"
+     }
+    ],
+    "record_driver_license": [
+     {
+      "source": "le.utah.gov official text",
+      "url": "https://le.utah.gov/xcode/Title75E/Chapter11/C75E-11_2026050620260701.pdf"
+     }
+    ],
+    "record_school": [
+     {
+      "source": "le.utah.gov official text",
+      "url": "https://le.utah.gov/xcode/Title75E/Chapter11/C75E-11_2026050620260701.pdf"
+     }
+    ],
+    "real_property_records": [
+     {
+      "source": "le.utah.gov official text",
+      "url": "https://le.utah.gov/xcode/Title75E/Chapter11/C75E-11_2026050620260701.pdf"
+     }
+    ]
+   }
+  },
+  {
+   "id": "vermont",
+   "state": "Vermont",
+   "program_name": "Safe at Home",
+   "program_status": "Operational official application route",
+   "administering_office": "Secretary of State",
+   "eligibility": "survivors of domestic violence, sexual assault, stalking, human trafficking; providers and patients of legally protected reproductive or gender-affirming healthcare",
+   "how_to_apply": "An Applicant Assistant can help with the application, but using an assistant is optional.",
+   "substitute_address": "The published program provides a substitute or designated address.",
+   "record_voter": "Participants may vote as blind-ballot absentee voters using the program.",
+   "record_driver_license": "Participants may use the program to obtain a driver's license without exposing the actual address.",
+   "record_school": "",
+   "record_vital": "The program expressly identifies marriage and birth registration. This does not establish coverage of all vital records.",
+   "real_property_records": "The program cannot protect identity or address in real-estate transactions because land records are public.",
+   "property_limit": "The program cannot protect identity or address in real-estate transactions because land records are public.",
+   "participant_count": "",
+   "participant_count_as_of": "",
+   "statute": "15 V.S.A. 1150 et seq.",
+   "program_url": "https://sos.vermont.gov/secretary-of-state-services/safe-at-home",
+   "source": "sos.vermont.gov official text",
+   "url": "https://sos.vermont.gov/secretary-of-state-services/safe-at-home",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "eligibility": [
+     {
+      "source": "sos.vermont.gov official text",
+      "url": "https://sos.vermont.gov/secretary-of-state-services/safe-at-home"
+     }
+    ],
+    "program_scope": [
+     {
+      "source": "sos.vermont.gov official text",
+      "url": "https://sos.vermont.gov/secretary-of-state-services/safe-at-home"
+     }
+    ],
+    "substitute_address": [
+     {
+      "source": "sos.vermont.gov official text",
+      "url": "https://sos.vermont.gov/secretary-of-state-services/safe-at-home"
+     }
+    ],
+    "statute": [
+     {
+      "source": "legislature.vermont.gov official text",
+      "url": "https://legislature.vermont.gov/statutes/section/15/021/01150"
+     }
+    ],
+    "administering_office": [
+     {
+      "source": "sos.vermont.gov official text",
+      "url": "https://sos.vermont.gov/secretary-of-state-services/safe-at-home"
+     }
+    ],
+    "how_to_apply": [
+     {
+      "source": "sos.vermont.gov official text",
+      "url": "https://sos.vermont.gov/secretary-of-state-services/safe-at-home"
+     }
+    ],
+    "real_property_records": [
+     {
+      "source": "sos.vermont.gov official text",
+      "url": "https://sos.vermont.gov/secretary-of-state-services/safe-at-home"
+     }
+    ],
+    "property_limit": [
+     {
+      "source": "sos.vermont.gov official text",
+      "url": "https://sos.vermont.gov/secretary-of-state-services/safe-at-home"
+     }
+    ],
+    "program_status": [
+     {
+      "source": "sos.vermont.gov official text",
+      "url": "https://sos.vermont.gov/secretary-of-state-services/safe-at-home"
+     }
+    ],
+    "record_voter": [
+     {
+      "source": "sos.vermont.gov official text",
+      "url": "https://sos.vermont.gov/secretary-of-state-services/safe-at-home"
+     }
+    ],
+    "record_driver_license": [
+     {
+      "source": "sos.vermont.gov official text",
+      "url": "https://sos.vermont.gov/secretary-of-state-services/safe-at-home"
+     }
+    ],
+    "record_vital": [
+     {
+      "source": "sos.vermont.gov official text",
+      "url": "https://sos.vermont.gov/secretary-of-state-services/safe-at-home"
+     }
+    ]
+   }
+  },
+  {
+   "id": "virginia",
+   "state": "Virginia",
+   "program_name": "Address Confidentiality Program",
+   "program_status": "Operational official application route",
+   "administering_office": "Office of the Attorney General",
+   "eligibility": "victims of domestic violence, sexual violence, stalking, human trafficking, or child abduction; qualifying applications for minors and incapacitated individuals",
+   "how_to_apply": "Contact a local domestic violence, sexual violence, or victim-witness assistance program for an application.",
+   "substitute_address": "Certified participants may use a substitute mailing address and receive first-class mail forwarding.",
+   "record_voter": "Voters provide the actual address for precinct assignment and request protected-address status using the ACP address.",
+   "record_driver_license": "Participants may contact DMV to use the ACP address on the driver's license and vehicle registration.",
+   "record_school": "School enrollment still requires local residency proof. Participants give the ACP card and ask the school to use the substitute address in records. ACP cannot verify school zones.",
+   "record_vital": "",
+   "real_property_records": "",
+   "property_limit": "",
+   "participant_count": "",
+   "participant_count_as_of": "",
+   "statute": "Virginia Code 2.2-515.2.",
+   "program_url": "https://www.oag.state.va.us/programs-outreach/domestic-violence/address-confidentiality-program",
+   "source": "www.oag.state.va.us official text",
+   "url": "https://www.oag.state.va.us/programs-outreach/domestic-violence/address-confidentiality-program",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "eligibility": [
+     {
+      "source": "www.oag.state.va.us official text",
+      "url": "https://www.oag.state.va.us/programs-outreach/domestic-violence/address-confidentiality-program"
+     }
+    ],
+    "program_scope": [
+     {
+      "source": "www.oag.state.va.us official text",
+      "url": "https://www.oag.state.va.us/programs-outreach/domestic-violence/address-confidentiality-program"
+     }
+    ],
+    "substitute_address": [
+     {
+      "source": "www.oag.state.va.us official text",
+      "url": "https://www.oag.state.va.us/programs-outreach/domestic-violence/address-confidentiality-program"
+     }
+    ],
+    "statute": [
+     {
+      "source": "www.oag.state.va.us official text",
+      "url": "https://www.oag.state.va.us/programs-outreach/domestic-violence/address-confidentiality-program"
+     }
+    ],
+    "administering_office": [
+     {
+      "source": "www.oag.state.va.us official text",
+      "url": "https://www.oag.state.va.us/programs-outreach/domestic-violence/address-confidentiality-program"
+     }
+    ],
+    "how_to_apply": [
+     {
+      "source": "www.oag.state.va.us official text",
+      "url": "https://www.oag.state.va.us/programs-outreach/domestic-violence/address-confidentiality-program"
+     }
+    ],
+    "program_status": [
+     {
+      "source": "www.oag.state.va.us official text",
+      "url": "https://www.oag.state.va.us/programs-outreach/domestic-violence/address-confidentiality-program"
+     }
+    ],
+    "record_voter": [
+     {
+      "source": "www.oag.state.va.us official text",
+      "url": "https://www.oag.state.va.us/programs-outreach/domestic-violence/address-confidentiality-program"
+     }
+    ],
+    "record_driver_license": [
+     {
+      "source": "www.oag.state.va.us official text",
+      "url": "https://www.oag.state.va.us/programs-outreach/domestic-violence/address-confidentiality-program"
+     }
+    ],
+    "record_school": [
+     {
+      "source": "www.oag.state.va.us official text",
+      "url": "https://www.oag.state.va.us/programs-outreach/domestic-violence/address-confidentiality-program"
+     }
+    ]
+   }
+  },
+  {
+   "id": "washington",
+   "state": "Washington",
+   "program_name": "Address Confidentiality Program",
+   "program_status": "Operational official application route",
+   "administering_office": "Office of the Washington Secretary of State",
+   "eligibility": "Victims meeting the sworn safety-statement requirements; threatened election officials and co-residents; threatened criminal justice participants and co-residents; protected healthcare services providers, employees, affiliates and co-resident family members; applications for minors or adults subject to guardianship are provided for.",
+   "how_to_apply": "Meet with a designated Application Assistant.",
+   "substitute_address": "The published program provides a substitute or designated address.",
+   "record_voter": "Participants receive ACP-specific voter registration information and must use that process rather than ordinary online or government-office registration.",
+   "record_driver_license": "The program identifies driver's licenses among public records whose address the program helps protect.",
+   "record_school": "Official ACP guidance requires public schools to use only the substitute address on student records. ACP verifies the assigned school district from the confidential residence. Transportation pickup and emergency-contact information follow separate instructions.",
+   "record_vital": "The program identifies marriage records. This does not establish coverage of all vital records.",
+   "real_property_records": "The published exemption permits the Thurston County Auditor to require actual address information to record deeds of sale. The address may be used only to record and maintain those records. This is a named-county limit, not a finding about every county.",
+   "property_limit": "",
+   "participant_count": "",
+   "participant_count_as_of": "",
+   "statute": "Chapter 40.24 RCW; Chapter 434-840 WAC.",
+   "program_url": "https://www.sos.wa.gov/statewide-programs/address-confidentiality-program-acp",
+   "source": "www.sos.wa.gov official text",
+   "url": "https://www.sos.wa.gov/statewide-programs/address-confidentiality-program-acp",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "eligibility": [
+     {
+      "source": "app.leg.wa.gov official text",
+      "url": "https://app.leg.wa.gov/rcw/default.aspx?cite=40.24.030"
+     }
+    ],
+    "program_scope": [
+     {
+      "source": "www.sos.wa.gov official text",
+      "url": "https://www.sos.wa.gov/statewide-programs/address-confidentiality-program-acp"
+     }
+    ],
+    "substitute_address": [
+     {
+      "source": "www.sos.wa.gov official text",
+      "url": "https://www.sos.wa.gov/statewide-programs/address-confidentiality-program-acp"
+     }
+    ],
+    "statute": [
+     {
+      "source": "www.sos.wa.gov official text",
+      "url": "https://www.sos.wa.gov/statewide-programs/address-confidentiality-program-acp"
+     }
+    ],
+    "administering_office": [
+     {
+      "source": "www.sos.wa.gov official text",
+      "url": "https://www.sos.wa.gov/statewide-programs/address-confidentiality-program-acp"
+     }
+    ],
+    "how_to_apply": [
+     {
+      "source": "www.sos.wa.gov official text",
+      "url": "https://www.sos.wa.gov/statewide-programs/address-confidentiality-program-acp"
+     }
+    ],
+    "program_status": [
+     {
+      "source": "www.sos.wa.gov official text",
+      "url": "https://www.sos.wa.gov/statewide-programs/address-confidentiality-program-acp"
+     }
+    ],
+    "record_voter": [
+     {
+      "source": "www.sos.wa.gov official text",
+      "url": "https://www.sos.wa.gov/statewide-programs/address-confidentiality-program-acp"
+     }
+    ],
+    "record_driver_license": [
+     {
+      "source": "www.sos.wa.gov official text",
+      "url": "https://www.sos.wa.gov/statewide-programs/address-confidentiality-program-acp"
+     }
+    ],
+    "record_vital": [
+     {
+      "source": "www.sos.wa.gov official text",
+      "url": "https://www.sos.wa.gov/statewide-programs/address-confidentiality-program-acp"
+     }
+    ],
+    "record_school": [
+     {
+      "source": "www.sos.wa.gov official text",
+      "url": "https://www.sos.wa.gov/statewide-programs/address-confidentiality-program-acp/agencies-and-businesses"
+     },
+     {
+      "source": "www.sos.wa.gov official text",
+      "url": "https://www.sos.wa.gov/statewide-programs/address-confidentiality-program-acp/agencies-and-businesses"
+     },
+     {
+      "source": "www.sos.wa.gov official text",
+      "url": "https://www.sos.wa.gov/statewide-programs/address-confidentiality-program-acp/agencies-and-businesses"
+     }
+    ],
+    "real_property_records": [
+     {
+      "source": "www.sos.wa.gov official text",
+      "url": "https://www.sos.wa.gov/sites/default/files/2025-05/EXEMPTION%20Determination%20Thurston%20County%202017-1_accessible.pdf"
+     }
+    ]
+   }
+  },
+  {
+   "id": "west-virginia",
+   "state": "West Virginia",
+   "program_name": "Address Confidentiality Program",
+   "program_status": "Operational official application route",
+   "administering_office": "Secretary of State's Office",
+   "eligibility": "victims of domestic violence, sexual assault, stalking or human trafficking",
+   "how_to_apply": "Apply in person with an approved Application Assistant.",
+   "substitute_address": "Participants receive a designated post-office-box address as their legal mailing address and free first-class mail forwarding.",
+   "record_voter": "Participants may use the substitute address to register to vote.",
+   "record_driver_license": "Participants may use the substitute address for DMV transactions.",
+   "record_school": "Participants may use the substitute address to enroll children in school.",
+   "record_vital": "",
+   "real_property_records": "",
+   "property_limit": "",
+   "participant_count": "",
+   "participant_count_as_of": "",
+   "statute": "West Virginia Code, Chapter 48, Article 28A, sections 101 through 110.",
+   "program_url": "https://sos.wv.gov/about-us/address-confidentiality-program-acp",
+   "source": "sos.wv.gov official text",
+   "url": "https://sos.wv.gov/about-us/address-confidentiality-program-acp",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "eligibility": [
+     {
+      "source": "sos.wv.gov official text",
+      "url": "https://sos.wv.gov/about-us/address-confidentiality-program-acp"
+     }
+    ],
+    "program_scope": [
+     {
+      "source": "sos.wv.gov official text",
+      "url": "https://sos.wv.gov/about-us/address-confidentiality-program-acp"
+     }
+    ],
+    "substitute_address": [
+     {
+      "source": "sos.wv.gov official text",
+      "url": "https://sos.wv.gov/about-us/address-confidentiality-program-acp"
+     }
+    ],
+    "statute": [
+     {
+      "source": "code.wvlegislature.gov official text",
+      "url": "https://code.wvlegislature.gov/48-28A/"
+     }
+    ],
+    "administering_office": [
+     {
+      "source": "sos.wv.gov official text",
+      "url": "https://sos.wv.gov/about-us/address-confidentiality-program-acp"
+     }
+    ],
+    "how_to_apply": [
+     {
+      "source": "sos.wv.gov official text",
+      "url": "https://sos.wv.gov/about-us/address-confidentiality-program-acp"
+     }
+    ],
+    "program_status": [
+     {
+      "source": "sos.wv.gov official text",
+      "url": "https://sos.wv.gov/about-us/address-confidentiality-program-acp"
+     }
+    ],
+    "record_voter": [
+     {
+      "source": "sos.wv.gov official text",
+      "url": "https://sos.wv.gov/about-us/address-confidentiality-program-acp"
+     }
+    ],
+    "record_driver_license": [
+     {
+      "source": "sos.wv.gov official text",
+      "url": "https://sos.wv.gov/about-us/address-confidentiality-program-acp"
+     }
+    ],
+    "record_school": [
+     {
+      "source": "sos.wv.gov official text",
+      "url": "https://sos.wv.gov/about-us/address-confidentiality-program-acp"
+     }
+    ]
+   }
+  },
+  {
+   "id": "wisconsin",
+   "state": "Wisconsin",
+   "program_name": "Safe at Home",
+   "program_status": "Operational official application route",
+   "administering_office": "Wisconsin Department of Justice",
+   "eligibility": "victims of abuse; parents or guardians of victims; members of a household containing a victim; people who fear for their physical safety",
+   "how_to_apply": "First complete safety planning with an Application Assistant. Submit the completed application by secure fax or mail.",
+   "substitute_address": "The published program provides a substitute or designated address.",
+   "record_voter": "The Department of Justice states that participants may register as confidential electors, protecting their name and actual address from public inspection on the registration roll. Enrollment in Safe at Home alone is not described as automatic confidential-elector registration.",
+   "record_driver_license": "",
+   "record_school": "The official school affidavit uses the assigned address for district correspondence and does not provide the actual address in writing. Enrollment eligibility still requires consultation with the district.",
+   "record_vital": "",
+   "real_property_records": "Home ownership or an immediate plan to purchase the confidential property poses challenges. The program directs applicants to contact Safe at Home to discuss other safety options.",
+   "property_limit": "Home ownership or an immediate plan to purchase the confidential property poses challenges. The program directs applicants to contact Safe at Home to discuss other safety options.",
+   "participant_count": "",
+   "participant_count_as_of": "",
+   "statute": "Wisconsin Statutes 165.68.",
+   "program_url": "https://www.wisdoj.gov/Pages/CrimeVictimServices/safe-at-home-address-confidentiality-program.aspx",
+   "source": "www.wisdoj.gov official text",
+   "url": "https://www.wisdoj.gov/Pages/CrimeVictimServices/safe-at-home-address-confidentiality-program.aspx",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "eligibility": [
+     {
+      "source": "www.wisdoj.gov official text",
+      "url": "https://www.wisdoj.gov/Pages/CrimeVictimServices/safe-at-home-address-confidentiality-program.aspx"
+     }
+    ],
+    "program_scope": [
+     {
+      "source": "www.wisdoj.gov official text",
+      "url": "https://www.wisdoj.gov/Pages/CrimeVictimServices/safe-at-home-address-confidentiality-program.aspx"
+     }
+    ],
+    "substitute_address": [
+     {
+      "source": "www.wisdoj.gov official text",
+      "url": "https://www.wisdoj.gov/Pages/CrimeVictimServices/safe-at-home-address-confidentiality-program.aspx"
+     }
+    ],
+    "statute": [
+     {
+      "source": "www.wisdoj.gov official text",
+      "url": "https://www.wisdoj.gov/Pages/CrimeVictimServices/safe-at-home-address-confidentiality-program.aspx"
+     }
+    ],
+    "administering_office": [
+     {
+      "source": "www.wisdoj.gov official text",
+      "url": "https://www.wisdoj.gov/Crime%20Victims%20Services/Safe_at_Home_Guide_for_Schools.pdf"
+     }
+    ],
+    "how_to_apply": [
+     {
+      "source": "www.wisdoj.gov official text",
+      "url": "https://www.wisdoj.gov/Pages/CrimeVictimServices/safe-at-home-address-confidentiality-program.aspx"
+     }
+    ],
+    "real_property_records": [
+     {
+      "source": "www.wisdoj.gov official text",
+      "url": "https://www.wisdoj.gov/Pages/CrimeVictimServices/safe-at-home-address-confidentiality-program.aspx"
+     }
+    ],
+    "property_limit": [
+     {
+      "source": "www.wisdoj.gov official text",
+      "url": "https://www.wisdoj.gov/Pages/CrimeVictimServices/safe-at-home-address-confidentiality-program.aspx"
+     }
+    ],
+    "program_status": [
+     {
+      "source": "www.wisdoj.gov official text",
+      "url": "https://www.wisdoj.gov/Pages/CrimeVictimServices/safe-at-home-address-confidentiality-program.aspx"
+     }
+    ],
+    "record_school": [
+     {
+      "source": "www.wisdoj.gov official text",
+      "url": "https://www.wisdoj.gov/Crime%20Victims%20Services/Safe_at_Home_Guide_for_Schools.pdf"
+     }
+    ],
+    "record_voter": [
+     {
+      "source": "www.wisdoj.gov official text",
+      "url": "https://www.wisdoj.gov/Pages/CrimeVictimServices/use-of-safe-at-home-assigned-address.aspx"
+     }
+    ]
+   }
+  },
+  {
+   "id": "wyoming",
+   "state": "Wyoming",
+   "program_name": "No statewide route identified in the checked official sources",
+   "program_status": "No statewide enrollment route identified in the reviewed Secretary of State and Attorney General sources as of October24,2026. This is not proof of legal nonexistence.",
+   "administering_office": "",
+   "eligibility": "",
+   "how_to_apply": "",
+   "substitute_address": "",
+   "record_voter": "",
+   "record_driver_license": "",
+   "record_school": "",
+   "record_vital": "",
+   "real_property_records": "",
+   "property_limit": "",
+   "participant_count": "",
+   "participant_count_as_of": "",
+   "statute": "",
+   "program_url": "",
+   "source": "Secretary of State official website and Attorney General office review",
+   "url": "https://sos.wyo.gov/",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "program_status": [
+     {
+      "source": "Secretary of State official website",
+      "url": "https://sos.wyo.gov/"
+     },
+     {
+      "source": "Attorney General official website",
+      "url": "https://ag.wyo.gov/"
+     }
+    ]
+   }
+  }
+ ]
+}

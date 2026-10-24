@@ -1,0 +1,180 @@
+{
+ "id": "mail-rules",
+ "name": "USPS mail and address-change procedures",
+ "description": "A scoped reference for permanent and temporary forwarding, NCOALink delivery windows, commercial mail receiving agencies and PO Box street addressing. A private mailbox does not change a legal residence or erase a public record.",
+ "scope": "USPS operational rules needed for household mail planning. No identity collection, legal residence advice or promise that a mailbox is accepted by every bank, utility or government office.",
+ "version": "1.0",
+ "published": "2026-10-24",
+ "verified": "2026-10-24",
+ "update_policy": "Recheck USPS sources quarterly and after a published DMM change.",
+ "columns": [
+  {
+   "key": "rule",
+   "label": "Question or procedure"
+  },
+  {
+   "key": "value",
+   "label": "Current procedure"
+  },
+  {
+   "key": "limits",
+   "label": "Limits"
+  },
+  {
+   "key": "instrument",
+   "label": "Rule or source"
+  }
+ ],
+ "changelog": [
+  {
+   "date": "2026-10-24",
+   "change": "First edition from current USPS sources. Replaced the plan's incorrect Federal Register reference."
+  }
+ ],
+ "license": "https://creativecommons.org/licenses/by/4.0/",
+ "rows": [
+  {
+   "id": "ncoalink-permanent",
+   "rule": "What NCOALink contains",
+   "value": "Permanent change-of-address records are supplied to licensed companies for updating mailing lists.",
+   "limits": "This is a mailing-list product, not a public people search.",
+   "instrument": "",
+   "source": "USPS PostalPro NCOALink",
+   "url": "https://postalpro.usps.com/mailing-and-shipping-services/NCOALink",
+   "checked_on": "2026-10-24",
+   "field_citations": {}
+  },
+  {
+   "id": "ncoalink-full",
+   "rule": "Full Service Providers",
+   "value": "Receive a 48-month change-of-address dataset each week.",
+   "limits": "The window describes the dataset supplied to licensees. It is not a mail-forwarding period.",
+   "instrument": "",
+   "source": "USPS PostalPro NCOALink",
+   "url": "https://postalpro.usps.com/mailing-and-shipping-services/NCOALink",
+   "checked_on": "2026-10-24",
+   "field_citations": {}
+  },
+  {
+   "id": "ncoalink-limited",
+   "rule": "Limited Service Providers",
+   "value": "Receive an 18-month change-of-address dataset each week.",
+   "limits": "End User Mailers also receive 18 months but only for internal lists, with monthly delivery.",
+   "instrument": "",
+   "source": "USPS PostalPro NCOALink",
+   "url": "https://postalpro.usps.com/mailing-and-shipping-services/NCOALink",
+   "checked_on": "2026-10-24",
+   "field_citations": {}
+  },
+  {
+   "id": "ncoalink-ank",
+   "rule": "ANKLink additional window",
+   "value": "For months 19 through 48, the service can flag that a move happened without giving the new address.",
+   "limits": "The additional window is not a 48-month new-address feed.",
+   "instrument": "",
+   "source": "USPS PostalPro NCOALink",
+   "url": "https://postalpro.usps.com/mailing-and-shipping-services/NCOALink",
+   "checked_on": "2026-10-24",
+   "field_citations": {}
+  },
+  {
+   "id": "cmra-identification",
+   "rule": "Private mailbox application",
+   "value": "Complete PS Form 1583 and provide two forms of identification, including one photo ID.",
+   "limits": "Provide identity documents to the mailbox provider, not to a GLP tool.",
+   "instrument": "DMM 508.1.8; PS Form 1583",
+   "source": "USPS CMRA consumer FAQ",
+   "url": "https://faq.usps.com/articles/Knowledge/Commercial-Mail-Receiving-Agency-CMRA",
+   "checked_on": "2026-10-24",
+   "field_citations": {}
+  },
+  {
+   "id": "cmra-witness",
+   "rule": "Who can witness the signature",
+   "value": "A CMRA owner, manager or authorized employee may witness the signature. A notary is another permitted route.",
+   "limits": "Current DMM permits physical presence or real-time audio and video. Provider workflow can still differ.",
+   "instrument": "DMM 508.1.8.3",
+   "source": "USPS Domestic Mail Manual 508",
+   "url": "https://pe.usps.com/text/dmm300/508.htm",
+   "checked_on": "2026-10-24",
+   "field_citations": {}
+  },
+  {
+   "id": "cmra-designation",
+   "rule": "How to label the private mailbox",
+   "value": "Use PMB or the alternative # sign with the private mailbox number.",
+   "limits": "A mailbox remains a mailbox. Do not misrepresent it as a residence or office suite.",
+   "instrument": "DMM 508.1.8.3",
+   "source": "USPS Domestic Mail Manual 508",
+   "url": "https://pe.usps.com/text/dmm300/508.htm",
+   "checked_on": "2026-10-24",
+   "field_citations": {}
+  },
+  {
+   "id": "cmra-new-documents",
+   "rule": "What happens when application details change",
+   "value": "Submit a new PS Form 1583 when required application information changes.",
+   "limits": "Identification must remain current. The CMRA must keep its registration database current.",
+   "instrument": "DMM 508.1.8.3",
+   "source": "USPS Domestic Mail Manual 508",
+   "url": "https://pe.usps.com/text/dmm300/508.htm",
+   "checked_on": "2026-10-24",
+   "field_citations": {}
+  },
+  {
+   "id": "cmra-termination",
+   "rule": "Mail after leaving a private mailbox",
+   "value": "USPS cannot process a change of address from a CMRA to another address.",
+   "limits": "Arrange remailing with the CMRA. Confirm postage, service charges and the six-month termination process.",
+   "instrument": "DMM 508.1.8.4",
+   "source": "USPS CMRA consumer FAQ",
+   "url": "https://faq.usps.com/articles/Knowledge/Commercial-Mail-Receiving-Agency-CMRA",
+   "checked_on": "2026-10-24",
+   "field_citations": {}
+  },
+  {
+   "id": "po-street",
+   "rule": "PO Box Street Addressing",
+   "value": "Participating locations can accept private-carrier packages using the Post Office street address and box number.",
+   "limits": "Availability and USPS mailing standards apply. Confirm the location offers this service.",
+   "instrument": "USPS Premium PO Box Street Addressing",
+   "source": "USPS PO Box Street Addressing",
+   "url": "https://postalpro.usps.com/mailing/competitivepoboxes",
+   "checked_on": "2026-10-24",
+   "field_citations": {}
+  },
+  {
+   "id": "temporary-coa",
+   "rule": "Temporary change of address",
+   "value": "Temporary forwarding starts at 15 days and can run to 364 days, using an initial period and extension.",
+   "limits": "Use temporary forwarding only for a genuine temporary move. It is not a permanent-residence substitute.",
+   "instrument": "USPS Change of Address basics",
+   "source": "USPS Change of Address basics",
+   "url": "https://faq.usps.com/articles/Knowledge/Change-of-Address-The-Basics",
+   "checked_on": "2026-10-24",
+   "field_citations": {}
+  },
+  {
+   "id": "forwarding-lead",
+   "rule": "When forwarding starts",
+   "value": "USPS advises allowing at least 7 to 10 business days after approval for the change to take effect.",
+   "limits": "This operational lead time does not establish privacy or completion of sender updates.",
+   "instrument": "USPS Forward Mail",
+   "source": "USPS Forward Mail",
+   "url": "https://www.usps.com/manage/forward.htm",
+   "checked_on": "2026-10-24",
+   "field_citations": {}
+  },
+  {
+   "id": "cmra-rule-edition",
+   "rule": "2023 CMRA rule",
+   "value": "The final CMRA rule became effective July 1, 2023.",
+   "limits": "The current DMM and current PS Form 1583 govern the operational checklist. Do not treat an old proposed rule as current.",
+   "instrument": "39 CFR Part 111; 88 FR 32112; FR Doc. 2023-10536",
+   "source": "USPS Federal Register 88 FR 32112",
+   "url": "https://www.federalregister.gov/documents/2023/05/19/2023-10536/commercial-mail-receiving-agencies",
+   "checked_on": "2026-10-24",
+   "field_citations": {}
+  }
+ ]
+}

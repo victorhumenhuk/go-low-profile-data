@@ -1,0 +1,4089 @@
+{
+ "id": "florida-counties",
+ "name": "Florida county record privacy routes",
+ "description": "Official office routes and supported procedure details for all 67 Florida counties. Empty cells are unresolved in the reviewed sources, not findings that protection is absent.",
+ "scope": "All 67 Florida counties. Office directories, identified forms and procedures only. Reviewed field gaps remain explicit. No person or parcel search was performed.",
+ "version": "1.1",
+ "published": "2026-10-24",
+ "verified": "2026-10-24",
+ "update_policy": "Quarterly official-source recheck and after procedure changes.",
+ "columns": [
+  {
+   "key": "county",
+   "label": "County"
+  },
+  {
+   "key": "appraiser_site",
+   "label": "Appraiser site"
+  },
+  {
+   "key": "owner_name_search",
+   "label": "Owner-name search offered"
+  },
+  {
+   "key": "owner_mailing_address",
+   "label": "Owner mailing address shown"
+  },
+  {
+   "key": "appraiser_confidentiality_form",
+   "label": "Appraiser form"
+  },
+  {
+   "key": "form_revision",
+   "label": "Printed revision"
+  },
+  {
+   "key": "notarized",
+   "label": "Notarization"
+  },
+  {
+   "key": "submission_method",
+   "label": "Appraiser submission"
+  },
+  {
+   "key": "trust_display",
+   "label": "Trust display"
+  },
+  {
+   "key": "clerk_records_search",
+   "label": "Clerk official records"
+  },
+  {
+   "key": "clerk_redaction_route",
+   "label": "Clerk redaction route"
+  },
+  {
+   "key": "tax_collector_site",
+   "label": "Tax collector"
+  },
+  {
+   "key": "tax_collector_confidentiality_route",
+   "label": "Collector confidentiality"
+  },
+  {
+   "key": "elections_confidentiality_route",
+   "label": "Voter confidentiality"
+  },
+  {
+   "key": "public_records_request_route",
+   "label": "Count request route"
+  },
+  {
+   "key": "public_records_request_email",
+   "label": "Published request email"
+  }
+ ],
+ "changelog": [
+  {
+   "date": "2026-10-24",
+   "change": "Draft directory and public-records request route audit. No exemption facts approved."
+  },
+  {
+   "date": "2026-10-24",
+   "change": "Enriched ten demand-selected counties with official forms, procedural differences, and explicit gaps. All rows remain draft."
+  },
+  {
+   "date": "2026-10-24",
+   "change": "Completed the 67-county official-source review. Reconciled ten county guides and 67 unsent count-only request drafts. Unknown details remain blank."
+  }
+ ],
+ "license": "https://creativecommons.org/licenses/by/4.0/",
+ "rows": [
+  {
+   "id": "alachua",
+   "county": "Alachua",
+   "appraiser_site": "http://www.acpafl.org/",
+   "owner_name_search": "",
+   "owner_mailing_address": "",
+   "appraiser_confidentiality_form": "https://www.acpafl.org/wp-content/uploads/Forms/Mask-from-Public-Records.pdf",
+   "form_revision": "",
+   "notarized": "",
+   "submission_method": "",
+   "trust_display": "",
+   "clerk_records_search": "",
+   "clerk_redaction_route": "",
+   "tax_collector_site": "http://www.alachuacollector.com/",
+   "tax_collector_confidentiality_route": "",
+   "elections_confidentiality_route": "",
+   "public_records_request_route": "https://www.acpafl.org/public-records-request/",
+   "public_records_request_email": "elouissaint@acpafl.org",
+   "source": "Florida Department of Revenue, Find a County Official directory",
+   "url": "https://floridarevenue.com/property/_api/web/lists/GetByTitle('Counties')/items?$SELECT=Title,PALink,TCLink,VABLink&$orderby=Title&$top=100",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "appraiser_site": [
+     {
+      "source": "Florida Department of Revenue, Find a County Official directory",
+      "url": "https://floridarevenue.com/property/_api/web/lists/GetByTitle('Counties')/items?$SELECT=Title,PALink,TCLink,VABLink&$orderby=Title&$top=100"
+     }
+    ],
+    "tax_collector_site": [
+     {
+      "source": "Florida Department of Revenue, Find a County Official directory",
+      "url": "https://floridarevenue.com/property/_api/web/lists/GetByTitle('Counties')/items?$SELECT=Title,PALink,TCLink,VABLink&$orderby=Title&$top=100"
+     }
+    ],
+    "public_records_request_route": [
+     {
+      "source": "Alachua official appraiser source",
+      "url": "https://www.acpafl.org/public-records-request/"
+     }
+    ],
+    "public_records_request_email": [
+     {
+      "source": "Alachua County Property Appraiser, public records request information",
+      "url": "https://www.acpafl.org/public-records-request/"
+     }
+    ],
+    "appraiser_confidentiality_form": [
+     {
+      "source": "Alachua official appraiser source",
+      "url": "https://www.acpafl.org/wp-content/uploads/Forms/Mask-from-Public-Records.pdf"
+     }
+    ]
+   }
+  },
+  {
+   "id": "baker",
+   "county": "Baker",
+   "appraiser_site": "http://www.bakerpa.com/",
+   "owner_name_search": "",
+   "owner_mailing_address": "",
+   "appraiser_confidentiality_form": "",
+   "form_revision": "",
+   "notarized": "",
+   "submission_method": "",
+   "trust_display": "",
+   "clerk_records_search": "",
+   "clerk_redaction_route": "",
+   "tax_collector_site": "http://bakertaxcollector.com/",
+   "tax_collector_confidentiality_route": "",
+   "elections_confidentiality_route": "",
+   "public_records_request_route": "https://www.bakerpa.com/contact.html",
+   "public_records_request_email": "bakerpa@bakercountyfl.org",
+   "source": "Florida Department of Revenue, Find a County Official directory",
+   "url": "https://floridarevenue.com/property/_api/web/lists/GetByTitle('Counties')/items?$SELECT=Title,PALink,TCLink,VABLink&$orderby=Title&$top=100",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "appraiser_site": [
+     {
+      "source": "Florida Department of Revenue, Find a County Official directory",
+      "url": "https://floridarevenue.com/property/_api/web/lists/GetByTitle('Counties')/items?$SELECT=Title,PALink,TCLink,VABLink&$orderby=Title&$top=100"
+     }
+    ],
+    "tax_collector_site": [
+     {
+      "source": "Florida Department of Revenue, Find a County Official directory",
+      "url": "https://floridarevenue.com/property/_api/web/lists/GetByTitle('Counties')/items?$SELECT=Title,PALink,TCLink,VABLink&$orderby=Title&$top=100"
+     }
+    ],
+    "public_records_request_route": [
+     {
+      "source": "Contact Us",
+      "url": "https://www.bakerpa.com/contact.html"
+     }
+    ],
+    "public_records_request_email": [
+     {
+      "source": "Contact Us",
+      "url": "https://www.bakerpa.com/contact.html"
+     }
+    ]
+   }
+  },
+  {
+   "id": "bay",
+   "county": "Bay",
+   "appraiser_site": "https://baypa.net/",
+   "owner_name_search": "",
+   "owner_mailing_address": "",
+   "appraiser_confidentiality_form": "",
+   "form_revision": "",
+   "notarized": "",
+   "submission_method": "",
+   "trust_display": "",
+   "clerk_records_search": "https://www.baycoclerk.com/public-records/search-official-records/",
+   "clerk_redaction_route": "https://apps.baycoclerk.com/Web_File_Repo/official_records/Request%20to%20Redact%20Personal%20Information.pdf",
+   "tax_collector_site": "https://www.baytaxcollector.com/",
+   "tax_collector_confidentiality_route": "",
+   "elections_confidentiality_route": "https://files.floridados.gov/media/707063/address-confidentiality-exemption-form-10-11-2023.pdf",
+   "public_records_request_route": "https://baypa.net/contact-us/",
+   "public_records_request_email": "",
+   "source": "Florida Department of Revenue, Find a County Official directory",
+   "url": "https://floridarevenue.com/property/_api/web/lists/GetByTitle('Counties')/items?$SELECT=Title,PALink,TCLink,VABLink&$orderby=Title&$top=100",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "appraiser_site": [
+     {
+      "source": "Florida Department of Revenue, Find a County Official directory",
+      "url": "https://floridarevenue.com/property/_api/web/lists/GetByTitle('Counties')/items?$SELECT=Title,PALink,TCLink,VABLink&$orderby=Title&$top=100"
+     }
+    ],
+    "tax_collector_site": [
+     {
+      "source": "Florida Department of Revenue, Find a County Official directory",
+      "url": "https://floridarevenue.com/property/_api/web/lists/GetByTitle('Counties')/items?$SELECT=Title,PALink,TCLink,VABLink&$orderby=Title&$top=100"
+     }
+    ],
+    "clerk_records_search": [
+     {
+      "source": "Bay official clerk source",
+      "url": "https://www.baycoclerk.com/value-adjustment-board/"
+     }
+    ],
+    "clerk_redaction_route": [
+     {
+      "source": "Bay official clerk source",
+      "url": "https://www.baycoclerk.com/forms/miscellaneous/"
+     }
+    ],
+    "elections_confidentiality_route": [
+     {
+      "source": "Bay official elections source",
+      "url": "https://www.bayvotesfl.gov"
+     }
+    ],
+    "public_records_request_route": [
+     {
+      "source": "Contact Us | Bay County Property Appraiser",
+      "url": "https://baypa.net/contact-us/"
+     }
+    ]
+   }
+  },
+  {
+   "id": "bradford",
+   "county": "Bradford",
+   "appraiser_site": "http://www.bradfordappraiser.com/",
+   "owner_name_search": "",
+   "owner_mailing_address": "",
+   "appraiser_confidentiality_form": "",
+   "form_revision": "",
+   "notarized": "",
+   "submission_method": "",
+   "trust_display": "",
+   "clerk_records_search": "",
+   "clerk_redaction_route": "https://bradfordclerk.com/wp-content/uploads/Document_FACC_Imaging.pdf",
+   "tax_collector_site": "http://www.bradfordtaxcollector.com/",
+   "tax_collector_confidentiality_route": "",
+   "elections_confidentiality_route": "",
+   "public_records_request_route": "https://www.bradfordappraiser.com/Records_Request/",
+   "public_records_request_email": "bcpa@bradfordcountyfl.gov",
+   "source": "Florida Department of Revenue, Find a County Official directory",
+   "url": "https://floridarevenue.com/property/_api/web/lists/GetByTitle('Counties')/items?$SELECT=Title,PALink,TCLink,VABLink&$orderby=Title&$top=100",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "appraiser_site": [
+     {
+      "source": "Florida Department of Revenue, Find a County Official directory",
+      "url": "https://floridarevenue.com/property/_api/web/lists/GetByTitle('Counties')/items?$SELECT=Title,PALink,TCLink,VABLink&$orderby=Title&$top=100"
+     }
+    ],
+    "tax_collector_site": [
+     {
+      "source": "Florida Department of Revenue, Find a County Official directory",
+      "url": "https://floridarevenue.com/property/_api/web/lists/GetByTitle('Counties')/items?$SELECT=Title,PALink,TCLink,VABLink&$orderby=Title&$top=100"
+     }
+    ],
+    "public_records_request_route": [
+     {
+      "source": "Bradford official appraiser source",
+      "url": "https://www.bradfordappraiser.com/Records_Request/"
+     }
+    ],
+    "clerk_redaction_route": [
+     {
+      "source": "Bradford official clerk source",
+      "url": "https://bradfordclerk.com/public-notices-court-forms/"
+     }
+    ],
+    "public_records_request_email": [
+     {
+      "source": "Bradford official appraiser source",
+      "url": "https://www.bradfordappraiser.com/Records_Request/"
+     }
+    ]
+   }
+  },
+  {
+   "id": "brevard",
+   "county": "Brevard",
+   "appraiser_site": "https://www.bcpao.us/",
+   "owner_name_search": "",
+   "owner_mailing_address": "",
+   "appraiser_confidentiality_form": "https://www.bcpao.us/Docs/forms/BCPAO_INV_03_Request_for_Exemption_from_Public_Records_Disclosure.pdf",
+   "form_revision": "",
+   "notarized": "The published county form includes a notary requirement or acknowledgment.",
+   "submission_method": "",
+   "trust_display": "",
+   "clerk_records_search": "https://vaclmweb1.brevardclerk.us/AcclaimWeb/",
+   "clerk_redaction_route": "",
+   "tax_collector_site": "http://www.brevardtaxcollector.com/",
+   "tax_collector_confidentiality_route": "",
+   "elections_confidentiality_route": "",
+   "public_records_request_route": "https://www.bcpao.us/ContactUs.aspx?t=1.4.0.3.b",
+   "public_records_request_email": "appraiser@bcpao.us",
+   "source": "Florida Department of Revenue, Find a County Official directory",
+   "url": "https://floridarevenue.com/property/_api/web/lists/GetByTitle('Counties')/items?$SELECT=Title,PALink,TCLink,VABLink&$orderby=Title&$top=100",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "appraiser_site": [
+     {
+      "source": "Florida Department of Revenue, Find a County Official directory",
+      "url": "https://floridarevenue.com/property/_api/web/lists/GetByTitle('Counties')/items?$SELECT=Title,PALink,TCLink,VABLink&$orderby=Title&$top=100"
+     }
+    ],
+    "tax_collector_site": [
+     {
+      "source": "Florida Department of Revenue, Find a County Official directory",
+      "url": "https://floridarevenue.com/property/_api/web/lists/GetByTitle('Counties')/items?$SELECT=Title,PALink,TCLink,VABLink&$orderby=Title&$top=100"
+     }
+    ],
+    "appraiser_confidentiality_form": [
+     {
+      "source": "Brevard County Property Appraiser Request for Exemption from Public Records Disclosure",
+      "url": "https://www.bcpao.us/Docs/forms/BCPAO_INV_03_Request_for_Exemption_from_Public_Records_Disclosure.pdf"
+     }
+    ],
+    "notarized": [
+     {
+      "source": "Brevard County Property Appraiser Request for Exemption from Public Records Disclosure",
+      "url": "https://www.bcpao.us/Docs/forms/BCPAO_INV_03_Request_for_Exemption_from_Public_Records_Disclosure.pdf"
+     }
+    ],
+    "clerk_records_search": [
+     {
+      "source": "Brevard official clerk source",
+      "url": "https://brevardclerk.us/Value-Adjustment-Board"
+     }
+    ],
+    "public_records_request_route": [
+     {
+      "source": "BCPAO - Contact Us",
+      "url": "https://www.bcpao.us/ContactUs.aspx?t=1.4.0.3.b"
+     }
+    ],
+    "public_records_request_email": [
+     {
+      "source": "BCPAO - Contact Us",
+      "url": "https://www.bcpao.us/ContactUs.aspx?t=1.4.0.3.b"
+     }
+    ]
+   }
+  },
+  {
+   "id": "broward",
+   "county": "Broward",
+   "appraiser_site": "http://www.bcpa.net",
+   "owner_name_search": "",
+   "owner_mailing_address": "",
+   "appraiser_confidentiality_form": "https://web.bcpa.net/Forms/ConfidentialityApp.pdf",
+   "form_revision": "",
+   "notarized": "",
+   "submission_method": "",
+   "trust_display": "",
+   "clerk_records_search": "",
+   "clerk_redaction_route": "https://www.broward.org/RecordsTaxesTreasury/Information",
+   "tax_collector_site": "https://www.browardtax.org/",
+   "tax_collector_confidentiality_route": "",
+   "elections_confidentiality_route": "",
+   "public_records_request_route": "https://bcpa.net/FrequentlyAskedQuestions.asp",
+   "public_records_request_email": "",
+   "source": "Florida Department of Revenue, Find a County Official directory",
+   "url": "https://floridarevenue.com/property/_api/web/lists/GetByTitle('Counties')/items?$SELECT=Title,PALink,TCLink,VABLink&$orderby=Title&$top=100",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "appraiser_site": [
+     {
+      "source": "Florida Department of Revenue, Find a County Official directory",
+      "url": "https://floridarevenue.com/property/_api/web/lists/GetByTitle('Counties')/items?$SELECT=Title,PALink,TCLink,VABLink&$orderby=Title&$top=100"
+     }
+    ],
+    "tax_collector_site": [
+     {
+      "source": "Florida Department of Revenue, Find a County Official directory",
+      "url": "https://floridarevenue.com/property/_api/web/lists/GetByTitle('Counties')/items?$SELECT=Title,PALink,TCLink,VABLink&$orderby=Title&$top=100"
+     }
+    ],
+    "appraiser_confidentiality_form": [
+     {
+      "source": "Broward appraiser official source",
+      "url": "https://web.bcpa.net/Forms/ConfidentialityApp.pdf"
+     }
+    ],
+    "employment_evidence": [
+     {
+      "source": "Broward appraiser official source",
+      "url": "https://web.bcpa.net/Forms/ConfidentialityApp.pdf"
+     }
+    ],
+    "appraiser_confidentiality_contact": [
+     {
+      "source": "Broward appraiser official source",
+      "url": "https://web.bcpa.net/Forms/ConfidentialityApp.pdf"
+     }
+    ],
+    "clerk_redaction_route": [
+     {
+      "source": "Broward appraiser official source",
+      "url": "https://web.bcpa.net/Forms/ConfidentialityApp.pdf"
+     }
+    ],
+    "recorder_contact": [
+     {
+      "source": "Broward appraiser official source",
+      "url": "https://web.bcpa.net/Forms/ConfidentialityApp.pdf"
+     }
+    ],
+    "recorder_limit": [
+     {
+      "source": "Broward recorder official source",
+      "url": "https://www.broward.org/RecordsTaxesTreasury/Information"
+     }
+    ],
+    "public_records_request_route": [
+     {
+      "source": "Marty Kiar - Broward County Property Appraiser",
+      "url": "https://bcpa.net/FrequentlyAskedQuestions.asp"
+     }
+    ]
+   }
+  },
+  {
+   "id": "calhoun",
+   "county": "Calhoun",
+   "appraiser_site": "http://www.qpublic.net/calhoun/",
+   "owner_name_search": "",
+   "owner_mailing_address": "",
+   "appraiser_confidentiality_form": "",
+   "form_revision": "",
+   "notarized": "",
+   "submission_method": "",
+   "trust_display": "",
+   "clerk_records_search": "https://www.myfloridacounty.com/orisearch/07",
+   "clerk_redaction_route": "",
+   "tax_collector_site": "http://www.calhouncountytaxcollector.com/",
+   "tax_collector_confidentiality_route": "",
+   "elections_confidentiality_route": "https://votecalhounfl.gov/voter-information/address-confidentiality-program/",
+   "public_records_request_route": "https://calhounpa.net/contact-us/",
+   "public_records_request_email": "",
+   "source": "Florida Department of Revenue, Find a County Official directory",
+   "url": "https://floridarevenue.com/property/_api/web/lists/GetByTitle('Counties')/items?$SELECT=Title,PALink,TCLink,VABLink&$orderby=Title&$top=100",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "appraiser_site": [
+     {
+      "source": "Florida Department of Revenue, Find a County Official directory",
+      "url": "https://floridarevenue.com/property/_api/web/lists/GetByTitle('Counties')/items?$SELECT=Title,PALink,TCLink,VABLink&$orderby=Title&$top=100"
+     }
+    ],
+    "tax_collector_site": [
+     {
+      "source": "Florida Department of Revenue, Find a County Official directory",
+      "url": "https://floridarevenue.com/property/_api/web/lists/GetByTitle('Counties')/items?$SELECT=Title,PALink,TCLink,VABLink&$orderby=Title&$top=100"
+     }
+    ],
+    "clerk_records_search": [
+     {
+      "source": "Calhoun official clerk source",
+      "url": "https://www.calhounclerk.com/value-adjustment-board/"
+     }
+    ],
+    "elections_confidentiality_route": [
+     {
+      "source": "Calhoun official elections source",
+      "url": "https://www.votecalhounfl.gov"
+     }
+    ],
+    "public_records_request_route": [
+     {
+      "source": "Contact Us – Calhoun County Property Appraiser",
+      "url": "https://calhounpa.net/contact-us/"
+     }
+    ]
+   }
+  },
+  {
+   "id": "charlotte",
+   "county": "Charlotte",
+   "appraiser_site": "https://www.ccappraiser.com/",
+   "owner_name_search": "",
+   "owner_mailing_address": "",
+   "appraiser_confidentiality_form": "",
+   "form_revision": "",
+   "notarized": "",
+   "submission_method": "",
+   "trust_display": "",
+   "clerk_records_search": "https://recording.charlotteclerk.com/",
+   "clerk_redaction_route": "https://charlotteclerk.com/Clerk/ProtectingInformation/",
+   "tax_collector_site": "https://taxcollector.charlottecountyfl.gov/",
+   "tax_collector_confidentiality_route": "",
+   "elections_confidentiality_route": "",
+   "public_records_request_route": "Postal mail to Charlotte County Property Appraiser, 18500 Murdock Circle, Port Charlotte, FL 33948-1076",
+   "public_records_request_email": "",
+   "source": "Florida Department of Revenue, Find a County Official directory",
+   "url": "https://floridarevenue.com/property/_api/web/lists/GetByTitle('Counties')/items?$SELECT=Title,PALink,TCLink,VABLink&$orderby=Title&$top=100",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "appraiser_site": [
+     {
+      "source": "Florida Department of Revenue, Find a County Official directory",
+      "url": "https://floridarevenue.com/property/_api/web/lists/GetByTitle('Counties')/items?$SELECT=Title,PALink,TCLink,VABLink&$orderby=Title&$top=100"
+     }
+    ],
+    "tax_collector_site": [
+     {
+      "source": "Florida Department of Revenue, Find a County Official directory",
+      "url": "https://floridarevenue.com/property/_api/web/lists/GetByTitle('Counties')/items?$SELECT=Title,PALink,TCLink,VABLink&$orderby=Title&$top=100"
+     }
+    ],
+    "clerk_records_search": [
+     {
+      "source": "Charlotte official clerk source",
+      "url": "https://charlotteclerk.com/Clerk/PublicRequest/"
+     }
+    ],
+    "clerk_redaction_route": [
+     {
+      "source": "Charlotte official clerk source",
+      "url": "https://charlotteclerk.com/departments/vab/"
+     }
+    ],
+    "public_records_request_route": [
+     {
+      "source": "MSBUs & MSTUs FAQ | Charlotte County, FL",
+      "url": "https://www.charlottecountyfl.gov/msbu-mstu/msbu-mstu-faq.stml"
+     }
+    ]
+   }
+  },
+  {
+   "id": "citrus",
+   "county": "Citrus",
+   "appraiser_site": "https://www.citruspa.org/_dnn/",
+   "owner_name_search": "Yes. Search offered; no person searched.",
+   "owner_mailing_address": "",
+   "appraiser_confidentiality_form": "https://www.citruspa.org/_DNN/Portals/0/Citrus%20County%20Confidential%20Record%20Request%20Form%20%281%29.pdf",
+   "form_revision": "05/19/2026 (printed revision)",
+   "notarized": "The published county form includes a notary requirement or acknowledgment.",
+   "submission_method": "Return the affidavit and supporting documents to Customer Service, 210 N. Apopka Avenue, Inverness, FL 34450. Submit another request after moving or buying another property.",
+   "trust_display": "",
+   "clerk_records_search": "https://www.citrusclerk.org/landmarkweb",
+   "clerk_redaction_route": "https://www.citrusclerk.org/DocumentCenter/View/264/Motion---Confidentiality-of-Trial-Court-Records-PDF",
+   "tax_collector_site": "http://www.citrustc.us/",
+   "tax_collector_confidentiality_route": "",
+   "elections_confidentiality_route": "https://www.votecitrus.gov/DocumentCenter/View/756/Exemption-from-Public-Records-PDF",
+   "public_records_request_route": "https://www.citruspa.org/_dnn/General/Contact",
+   "public_records_request_email": "",
+   "source": "Florida Department of Revenue, Find a County Official directory",
+   "url": "https://floridarevenue.com/property/_api/web/lists/GetByTitle('Counties')/items?$SELECT=Title,PALink,TCLink,VABLink&$orderby=Title&$top=100",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "appraiser_site": [
+     {
+      "source": "Florida Department of Revenue, Find a County Official directory",
+      "url": "https://floridarevenue.com/property/_api/web/lists/GetByTitle('Counties')/items?$SELECT=Title,PALink,TCLink,VABLink&$orderby=Title&$top=100"
+     }
+    ],
+    "tax_collector_site": [
+     {
+      "source": "Florida Department of Revenue, Find a County Official directory",
+      "url": "https://floridarevenue.com/property/_api/web/lists/GetByTitle('Counties')/items?$SELECT=Title,PALink,TCLink,VABLink&$orderby=Title&$top=100"
+     }
+    ],
+    "public_records_request_route": [
+     {
+      "source": "Citrus official appraiser source",
+      "url": "https://www.citruspa.org/_dnn/General/Contact"
+     }
+    ],
+    "owner_name_search": [
+     {
+      "source": "Citrus County Property Appraiser, website navigation",
+      "url": "https://www.citruspa.org/_dnn/"
+     }
+    ],
+    "appraiser_confidentiality_form": [
+     {
+      "source": "Citrus official appraiser source",
+      "url": "https://www.citruspa.org/_DNN/Portals/0/Citrus%20County%20Confidential%20Record%20Request%20Form%20%281%29.pdf"
+     }
+    ],
+    "form_revision": [
+     {
+      "source": "Citrus official appraiser source",
+      "url": "https://www.citruspa.org/_DNN/Portals/0/Citrus%20County%20Confidential%20Record%20Request%20Form%20%281%29.pdf"
+     }
+    ],
+    "notarized": [
+     {
+      "source": "Citrus official appraiser source",
+      "url": "https://www.citruspa.org/_DNN/Portals/0/Citrus%20County%20Confidential%20Record%20Request%20Form%20%281%29.pdf"
+     }
+    ],
+    "submission_method": [
+     {
+      "source": "Citrus official appraiser source",
+      "url": "https://www.citruspa.org/_DNN/Portals/0/Citrus%20County%20Confidential%20Record%20Request%20Form%20%281%29.pdf"
+     }
+    ],
+    "clerk_records_search": [
+     {
+      "source": "Citrus official clerk source",
+      "url": "https://www.citrusclerk.org/234/Value-Adjustment-Board-VAB"
+     }
+    ],
+    "clerk_redaction_route": [
+     {
+      "source": "Citrus official clerk source",
+      "url": "https://www.citrusclerk.org/208/Forms-Packets"
+     }
+    ],
+    "elections_confidentiality_route": [
+     {
+      "source": "Citrus official elections source",
+      "url": "https://www.votecitrus.gov"
+     }
+    ]
+   }
+  },
+  {
+   "id": "clay",
+   "county": "Clay",
+   "appraiser_site": "http://www.ccpao.com/",
+   "owner_name_search": "",
+   "owner_mailing_address": "",
+   "appraiser_confidentiality_form": "",
+   "form_revision": "",
+   "notarized": "",
+   "submission_method": "",
+   "trust_display": "",
+   "clerk_records_search": "",
+   "clerk_redaction_route": "https://clayclerk.com/online-options/forms/required-confidentiality-forms/",
+   "tax_collector_site": "http://www.claycountytax.com",
+   "tax_collector_confidentiality_route": "",
+   "elections_confidentiality_route": "",
+   "public_records_request_route": "https://www.ccpao.com/2021/01/05/public-records-request/",
+   "public_records_request_email": "",
+   "source": "Florida Department of Revenue, Find a County Official directory",
+   "url": "https://floridarevenue.com/property/_api/web/lists/GetByTitle('Counties')/items?$SELECT=Title,PALink,TCLink,VABLink&$orderby=Title&$top=100",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "appraiser_site": [
+     {
+      "source": "Florida Department of Revenue, Find a County Official directory",
+      "url": "https://floridarevenue.com/property/_api/web/lists/GetByTitle('Counties')/items?$SELECT=Title,PALink,TCLink,VABLink&$orderby=Title&$top=100"
+     }
+    ],
+    "tax_collector_site": [
+     {
+      "source": "Florida Department of Revenue, Find a County Official directory",
+      "url": "https://floridarevenue.com/property/_api/web/lists/GetByTitle('Counties')/items?$SELECT=Title,PALink,TCLink,VABLink&$orderby=Title&$top=100"
+     }
+    ],
+    "clerk_redaction_route": [
+     {
+      "source": "Clay official clerk source",
+      "url": "https://clayclerk.com/departments/recording/"
+     }
+    ],
+    "public_records_request_route": [
+     {
+      "source": "Public Records Request – Office of the Clay County Property Appraiser – Tracy Scott Drake",
+      "url": "https://www.ccpao.com/2021/01/05/public-records-request/"
+     }
+    ]
+   }
+  },
+  {
+   "id": "collier",
+   "county": "Collier",
+   "appraiser_site": "http://www.collierappraiser.com/",
+   "owner_name_search": "",
+   "owner_mailing_address": "Selected fictitious name and address appear on appraiser records, including the internet. Homestead mailing address must be the site address under this form.",
+   "appraiser_confidentiality_form": "https://www.collierappraiser.com/Pdfs/HstdExp/2026_confidentiality.pdf",
+   "form_revision": "2/10/2026.",
+   "notarized": "Yes. Appraiser PDF requires the applicant signature before a notary.",
+   "submission_method": "Return to Exemptions Department, Collier County Property Appraiser, 3950 Radio Rd, Naples FL 34104. PDF lists fax 239-252-2071.",
+   "trust_display": "",
+   "clerk_records_search": "https://cor.collierclerk.com/coraccess/",
+   "clerk_redaction_route": "https://www.collierclerk.com/wp-content/uploads/Official20Records20Redaction20Request.pdf",
+   "tax_collector_site": "http://www.colliertax.com/",
+   "tax_collector_confidentiality_route": "Clerk form requires separate request to Tax Collector and gives 239-252-8172. Dedicated collector confidentiality form not verified.",
+   "elections_confidentiality_route": "",
+   "public_records_request_route": "https://www.collierappraiser.com/Pdfs/HstdExp/2026_confidentiality.pdf",
+   "public_records_request_email": "",
+   "source": "Florida Department of Revenue, Find a County Official directory",
+   "url": "https://floridarevenue.com/property/_api/web/lists/GetByTitle('Counties')/items?$SELECT=Title,PALink,TCLink,VABLink&$orderby=Title&$top=100",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "appraiser_site": [
+     {
+      "source": "Florida Department of Revenue, Find a County Official directory",
+      "url": "https://floridarevenue.com/property/_api/web/lists/GetByTitle('Counties')/items?$SELECT=Title,PALink,TCLink,VABLink&$orderby=Title&$top=100"
+     }
+    ],
+    "tax_collector_site": [
+     {
+      "source": "Florida Department of Revenue, Find a County Official directory",
+      "url": "https://floridarevenue.com/property/_api/web/lists/GetByTitle('Counties')/items?$SELECT=Title,PALink,TCLink,VABLink&$orderby=Title&$top=100"
+     }
+    ],
+    "appraiser_confidentiality_form": [
+     {
+      "source": "Collier appraiser official source",
+      "url": "https://www.collierappraiser.com/Pdfs/HstdExp/2026_confidentiality.pdf"
+     }
+    ],
+    "form_revision": [
+     {
+      "source": "Collier appraiser official source",
+      "url": "https://www.collierappraiser.com/Pdfs/HstdExp/2026_confidentiality.pdf"
+     }
+    ],
+    "notarized": [
+     {
+      "source": "Collier appraiser official source",
+      "url": "https://www.collierappraiser.com/Pdfs/HstdExp/2026_confidentiality.pdf"
+     }
+    ],
+    "submission_method": [
+     {
+      "source": "Collier appraiser official source",
+      "url": "https://www.collierappraiser.com/Pdfs/HstdExp/2026_confidentiality.pdf"
+     }
+    ],
+    "employment_evidence": [
+     {
+      "source": "Collier appraiser official source",
+      "url": "https://www.collierappraiser.com/Pdfs/HstdExp/2026_confidentiality.pdf"
+     }
+    ],
+    "owner_mailing_address": [
+     {
+      "source": "Collier appraiser official source",
+      "url": "https://www.collierappraiser.com/Pdfs/HstdExp/2026_confidentiality.pdf"
+     }
+    ],
+    "appraiser_display_limit": [
+     {
+      "source": "Collier appraiser official source",
+      "url": "https://www.collierappraiser.com/Pdfs/HstdExp/2026_confidentiality.pdf"
+     }
+    ],
+    "move_rule": [
+     {
+      "source": "Collier appraiser official source",
+      "url": "https://www.collierappraiser.com/Pdfs/HstdExp/2026_confidentiality.pdf"
+     }
+    ],
+    "clerk_redaction_route": [
+     {
+      "source": "Collier clerk official source",
+      "url": "https://www.collierclerk.com/wp-content/uploads/Official20Records20Redaction20Request.pdf"
+     }
+    ],
+    "clerk_form_revision": [
+     {
+      "source": "Collier clerk official source",
+      "url": "https://www.collierclerk.com/wp-content/uploads/Official20Records20Redaction20Request.pdf"
+     }
+    ],
+    "clerk_records_search": [
+     {
+      "source": "Collier clerk official source",
+      "url": "https://www.collierclerk.com/recording-information/recording-forms/"
+     }
+    ],
+    "tax_collector_confidentiality_route": [
+     {
+      "source": "Collier clerk official source",
+      "url": "https://www.collierclerk.com/wp-content/uploads/Official20Records20Redaction20Request.pdf"
+     }
+    ],
+    "public_records_request_route": [
+     {
+      "source": "Collier official appraiser source",
+      "url": "https://www.collierappraiser.com/Pdfs/HstdExp/2026_confidentiality.pdf"
+     }
+    ]
+   }
+  },
+  {
+   "id": "columbia",
+   "county": "Columbia",
+   "appraiser_site": "http://columbia.floridapa.com/",
+   "owner_name_search": "",
+   "owner_mailing_address": "",
+   "appraiser_confidentiality_form": "",
+   "form_revision": "",
+   "notarized": "",
+   "submission_method": "",
+   "trust_display": "",
+   "clerk_records_search": "",
+   "clerk_redaction_route": "",
+   "tax_collector_site": "http://www.columbiataxcollector.com/",
+   "tax_collector_confidentiality_route": "",
+   "elections_confidentiality_route": "",
+   "public_records_request_route": "https://columbia.floridapa.com/Records_Request/",
+   "public_records_request_email": "kylie@ccpafl.com",
+   "source": "Florida Department of Revenue, Find a County Official directory",
+   "url": "https://floridarevenue.com/property/_api/web/lists/GetByTitle('Counties')/items?$SELECT=Title,PALink,TCLink,VABLink&$orderby=Title&$top=100",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "appraiser_site": [
+     {
+      "source": "Florida Department of Revenue, Find a County Official directory",
+      "url": "https://floridarevenue.com/property/_api/web/lists/GetByTitle('Counties')/items?$SELECT=Title,PALink,TCLink,VABLink&$orderby=Title&$top=100"
+     }
+    ],
+    "tax_collector_site": [
+     {
+      "source": "Florida Department of Revenue, Find a County Official directory",
+      "url": "https://floridarevenue.com/property/_api/web/lists/GetByTitle('Counties')/items?$SELECT=Title,PALink,TCLink,VABLink&$orderby=Title&$top=100"
+     }
+    ],
+    "public_records_request_route": [
+     {
+      "source": "Columbia official appraiser source",
+      "url": "https://columbia.floridapa.com/Records_Request/"
+     }
+    ],
+    "public_records_request_email": [
+     {
+      "source": "Columbia official appraiser source",
+      "url": "https://columbia.floridapa.com/Records_Request/"
+     }
+    ]
+   }
+  },
+  {
+   "id": "desoto",
+   "county": "DeSoto",
+   "appraiser_site": "http://www.desotopa.com/",
+   "owner_name_search": "",
+   "owner_mailing_address": "",
+   "appraiser_confidentiality_form": "",
+   "form_revision": "",
+   "notarized": "",
+   "submission_method": "",
+   "trust_display": "",
+   "clerk_records_search": "",
+   "clerk_redaction_route": "",
+   "tax_collector_site": "http://www.desotocountytaxcollector.com/",
+   "tax_collector_confidentiality_route": "",
+   "elections_confidentiality_route": "",
+   "public_records_request_route": "https://www.desotopa.com/Records_Request/",
+   "public_records_request_email": "recordsrequest@desotopa.com",
+   "source": "Florida Department of Revenue, Find a County Official directory",
+   "url": "https://floridarevenue.com/property/_api/web/lists/GetByTitle('Counties')/items?$SELECT=Title,PALink,TCLink,VABLink&$orderby=Title&$top=100",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "appraiser_site": [
+     {
+      "source": "Florida Department of Revenue, Find a County Official directory",
+      "url": "https://floridarevenue.com/property/_api/web/lists/GetByTitle('Counties')/items?$SELECT=Title,PALink,TCLink,VABLink&$orderby=Title&$top=100"
+     }
+    ],
+    "tax_collector_site": [
+     {
+      "source": "Florida Department of Revenue, Find a County Official directory",
+      "url": "https://floridarevenue.com/property/_api/web/lists/GetByTitle('Counties')/items?$SELECT=Title,PALink,TCLink,VABLink&$orderby=Title&$top=100"
+     }
+    ],
+    "public_records_request_route": [
+     {
+      "source": "DeSoto official appraiser source",
+      "url": "https://www.desotopa.com/Records_Request/"
+     }
+    ],
+    "public_records_request_email": [
+     {
+      "source": "DeSoto County Property Appraiser, public records request information",
+      "url": "https://www.desotopa.com/Records_Request/"
+     }
+    ]
+   }
+  },
+  {
+   "id": "dixie",
+   "county": "Dixie",
+   "appraiser_site": "http://www.qpublic.net/dixie/",
+   "owner_name_search": "",
+   "owner_mailing_address": "",
+   "appraiser_confidentiality_form": "",
+   "form_revision": "",
+   "notarized": "",
+   "submission_method": "",
+   "trust_display": "",
+   "clerk_records_search": "https://www.myfloridacounty.com/orisearch/15",
+   "clerk_redaction_route": "",
+   "tax_collector_site": "https://dixietax.com/",
+   "tax_collector_confidentiality_route": "",
+   "elections_confidentiality_route": "",
+   "public_records_request_route": "https://www.qpublic.net/fl/dixie/topmenu.html",
+   "public_records_request_email": "",
+   "source": "Florida Department of Revenue, Find a County Official directory",
+   "url": "https://floridarevenue.com/property/_api/web/lists/GetByTitle('Counties')/items?$SELECT=Title,PALink,TCLink,VABLink&$orderby=Title&$top=100",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "appraiser_site": [
+     {
+      "source": "Florida Department of Revenue, Find a County Official directory",
+      "url": "https://floridarevenue.com/property/_api/web/lists/GetByTitle('Counties')/items?$SELECT=Title,PALink,TCLink,VABLink&$orderby=Title&$top=100"
+     }
+    ],
+    "tax_collector_site": [
+     {
+      "source": "Florida Department of Revenue, Find a County Official directory",
+      "url": "https://floridarevenue.com/property/_api/web/lists/GetByTitle('Counties')/items?$SELECT=Title,PALink,TCLink,VABLink&$orderby=Title&$top=100"
+     }
+    ],
+    "clerk_records_search": [
+     {
+      "source": "Dixie official clerk source",
+      "url": "https://dixieclerk.com/departments-services/clerk-services/value-adjustment-board/"
+     }
+    ],
+    "public_records_request_route": [
+     {
+      "source": "Dixie official appraiser source",
+      "url": "https://www.qpublic.net/fl/dixie/topmenu.html"
+     }
+    ]
+   }
+  },
+  {
+   "id": "duval",
+   "county": "Duval",
+   "appraiser_site": "http://www.coj.net/Departments/Property-Appraiser.aspx",
+   "owner_name_search": "",
+   "owner_mailing_address": "",
+   "appraiser_confidentiality_form": "https://www.jacksonville.gov/departments/property-appraiser/docs/request-for-exemption-from-public-records-disclosu",
+   "form_revision": "",
+   "notarized": "",
+   "submission_method": "",
+   "trust_display": "",
+   "clerk_records_search": "",
+   "clerk_redaction_route": "",
+   "tax_collector_site": "http://www.coj.net/tc",
+   "tax_collector_confidentiality_route": "",
+   "elections_confidentiality_route": "",
+   "public_records_request_route": "https://www.jacksonville.gov/departments/property-appraiser/contact-us",
+   "public_records_request_email": "",
+   "source": "Florida Department of Revenue, Find a County Official directory",
+   "url": "https://floridarevenue.com/property/_api/web/lists/GetByTitle('Counties')/items?$SELECT=Title,PALink,TCLink,VABLink&$orderby=Title&$top=100",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "appraiser_site": [
+     {
+      "source": "Florida Department of Revenue, Find a County Official directory",
+      "url": "https://floridarevenue.com/property/_api/web/lists/GetByTitle('Counties')/items?$SELECT=Title,PALink,TCLink,VABLink&$orderby=Title&$top=100"
+     }
+    ],
+    "tax_collector_site": [
+     {
+      "source": "Florida Department of Revenue, Find a County Official directory",
+      "url": "https://floridarevenue.com/property/_api/web/lists/GetByTitle('Counties')/items?$SELECT=Title,PALink,TCLink,VABLink&$orderby=Title&$top=100"
+     }
+    ],
+    "appraiser_confidentiality_form": [
+     {
+      "source": "Joyce Morgan",
+      "url": "https://www.jacksonville.gov/departments/property-appraiser/docs/request-for-exemption-from-public-records-disclosu"
+     }
+    ],
+    "public_records_request_route": [
+     {
+      "source": "Duval official appraiser source",
+      "url": "https://www.jacksonville.gov/departments/property-appraiser/contact-us"
+     }
+    ]
+   }
+  },
+  {
+   "id": "escambia",
+   "county": "Escambia",
+   "appraiser_site": "http://www.escpa.org",
+   "owner_name_search": "",
+   "owner_mailing_address": "",
+   "appraiser_confidentiality_form": "",
+   "form_revision": "",
+   "notarized": "",
+   "submission_method": "",
+   "trust_display": "",
+   "clerk_records_search": "",
+   "clerk_redaction_route": "",
+   "tax_collector_site": "http://www.escambiataxcollector.com/",
+   "tax_collector_confidentiality_route": "",
+   "elections_confidentiality_route": "",
+   "public_records_request_route": "https://escpa.org/",
+   "public_records_request_email": "",
+   "source": "Florida Department of Revenue, Find a County Official directory",
+   "url": "https://floridarevenue.com/property/_api/web/lists/GetByTitle('Counties')/items?$SELECT=Title,PALink,TCLink,VABLink&$orderby=Title&$top=100",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "appraiser_site": [
+     {
+      "source": "Florida Department of Revenue, Find a County Official directory",
+      "url": "https://floridarevenue.com/property/_api/web/lists/GetByTitle('Counties')/items?$SELECT=Title,PALink,TCLink,VABLink&$orderby=Title&$top=100"
+     }
+    ],
+    "tax_collector_site": [
+     {
+      "source": "Florida Department of Revenue, Find a County Official directory",
+      "url": "https://floridarevenue.com/property/_api/web/lists/GetByTitle('Counties')/items?$SELECT=Title,PALink,TCLink,VABLink&$orderby=Title&$top=100"
+     }
+    ],
+    "public_records_request_route": [
+     {
+      "source": "Escambia County Florida Property Appraiser",
+      "url": "https://escpa.org/"
+     }
+    ]
+   }
+  },
+  {
+   "id": "flagler",
+   "county": "Flagler",
+   "appraiser_site": "http://www.flaglerpa.com/",
+   "owner_name_search": "",
+   "owner_mailing_address": "",
+   "appraiser_confidentiality_form": "",
+   "form_revision": "",
+   "notarized": "",
+   "submission_method": "",
+   "trust_display": "",
+   "clerk_records_search": "",
+   "clerk_redaction_route": "",
+   "tax_collector_site": "http://www.flaglertax.com/",
+   "tax_collector_confidentiality_route": "",
+   "elections_confidentiality_route": "",
+   "public_records_request_route": "https://flaglerpa.com/contact-us/",
+   "public_records_request_email": "",
+   "source": "Florida Department of Revenue, Find a County Official directory",
+   "url": "https://floridarevenue.com/property/_api/web/lists/GetByTitle('Counties')/items?$SELECT=Title,PALink,TCLink,VABLink&$orderby=Title&$top=100",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "appraiser_site": [
+     {
+      "source": "Florida Department of Revenue, Find a County Official directory",
+      "url": "https://floridarevenue.com/property/_api/web/lists/GetByTitle('Counties')/items?$SELECT=Title,PALink,TCLink,VABLink&$orderby=Title&$top=100"
+     }
+    ],
+    "tax_collector_site": [
+     {
+      "source": "Florida Department of Revenue, Find a County Official directory",
+      "url": "https://floridarevenue.com/property/_api/web/lists/GetByTitle('Counties')/items?$SELECT=Title,PALink,TCLink,VABLink&$orderby=Title&$top=100"
+     }
+    ],
+    "public_records_request_route": [
+     {
+      "source": "Contact Us – Flagler County Property Appraiser",
+      "url": "https://flaglerpa.com/contact-us/"
+     }
+    ]
+   }
+  },
+  {
+   "id": "franklin",
+   "county": "Franklin",
+   "appraiser_site": "http://www.qpublic.net/franklin/",
+   "owner_name_search": "",
+   "owner_mailing_address": "",
+   "appraiser_confidentiality_form": "https://franklincountypa.net/wp-content/uploads/sites/3/2022/06/Franklin-County-Confidential-Record-Request.pdf",
+   "form_revision": "Rev. 1.21.2020",
+   "notarized": "",
+   "submission_method": "The 2020 form directs requests to Ownership and Mapping, 33 Market Street, Suite 101, Apalachicola, FL 32320. Confirm these older instructions with the office.",
+   "trust_display": "",
+   "clerk_records_search": "",
+   "clerk_redaction_route": "https://www.franklinclerk.com/uploads/2026/03/Request-to-Redact-Exempt-Personal-Information.pdf",
+   "tax_collector_site": "http://franklincountytaxcollector.com/",
+   "tax_collector_confidentiality_route": "",
+   "elections_confidentiality_route": "",
+   "public_records_request_route": "https://franklincountypa.net/public-records-request/",
+   "public_records_request_email": "Ttipton.pa@franklincountyflorida.gov",
+   "source": "Florida Department of Revenue, Find a County Official directory",
+   "url": "https://floridarevenue.com/property/_api/web/lists/GetByTitle('Counties')/items?$SELECT=Title,PALink,TCLink,VABLink&$orderby=Title&$top=100",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "appraiser_site": [
+     {
+      "source": "Florida Department of Revenue, Find a County Official directory",
+      "url": "https://floridarevenue.com/property/_api/web/lists/GetByTitle('Counties')/items?$SELECT=Title,PALink,TCLink,VABLink&$orderby=Title&$top=100"
+     }
+    ],
+    "tax_collector_site": [
+     {
+      "source": "Florida Department of Revenue, Find a County Official directory",
+      "url": "https://floridarevenue.com/property/_api/web/lists/GetByTitle('Counties')/items?$SELECT=Title,PALink,TCLink,VABLink&$orderby=Title&$top=100"
+     }
+    ],
+    "appraiser_confidentiality_form": [
+     {
+      "source": "Franklin official appraiser source",
+      "url": "https://franklincountypa.net/wp-content/uploads/sites/3/2022/06/Franklin-County-Confidential-Record-Request.pdf"
+     }
+    ],
+    "form_revision": [
+     {
+      "source": "Franklin official appraiser source",
+      "url": "https://franklincountypa.net/wp-content/uploads/sites/3/2022/06/Franklin-County-Confidential-Record-Request.pdf"
+     }
+    ],
+    "submission_method": [
+     {
+      "source": "Franklin official appraiser source",
+      "url": "https://franklincountypa.net/wp-content/uploads/sites/3/2022/06/Franklin-County-Confidential-Record-Request.pdf"
+     }
+    ],
+    "clerk_redaction_route": [
+     {
+      "source": "Franklin official clerk source",
+      "url": "https://www.franklinclerk.com/online-services/forms/"
+     }
+    ],
+    "public_records_request_route": [
+     {
+      "source": "Franklin official appraiser source",
+      "url": "https://franklincountypa.net/public-records-request/"
+     }
+    ],
+    "public_records_request_email": [
+     {
+      "source": "Franklin official appraiser source",
+      "url": "https://franklincountypa.net/public-records-request/"
+     }
+    ]
+   }
+  },
+  {
+   "id": "gadsden",
+   "county": "Gadsden",
+   "appraiser_site": "https://gadsdenpa.com/",
+   "owner_name_search": "",
+   "owner_mailing_address": "",
+   "appraiser_confidentiality_form": "",
+   "form_revision": "",
+   "notarized": "",
+   "submission_method": "",
+   "trust_display": "",
+   "clerk_records_search": "",
+   "clerk_redaction_route": "",
+   "tax_collector_site": "https://www.gadsdentaxcollector.com/",
+   "tax_collector_confidentiality_route": "",
+   "elections_confidentiality_route": "",
+   "public_records_request_route": "https://gadsdenpa.com/",
+   "public_records_request_email": "",
+   "source": "Florida Department of Revenue, Find a County Official directory",
+   "url": "https://floridarevenue.com/property/_api/web/lists/GetByTitle('Counties')/items?$SELECT=Title,PALink,TCLink,VABLink&$orderby=Title&$top=100",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "appraiser_site": [
+     {
+      "source": "Florida Department of Revenue, Find a County Official directory",
+      "url": "https://floridarevenue.com/property/_api/web/lists/GetByTitle('Counties')/items?$SELECT=Title,PALink,TCLink,VABLink&$orderby=Title&$top=100"
+     }
+    ],
+    "tax_collector_site": [
+     {
+      "source": "Florida Department of Revenue, Find a County Official directory",
+      "url": "https://floridarevenue.com/property/_api/web/lists/GetByTitle('Counties')/items?$SELECT=Title,PALink,TCLink,VABLink&$orderby=Title&$top=100"
+     }
+    ],
+    "public_records_request_route": [
+     {
+      "source": "Gadsden County Property Appraiser – Official Website of the Gadsden County, FL Property Appraiser",
+      "url": "https://gadsdenpa.com/"
+     }
+    ]
+   }
+  },
+  {
+   "id": "gilchrist",
+   "county": "Gilchrist",
+   "appraiser_site": "https://www.qpublic.net/fl/gilchrist/",
+   "owner_name_search": "",
+   "owner_mailing_address": "",
+   "appraiser_confidentiality_form": "",
+   "form_revision": "",
+   "notarized": "",
+   "submission_method": "",
+   "trust_display": "",
+   "clerk_records_search": "https://www.myfloridacounty.com/orisearch/21",
+   "clerk_redaction_route": "",
+   "tax_collector_site": "https://gilchrist.floridatax.us/",
+   "tax_collector_confidentiality_route": "",
+   "elections_confidentiality_route": "",
+   "public_records_request_route": "https://www.qpublic.net/fl/gilchrist/docs/Public%20Records%20Request.docx",
+   "public_records_request_email": "map@gilchrist.fl.us",
+   "source": "Florida Department of Revenue, Find a County Official directory",
+   "url": "https://floridarevenue.com/property/_api/web/lists/GetByTitle('Counties')/items?$SELECT=Title,PALink,TCLink,VABLink&$orderby=Title&$top=100",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "appraiser_site": [
+     {
+      "source": "Florida Department of Revenue, Find a County Official directory",
+      "url": "https://floridarevenue.com/property/_api/web/lists/GetByTitle('Counties')/items?$SELECT=Title,PALink,TCLink,VABLink&$orderby=Title&$top=100"
+     }
+    ],
+    "tax_collector_site": [
+     {
+      "source": "Florida Department of Revenue, Find a County Official directory",
+      "url": "https://floridarevenue.com/property/_api/web/lists/GetByTitle('Counties')/items?$SELECT=Title,PALink,TCLink,VABLink&$orderby=Title&$top=100"
+     }
+    ],
+    "clerk_records_search": [
+     {
+      "source": "Gilchrist official clerk source",
+      "url": "https://www.gilchristclerk.com/value-adjustment-board/"
+     }
+    ],
+    "public_records_request_route": [
+     {
+      "source": "Gilchrist official appraiser source",
+      "url": "https://www.qpublic.net/fl/gilchrist/docs/Public%20Records%20Request.docx"
+     }
+    ],
+    "public_records_request_email": [
+     {
+      "source": "Gilchrist official appraiser source",
+      "url": "https://www.qpublic.net/fl/gilchrist/docs/Public%20Records%20Request.docx"
+     }
+    ]
+   }
+  },
+  {
+   "id": "glades",
+   "county": "Glades",
+   "appraiser_site": "http://www.gladesflpa.com/",
+   "owner_name_search": "",
+   "owner_mailing_address": "",
+   "appraiser_confidentiality_form": "https://qpublic.net/fl/glades/forms/ProtectedName_RequestApplication_rev2024.pdf",
+   "form_revision": "Rev. 07/22",
+   "notarized": "",
+   "submission_method": "",
+   "trust_display": "",
+   "clerk_records_search": "https://www.myfloridacounty.com/orisearch/22",
+   "clerk_redaction_route": "",
+   "tax_collector_site": "http://www.mygladescountytaxcollector.com/",
+   "tax_collector_confidentiality_route": "",
+   "elections_confidentiality_route": "",
+   "public_records_request_route": "https://qpublic.net/fl/glades/contact.html",
+   "public_records_request_email": "",
+   "source": "Florida Department of Revenue, Find a County Official directory",
+   "url": "https://floridarevenue.com/property/_api/web/lists/GetByTitle('Counties')/items?$SELECT=Title,PALink,TCLink,VABLink&$orderby=Title&$top=100",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "appraiser_site": [
+     {
+      "source": "Florida Department of Revenue, Find a County Official directory",
+      "url": "https://floridarevenue.com/property/_api/web/lists/GetByTitle('Counties')/items?$SELECT=Title,PALink,TCLink,VABLink&$orderby=Title&$top=100"
+     }
+    ],
+    "tax_collector_site": [
+     {
+      "source": "Florida Department of Revenue, Find a County Official directory",
+      "url": "https://floridarevenue.com/property/_api/web/lists/GetByTitle('Counties')/items?$SELECT=Title,PALink,TCLink,VABLink&$orderby=Title&$top=100"
+     }
+    ],
+    "appraiser_confidentiality_form": [
+     {
+      "source": "GLADES COUNT",
+      "url": "https://qpublic.net/fl/glades/forms/ProtectedName_RequestApplication_rev2024.pdf"
+     }
+    ],
+    "form_revision": [
+     {
+      "source": "GLADES COUNT",
+      "url": "https://qpublic.net/fl/glades/forms/ProtectedName_RequestApplication_rev2024.pdf"
+     }
+    ],
+    "clerk_records_search": [
+     {
+      "source": "Glades official clerk source",
+      "url": "https://gladesclerk.com/other-services/value-adjustment-board/"
+     }
+    ],
+    "public_records_request_route": [
+     {
+      "source": "Glades official appraiser source",
+      "url": "https://qpublic.net/fl/glades/contact.html"
+     }
+    ]
+   }
+  },
+  {
+   "id": "gulf",
+   "county": "Gulf",
+   "appraiser_site": "http://www.qpublic.net/gulf/",
+   "owner_name_search": "",
+   "owner_mailing_address": "",
+   "appraiser_confidentiality_form": "https://gulfpa.com/wp-content/uploads/sites/41/2020/04/Exemption-From-Public-Records.pdf",
+   "form_revision": "",
+   "notarized": "",
+   "submission_method": "",
+   "trust_display": "",
+   "clerk_records_search": "",
+   "clerk_redaction_route": "",
+   "tax_collector_site": "http://www.gulfcountytaxcollector.com/",
+   "tax_collector_confidentiality_route": "",
+   "elections_confidentiality_route": "",
+   "public_records_request_route": "https://gulfpa.com/contact-us/",
+   "public_records_request_email": "",
+   "source": "Florida Department of Revenue, Find a County Official directory",
+   "url": "https://floridarevenue.com/property/_api/web/lists/GetByTitle('Counties')/items?$SELECT=Title,PALink,TCLink,VABLink&$orderby=Title&$top=100",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "appraiser_site": [
+     {
+      "source": "Florida Department of Revenue, Find a County Official directory",
+      "url": "https://floridarevenue.com/property/_api/web/lists/GetByTitle('Counties')/items?$SELECT=Title,PALink,TCLink,VABLink&$orderby=Title&$top=100"
+     }
+    ],
+    "tax_collector_site": [
+     {
+      "source": "Florida Department of Revenue, Find a County Official directory",
+      "url": "https://floridarevenue.com/property/_api/web/lists/GetByTitle('Counties')/items?$SELECT=Title,PALink,TCLink,VABLink&$orderby=Title&$top=100"
+     }
+    ],
+    "appraiser_confidentiality_form": [
+     {
+      "source": "<visual_element id=\"e1\">",
+      "url": "https://gulfpa.com/wp-content/uploads/sites/41/2020/04/Exemption-From-Public-Records.pdf"
+     }
+    ],
+    "public_records_request_route": [
+     {
+      "source": "Contact Us – Gulf County Property Appraiser",
+      "url": "https://gulfpa.com/contact-us/"
+     }
+    ]
+   }
+  },
+  {
+   "id": "hamilton",
+   "county": "Hamilton",
+   "appraiser_site": "http://www.hamiltonpa.com/",
+   "owner_name_search": "",
+   "owner_mailing_address": "",
+   "appraiser_confidentiality_form": "",
+   "form_revision": "",
+   "notarized": "",
+   "submission_method": "",
+   "trust_display": "",
+   "clerk_records_search": "",
+   "clerk_redaction_route": "",
+   "tax_collector_site": "http://www.hamiltoncountytaxcollector.com/",
+   "tax_collector_confidentiality_route": "",
+   "elections_confidentiality_route": "",
+   "public_records_request_route": "https://hamiltonpa.com/wp-content/uploads/sites/38/2025/07/FAQ-brochure.pdf",
+   "public_records_request_email": "hcpa@hamiltonpa.com",
+   "source": "Florida Department of Revenue, Find a County Official directory",
+   "url": "https://floridarevenue.com/property/_api/web/lists/GetByTitle('Counties')/items?$SELECT=Title,PALink,TCLink,VABLink&$orderby=Title&$top=100",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "appraiser_site": [
+     {
+      "source": "Florida Department of Revenue, Find a County Official directory",
+      "url": "https://floridarevenue.com/property/_api/web/lists/GetByTitle('Counties')/items?$SELECT=Title,PALink,TCLink,VABLink&$orderby=Title&$top=100"
+     }
+    ],
+    "tax_collector_site": [
+     {
+      "source": "Florida Department of Revenue, Find a County Official directory",
+      "url": "https://floridarevenue.com/property/_api/web/lists/GetByTitle('Counties')/items?$SELECT=Title,PALink,TCLink,VABLink&$orderby=Title&$top=100"
+     }
+    ],
+    "public_records_request_route": [
+     {
+      "source": "What is the Notice of Proposed Property Taxes?",
+      "url": "https://hamiltonpa.com/wp-content/uploads/sites/38/2025/07/FAQ-brochure.pdf"
+     }
+    ],
+    "public_records_request_email": [
+     {
+      "source": "What is the Notice of Proposed Property Taxes?",
+      "url": "https://hamiltonpa.com/wp-content/uploads/sites/38/2025/07/FAQ-brochure.pdf"
+     }
+    ]
+   }
+  },
+  {
+   "id": "hardee",
+   "county": "Hardee",
+   "appraiser_site": "http://www.qpublic.net/hardee/",
+   "owner_name_search": "",
+   "owner_mailing_address": "",
+   "appraiser_confidentiality_form": "",
+   "form_revision": "",
+   "notarized": "",
+   "submission_method": "",
+   "trust_display": "",
+   "clerk_records_search": "",
+   "clerk_redaction_route": "",
+   "tax_collector_site": "http://www.hardeecountytaxcollector.com/",
+   "tax_collector_confidentiality_route": "",
+   "elections_confidentiality_route": "",
+   "public_records_request_route": "https://hardeepa.com/public-records-request/",
+   "public_records_request_email": "k.crawford@hardeepa.com",
+   "source": "Florida Department of Revenue, Find a County Official directory",
+   "url": "https://floridarevenue.com/property/_api/web/lists/GetByTitle('Counties')/items?$SELECT=Title,PALink,TCLink,VABLink&$orderby=Title&$top=100",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "appraiser_site": [
+     {
+      "source": "Florida Department of Revenue, Find a County Official directory",
+      "url": "https://floridarevenue.com/property/_api/web/lists/GetByTitle('Counties')/items?$SELECT=Title,PALink,TCLink,VABLink&$orderby=Title&$top=100"
+     }
+    ],
+    "tax_collector_site": [
+     {
+      "source": "Florida Department of Revenue, Find a County Official directory",
+      "url": "https://floridarevenue.com/property/_api/web/lists/GetByTitle('Counties')/items?$SELECT=Title,PALink,TCLink,VABLink&$orderby=Title&$top=100"
+     }
+    ],
+    "public_records_request_route": [
+     {
+      "source": "Public Records Request | Hardee County Property Appraiser",
+      "url": "https://hardeepa.com/public-records-request/"
+     }
+    ],
+    "public_records_request_email": [
+     {
+      "source": "Public Records Request | Hardee County Property Appraiser",
+      "url": "https://hardeepa.com/public-records-request/"
+     }
+    ]
+   }
+  },
+  {
+   "id": "hendry",
+   "county": "Hendry",
+   "appraiser_site": "http://www.hendryprop.com/",
+   "owner_name_search": "",
+   "owner_mailing_address": "",
+   "appraiser_confidentiality_form": "",
+   "form_revision": "",
+   "notarized": "",
+   "submission_method": "",
+   "trust_display": "",
+   "clerk_records_search": "",
+   "clerk_redaction_route": "",
+   "tax_collector_site": "http://hendrycountytc.com/",
+   "tax_collector_confidentiality_route": "",
+   "elections_confidentiality_route": "",
+   "public_records_request_route": "https://hendryprop.com/property-search/",
+   "public_records_request_email": "",
+   "source": "Florida Department of Revenue, Find a County Official directory",
+   "url": "https://floridarevenue.com/property/_api/web/lists/GetByTitle('Counties')/items?$SELECT=Title,PALink,TCLink,VABLink&$orderby=Title&$top=100",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "appraiser_site": [
+     {
+      "source": "Florida Department of Revenue, Find a County Official directory",
+      "url": "https://floridarevenue.com/property/_api/web/lists/GetByTitle('Counties')/items?$SELECT=Title,PALink,TCLink,VABLink&$orderby=Title&$top=100"
+     }
+    ],
+    "tax_collector_site": [
+     {
+      "source": "Florida Department of Revenue, Find a County Official directory",
+      "url": "https://floridarevenue.com/property/_api/web/lists/GetByTitle('Counties')/items?$SELECT=Title,PALink,TCLink,VABLink&$orderby=Title&$top=100"
+     }
+    ],
+    "public_records_request_route": [
+     {
+      "source": "Property Search – Hendry County Property Appraiser",
+      "url": "https://hendryprop.com/property-search/"
+     }
+    ]
+   }
+  },
+  {
+   "id": "hernando",
+   "county": "Hernando",
+   "appraiser_site": "https://hernandocountypa-florida.us/",
+   "owner_name_search": "",
+   "owner_mailing_address": "",
+   "appraiser_confidentiality_form": "",
+   "form_revision": "",
+   "notarized": "",
+   "submission_method": "",
+   "trust_display": "",
+   "clerk_records_search": "https://hernandoclerk.com/additional-services/search-official-records/",
+   "clerk_redaction_route": "https://hernandoclerk.com/wp-content/uploads/_Documents/Forms/Recording/UPDATED-%20REDACTION%20REQUEST%20FORM%20%282%29.pdf",
+   "tax_collector_site": "https://www.hernandocounty.us/",
+   "tax_collector_confidentiality_route": "",
+   "elections_confidentiality_route": "",
+   "public_records_request_route": "https://hernandocountypa-florida.us/PublicRecords",
+   "public_records_request_email": "pa@co.hernando.fl.us",
+   "source": "Florida Department of Revenue, Find a County Official directory",
+   "url": "https://floridarevenue.com/property/_api/web/lists/GetByTitle('Counties')/items?$SELECT=Title,PALink,TCLink,VABLink&$orderby=Title&$top=100",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "appraiser_site": [
+     {
+      "source": "Florida Department of Revenue, Find a County Official directory",
+      "url": "https://floridarevenue.com/property/_api/web/lists/GetByTitle('Counties')/items?$SELECT=Title,PALink,TCLink,VABLink&$orderby=Title&$top=100"
+     }
+    ],
+    "tax_collector_site": [
+     {
+      "source": "Florida Department of Revenue, Find a County Official directory",
+      "url": "https://floridarevenue.com/property/_api/web/lists/GetByTitle('Counties')/items?$SELECT=Title,PALink,TCLink,VABLink&$orderby=Title&$top=100"
+     }
+    ],
+    "public_records_request_route": [
+     {
+      "source": "Hernando official appraiser source",
+      "url": "https://hernandocountypa-florida.us/PublicRecords"
+     }
+    ],
+    "public_records_request_email": [
+     {
+      "source": "Hernando County Property Appraiser, public records request information",
+      "url": "https://hernandocountypa-florida.us/PublicRecords"
+     }
+    ],
+    "clerk_records_search": [
+     {
+      "source": "Hernando official clerk source",
+      "url": "https://hernandoclerk.com/administration/value-adjustment-board/"
+     }
+    ],
+    "clerk_redaction_route": [
+     {
+      "source": "Hernando official clerk source",
+      "url": "https://hernandoclerk.com/forms/"
+     }
+    ]
+   }
+  },
+  {
+   "id": "highlands",
+   "county": "Highlands",
+   "appraiser_site": "http://www.hcpao.org",
+   "owner_name_search": "",
+   "owner_mailing_address": "",
+   "appraiser_confidentiality_form": "",
+   "form_revision": "",
+   "notarized": "",
+   "submission_method": "",
+   "trust_display": "",
+   "clerk_records_search": "",
+   "clerk_redaction_route": "",
+   "tax_collector_site": "http://hctaxcollector.com/",
+   "tax_collector_confidentiality_route": "",
+   "elections_confidentiality_route": "https://irp.cdn-website.com/661caccf/files/uploaded/address-confidentiality-exemption-form-07-2025-88cf4892.pdf",
+   "public_records_request_route": "https://www.hcpao.org/About/Contact",
+   "public_records_request_email": "",
+   "source": "Florida Department of Revenue, Find a County Official directory",
+   "url": "https://floridarevenue.com/property/_api/web/lists/GetByTitle('Counties')/items?$SELECT=Title,PALink,TCLink,VABLink&$orderby=Title&$top=100",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "appraiser_site": [
+     {
+      "source": "Florida Department of Revenue, Find a County Official directory",
+      "url": "https://floridarevenue.com/property/_api/web/lists/GetByTitle('Counties')/items?$SELECT=Title,PALink,TCLink,VABLink&$orderby=Title&$top=100"
+     }
+    ],
+    "tax_collector_site": [
+     {
+      "source": "Florida Department of Revenue, Find a County Official directory",
+      "url": "https://floridarevenue.com/property/_api/web/lists/GetByTitle('Counties')/items?$SELECT=Title,PALink,TCLink,VABLink&$orderby=Title&$top=100"
+     }
+    ],
+    "elections_confidentiality_route": [
+     {
+      "source": "Highlands official elections source",
+      "url": "https://www.votehighlands.gov/"
+     }
+    ],
+    "public_records_request_route": [
+     {
+      "source": "Highlands official appraiser source",
+      "url": "https://www.hcpao.org/About/Contact"
+     }
+    ]
+   }
+  },
+  {
+   "id": "hillsborough",
+   "county": "Hillsborough",
+   "appraiser_site": "http://www.hcpafl.org",
+   "owner_name_search": "",
+   "owner_mailing_address": "",
+   "appraiser_confidentiality_form": "",
+   "form_revision": "",
+   "notarized": "",
+   "submission_method": "",
+   "trust_display": "",
+   "clerk_records_search": "https://publicaccess.hillsclerk.com/oripublicaccess/",
+   "clerk_redaction_route": "https://www.hillsclerk.com/documents/d/guest/ada-agenda-full_redacted-09-15-26?download=true",
+   "tax_collector_site": "https://www.hillstaxfl.gov/",
+   "tax_collector_confidentiality_route": "",
+   "elections_confidentiality_route": "",
+   "public_records_request_route": "https://www.hcpafl.org/Portals/HCPAFL/RecordsCustodianforHCPA_Marilyn.pdf?ver=2023-04-29-105106-420",
+   "public_records_request_email": "martinezm@hcpafl.org",
+   "source": "Florida Department of Revenue, Find a County Official directory",
+   "url": "https://floridarevenue.com/property/_api/web/lists/GetByTitle('Counties')/items?$SELECT=Title,PALink,TCLink,VABLink&$orderby=Title&$top=100",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "appraiser_site": [
+     {
+      "source": "Florida Department of Revenue, Find a County Official directory",
+      "url": "https://floridarevenue.com/property/_api/web/lists/GetByTitle('Counties')/items?$SELECT=Title,PALink,TCLink,VABLink&$orderby=Title&$top=100"
+     }
+    ],
+    "tax_collector_site": [
+     {
+      "source": "Florida Department of Revenue, Find a County Official directory",
+      "url": "https://floridarevenue.com/property/_api/web/lists/GetByTitle('Counties')/items?$SELECT=Title,PALink,TCLink,VABLink&$orderby=Title&$top=100"
+     }
+    ],
+    "public_records_request_route": [
+     {
+      "source": "Hillsborough official appraiser source",
+      "url": "https://www.hcpafl.org/Portals/HCPAFL/RecordsCustodianforHCPA_Marilyn.pdf?ver=2023-04-29-105106-420"
+     }
+    ],
+    "public_records_request_email": [
+     {
+      "source": "Hillsborough County Property Appraiser, public records request information",
+      "url": "https://www.hcpafl.org/Portals/HCPAFL/RecordsCustodianforHCPA_Marilyn.pdf?ver=2023-04-29-105106-420"
+     }
+    ],
+    "clerk_records_search": [
+     {
+      "source": "Hillsborough official clerk source",
+      "url": "https://www.hillsclerk.com/Additional-Services/Value-Adjustment-Board"
+     }
+    ],
+    "clerk_redaction_route": [
+     {
+      "source": "Hillsborough official clerk source",
+      "url": "https://www.hillsclerk.com/Additional-Services/Value-Adjustment-Board"
+     }
+    ]
+   }
+  },
+  {
+   "id": "holmes",
+   "county": "Holmes",
+   "appraiser_site": "http://www.qpublic.net/holmes/",
+   "owner_name_search": "",
+   "owner_mailing_address": "",
+   "appraiser_confidentiality_form": "",
+   "form_revision": "",
+   "notarized": "",
+   "submission_method": "",
+   "trust_display": "",
+   "clerk_records_search": "",
+   "clerk_redaction_route": "",
+   "tax_collector_site": "https://holmestc.com/",
+   "tax_collector_confidentiality_route": "",
+   "elections_confidentiality_route": "",
+   "public_records_request_route": "https://www.qpublic.net/fl/holmes/",
+   "public_records_request_email": "holmespa@holmespa.org",
+   "source": "Florida Department of Revenue, Find a County Official directory",
+   "url": "https://floridarevenue.com/property/_api/web/lists/GetByTitle('Counties')/items?$SELECT=Title,PALink,TCLink,VABLink&$orderby=Title&$top=100",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "appraiser_site": [
+     {
+      "source": "Florida Department of Revenue, Find a County Official directory",
+      "url": "https://floridarevenue.com/property/_api/web/lists/GetByTitle('Counties')/items?$SELECT=Title,PALink,TCLink,VABLink&$orderby=Title&$top=100"
+     }
+    ],
+    "tax_collector_site": [
+     {
+      "source": "Florida Department of Revenue, Find a County Official directory",
+      "url": "https://floridarevenue.com/property/_api/web/lists/GetByTitle('Counties')/items?$SELECT=Title,PALink,TCLink,VABLink&$orderby=Title&$top=100"
+     }
+    ],
+    "public_records_request_route": [
+     {
+      "source": "Holmes official appraiser source",
+      "url": "https://www.qpublic.net/fl/holmes/"
+     }
+    ],
+    "public_records_request_email": [
+     {
+      "source": "Holmes official appraiser source",
+      "url": "https://www.qpublic.net/fl/holmes/"
+     }
+    ]
+   }
+  },
+  {
+   "id": "indian-river",
+   "county": "Indian River",
+   "appraiser_site": "http://www.ircpa.org/",
+   "owner_name_search": "Yes. Official search help lists owner-name search. No lookup was performed.",
+   "owner_mailing_address": "",
+   "appraiser_confidentiality_form": "",
+   "form_revision": "",
+   "notarized": "",
+   "submission_method": "",
+   "trust_display": "",
+   "clerk_records_search": "https://indianriverclerk.com/official-records/",
+   "clerk_redaction_route": "https://indianriverclerk.com/wp-content/uploads/Redaction-Request-Form-10022021_searchable-2.pdf",
+   "tax_collector_site": "http://www.irctax.com",
+   "tax_collector_confidentiality_route": "",
+   "elections_confidentiality_route": "https://www.voteindianriver.gov/Documents/Data/Public Records/Public Records Exemption Request PUBLIC RECORD.pdf",
+   "public_records_request_route": "https://www.ircpa.org/media/14214/website-request-public-record-information.pdf",
+   "public_records_request_email": "mmartinez@ircpa.org",
+   "source": "Florida Department of Revenue, Find a County Official directory",
+   "url": "https://floridarevenue.com/property/_api/web/lists/GetByTitle('Counties')/items?$SELECT=Title,PALink,TCLink,VABLink&$orderby=Title&$top=100",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "appraiser_site": [
+     {
+      "source": "Florida Department of Revenue, Find a County Official directory",
+      "url": "https://floridarevenue.com/property/_api/web/lists/GetByTitle('Counties')/items?$SELECT=Title,PALink,TCLink,VABLink&$orderby=Title&$top=100"
+     }
+    ],
+    "tax_collector_site": [
+     {
+      "source": "Florida Department of Revenue, Find a County Official directory",
+      "url": "https://floridarevenue.com/property/_api/web/lists/GetByTitle('Counties')/items?$SELECT=Title,PALink,TCLink,VABLink&$orderby=Title&$top=100"
+     }
+    ],
+    "public_records_request_route": [
+     {
+      "source": "Indian River official appraiser source",
+      "url": "https://www.ircpa.org/media/14214/website-request-public-record-information.pdf"
+     }
+    ],
+    "public_records_request_email": [
+     {
+      "source": "Indian River appraiser official source",
+      "url": "https://www.ircpa.org/media/14214/website-request-public-record-information.pdf"
+     }
+    ],
+    "owner_name_search": [
+     {
+      "source": "Indian River appraiser official source",
+      "url": "https://www.ircpa.org/site-links/faqs-searching-for-real-estate-information/"
+     }
+    ],
+    "clerk_redaction_route": [
+     {
+      "source": "Indian River clerk official source",
+      "url": "https://indianriverclerk.com/Recording%20Services/"
+     }
+    ],
+    "clerk_records_search": [
+     {
+      "source": "Indian River clerk official source",
+      "url": "https://indianriverclerk.com/Recording%20Services/"
+     }
+    ],
+    "clerk_request_identifiers": [
+     {
+      "source": "Indian River clerk official source",
+      "url": "https://indianriverclerk.com/wp-content/uploads/Redaction-Request-Form-10022021_searchable-2.pdf"
+     }
+    ],
+    "clerk_index_limit": [
+     {
+      "source": "Indian River clerk official source",
+      "url": "https://indianriverclerk.com/Recording%20Services/"
+     }
+    ],
+    "clerk_archive_scope": [
+     {
+      "source": "Indian River clerk official source",
+      "url": "https://indianriverclerk.com/Recording%20Services/"
+     }
+    ],
+    "tax_collector_distinction": [
+     {
+      "source": "Indian River tax official source",
+      "url": "https://services.irctax.com/hc/en-us/articles/43291136866067-Tax-Exemptions"
+     }
+    ],
+    "elections_confidentiality_route": [
+     {
+      "source": "Indian River official elections source",
+      "url": "https://www.voteindianriver.gov"
+     }
+    ]
+   }
+  },
+  {
+   "id": "jackson",
+   "county": "Jackson",
+   "appraiser_site": "http://www.qpublic.net/jackson/",
+   "owner_name_search": "",
+   "owner_mailing_address": "",
+   "appraiser_confidentiality_form": "",
+   "form_revision": "",
+   "notarized": "",
+   "submission_method": "",
+   "trust_display": "",
+   "clerk_records_search": "https://www.myfloridacounty.com/orisearch/32",
+   "clerk_redaction_route": "",
+   "tax_collector_site": "http://www.jacksoncountytaxcollector.com/",
+   "tax_collector_confidentiality_route": "",
+   "elections_confidentiality_route": "",
+   "public_records_request_route": "https://jacksonpa.com/contact-us/",
+   "public_records_request_email": "",
+   "source": "Florida Department of Revenue, Find a County Official directory",
+   "url": "https://floridarevenue.com/property/_api/web/lists/GetByTitle('Counties')/items?$SELECT=Title,PALink,TCLink,VABLink&$orderby=Title&$top=100",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "appraiser_site": [
+     {
+      "source": "Florida Department of Revenue, Find a County Official directory",
+      "url": "https://floridarevenue.com/property/_api/web/lists/GetByTitle('Counties')/items?$SELECT=Title,PALink,TCLink,VABLink&$orderby=Title&$top=100"
+     }
+    ],
+    "tax_collector_site": [
+     {
+      "source": "Florida Department of Revenue, Find a County Official directory",
+      "url": "https://floridarevenue.com/property/_api/web/lists/GetByTitle('Counties')/items?$SELECT=Title,PALink,TCLink,VABLink&$orderby=Title&$top=100"
+     }
+    ],
+    "clerk_records_search": [
+     {
+      "source": "Jackson official clerk source",
+      "url": "https://www.jacksonclerk.com/"
+     }
+    ],
+    "public_records_request_route": [
+     {
+      "source": "Contact Us – Jackson County Property Appraiser",
+      "url": "https://jacksonpa.com/contact-us/"
+     }
+    ]
+   }
+  },
+  {
+   "id": "jefferson",
+   "county": "Jefferson",
+   "appraiser_site": "http://www.JeffersonPA.net",
+   "owner_name_search": "",
+   "owner_mailing_address": "",
+   "appraiser_confidentiality_form": "https://jeffersonpa.net/wp-content/uploads/sites/6/2023/06/Confidentiality-Request-Form-2025.pdf",
+   "form_revision": "",
+   "notarized": "",
+   "submission_method": "Send the completed form or written request to Confidentiality Request, Jefferson County Property Appraiser, 480 W. Walnut Street, Monticello, FL 32344.",
+   "trust_display": "",
+   "clerk_records_search": "",
+   "clerk_redaction_route": "",
+   "tax_collector_site": "http://www.jeffersoncountytaxcollector.com/",
+   "tax_collector_confidentiality_route": "",
+   "elections_confidentiality_route": "",
+   "public_records_request_route": "https://jeffersonpa.net/contact-us/",
+   "public_records_request_email": "",
+   "source": "Florida Department of Revenue, Find a County Official directory",
+   "url": "https://floridarevenue.com/property/_api/web/lists/GetByTitle('Counties')/items?$SELECT=Title,PALink,TCLink,VABLink&$orderby=Title&$top=100",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "appraiser_site": [
+     {
+      "source": "Florida Department of Revenue, Find a County Official directory",
+      "url": "https://floridarevenue.com/property/_api/web/lists/GetByTitle('Counties')/items?$SELECT=Title,PALink,TCLink,VABLink&$orderby=Title&$top=100"
+     }
+    ],
+    "tax_collector_site": [
+     {
+      "source": "Florida Department of Revenue, Find a County Official directory",
+      "url": "https://floridarevenue.com/property/_api/web/lists/GetByTitle('Counties')/items?$SELECT=Title,PALink,TCLink,VABLink&$orderby=Title&$top=100"
+     }
+    ],
+    "appraiser_confidentiality_form": [
+     {
+      "source": "JEFFERSON COUNTY PROPERTY APPRAISER’S OFFICE",
+      "url": "https://jeffersonpa.net/wp-content/uploads/sites/6/2023/06/Confidentiality-Request-Form-2025.pdf"
+     }
+    ],
+    "submission_method": [
+     {
+      "source": "JEFFERSON COUNTY PROPERTY APPRAISER’S OFFICE",
+      "url": "https://jeffersonpa.net/wp-content/uploads/sites/6/2023/06/Confidentiality-Request-Form-2025.pdf"
+     }
+    ],
+    "public_records_request_route": [
+     {
+      "source": "Contact Us – Jefferson County, FL",
+      "url": "https://jeffersonpa.net/contact-us/"
+     }
+    ]
+   }
+  },
+  {
+   "id": "lafayette",
+   "county": "Lafayette",
+   "appraiser_site": "http://www.lafayettepa.com/",
+   "owner_name_search": "",
+   "owner_mailing_address": "",
+   "appraiser_confidentiality_form": "",
+   "form_revision": "",
+   "notarized": "",
+   "submission_method": "",
+   "trust_display": "",
+   "clerk_records_search": "",
+   "clerk_redaction_route": "",
+   "tax_collector_site": "http://www.lafayettetc.com/",
+   "tax_collector_confidentiality_route": "",
+   "elections_confidentiality_route": "",
+   "public_records_request_route": "https://www.lafayettepa.com/Records_Request/",
+   "public_records_request_email": "lafcopainfo@windstream.net",
+   "source": "Florida Department of Revenue, Find a County Official directory",
+   "url": "https://floridarevenue.com/property/_api/web/lists/GetByTitle('Counties')/items?$SELECT=Title,PALink,TCLink,VABLink&$orderby=Title&$top=100",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "appraiser_site": [
+     {
+      "source": "Florida Department of Revenue, Find a County Official directory",
+      "url": "https://floridarevenue.com/property/_api/web/lists/GetByTitle('Counties')/items?$SELECT=Title,PALink,TCLink,VABLink&$orderby=Title&$top=100"
+     }
+    ],
+    "tax_collector_site": [
+     {
+      "source": "Florida Department of Revenue, Find a County Official directory",
+      "url": "https://floridarevenue.com/property/_api/web/lists/GetByTitle('Counties')/items?$SELECT=Title,PALink,TCLink,VABLink&$orderby=Title&$top=100"
+     }
+    ],
+    "public_records_request_route": [
+     {
+      "source": "Lafayette official appraiser source",
+      "url": "https://www.lafayettepa.com/Records_Request/"
+     }
+    ],
+    "public_records_request_email": [
+     {
+      "source": "Lafayette official appraiser source",
+      "url": "https://www.lafayettepa.com/Records_Request/"
+     }
+    ]
+   }
+  },
+  {
+   "id": "lake",
+   "county": "Lake",
+   "appraiser_site": "http://www.lakecopropappr.com/",
+   "owner_name_search": "",
+   "owner_mailing_address": "",
+   "appraiser_confidentiality_form": "https://lakecopropappr.com/pdfs/2025/Request_For_Forms/Request_for_Exemption_From_Public_Records_Disclosure_ADA.pdf",
+   "form_revision": "",
+   "notarized": "",
+   "submission_method": "",
+   "trust_display": "",
+   "clerk_records_search": "",
+   "clerk_redaction_route": "",
+   "tax_collector_site": "http://www.laketax.com/",
+   "tax_collector_confidentiality_route": "",
+   "elections_confidentiality_route": "",
+   "public_records_request_route": "https://www.lakecopropappr.com/records_custodian.aspx",
+   "public_records_request_email": "",
+   "source": "Florida Department of Revenue, Find a County Official directory",
+   "url": "https://floridarevenue.com/property/_api/web/lists/GetByTitle('Counties')/items?$SELECT=Title,PALink,TCLink,VABLink&$orderby=Title&$top=100",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "appraiser_site": [
+     {
+      "source": "Florida Department of Revenue, Find a County Official directory",
+      "url": "https://floridarevenue.com/property/_api/web/lists/GetByTitle('Counties')/items?$SELECT=Title,PALink,TCLink,VABLink&$orderby=Title&$top=100"
+     }
+    ],
+    "tax_collector_site": [
+     {
+      "source": "Florida Department of Revenue, Find a County Official directory",
+      "url": "https://floridarevenue.com/property/_api/web/lists/GetByTitle('Counties')/items?$SELECT=Title,PALink,TCLink,VABLink&$orderby=Title&$top=100"
+     }
+    ],
+    "appraiser_confidentiality_form": [
+     {
+      "source": "Request For Exemption From Public Records Disclosure",
+      "url": "https://lakecopropappr.com/pdfs/2025/Request_For_Forms/Request_for_Exemption_From_Public_Records_Disclosure_ADA.pdf"
+     }
+    ],
+    "public_records_request_route": [
+     {
+      "source": "Record's Custodian - Lake County Property Appraiser",
+      "url": "https://www.lakecopropappr.com/records_custodian.aspx"
+     }
+    ]
+   }
+  },
+  {
+   "id": "lee",
+   "county": "Lee",
+   "appraiser_site": "http://www.leepa.org/",
+   "owner_name_search": "",
+   "owner_mailing_address": "",
+   "appraiser_confidentiality_form": "https://leepa.org/Docs/DisclosureExemptionForms/Request%20for%20Exemption%20from%20Public%20Disclosure.pdf",
+   "form_revision": "",
+   "notarized": "The published county form includes a notary requirement or acknowledgment.",
+   "submission_method": "This form must be notarized. Submit completed form in person, by mail, email to publicdisclosure@leepa.org, or ",
+   "trust_display": "",
+   "clerk_records_search": "",
+   "clerk_redaction_route": "",
+   "tax_collector_site": "https://leetc.com/",
+   "tax_collector_confidentiality_route": "",
+   "elections_confidentiality_route": "",
+   "public_records_request_route": "https://www.leepa.org/PublicRecordRequest.aspx",
+   "public_records_request_email": "",
+   "source": "Florida Department of Revenue, Find a County Official directory",
+   "url": "https://floridarevenue.com/property/_api/web/lists/GetByTitle('Counties')/items?$SELECT=Title,PALink,TCLink,VABLink&$orderby=Title&$top=100",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "appraiser_site": [
+     {
+      "source": "Florida Department of Revenue, Find a County Official directory",
+      "url": "https://floridarevenue.com/property/_api/web/lists/GetByTitle('Counties')/items?$SELECT=Title,PALink,TCLink,VABLink&$orderby=Title&$top=100"
+     }
+    ],
+    "tax_collector_site": [
+     {
+      "source": "Florida Department of Revenue, Find a County Official directory",
+      "url": "https://floridarevenue.com/property/_api/web/lists/GetByTitle('Counties')/items?$SELECT=Title,PALink,TCLink,VABLink&$orderby=Title&$top=100"
+     }
+    ],
+    "appraiser_confidentiality_form": [
+     {
+      "source": "Request for Exemption from Public Disclosure",
+      "url": "https://leepa.org/Docs/DisclosureExemptionForms/Request%20for%20Exemption%20from%20Public%20Disclosure.pdf"
+     }
+    ],
+    "notarized": [
+     {
+      "source": "Request for Exemption from Public Disclosure",
+      "url": "https://leepa.org/Docs/DisclosureExemptionForms/Request%20for%20Exemption%20from%20Public%20Disclosure.pdf"
+     }
+    ],
+    "submission_method": [
+     {
+      "source": "Request for Exemption from Public Disclosure",
+      "url": "https://leepa.org/Docs/DisclosureExemptionForms/Request%20for%20Exemption%20from%20Public%20Disclosure.pdf"
+     }
+    ],
+    "public_records_request_route": [
+     {
+      "source": "Public Records Request | Lee County Property Appraiser",
+      "url": "https://www.leepa.org/PublicRecordRequest.aspx"
+     }
+    ]
+   }
+  },
+  {
+   "id": "leon",
+   "county": "Leon",
+   "appraiser_site": "http://www.leonpa.org/",
+   "owner_name_search": "",
+   "owner_mailing_address": "",
+   "appraiser_confidentiality_form": "https://www.leonpa.gov/Portals/0/Documents/FS119_Request_for_Public_Records_Exemption.pdf",
+   "form_revision": "Revised 01/26/2026",
+   "notarized": "The published county form includes a notary requirement or acknowledgment.",
+   "submission_method": "",
+   "trust_display": "",
+   "clerk_records_search": "",
+   "clerk_redaction_route": "",
+   "tax_collector_site": "http://www.leontaxcollector.net/",
+   "tax_collector_confidentiality_route": "",
+   "elections_confidentiality_route": "",
+   "public_records_request_route": "https://www.leonpa.gov/Downloads/contactus",
+   "public_records_request_email": "",
+   "source": "Florida Department of Revenue, Find a County Official directory",
+   "url": "https://floridarevenue.com/property/_api/web/lists/GetByTitle('Counties')/items?$SELECT=Title,PALink,TCLink,VABLink&$orderby=Title&$top=100",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "appraiser_site": [
+     {
+      "source": "Florida Department of Revenue, Find a County Official directory",
+      "url": "https://floridarevenue.com/property/_api/web/lists/GetByTitle('Counties')/items?$SELECT=Title,PALink,TCLink,VABLink&$orderby=Title&$top=100"
+     }
+    ],
+    "tax_collector_site": [
+     {
+      "source": "Florida Department of Revenue, Find a County Official directory",
+      "url": "https://floridarevenue.com/property/_api/web/lists/GetByTitle('Counties')/items?$SELECT=Title,PALink,TCLink,VABLink&$orderby=Title&$top=100"
+     }
+    ],
+    "appraiser_confidentiality_form": [
+     {
+      "source": "Request for Public Records Exemption",
+      "url": "https://www.leonpa.gov/Portals/0/Documents/FS119_Request_for_Public_Records_Exemption.pdf"
+     }
+    ],
+    "form_revision": [
+     {
+      "source": "Request for Public Records Exemption",
+      "url": "https://www.leonpa.gov/Portals/0/Documents/FS119_Request_for_Public_Records_Exemption.pdf"
+     }
+    ],
+    "notarized": [
+     {
+      "source": "Request for Public Records Exemption",
+      "url": "https://www.leonpa.gov/Portals/0/Documents/FS119_Request_for_Public_Records_Exemption.pdf"
+     }
+    ],
+    "public_records_request_route": [
+     {
+      "source": "Download Our Data",
+      "url": "https://www.leonpa.gov/Downloads/contactus"
+     }
+    ]
+   }
+  },
+  {
+   "id": "levy",
+   "county": "Levy",
+   "appraiser_site": "http://www.qpublic.net/fl/levy/",
+   "owner_name_search": "",
+   "owner_mailing_address": "",
+   "appraiser_confidentiality_form": "",
+   "form_revision": "",
+   "notarized": "",
+   "submission_method": "",
+   "trust_display": "",
+   "clerk_records_search": "",
+   "clerk_redaction_route": "",
+   "tax_collector_site": "https://levytax.org/",
+   "tax_collector_confidentiality_route": "",
+   "elections_confidentiality_route": "",
+   "public_records_request_route": "https://www.qpublic.net/fl/levy/contact.html",
+   "public_records_request_email": "",
+   "source": "Florida Department of Revenue, Find a County Official directory",
+   "url": "https://floridarevenue.com/property/_api/web/lists/GetByTitle('Counties')/items?$SELECT=Title,PALink,TCLink,VABLink&$orderby=Title&$top=100",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "appraiser_site": [
+     {
+      "source": "Florida Department of Revenue, Find a County Official directory",
+      "url": "https://floridarevenue.com/property/_api/web/lists/GetByTitle('Counties')/items?$SELECT=Title,PALink,TCLink,VABLink&$orderby=Title&$top=100"
+     }
+    ],
+    "tax_collector_site": [
+     {
+      "source": "Florida Department of Revenue, Find a County Official directory",
+      "url": "https://floridarevenue.com/property/_api/web/lists/GetByTitle('Counties')/items?$SELECT=Title,PALink,TCLink,VABLink&$orderby=Title&$top=100"
+     }
+    ],
+    "public_records_request_route": [
+     {
+      "source": "Levy official appraiser source",
+      "url": "https://www.qpublic.net/fl/levy/contact.html"
+     }
+    ]
+   }
+  },
+  {
+   "id": "liberty",
+   "county": "Liberty",
+   "appraiser_site": "http://www.qpublic.net/liberty/",
+   "owner_name_search": "",
+   "owner_mailing_address": "",
+   "appraiser_confidentiality_form": "",
+   "form_revision": "",
+   "notarized": "",
+   "submission_method": "",
+   "trust_display": "",
+   "clerk_records_search": "https://www3.myfloridacounty.com/official_records/index.html",
+   "clerk_redaction_route": "",
+   "tax_collector_site": "http://www.libertycountytaxcollector.com",
+   "tax_collector_confidentiality_route": "",
+   "elections_confidentiality_route": "",
+   "public_records_request_route": "https://libertypa.org/contact-us/",
+   "public_records_request_email": "",
+   "source": "Florida Department of Revenue, Find a County Official directory",
+   "url": "https://floridarevenue.com/property/_api/web/lists/GetByTitle('Counties')/items?$SELECT=Title,PALink,TCLink,VABLink&$orderby=Title&$top=100",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "appraiser_site": [
+     {
+      "source": "Florida Department of Revenue, Find a County Official directory",
+      "url": "https://floridarevenue.com/property/_api/web/lists/GetByTitle('Counties')/items?$SELECT=Title,PALink,TCLink,VABLink&$orderby=Title&$top=100"
+     }
+    ],
+    "tax_collector_site": [
+     {
+      "source": "Florida Department of Revenue, Find a County Official directory",
+      "url": "https://floridarevenue.com/property/_api/web/lists/GetByTitle('Counties')/items?$SELECT=Title,PALink,TCLink,VABLink&$orderby=Title&$top=100"
+     }
+    ],
+    "clerk_records_search": [
+     {
+      "source": "Liberty official clerk source",
+      "url": "https://libertyclerk.com/other-services/value-adjustment-board/"
+     }
+    ],
+    "public_records_request_route": [
+     {
+      "source": "Liberty official appraiser source",
+      "url": "https://libertypa.org/contact-us/"
+     }
+    ]
+   }
+  },
+  {
+   "id": "madison",
+   "county": "Madison",
+   "appraiser_site": "http://www.madisonpa.com",
+   "owner_name_search": "",
+   "owner_mailing_address": "",
+   "appraiser_confidentiality_form": "",
+   "form_revision": "",
+   "notarized": "",
+   "submission_method": "",
+   "trust_display": "",
+   "clerk_records_search": "https://www.myfloridacounty.com/orisearch/40",
+   "clerk_redaction_route": "",
+   "tax_collector_site": "http://www.madisoncountytaxcollector.com/",
+   "tax_collector_confidentiality_route": "",
+   "elections_confidentiality_route": "https://files.floridados.gov/media/695951/address-confidentiality-exemption-form-07-2025.pdf",
+   "public_records_request_route": "https://madisonpa.com/contact-us/",
+   "public_records_request_email": "",
+   "source": "Florida Department of Revenue, Find a County Official directory",
+   "url": "https://floridarevenue.com/property/_api/web/lists/GetByTitle('Counties')/items?$SELECT=Title,PALink,TCLink,VABLink&$orderby=Title&$top=100",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "appraiser_site": [
+     {
+      "source": "Florida Department of Revenue, Find a County Official directory",
+      "url": "https://floridarevenue.com/property/_api/web/lists/GetByTitle('Counties')/items?$SELECT=Title,PALink,TCLink,VABLink&$orderby=Title&$top=100"
+     }
+    ],
+    "tax_collector_site": [
+     {
+      "source": "Florida Department of Revenue, Find a County Official directory",
+      "url": "https://floridarevenue.com/property/_api/web/lists/GetByTitle('Counties')/items?$SELECT=Title,PALink,TCLink,VABLink&$orderby=Title&$top=100"
+     }
+    ],
+    "clerk_records_search": [
+     {
+      "source": "Madison official clerk source",
+      "url": "https://www.madisonclerk.com/value-adjustment-board/"
+     }
+    ],
+    "elections_confidentiality_route": [
+     {
+      "source": "Madison official elections source",
+      "url": "https://www.votemadison.com"
+     }
+    ],
+    "public_records_request_route": [
+     {
+      "source": "Contact Us – Madison County, FL",
+      "url": "https://madisonpa.com/contact-us/"
+     }
+    ]
+   }
+  },
+  {
+   "id": "manatee",
+   "county": "Manatee",
+   "appraiser_site": "http://www.manateepao.com/",
+   "owner_name_search": "",
+   "owner_mailing_address": "",
+   "appraiser_confidentiality_form": "",
+   "form_revision": "",
+   "notarized": "",
+   "submission_method": "",
+   "trust_display": "",
+   "clerk_records_search": "",
+   "clerk_redaction_route": "",
+   "tax_collector_site": "http://www.taxcollector.com/",
+   "tax_collector_confidentiality_route": "",
+   "elections_confidentiality_route": "https://files.floridados.gov/media/695951/address-confidentiality-exemption-form-07-2025.pdf",
+   "public_records_request_route": "https://www.manateepao.gov/public-records/",
+   "public_records_request_email": "Scott.Tussing@manateepao.gov",
+   "source": "Florida Department of Revenue, Find a County Official directory",
+   "url": "https://floridarevenue.com/property/_api/web/lists/GetByTitle('Counties')/items?$SELECT=Title,PALink,TCLink,VABLink&$orderby=Title&$top=100",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "appraiser_site": [
+     {
+      "source": "Florida Department of Revenue, Find a County Official directory",
+      "url": "https://floridarevenue.com/property/_api/web/lists/GetByTitle('Counties')/items?$SELECT=Title,PALink,TCLink,VABLink&$orderby=Title&$top=100"
+     }
+    ],
+    "tax_collector_site": [
+     {
+      "source": "Florida Department of Revenue, Find a County Official directory",
+      "url": "https://floridarevenue.com/property/_api/web/lists/GetByTitle('Counties')/items?$SELECT=Title,PALink,TCLink,VABLink&$orderby=Title&$top=100"
+     }
+    ],
+    "public_records_request_route": [
+     {
+      "source": "Manatee official appraiser source",
+      "url": "https://www.manateepao.gov/public-records/"
+     }
+    ],
+    "elections_confidentiality_route": [
+     {
+      "source": "Manatee official elections source",
+      "url": "https://www.votemanatee.gov"
+     }
+    ],
+    "public_records_request_email": [
+     {
+      "source": "Manatee official appraiser source",
+      "url": "https://www.manateepao.gov/public-records/"
+     }
+    ]
+   }
+  },
+  {
+   "id": "marion",
+   "county": "Marion",
+   "appraiser_site": "http://www.pa.marion.fl.us/",
+   "owner_name_search": "",
+   "owner_mailing_address": "",
+   "appraiser_confidentiality_form": "",
+   "form_revision": "",
+   "notarized": "",
+   "submission_method": "",
+   "trust_display": "",
+   "clerk_records_search": "",
+   "clerk_redaction_route": "https://www.marioncountyclerk.org/departments/civil-courts/orders-determining-confidentiality/",
+   "tax_collector_site": "http://www.mariontax.com/",
+   "tax_collector_confidentiality_route": "",
+   "elections_confidentiality_route": "",
+   "public_records_request_route": "https://www.pa.marion.fl.us/PublicRecordsRequest.aspx",
+   "public_records_request_email": "publicrecords@pa.marion.fl.us",
+   "source": "Florida Department of Revenue, Find a County Official directory",
+   "url": "https://floridarevenue.com/property/_api/web/lists/GetByTitle('Counties')/items?$SELECT=Title,PALink,TCLink,VABLink&$orderby=Title&$top=100",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "appraiser_site": [
+     {
+      "source": "Florida Department of Revenue, Find a County Official directory",
+      "url": "https://floridarevenue.com/property/_api/web/lists/GetByTitle('Counties')/items?$SELECT=Title,PALink,TCLink,VABLink&$orderby=Title&$top=100"
+     }
+    ],
+    "tax_collector_site": [
+     {
+      "source": "Florida Department of Revenue, Find a County Official directory",
+      "url": "https://floridarevenue.com/property/_api/web/lists/GetByTitle('Counties')/items?$SELECT=Title,PALink,TCLink,VABLink&$orderby=Title&$top=100"
+     }
+    ],
+    "public_records_request_route": [
+     {
+      "source": "Marion official appraiser source",
+      "url": "https://www.pa.marion.fl.us/PublicRecordsRequest.aspx"
+     }
+    ],
+    "public_records_request_email": [
+     {
+      "source": "Marion County Property Appraiser, public records request information",
+      "url": "https://www.pa.marion.fl.us/PublicRecordsRequest.aspx"
+     }
+    ],
+    "clerk_redaction_route": [
+     {
+      "source": "Marion official clerk source",
+      "url": "https://www.marioncountyclerk.org/departments/records-recording/value-adjustment-board/"
+     }
+    ]
+   }
+  },
+  {
+   "id": "martin",
+   "county": "Martin",
+   "appraiser_site": "http://www.pa.martin.fl.us/",
+   "owner_name_search": "",
+   "owner_mailing_address": "",
+   "appraiser_confidentiality_form": "https://www.pamartinfl.gov/images/Universal_Affidavit_for_Confidentiality_03102026.pdf",
+   "form_revision": "Affidavit/contact pages Updated 01/20/2026; classification page Updated 7/25/2025. Filename includes 03102026 and is not the printed revision.",
+   "notarized": "Yes. Universal affidavit includes physical-presence or online-notarization acknowledgment.",
+   "submission_method": "Return affidavit plus Status and Classification Form to a listed participating office or PRR_All_Exempt@martin.fl.us. Appraiser-specific contact is confidentialrequests@pamartinfl.gov.",
+   "trust_display": "",
+   "clerk_records_search": "https://www.martinclerk.com/335/Records-Search#tab873443d0-ab5b-4bfd-aa7c-f8187ee1ea3a_1",
+   "clerk_redaction_route": "https://www.martinclerk.com/DocumentCenter/View/167/Request-for-Redaction-of-Exempt-Personal-Information-from-Public-Records-PDF",
+   "tax_collector_site": "https://martintaxcollector.com/",
+   "tax_collector_confidentiality_route": "Clerk form requires separate written request to Tax Collector at 772-288-5600. Collector is not listed among the universal affidavit checkboxes.",
+   "elections_confidentiality_route": "",
+   "public_records_request_route": "https://www.pamartinfl.gov/images/Universal_Affidavit_for_Confidentiality_03102026.pdf",
+   "public_records_request_email": "",
+   "source": "Florida Department of Revenue, Find a County Official directory",
+   "url": "https://floridarevenue.com/property/_api/web/lists/GetByTitle('Counties')/items?$SELECT=Title,PALink,TCLink,VABLink&$orderby=Title&$top=100",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "appraiser_site": [
+     {
+      "source": "Florida Department of Revenue, Find a County Official directory",
+      "url": "https://floridarevenue.com/property/_api/web/lists/GetByTitle('Counties')/items?$SELECT=Title,PALink,TCLink,VABLink&$orderby=Title&$top=100"
+     }
+    ],
+    "tax_collector_site": [
+     {
+      "source": "Florida Department of Revenue, Find a County Official directory",
+      "url": "https://floridarevenue.com/property/_api/web/lists/GetByTitle('Counties')/items?$SELECT=Title,PALink,TCLink,VABLink&$orderby=Title&$top=100"
+     }
+    ],
+    "public_records_request_route": [
+     {
+      "source": "Martin official appraiser source",
+      "url": "https://www.pamartinfl.gov/images/Universal_Affidavit_for_Confidentiality_03102026.pdf"
+     }
+    ],
+    "appraiser_confidentiality_form": [
+     {
+      "source": "Martin appraiser official source",
+      "url": "https://www.pamartinfl.gov/forms/all-forms"
+     }
+    ],
+    "form_revision": [
+     {
+      "source": "Martin appraiser official source",
+      "url": "https://www.pamartinfl.gov/images/Universal_Affidavit_for_Confidentiality_03102026.pdf"
+     }
+    ],
+    "notarized": [
+     {
+      "source": "Martin appraiser official source",
+      "url": "https://www.pamartinfl.gov/images/Universal_Affidavit_for_Confidentiality_03102026.pdf"
+     }
+    ],
+    "submission_method": [
+     {
+      "source": "Martin appraiser official source",
+      "url": "https://www.pamartinfl.gov/images/Universal_Affidavit_for_Confidentiality_03102026.pdf"
+     }
+    ],
+    "office_coordination": [
+     {
+      "source": "Martin appraiser official source",
+      "url": "https://www.pamartinfl.gov/images/Universal_Affidavit_for_Confidentiality_03102026.pdf"
+     }
+    ],
+    "move_rule": [
+     {
+      "source": "Martin appraiser official source",
+      "url": "https://www.pamartinfl.gov/images/Universal_Affidavit_for_Confidentiality_03102026.pdf"
+     }
+    ],
+    "appraiser_display_limit": [
+     {
+      "source": "Martin appraiser official source",
+      "url": "https://www.pamartinfl.gov/images/Universal_Affidavit_for_Confidentiality_03102026.pdf"
+     }
+    ],
+    "clerk_redaction_route": [
+     {
+      "source": "Martin clerk official source",
+      "url": "https://www.martinclerk.com/DocumentCenter/View/167/Request-for-Redaction-of-Exempt-Personal-Information-from-Public-Records-PDF"
+     }
+    ],
+    "clerk_form_revision": [
+     {
+      "source": "Martin clerk official source",
+      "url": "https://www.martinclerk.com/DocumentCenter/View/167/Request-for-Redaction-of-Exempt-Personal-Information-from-Public-Records-PDF"
+     }
+    ],
+    "clerk_submission": [
+     {
+      "source": "Martin clerk official source",
+      "url": "https://www.martinclerk.com/DocumentCenter/View/167/Request-for-Redaction-of-Exempt-Personal-Information-from-Public-Records-PDF"
+     }
+    ],
+    "tax_collector_confidentiality_route": [
+     {
+      "source": "Martin clerk official source",
+      "url": "https://www.martinclerk.com/DocumentCenter/View/167/Request-for-Redaction-of-Exempt-Personal-Information-from-Public-Records-PDF"
+     }
+    ],
+    "clerk_records_search": [
+     {
+      "source": "Martin official clerk source",
+      "url": "https://www.martinclerk.com/335/Records-Search"
+     }
+    ]
+   }
+  },
+  {
+   "id": "miami-dade",
+   "county": "Miami-Dade",
+   "appraiser_site": "http://www.miamidade.gov/pa/",
+   "owner_name_search": "Yes. Search offered; no person searched.",
+   "owner_mailing_address": "",
+   "appraiser_confidentiality_form": "https://www.miamidadepa.gov/resources-pa/library/forms/address-blocking.pdf",
+   "form_revision": "Printed Rev.722025. The typography does not separate the month and day.",
+   "notarized": "Yes. Current appraiser PDF has a required notary acknowledgment.",
+   "submission_method": "Mail to 111 NW 1st Street, Suite 710, Miami, FL 33128-1984, or email PAWEBMAIL@MIAMIDADEPA.GOV.",
+   "trust_display": "",
+   "clerk_records_search": "https://www.miamidadeclerk.gov/clerk/official-records.page",
+   "clerk_redaction_route": "https://www.miamidadeclerk.gov/clerk/official-records.page",
+   "tax_collector_site": "http://www.miamidade.gov/taxcollector/",
+   "tax_collector_confidentiality_route": "",
+   "elections_confidentiality_route": "",
+   "public_records_request_route": "https://www.miamidadepa.gov/pa/contact/public-records-requests.page",
+   "public_records_request_email": "RecordsRequest@miamidadepa.gov",
+   "source": "Florida Department of Revenue, Find a County Official directory",
+   "url": "https://floridarevenue.com/property/_api/web/lists/GetByTitle('Counties')/items?$SELECT=Title,PALink,TCLink,VABLink&$orderby=Title&$top=100",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "appraiser_site": [
+     {
+      "source": "Florida Department of Revenue, Find a County Official directory",
+      "url": "https://floridarevenue.com/property/_api/web/lists/GetByTitle('Counties')/items?$SELECT=Title,PALink,TCLink,VABLink&$orderby=Title&$top=100"
+     }
+    ],
+    "tax_collector_site": [
+     {
+      "source": "Florida Department of Revenue, Find a County Official directory",
+      "url": "https://floridarevenue.com/property/_api/web/lists/GetByTitle('Counties')/items?$SELECT=Title,PALink,TCLink,VABLink&$orderby=Title&$top=100"
+     }
+    ],
+    "public_records_request_route": [
+     {
+      "source": "Miami-Dade official appraiser source",
+      "url": "https://www.miamidadepa.gov/pa/contact/public-records-requests.page"
+     }
+    ],
+    "public_records_request_email": [
+     {
+      "source": "Miami-Dade County Property Appraiser, public records request information",
+      "url": "https://www.miamidadepa.gov/pa/contact/public-records-requests.page"
+     }
+    ],
+    "owner_name_search": [
+     {
+      "source": "Miami-Dade County Property Appraiser, website navigation",
+      "url": "https://www.miamidadepa.gov/pa/home.page"
+     }
+    ],
+    "appraiser_confidentiality_form": [
+     {
+      "source": "Miami-Dade appraiser official source",
+      "url": "https://www.miamidadepa.gov/pa/real-estate/property-information-change.page"
+     }
+    ],
+    "form_revision": [
+     {
+      "source": "Miami-Dade appraiser official source",
+      "url": "https://www.miamidadepa.gov/resources-pa/library/forms/address-blocking.pdf"
+     }
+    ],
+    "notarized": [
+     {
+      "source": "Miami-Dade appraiser official source",
+      "url": "https://www.miamidadepa.gov/resources-pa/library/forms/address-blocking.pdf"
+     }
+    ],
+    "submission_method": [
+     {
+      "source": "Miami-Dade appraiser official source",
+      "url": "https://www.miamidadepa.gov/resources-pa/library/forms/address-blocking.pdf"
+     }
+    ],
+    "employment_evidence": [
+     {
+      "source": "Miami-Dade appraiser official source",
+      "url": "https://www.miamidadepa.gov/resources-pa/library/forms/address-blocking.pdf"
+     }
+    ],
+    "family_evidence": [
+     {
+      "source": "Miami-Dade appraiser official source",
+      "url": "https://www.miamidadepa.gov/resources-pa/library/forms/address-blocking.pdf"
+     }
+    ],
+    "clerk_redaction_route": [
+     {
+      "source": "Miami-Dade clerk official source",
+      "url": "https://www.miamidadeclerk.gov/clerk/official-records.page"
+     }
+    ],
+    "clerk_records_search": [
+     {
+      "source": "Miami-Dade clerk official source",
+      "url": "https://www.miamidadeclerk.gov/clerk/official-records.page"
+     }
+    ],
+    "clerk_submission": [
+     {
+      "source": "Miami-Dade clerk official source",
+      "url": "https://www.miamidadeclerk.gov/clerk/official-records.page"
+     }
+    ],
+    "clerk_index_limit": [
+     {
+      "source": "Miami-Dade clerk official source",
+      "url": "https://www.miamidadeclerk.gov/clerk/official-records.page"
+     }
+    ],
+    "other_offices": [
+     {
+      "source": "Miami-Dade appraiser official source",
+      "url": "https://www.miamidadepa.gov/pa/real-estate/property-information-change.page"
+     }
+    ]
+   }
+  },
+  {
+   "id": "monroe",
+   "county": "Monroe",
+   "appraiser_site": "http://qpublic.net/monroe/",
+   "owner_name_search": "",
+   "owner_mailing_address": "",
+   "appraiser_confidentiality_form": "",
+   "form_revision": "",
+   "notarized": "",
+   "submission_method": "",
+   "trust_display": "",
+   "clerk_records_search": "https://or.monroe-clerk.com/",
+   "clerk_redaction_route": "https://www.monroe-clerk.com/uploads/documents/Remove_Exempt_Information.pdf",
+   "tax_collector_site": "http://www.monroetaxcollector.com/",
+   "tax_collector_confidentiality_route": "https://monroetaxcollector.com/services/confidentiality-request/",
+   "elections_confidentiality_route": "",
+   "public_records_request_route": "https://www.mcpafl.org/real-estate/address-blocking/",
+   "public_records_request_email": "",
+   "source": "Florida Department of Revenue, Find a County Official directory",
+   "url": "https://floridarevenue.com/property/_api/web/lists/GetByTitle('Counties')/items?$SELECT=Title,PALink,TCLink,VABLink&$orderby=Title&$top=100",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "appraiser_site": [
+     {
+      "source": "Florida Department of Revenue, Find a County Official directory",
+      "url": "https://floridarevenue.com/property/_api/web/lists/GetByTitle('Counties')/items?$SELECT=Title,PALink,TCLink,VABLink&$orderby=Title&$top=100"
+     }
+    ],
+    "tax_collector_site": [
+     {
+      "source": "Florida Department of Revenue, Find a County Official directory",
+      "url": "https://floridarevenue.com/property/_api/web/lists/GetByTitle('Counties')/items?$SELECT=Title,PALink,TCLink,VABLink&$orderby=Title&$top=100"
+     }
+    ],
+    "appraiser_confidentiality_route": [
+     {
+      "source": "Monroe appraiser official source",
+      "url": "https://www.mcpafl.org/real-estate/address-blocking/"
+     }
+    ],
+    "employment_evidence": [
+     {
+      "source": "Monroe appraiser official source",
+      "url": "https://www.mcpafl.org/real-estate/address-blocking/"
+     }
+    ],
+    "multiple_property_rule": [
+     {
+      "source": "Monroe appraiser official source",
+      "url": "https://www.mcpafl.org/real-estate/address-blocking/"
+     }
+    ],
+    "clerk_redaction_route": [
+     {
+      "source": "Monroe clerk official source",
+      "url": "https://www.monroe-clerk.com/official-record-forms"
+     }
+    ],
+    "clerk_request_identifiers": [
+     {
+      "source": "Monroe clerk official source",
+      "url": "https://www.monroe-clerk.com/uploads/documents/Remove_Exempt_Information.pdf"
+     }
+    ],
+    "clerk_submission": [
+     {
+      "source": "Monroe clerk official source",
+      "url": "https://www.monroe-clerk.com/uploads/documents/Remove_Exempt_Information.pdf"
+     }
+    ],
+    "clerk_records_search": [
+     {
+      "source": "Monroe clerk official source",
+      "url": "https://www.monroe-clerk.com/official-record-forms"
+     }
+    ],
+    "other_offices": [
+     {
+      "source": "Monroe appraiser official source",
+      "url": "https://www.mcpafl.org/real-estate/address-blocking/"
+     }
+    ],
+    "tax_collector_confidentiality_route": [
+     {
+      "source": "Monroe official tax_collector source",
+      "url": "https://www.monroetaxcollector.com/"
+     }
+    ],
+    "public_records_request_route": [
+     {
+      "source": "Confidential Status Request – Monroe County Property Appraiser Office",
+      "url": "https://www.mcpafl.org/real-estate/address-blocking/"
+     }
+    ]
+   }
+  },
+  {
+   "id": "nassau",
+   "county": "Nassau",
+   "appraiser_site": "https://ncpafl.com/",
+   "owner_name_search": "",
+   "owner_mailing_address": "",
+   "appraiser_confidentiality_form": "",
+   "form_revision": "",
+   "notarized": "",
+   "submission_method": "",
+   "trust_display": "",
+   "clerk_records_search": "",
+   "clerk_redaction_route": "",
+   "tax_collector_site": "http://www.nassautaxes.com/",
+   "tax_collector_confidentiality_route": "",
+   "elections_confidentiality_route": "https://irp.cdn-website.com/43a94aeb/files/uploaded/DOC+14004+Public+Record+Exemption+Request+Form+rev_1.pdf",
+   "public_records_request_route": "https://ncpafl.com/public-records/requesting-public-records/",
+   "public_records_request_email": "",
+   "source": "Florida Department of Revenue, Find a County Official directory",
+   "url": "https://floridarevenue.com/property/_api/web/lists/GetByTitle('Counties')/items?$SELECT=Title,PALink,TCLink,VABLink&$orderby=Title&$top=100",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "appraiser_site": [
+     {
+      "source": "Florida Department of Revenue, Find a County Official directory",
+      "url": "https://floridarevenue.com/property/_api/web/lists/GetByTitle('Counties')/items?$SELECT=Title,PALink,TCLink,VABLink&$orderby=Title&$top=100"
+     }
+    ],
+    "tax_collector_site": [
+     {
+      "source": "Florida Department of Revenue, Find a County Official directory",
+      "url": "https://floridarevenue.com/property/_api/web/lists/GetByTitle('Counties')/items?$SELECT=Title,PALink,TCLink,VABLink&$orderby=Title&$top=100"
+     }
+    ],
+    "public_records_request_route": [
+     {
+      "source": "Nassau official appraiser source",
+      "url": "https://ncpafl.com/public-records/requesting-public-records/"
+     }
+    ],
+    "elections_confidentiality_route": [
+     {
+      "source": "Nassau official elections source",
+      "url": "https://www.votenassaufl.gov/forms"
+     }
+    ]
+   }
+  },
+  {
+   "id": "okaloosa",
+   "county": "Okaloosa",
+   "appraiser_site": "http://www.okaloosapa.com/",
+   "owner_name_search": "",
+   "owner_mailing_address": "",
+   "appraiser_confidentiality_form": "https://www.okaloosapa.com/wp-content/uploads/sites/29/2019/07/CONFIDENTIAL-REQUEST-rev02052025.pdf",
+   "form_revision": "",
+   "notarized": "",
+   "submission_method": "",
+   "trust_display": "",
+   "clerk_records_search": "",
+   "clerk_redaction_route": "",
+   "tax_collector_site": "http://www.okaloosatax.com/",
+   "tax_collector_confidentiality_route": "",
+   "elections_confidentiality_route": "",
+   "public_records_request_route": "https://www.okaloosapa.com/public-records-request/",
+   "public_records_request_email": "",
+   "source": "Florida Department of Revenue, Find a County Official directory",
+   "url": "https://floridarevenue.com/property/_api/web/lists/GetByTitle('Counties')/items?$SELECT=Title,PALink,TCLink,VABLink&$orderby=Title&$top=100",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "appraiser_site": [
+     {
+      "source": "Florida Department of Revenue, Find a County Official directory",
+      "url": "https://floridarevenue.com/property/_api/web/lists/GetByTitle('Counties')/items?$SELECT=Title,PALink,TCLink,VABLink&$orderby=Title&$top=100"
+     }
+    ],
+    "tax_collector_site": [
+     {
+      "source": "Florida Department of Revenue, Find a County Official directory",
+      "url": "https://floridarevenue.com/property/_api/web/lists/GetByTitle('Counties')/items?$SELECT=Title,PALink,TCLink,VABLink&$orderby=Title&$top=100"
+     }
+    ],
+    "appraiser_confidentiality_form": [
+     {
+      "source": "Shalimar Office",
+      "url": "https://www.okaloosapa.com/wp-content/uploads/sites/29/2019/07/CONFIDENTIAL-REQUEST-rev02052025.pdf"
+     }
+    ],
+    "public_records_request_route": [
+     {
+      "source": "Public Records Request – Okaloosa County Property Appraiser",
+      "url": "https://www.okaloosapa.com/public-records-request/"
+     }
+    ]
+   }
+  },
+  {
+   "id": "okeechobee",
+   "county": "Okeechobee",
+   "appraiser_site": "http://www.okeechobeepa.com/",
+   "owner_name_search": "",
+   "owner_mailing_address": "",
+   "appraiser_confidentiality_form": "",
+   "form_revision": "",
+   "notarized": "",
+   "submission_method": "",
+   "trust_display": "",
+   "clerk_records_search": "",
+   "clerk_redaction_route": "",
+   "tax_collector_site": "http://www.okeechobeecountytaxcollector.com/",
+   "tax_collector_confidentiality_route": "",
+   "elections_confidentiality_route": "",
+   "public_records_request_route": "https://www.okeechobeepa.com/public-records-request/",
+   "public_records_request_email": "publicrecordsrequest@okeechobeepa.com",
+   "source": "Florida Department of Revenue, Find a County Official directory",
+   "url": "https://floridarevenue.com/property/_api/web/lists/GetByTitle('Counties')/items?$SELECT=Title,PALink,TCLink,VABLink&$orderby=Title&$top=100",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "appraiser_site": [
+     {
+      "source": "Florida Department of Revenue, Find a County Official directory",
+      "url": "https://floridarevenue.com/property/_api/web/lists/GetByTitle('Counties')/items?$SELECT=Title,PALink,TCLink,VABLink&$orderby=Title&$top=100"
+     }
+    ],
+    "tax_collector_site": [
+     {
+      "source": "Florida Department of Revenue, Find a County Official directory",
+      "url": "https://floridarevenue.com/property/_api/web/lists/GetByTitle('Counties')/items?$SELECT=Title,PALink,TCLink,VABLink&$orderby=Title&$top=100"
+     }
+    ],
+    "public_records_request_route": [
+     {
+      "source": "Okeechobee official appraiser source",
+      "url": "https://www.okeechobeepa.com/public-records-request/"
+     }
+    ],
+    "public_records_request_email": [
+     {
+      "source": "Okeechobee County Property Appraiser, public records request information",
+      "url": "https://www.okeechobeepa.com/public-records-request/"
+     }
+    ]
+   }
+  },
+  {
+   "id": "orange",
+   "county": "Orange",
+   "appraiser_site": "https://ocpaweb.ocpafl.org/",
+   "owner_name_search": "",
+   "owner_mailing_address": "",
+   "appraiser_confidentiality_form": "https://ocpaimages.ocpafl.org/api/Content/GetContentDynamicFile?contentFileID=149704",
+   "form_revision": "R. 2/23.",
+   "notarized": "Yes. Appraiser form permits physical-presence or online notarization.",
+   "submission_method": "Mail to Confidential Address Change, 200 S Orange Ave Suite 1700, Orlando FL 32801; fax 407-836-2788; email deedsandresearchext@ocpafl.org.",
+   "trust_display": "",
+   "clerk_records_search": "",
+   "clerk_redaction_route": "",
+   "tax_collector_site": "http://www.octaxcol.com/",
+   "tax_collector_confidentiality_route": "",
+   "elections_confidentiality_route": "",
+   "public_records_request_route": "https://ocpaimages.ocpafl.org/api/Content/GetContentDynamicFile?contentFileID=414457",
+   "public_records_request_email": "ATORRES@OCPAFL.ORG",
+   "source": "Florida Department of Revenue, Find a County Official directory",
+   "url": "https://floridarevenue.com/property/_api/web/lists/GetByTitle('Counties')/items?$SELECT=Title,PALink,TCLink,VABLink&$orderby=Title&$top=100",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "appraiser_site": [
+     {
+      "source": "Florida Department of Revenue, Find a County Official directory",
+      "url": "https://floridarevenue.com/property/_api/web/lists/GetByTitle('Counties')/items?$SELECT=Title,PALink,TCLink,VABLink&$orderby=Title&$top=100"
+     }
+    ],
+    "tax_collector_site": [
+     {
+      "source": "Florida Department of Revenue, Find a County Official directory",
+      "url": "https://floridarevenue.com/property/_api/web/lists/GetByTitle('Counties')/items?$SELECT=Title,PALink,TCLink,VABLink&$orderby=Title&$top=100"
+     }
+    ],
+    "appraiser_confidentiality_form": [
+     {
+      "source": "Orange appraiser official source",
+      "url": "https://ocpaimages.ocpafl.org/api/Content/GetContentDynamicFile?contentFileID=149704"
+     }
+    ],
+    "form_revision": [
+     {
+      "source": "Orange appraiser official source",
+      "url": "https://ocpaimages.ocpafl.org/api/Content/GetContentDynamicFile?contentFileID=149704"
+     }
+    ],
+    "notarized": [
+     {
+      "source": "Orange appraiser official source",
+      "url": "https://ocpaimages.ocpafl.org/api/Content/GetContentDynamicFile?contentFileID=149704"
+     }
+    ],
+    "submission_method": [
+     {
+      "source": "Orange appraiser official source",
+      "url": "https://ocpaimages.ocpafl.org/api/Content/GetContentDynamicFile?contentFileID=149704"
+     }
+    ],
+    "employment_evidence": [
+     {
+      "source": "Orange appraiser official source",
+      "url": "https://ocpaimages.ocpafl.org/api/Content/GetContentDynamicFile?contentFileID=149704"
+     }
+    ],
+    "public_records_request_route": [
+     {
+      "source": "OCPA Invitation for Bid",
+      "url": "https://ocpaimages.ocpafl.org/api/Content/GetContentDynamicFile?contentFileID=414457"
+     }
+    ],
+    "public_records_request_email": [
+     {
+      "source": "OCPA Invitation for Bid",
+      "url": "https://ocpaimages.ocpafl.org/api/Content/GetContentDynamicFile?contentFileID=414457"
+     }
+    ]
+   }
+  },
+  {
+   "id": "osceola",
+   "county": "Osceola",
+   "appraiser_site": "http://www.property-appraiser.org/",
+   "owner_name_search": "",
+   "owner_mailing_address": "",
+   "appraiser_confidentiality_form": "https://www.property-appraiser.org/wp-content/uploads/2021/10/Request-to-Permanently-Block-Name-and-Mailing-address-from-Public-Records.pdf",
+   "form_revision": "",
+   "notarized": "The published county form includes a notary requirement or acknowledgment.",
+   "submission_method": "",
+   "trust_display": "",
+   "clerk_records_search": "https://officialrecords.osceolaclerk.org/searchng_ssl/",
+   "clerk_redaction_route": "https://osceolaclerk.com/recording-info/confidentiality-requests/",
+   "tax_collector_site": "https://osceolataxcollector.org/",
+   "tax_collector_confidentiality_route": "",
+   "elections_confidentiality_route": "",
+   "public_records_request_route": "https://www.property-appraiser.org/public-records-requests/",
+   "public_records_request_email": "",
+   "source": "Florida Department of Revenue, Find a County Official directory",
+   "url": "https://floridarevenue.com/property/_api/web/lists/GetByTitle('Counties')/items?$SELECT=Title,PALink,TCLink,VABLink&$orderby=Title&$top=100",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "appraiser_site": [
+     {
+      "source": "Florida Department of Revenue, Find a County Official directory",
+      "url": "https://floridarevenue.com/property/_api/web/lists/GetByTitle('Counties')/items?$SELECT=Title,PALink,TCLink,VABLink&$orderby=Title&$top=100"
+     }
+    ],
+    "tax_collector_site": [
+     {
+      "source": "Florida Department of Revenue, Find a County Official directory",
+      "url": "https://floridarevenue.com/property/_api/web/lists/GetByTitle('Counties')/items?$SELECT=Title,PALink,TCLink,VABLink&$orderby=Title&$top=100"
+     }
+    ],
+    "public_records_request_route": [
+     {
+      "source": "Osceola official appraiser source",
+      "url": "https://www.property-appraiser.org/public-records-requests/"
+     }
+    ],
+    "appraiser_confidentiality_form": [
+     {
+      "source": "Osceola official appraiser source",
+      "url": "https://www.property-appraiser.org/wp-content/uploads/2021/10/Request-to-Permanently-Block-Name-and-Mailing-address-from-Public-Records.pdf"
+     }
+    ],
+    "notarized": [
+     {
+      "source": "Osceola official appraiser source",
+      "url": "https://www.property-appraiser.org/wp-content/uploads/2021/10/Request-to-Permanently-Block-Name-and-Mailing-address-from-Public-Records.pdf"
+     }
+    ],
+    "clerk_records_search": [
+     {
+      "source": "Osceola official clerk source",
+      "url": "https://osceolaclerk.com/value-adjustment-board/"
+     }
+    ],
+    "clerk_redaction_route": [
+     {
+      "source": "Osceola official clerk source",
+      "url": "https://osceolaclerk.com/value-adjustment-board/"
+     }
+    ]
+   }
+  },
+  {
+   "id": "palm-beach",
+   "county": "Palm Beach",
+   "appraiser_site": "http://www.co.palm-beach.fl.us/papa/index.htm",
+   "owner_name_search": "Yes. Official FAQ says property can be searched by name or address. No search was run.",
+   "owner_mailing_address": "",
+   "appraiser_confidentiality_form": "https://pbcpao.gov/pdf/ConfidentialRequestForm.pdf",
+   "form_revision": "October 2026.",
+   "notarized": "Yes. Affidavit contains physical-presence or online-notarization acknowledgment.",
+   "submission_method": "Return affidavit and official supporting documents to First Floor, Attention Confidential Records, 301 N Olive Ave, West Palm Beach FL 33401.",
+   "trust_display": "",
+   "clerk_records_search": "",
+   "clerk_redaction_route": "https://www.mypalmbeachclerk.com/home/showpublisheddocument/1074/639101298333730000",
+   "tax_collector_site": "https://www.pbctax.gov/",
+   "tax_collector_confidentiality_route": "",
+   "elections_confidentiality_route": "",
+   "public_records_request_route": "https://pbcpao.gov/public-records-requests.htm",
+   "public_records_request_email": "",
+   "source": "Florida Department of Revenue, Find a County Official directory",
+   "url": "https://floridarevenue.com/property/_api/web/lists/GetByTitle('Counties')/items?$SELECT=Title,PALink,TCLink,VABLink&$orderby=Title&$top=100",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "appraiser_site": [
+     {
+      "source": "Florida Department of Revenue, Find a County Official directory",
+      "url": "https://floridarevenue.com/property/_api/web/lists/GetByTitle('Counties')/items?$SELECT=Title,PALink,TCLink,VABLink&$orderby=Title&$top=100"
+     }
+    ],
+    "tax_collector_site": [
+     {
+      "source": "Florida Department of Revenue, Find a County Official directory",
+      "url": "https://floridarevenue.com/property/_api/web/lists/GetByTitle('Counties')/items?$SELECT=Title,PALink,TCLink,VABLink&$orderby=Title&$top=100"
+     }
+    ],
+    "public_records_request_route": [
+     {
+      "source": "Palm Beach official appraiser source",
+      "url": "https://pbcpao.gov/public-records-requests.htm"
+     }
+    ],
+    "appraiser_confidentiality_form": [
+     {
+      "source": "Palm Beach appraiser official source",
+      "url": "https://pbcpao.gov/forms.htm"
+     }
+    ],
+    "form_revision": [
+     {
+      "source": "Palm Beach appraiser official source",
+      "url": "https://pbcpao.gov/pdf/ConfidentialRequestForm.pdf"
+     }
+    ],
+    "notarized": [
+     {
+      "source": "Palm Beach appraiser official source",
+      "url": "https://pbcpao.gov/pdf/ConfidentialRequestForm.pdf"
+     }
+    ],
+    "submission_method": [
+     {
+      "source": "Palm Beach appraiser official source",
+      "url": "https://pbcpao.gov/pdf/ConfidentialRequestForm.pdf"
+     }
+    ],
+    "appraiser_confidentiality_phone": [
+     {
+      "source": "Palm Beach appraiser official source",
+      "url": "https://pbcpao.gov/pdf/ConfidentialRequestForm.pdf"
+     }
+    ],
+    "move_rule": [
+     {
+      "source": "Palm Beach appraiser official source",
+      "url": "https://pbcpao.gov/pdf/ConfidentialRequestForm.pdf"
+     }
+    ],
+    "owner_name_search": [
+     {
+      "source": "Palm Beach appraiser official source",
+      "url": "https://pbcpao.gov/faq.htm"
+     }
+    ],
+    "clerk_redaction_route": [
+     {
+      "source": "Palm Beach official office",
+      "url": "https://www.mypalmbeachclerk.com/home/showpublisheddocument/1074/639101298333730000"
+     }
+    ],
+    "clerk_form_revision": [
+     {
+      "source": "Palm Beach official office",
+      "url": "https://www.mypalmbeachclerk.com/home/showpublisheddocument/1074/639101298333730000"
+     }
+    ]
+   }
+  },
+  {
+   "id": "pasco",
+   "county": "Pasco",
+   "appraiser_site": "http://www.pascopa.com/",
+   "owner_name_search": "",
+   "owner_mailing_address": "",
+   "appraiser_confidentiality_form": "",
+   "form_revision": "",
+   "notarized": "",
+   "submission_method": "",
+   "trust_display": "",
+   "clerk_records_search": "",
+   "clerk_redaction_route": "",
+   "tax_collector_site": "http://www.pascotaxes.com",
+   "tax_collector_confidentiality_route": "",
+   "elections_confidentiality_route": "https://www.pascovotes.gov/voters/protected_addresses.php",
+   "public_records_request_route": "https://pascopa.com/meet-your-appraiser/public-records-request/",
+   "public_records_request_email": "media@pascopa.com",
+   "source": "Florida Department of Revenue, Find a County Official directory",
+   "url": "https://floridarevenue.com/property/_api/web/lists/GetByTitle('Counties')/items?$SELECT=Title,PALink,TCLink,VABLink&$orderby=Title&$top=100",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "appraiser_site": [
+     {
+      "source": "Florida Department of Revenue, Find a County Official directory",
+      "url": "https://floridarevenue.com/property/_api/web/lists/GetByTitle('Counties')/items?$SELECT=Title,PALink,TCLink,VABLink&$orderby=Title&$top=100"
+     }
+    ],
+    "tax_collector_site": [
+     {
+      "source": "Florida Department of Revenue, Find a County Official directory",
+      "url": "https://floridarevenue.com/property/_api/web/lists/GetByTitle('Counties')/items?$SELECT=Title,PALink,TCLink,VABLink&$orderby=Title&$top=100"
+     }
+    ],
+    "public_records_request_route": [
+     {
+      "source": "Pasco official appraiser source",
+      "url": "https://pascopa.com/meet-your-appraiser/public-records-request/"
+     }
+    ],
+    "public_records_request_email": [
+     {
+      "source": "Pasco County Property Appraiser, public records request information",
+      "url": "https://pascopa.com/meet-your-appraiser/public-records-request/"
+     }
+    ],
+    "elections_confidentiality_route": [
+     {
+      "source": "Pasco official elections source",
+      "url": "https://www.pascovotes.gov"
+     }
+    ]
+   }
+  },
+  {
+   "id": "pinellas",
+   "county": "Pinellas",
+   "appraiser_site": "https://www.pcpao.gov/",
+   "owner_name_search": "",
+   "owner_mailing_address": "",
+   "appraiser_confidentiality_form": "https://www.pcpao.gov/sites/default/files/ProtectedName_RequestApplication_rev2024.pdf",
+   "form_revision": "",
+   "notarized": "",
+   "submission_method": "",
+   "trust_display": "",
+   "clerk_records_search": "",
+   "clerk_redaction_route": "",
+   "tax_collector_site": "http://www.taxcollect.com",
+   "tax_collector_confidentiality_route": "",
+   "elections_confidentiality_route": "",
+   "public_records_request_route": "https://www.pcpao.gov/how-do-i/request-public-record-information",
+   "public_records_request_email": "",
+   "source": "Florida Department of Revenue, Find a County Official directory",
+   "url": "https://floridarevenue.com/property/_api/web/lists/GetByTitle('Counties')/items?$SELECT=Title,PALink,TCLink,VABLink&$orderby=Title&$top=100",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "appraiser_site": [
+     {
+      "source": "Florida Department of Revenue, Find a County Official directory",
+      "url": "https://floridarevenue.com/property/_api/web/lists/GetByTitle('Counties')/items?$SELECT=Title,PALink,TCLink,VABLink&$orderby=Title&$top=100"
+     }
+    ],
+    "tax_collector_site": [
+     {
+      "source": "Florida Department of Revenue, Find a County Official directory",
+      "url": "https://floridarevenue.com/property/_api/web/lists/GetByTitle('Counties')/items?$SELECT=Title,PALink,TCLink,VABLink&$orderby=Title&$top=100"
+     }
+    ],
+    "appraiser_confidentiality_form": [
+     {
+      "source": "Request for Exemption From Public Records",
+      "url": "https://www.pcpao.gov/sites/default/files/ProtectedName_RequestApplication_rev2024.pdf"
+     }
+    ],
+    "public_records_request_route": [
+     {
+      "source": "Request Public Record Information | Pinellas County Property Appraiser",
+      "url": "https://www.pcpao.gov/how-do-i/request-public-record-information"
+     }
+    ]
+   }
+  },
+  {
+   "id": "polk",
+   "county": "Polk",
+   "appraiser_site": "https://www.polkflpa.gov/default.aspx?cookie_test=true",
+   "owner_name_search": "",
+   "owner_mailing_address": "",
+   "appraiser_confidentiality_form": "",
+   "form_revision": "",
+   "notarized": "",
+   "submission_method": "",
+   "trust_display": "",
+   "clerk_records_search": "",
+   "clerk_redaction_route": "https://www.polkclerkfl.gov/Faq.aspx?QID=192",
+   "tax_collector_site": "http://www.polktaxes.com/",
+   "tax_collector_confidentiality_route": "",
+   "elections_confidentiality_route": "",
+   "public_records_request_route": "https://polkpa.org/Downloads/Files/PCPA_Public_Records.pdf",
+   "public_records_request_email": "pataxroll@polk-county.net",
+   "source": "Florida Department of Revenue, Find a County Official directory",
+   "url": "https://floridarevenue.com/property/_api/web/lists/GetByTitle('Counties')/items?$SELECT=Title,PALink,TCLink,VABLink&$orderby=Title&$top=100",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "appraiser_site": [
+     {
+      "source": "Florida Department of Revenue, Find a County Official directory",
+      "url": "https://floridarevenue.com/property/_api/web/lists/GetByTitle('Counties')/items?$SELECT=Title,PALink,TCLink,VABLink&$orderby=Title&$top=100"
+     }
+    ],
+    "tax_collector_site": [
+     {
+      "source": "Florida Department of Revenue, Find a County Official directory",
+      "url": "https://floridarevenue.com/property/_api/web/lists/GetByTitle('Counties')/items?$SELECT=Title,PALink,TCLink,VABLink&$orderby=Title&$top=100"
+     }
+    ],
+    "clerk_redaction_route": [
+     {
+      "source": "Polk official clerk source",
+      "url": "https://www.polkclerkfl.gov/282/Confidential-Information"
+     }
+    ],
+    "public_records_request_route": [
+     {
+      "source": "ADA Compliant",
+      "url": "https://polkpa.org/Downloads/Files/PCPA_Public_Records.pdf"
+     }
+    ],
+    "public_records_request_email": [
+     {
+      "source": "ADA Compliant",
+      "url": "https://polkpa.org/Downloads/Files/PCPA_Public_Records.pdf"
+     }
+    ]
+   }
+  },
+  {
+   "id": "putnam",
+   "county": "Putnam",
+   "appraiser_site": "https://pa.putnam-fl.com/",
+   "owner_name_search": "",
+   "owner_mailing_address": "",
+   "appraiser_confidentiality_form": "https://pa.putnam-fl.com/wp-content/uploads/2023/03/Personal-Information-Blocking-Request-Form-Fillable-r03212023.pdf",
+   "form_revision": "",
+   "notarized": "The published county form includes a notary requirement or acknowledgment.",
+   "submission_method": "",
+   "trust_display": "",
+   "clerk_records_search": "https://www.myfloridacounty.com/orisearch/54",
+   "clerk_redaction_route": "https://putnamclerk.s3.amazonaws.com/uploads/2026/10/12080639/BP-_Requests_to_Redact_Exemp.pdf",
+   "tax_collector_site": "https://putnamtax.com/",
+   "tax_collector_confidentiality_route": "",
+   "elections_confidentiality_route": "https://www.voteputnamflorida.gov/voter_information/protected_address.php",
+   "public_records_request_route": "https://pa.putnam-fl.com/contact-information",
+   "public_records_request_email": "appraiser@putnam-fl.gov",
+   "source": "Florida Department of Revenue, Find a County Official directory",
+   "url": "https://floridarevenue.com/property/_api/web/lists/GetByTitle('Counties')/items?$SELECT=Title,PALink,TCLink,VABLink&$orderby=Title&$top=100",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "appraiser_site": [
+     {
+      "source": "Florida Department of Revenue, Find a County Official directory",
+      "url": "https://floridarevenue.com/property/_api/web/lists/GetByTitle('Counties')/items?$SELECT=Title,PALink,TCLink,VABLink&$orderby=Title&$top=100"
+     }
+    ],
+    "tax_collector_site": [
+     {
+      "source": "Florida Department of Revenue, Find a County Official directory",
+      "url": "https://floridarevenue.com/property/_api/web/lists/GetByTitle('Counties')/items?$SELECT=Title,PALink,TCLink,VABLink&$orderby=Title&$top=100"
+     }
+    ],
+    "appraiser_confidentiality_form": [
+     {
+      "source": "<table id=\"e1\">",
+      "url": "https://pa.putnam-fl.com/wp-content/uploads/2023/03/Personal-Information-Blocking-Request-Form-Fillable-r03212023.pdf"
+     }
+    ],
+    "notarized": [
+     {
+      "source": "<table id=\"e1\">",
+      "url": "https://pa.putnam-fl.com/wp-content/uploads/2023/03/Personal-Information-Blocking-Request-Form-Fillable-r03212023.pdf"
+     }
+    ],
+    "clerk_records_search": [
+     {
+      "source": "Putnam official clerk source",
+      "url": "https://putnamclerk.com/county-comptroller/value-adjustment-board/"
+     }
+    ],
+    "clerk_redaction_route": [
+     {
+      "source": "Putnam official clerk source",
+      "url": "https://putnamclerk.com/online-services/forms/"
+     }
+    ],
+    "elections_confidentiality_route": [
+     {
+      "source": "Putnam official elections source",
+      "url": "https://www.voteputnamflorida.gov/"
+     }
+    ],
+    "public_records_request_route": [
+     {
+      "source": "Contact Information – Property Appraiser",
+      "url": "https://pa.putnam-fl.com/contact-information"
+     }
+    ],
+    "public_records_request_email": [
+     {
+      "source": "Contact Information – Property Appraiser",
+      "url": "https://pa.putnam-fl.com/contact-information"
+     }
+    ]
+   }
+  },
+  {
+   "id": "santa-rosa",
+   "county": "Santa Rosa",
+   "appraiser_site": "https://srcpa.gov",
+   "owner_name_search": "",
+   "owner_mailing_address": "",
+   "appraiser_confidentiality_form": "https://srcpa.gov/resources/Confidentiality%20Request%20Form%202025.pdf",
+   "form_revision": "",
+   "notarized": "The published county form includes a notary requirement or acknowledgment.",
+   "submission_method": "",
+   "trust_display": "",
+   "clerk_records_search": "",
+   "clerk_redaction_route": "",
+   "tax_collector_site": "https://srctc.com/",
+   "tax_collector_confidentiality_route": "",
+   "elections_confidentiality_route": "",
+   "public_records_request_route": "https://srcpa.gov/public-records-request/",
+   "public_records_request_email": "publicrecords@srcpa.gov",
+   "source": "Florida Department of Revenue, Find a County Official directory",
+   "url": "https://floridarevenue.com/property/_api/web/lists/GetByTitle('Counties')/items?$SELECT=Title,PALink,TCLink,VABLink&$orderby=Title&$top=100",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "appraiser_site": [
+     {
+      "source": "Florida Department of Revenue, Find a County Official directory",
+      "url": "https://floridarevenue.com/property/_api/web/lists/GetByTitle('Counties')/items?$SELECT=Title,PALink,TCLink,VABLink&$orderby=Title&$top=100"
+     }
+    ],
+    "tax_collector_site": [
+     {
+      "source": "Florida Department of Revenue, Find a County Official directory",
+      "url": "https://floridarevenue.com/property/_api/web/lists/GetByTitle('Counties')/items?$SELECT=Title,PALink,TCLink,VABLink&$orderby=Title&$top=100"
+     }
+    ],
+    "public_records_request_route": [
+     {
+      "source": "Santa Rosa official appraiser source",
+      "url": "https://srcpa.gov/public-records-request/"
+     }
+    ],
+    "public_records_request_email": [
+     {
+      "source": "Santa Rosa County Property Appraiser, public records request information",
+      "url": "https://srcpa.gov/public-records-request/"
+     }
+    ],
+    "appraiser_confidentiality_form": [
+     {
+      "source": "Santa Rosa official appraiser source",
+      "url": "https://srcpa.gov/resources/Confidentiality%20Request%20Form%202025.pdf"
+     }
+    ],
+    "notarized": [
+     {
+      "source": "Santa Rosa official appraiser source",
+      "url": "https://srcpa.gov/resources/Confidentiality%20Request%20Form%202025.pdf"
+     }
+    ]
+   }
+  },
+  {
+   "id": "sarasota",
+   "county": "Sarasota",
+   "appraiser_site": "https://www.sarasotapropertyappraiser.gov/",
+   "owner_name_search": "",
+   "owner_mailing_address": "",
+   "appraiser_confidentiality_form": "",
+   "form_revision": "",
+   "notarized": "",
+   "submission_method": "",
+   "trust_display": "",
+   "clerk_records_search": "",
+   "clerk_redaction_route": "https://www.sarasotaclerk.com/About-Us/Forms/Public-Records-Exemption-Forms",
+   "tax_collector_site": "http://www.sarasotataxcollector.com/",
+   "tax_collector_confidentiality_route": "",
+   "elections_confidentiality_route": "",
+   "public_records_request_route": "https://www.sarasotapropertyappraiser.gov/our-office/temporary-services/",
+   "public_records_request_email": "",
+   "source": "Florida Department of Revenue, Find a County Official directory",
+   "url": "https://floridarevenue.com/property/_api/web/lists/GetByTitle('Counties')/items?$SELECT=Title,PALink,TCLink,VABLink&$orderby=Title&$top=100",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "appraiser_site": [
+     {
+      "source": "Sarasota appraiser official source",
+      "url": "https://www.sarasotapropertyappraiser.gov/contact-us/"
+     }
+    ],
+    "tax_collector_site": [
+     {
+      "source": "Florida Department of Revenue, Find a County Official directory",
+      "url": "https://floridarevenue.com/property/_api/web/lists/GetByTitle('Counties')/items?$SELECT=Title,PALink,TCLink,VABLink&$orderby=Title&$top=100"
+     }
+    ],
+    "public_records_request_route": [
+     {
+      "source": "Temporary Services | Bill Furst, Sarasota County Property Appraiser",
+      "url": "https://www.sarasotapropertyappraiser.gov/our-office/temporary-services/"
+     }
+    ],
+    "clerk_redaction_route": [
+     {
+      "source": "Sarasota official office",
+      "url": "https://www.sarasotaclerk.com/About-Us/Forms/Public-Records-Exemption-Forms"
+     }
+    ],
+    "clerk_contact": [
+     {
+      "source": "Sarasota official office",
+      "url": "https://www.sarasotaclerk.com/About-Us/Forms/Public-Records-Exemption-Forms"
+     }
+    ]
+   }
+  },
+  {
+   "id": "seminole",
+   "county": "Seminole",
+   "appraiser_site": "http://www.scpafl.org/",
+   "owner_name_search": "",
+   "owner_mailing_address": "",
+   "appraiser_confidentiality_form": "",
+   "form_revision": "",
+   "notarized": "",
+   "submission_method": "",
+   "trust_display": "",
+   "clerk_records_search": "",
+   "clerk_redaction_route": "",
+   "tax_collector_site": "https://seminolecounty.tax/",
+   "tax_collector_confidentiality_route": "",
+   "elections_confidentiality_route": "",
+   "public_records_request_route": "https://www.scpafl.org/information/publicrecords",
+   "public_records_request_email": "",
+   "source": "Florida Department of Revenue, Find a County Official directory",
+   "url": "https://floridarevenue.com/property/_api/web/lists/GetByTitle('Counties')/items?$SELECT=Title,PALink,TCLink,VABLink&$orderby=Title&$top=100",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "appraiser_site": [
+     {
+      "source": "Florida Department of Revenue, Find a County Official directory",
+      "url": "https://floridarevenue.com/property/_api/web/lists/GetByTitle('Counties')/items?$SELECT=Title,PALink,TCLink,VABLink&$orderby=Title&$top=100"
+     }
+    ],
+    "tax_collector_site": [
+     {
+      "source": "Florida Department of Revenue, Find a County Official directory",
+      "url": "https://floridarevenue.com/property/_api/web/lists/GetByTitle('Counties')/items?$SELECT=Title,PALink,TCLink,VABLink&$orderby=Title&$top=100"
+     }
+    ],
+    "public_records_request_route": [
+     {
+      "source": "Seminole official appraiser source",
+      "url": "https://www.scpafl.org/information/publicrecords"
+     }
+    ]
+   }
+  },
+  {
+   "id": "st-johns",
+   "county": "St. Johns",
+   "appraiser_site": "http://www.sjcpa.us",
+   "owner_name_search": "",
+   "owner_mailing_address": "",
+   "appraiser_confidentiality_form": "",
+   "form_revision": "",
+   "notarized": "",
+   "submission_method": "",
+   "trust_display": "",
+   "clerk_records_search": "https://apps.stjohnsclerk.com/Landmark",
+   "clerk_redaction_route": "https://stjohnsclerk.com/courts/orders-determining-confidentiality/",
+   "tax_collector_site": "http://www.sjctax.us/",
+   "tax_collector_confidentiality_route": "",
+   "elections_confidentiality_route": "https://files.floridados.gov/media/695951/address-confidentiality-exemption-form-07-2025.pdf",
+   "public_records_request_route": "https://www.sjcpa.gov/public-records-request/",
+   "public_records_request_email": "publicrecords@sjcpa.gov",
+   "source": "Florida Department of Revenue, Find a County Official directory",
+   "url": "https://floridarevenue.com/property/_api/web/lists/GetByTitle('Counties')/items?$SELECT=Title,PALink,TCLink,VABLink&$orderby=Title&$top=100",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "appraiser_site": [
+     {
+      "source": "Florida Department of Revenue, Find a County Official directory",
+      "url": "https://floridarevenue.com/property/_api/web/lists/GetByTitle('Counties')/items?$SELECT=Title,PALink,TCLink,VABLink&$orderby=Title&$top=100"
+     }
+    ],
+    "tax_collector_site": [
+     {
+      "source": "Florida Department of Revenue, Find a County Official directory",
+      "url": "https://floridarevenue.com/property/_api/web/lists/GetByTitle('Counties')/items?$SELECT=Title,PALink,TCLink,VABLink&$orderby=Title&$top=100"
+     }
+    ],
+    "clerk_records_search": [
+     {
+      "source": "St. Johns official clerk source",
+      "url": "https://stjohnsclerk.com/vab/"
+     }
+    ],
+    "clerk_redaction_route": [
+     {
+      "source": "St. Johns official clerk source",
+      "url": "https://stjohnsclerk.com/vab/"
+     }
+    ],
+    "elections_confidentiality_route": [
+     {
+      "source": "St. Johns official elections source",
+      "url": "https://www.votesjc.gov/public-records-requests"
+     }
+    ],
+    "public_records_request_route": [
+     {
+      "source": "Public Records Request - Saint Johns County Property Appraiser",
+      "url": "https://www.sjcpa.gov/public-records-request/"
+     }
+    ],
+    "public_records_request_email": [
+     {
+      "source": "Public Records Request - Saint Johns County Property Appraiser",
+      "url": "https://www.sjcpa.gov/public-records-request/"
+     }
+    ]
+   }
+  },
+  {
+   "id": "st-lucie",
+   "county": "St. Lucie",
+   "appraiser_site": "http://www.paslc.org/",
+   "owner_name_search": "",
+   "owner_mailing_address": "",
+   "appraiser_confidentiality_form": "https://www.paslc.gov/DocumentCenter/View/291/Confidentiality-Request-Form-PDF",
+   "form_revision": "Rev. 07/25",
+   "notarized": "The published county form includes a notary requirement or acknowledgment.",
+   "submission_method": "",
+   "trust_display": "",
+   "clerk_records_search": "",
+   "clerk_redaction_route": "",
+   "tax_collector_site": "http://www.tcslc.com/",
+   "tax_collector_confidentiality_route": "",
+   "elections_confidentiality_route": "",
+   "public_records_request_route": "https://www.paslc.gov/DocumentCenter/View/291/Confidentiality-Request-Form-PDF",
+   "public_records_request_email": "",
+   "source": "Florida Department of Revenue, Find a County Official directory",
+   "url": "https://floridarevenue.com/property/_api/web/lists/GetByTitle('Counties')/items?$SELECT=Title,PALink,TCLink,VABLink&$orderby=Title&$top=100",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "appraiser_site": [
+     {
+      "source": "Florida Department of Revenue, Find a County Official directory",
+      "url": "https://floridarevenue.com/property/_api/web/lists/GetByTitle('Counties')/items?$SELECT=Title,PALink,TCLink,VABLink&$orderby=Title&$top=100"
+     }
+    ],
+    "tax_collector_site": [
+     {
+      "source": "Florida Department of Revenue, Find a County Official directory",
+      "url": "https://floridarevenue.com/property/_api/web/lists/GetByTitle('Counties')/items?$SELECT=Title,PALink,TCLink,VABLink&$orderby=Title&$top=100"
+     }
+    ],
+    "appraiser_confidentiality_form": [
+     {
+      "source": "Confidentiality Request Form",
+      "url": "https://www.paslc.gov/DocumentCenter/View/291/Confidentiality-Request-Form-PDF"
+     }
+    ],
+    "form_revision": [
+     {
+      "source": "Confidentiality Request Form",
+      "url": "https://www.paslc.gov/DocumentCenter/View/291/Confidentiality-Request-Form-PDF"
+     }
+    ],
+    "notarized": [
+     {
+      "source": "Confidentiality Request Form",
+      "url": "https://www.paslc.gov/DocumentCenter/View/291/Confidentiality-Request-Form-PDF"
+     }
+    ],
+    "public_records_request_route": [
+     {
+      "source": "Confidentiality Request Form",
+      "url": "https://www.paslc.gov/DocumentCenter/View/291/Confidentiality-Request-Form-PDF"
+     }
+    ]
+   }
+  },
+  {
+   "id": "sumter",
+   "county": "Sumter",
+   "appraiser_site": "http://www.SumterPA.com",
+   "owner_name_search": "",
+   "owner_mailing_address": "",
+   "appraiser_confidentiality_form": "https://www.sumterpa.com/wp-content/uploads/2026/05/Request-for-Exemption-from-Public-Records-Disclosure.pdf",
+   "form_revision": "",
+   "notarized": "The published county form includes a notary requirement or acknowledgment.",
+   "submission_method": "",
+   "trust_display": "",
+   "clerk_records_search": "https://www.sumterclerk.com/public-records/official-records/search-official-records-online/",
+   "clerk_redaction_route": "https://www.sumterclerk.com/forms/#redaction",
+   "tax_collector_site": "http://www.sumtertaxcollector.com/",
+   "tax_collector_confidentiality_route": "",
+   "elections_confidentiality_route": "",
+   "public_records_request_route": "https://www.sumterpa.com/wp-content/uploads/2024/05/Public-Records-Request-General-Posting-for-public-display-and-for-website2.0.pdf",
+   "public_records_request_email": "finance.propertyappraiser@sumtercountyfl.gov",
+   "source": "Florida Department of Revenue, Find a County Official directory",
+   "url": "https://floridarevenue.com/property/_api/web/lists/GetByTitle('Counties')/items?$SELECT=Title,PALink,TCLink,VABLink&$orderby=Title&$top=100",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "appraiser_site": [
+     {
+      "source": "Florida Department of Revenue, Find a County Official directory",
+      "url": "https://floridarevenue.com/property/_api/web/lists/GetByTitle('Counties')/items?$SELECT=Title,PALink,TCLink,VABLink&$orderby=Title&$top=100"
+     }
+    ],
+    "tax_collector_site": [
+     {
+      "source": "Florida Department of Revenue, Find a County Official directory",
+      "url": "https://floridarevenue.com/property/_api/web/lists/GetByTitle('Counties')/items?$SELECT=Title,PALink,TCLink,VABLink&$orderby=Title&$top=100"
+     }
+    ],
+    "public_records_request_route": [
+     {
+      "source": "Sumter official appraiser source",
+      "url": "https://www.sumterpa.com/wp-content/uploads/2024/05/Public-Records-Request-General-Posting-for-public-display-and-for-website2.0.pdf"
+     }
+    ],
+    "public_records_request_email": [
+     {
+      "source": "Sumter County Property Appraiser, public records request information",
+      "url": "https://www.sumterpa.com/wp-content/uploads/2024/05/Public-Records-Request-General-Posting-for-public-display-and-for-website2.0.pdf"
+     }
+    ],
+    "appraiser_confidentiality_form": [
+     {
+      "source": "Sumter official appraiser source",
+      "url": "https://www.sumterpa.com/wp-content/uploads/2026/05/Request-for-Exemption-from-Public-Records-Disclosure.pdf"
+     }
+    ],
+    "notarized": [
+     {
+      "source": "Sumter official appraiser source",
+      "url": "https://www.sumterpa.com/wp-content/uploads/2026/05/Request-for-Exemption-from-Public-Records-Disclosure.pdf"
+     }
+    ],
+    "clerk_records_search": [
+     {
+      "source": "Sumter official clerk source",
+      "url": "https://www.sumterclerk.com/public-records/"
+     }
+    ],
+    "clerk_redaction_route": [
+     {
+      "source": "Sumter official clerk source",
+      "url": "https://www.sumterclerk.com/index.cfm/value-adjustment-board"
+     }
+    ]
+   }
+  },
+  {
+   "id": "suwannee",
+   "county": "Suwannee",
+   "appraiser_site": "http://www.suwanneepa.com/",
+   "owner_name_search": "",
+   "owner_mailing_address": "",
+   "appraiser_confidentiality_form": "",
+   "form_revision": "",
+   "notarized": "",
+   "submission_method": "",
+   "trust_display": "",
+   "clerk_records_search": "https://www.myfloridacounty.com/orisearch/61",
+   "clerk_redaction_route": "https://www.suwgov.org/wp-content/uploads/Form-Request-for-Redaction-of-Exempt-Personal-Information-2021-10-19.pdf",
+   "tax_collector_site": "https://suwtax.com/",
+   "tax_collector_confidentiality_route": "",
+   "elections_confidentiality_route": "https://files.floridados.gov/media/695507/public-records-exemption-formdos-119.pdf",
+   "public_records_request_route": "https://www.suwanneepa.com/Records_Request/",
+   "public_records_request_email": "sue.roberts@suwanneepa.com",
+   "source": "Florida Department of Revenue, Find a County Official directory",
+   "url": "https://floridarevenue.com/property/_api/web/lists/GetByTitle('Counties')/items?$SELECT=Title,PALink,TCLink,VABLink&$orderby=Title&$top=100",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "appraiser_site": [
+     {
+      "source": "Florida Department of Revenue, Find a County Official directory",
+      "url": "https://floridarevenue.com/property/_api/web/lists/GetByTitle('Counties')/items?$SELECT=Title,PALink,TCLink,VABLink&$orderby=Title&$top=100"
+     }
+    ],
+    "tax_collector_site": [
+     {
+      "source": "Florida Department of Revenue, Find a County Official directory",
+      "url": "https://floridarevenue.com/property/_api/web/lists/GetByTitle('Counties')/items?$SELECT=Title,PALink,TCLink,VABLink&$orderby=Title&$top=100"
+     }
+    ],
+    "public_records_request_route": [
+     {
+      "source": "Suwannee official appraiser source",
+      "url": "https://www.suwanneepa.com/Records_Request/"
+     }
+    ],
+    "clerk_records_search": [
+     {
+      "source": "Suwannee official clerk source",
+      "url": "https://suwgov.org/index.php/value/"
+     }
+    ],
+    "clerk_redaction_route": [
+     {
+      "source": "Suwannee official clerk source",
+      "url": "https://suwgov.org/index.php/value/"
+     }
+    ],
+    "elections_confidentiality_route": [
+     {
+      "source": "Suwannee official elections source",
+      "url": "https://www.suwanneevotes.com"
+     }
+    ],
+    "public_records_request_email": [
+     {
+      "source": "Suwannee official appraiser source",
+      "url": "https://www.suwanneepa.com/Records_Request/"
+     }
+    ]
+   }
+  },
+  {
+   "id": "taylor",
+   "county": "Taylor",
+   "appraiser_site": "https://qpublic.net/fl/taylor/",
+   "owner_name_search": "",
+   "owner_mailing_address": "",
+   "appraiser_confidentiality_form": "",
+   "form_revision": "",
+   "notarized": "",
+   "submission_method": "",
+   "trust_display": "",
+   "clerk_records_search": "",
+   "clerk_redaction_route": "",
+   "tax_collector_site": "http://www.taylorcountytaxcollector.com/",
+   "tax_collector_confidentiality_route": "",
+   "elections_confidentiality_route": "",
+   "public_records_request_route": "https://qpublic.net/fl/taylor/contact.html",
+   "public_records_request_email": "",
+   "source": "Florida Department of Revenue, Find a County Official directory",
+   "url": "https://floridarevenue.com/property/_api/web/lists/GetByTitle('Counties')/items?$SELECT=Title,PALink,TCLink,VABLink&$orderby=Title&$top=100",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "appraiser_site": [
+     {
+      "source": "Florida Department of Revenue, Find a County Official directory",
+      "url": "https://floridarevenue.com/property/_api/web/lists/GetByTitle('Counties')/items?$SELECT=Title,PALink,TCLink,VABLink&$orderby=Title&$top=100"
+     }
+    ],
+    "tax_collector_site": [
+     {
+      "source": "Florida Department of Revenue, Find a County Official directory",
+      "url": "https://floridarevenue.com/property/_api/web/lists/GetByTitle('Counties')/items?$SELECT=Title,PALink,TCLink,VABLink&$orderby=Title&$top=100"
+     }
+    ],
+    "public_records_request_route": [
+     {
+      "source": "Taylor official appraiser source",
+      "url": "https://qpublic.net/fl/taylor/contact.html"
+     }
+    ]
+   }
+  },
+  {
+   "id": "union",
+   "county": "Union",
+   "appraiser_site": "http://union.floridapa.com",
+   "owner_name_search": "",
+   "owner_mailing_address": "",
+   "appraiser_confidentiality_form": "",
+   "form_revision": "",
+   "notarized": "",
+   "submission_method": "",
+   "trust_display": "",
+   "clerk_records_search": "",
+   "clerk_redaction_route": "",
+   "tax_collector_site": "https://unioncountytc.com/#:~:text=Union%20County%20Tax%20Collector,%20Florida.%20Lisa%20B.%20Johnson",
+   "tax_collector_confidentiality_route": "",
+   "elections_confidentiality_route": "",
+   "public_records_request_route": "https://union.floridapa.com/Records_Request/",
+   "public_records_request_email": "benita@unionflpa.gov",
+   "source": "Florida Department of Revenue, Find a County Official directory",
+   "url": "https://floridarevenue.com/property/_api/web/lists/GetByTitle('Counties')/items?$SELECT=Title,PALink,TCLink,VABLink&$orderby=Title&$top=100",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "appraiser_site": [
+     {
+      "source": "Florida Department of Revenue, Find a County Official directory",
+      "url": "https://floridarevenue.com/property/_api/web/lists/GetByTitle('Counties')/items?$SELECT=Title,PALink,TCLink,VABLink&$orderby=Title&$top=100"
+     }
+    ],
+    "tax_collector_site": [
+     {
+      "source": "Florida Department of Revenue, Find a County Official directory",
+      "url": "https://floridarevenue.com/property/_api/web/lists/GetByTitle('Counties')/items?$SELECT=Title,PALink,TCLink,VABLink&$orderby=Title&$top=100"
+     }
+    ],
+    "public_records_request_route": [
+     {
+      "source": "Union official appraiser source",
+      "url": "https://union.floridapa.com/Records_Request/"
+     }
+    ],
+    "public_records_request_email": [
+     {
+      "source": "Union official appraiser source",
+      "url": "https://union.floridapa.com/Records_Request/"
+     }
+    ]
+   }
+  },
+  {
+   "id": "volusia",
+   "county": "Volusia",
+   "appraiser_site": "https://vcpa.vcgov.org/#gsc.tab=0",
+   "owner_name_search": "",
+   "owner_mailing_address": "",
+   "appraiser_confidentiality_form": "",
+   "form_revision": "",
+   "notarized": "",
+   "submission_method": "",
+   "trust_display": "",
+   "clerk_records_search": "",
+   "clerk_redaction_route": "",
+   "tax_collector_site": "http://www.vctaxcollector.org",
+   "tax_collector_confidentiality_route": "",
+   "elections_confidentiality_route": "https://www.volusiaelections.gov/elections/public-records-exemption.stml",
+   "public_records_request_route": "https://vcpa.vcgov.org/info/ada",
+   "public_records_request_email": "",
+   "source": "Florida Department of Revenue, Find a County Official directory",
+   "url": "https://floridarevenue.com/property/_api/web/lists/GetByTitle('Counties')/items?$SELECT=Title,PALink,TCLink,VABLink&$orderby=Title&$top=100",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "appraiser_site": [
+     {
+      "source": "Florida Department of Revenue, Find a County Official directory",
+      "url": "https://floridarevenue.com/property/_api/web/lists/GetByTitle('Counties')/items?$SELECT=Title,PALink,TCLink,VABLink&$orderby=Title&$top=100"
+     }
+    ],
+    "tax_collector_site": [
+     {
+      "source": "Florida Department of Revenue, Find a County Official directory",
+      "url": "https://floridarevenue.com/property/_api/web/lists/GetByTitle('Counties')/items?$SELECT=Title,PALink,TCLink,VABLink&$orderby=Title&$top=100"
+     }
+    ],
+    "elections_confidentiality_route": [
+     {
+      "source": "Volusia official elections source",
+      "url": "https://VolusiaElections.gov"
+     }
+    ],
+    "public_records_request_route": [
+     {
+      "source": "ADA Notice | Volusia County Property Appraiser's Office",
+      "url": "https://vcpa.vcgov.org/info/ada"
+     }
+    ]
+   }
+  },
+  {
+   "id": "wakulla",
+   "county": "Wakulla",
+   "appraiser_site": "https://mywakullapa.com/",
+   "owner_name_search": "",
+   "owner_mailing_address": "",
+   "appraiser_confidentiality_form": "https://mywakullapa.com/wp-content/uploads/sites/64/2025/06/PA-119-Wakulla-Confidentiality-Request.pdf",
+   "form_revision": "",
+   "notarized": "The published county form includes a notary requirement or acknowledgment.",
+   "submission_method": "",
+   "trust_display": "",
+   "clerk_records_search": "",
+   "clerk_redaction_route": "",
+   "tax_collector_site": "http://www.wakullacountytaxcollector.com/",
+   "tax_collector_confidentiality_route": "",
+   "elections_confidentiality_route": "",
+   "public_records_request_route": "https://mywakullapa.com/public-records-request/",
+   "public_records_request_email": "",
+   "source": "Florida Department of Revenue, Find a County Official directory",
+   "url": "https://floridarevenue.com/property/_api/web/lists/GetByTitle('Counties')/items?$SELECT=Title,PALink,TCLink,VABLink&$orderby=Title&$top=100",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "appraiser_site": [
+     {
+      "source": "Florida Department of Revenue, Find a County Official directory",
+      "url": "https://floridarevenue.com/property/_api/web/lists/GetByTitle('Counties')/items?$SELECT=Title,PALink,TCLink,VABLink&$orderby=Title&$top=100"
+     }
+    ],
+    "tax_collector_site": [
+     {
+      "source": "Florida Department of Revenue, Find a County Official directory",
+      "url": "https://floridarevenue.com/property/_api/web/lists/GetByTitle('Counties')/items?$SELECT=Title,PALink,TCLink,VABLink&$orderby=Title&$top=100"
+     }
+    ],
+    "appraiser_confidentiality_form": [
+     {
+      "source": "Donnie R. Sparkman",
+      "url": "https://mywakullapa.com/wp-content/uploads/sites/64/2025/06/PA-119-Wakulla-Confidentiality-Request.pdf"
+     }
+    ],
+    "notarized": [
+     {
+      "source": "Donnie R. Sparkman",
+      "url": "https://mywakullapa.com/wp-content/uploads/sites/64/2025/06/PA-119-Wakulla-Confidentiality-Request.pdf"
+     }
+    ],
+    "public_records_request_route": [
+     {
+      "source": "Public Records Request – Wakulla County Property Appraiser",
+      "url": "https://mywakullapa.com/public-records-request/"
+     }
+    ]
+   }
+  },
+  {
+   "id": "walton",
+   "county": "Walton",
+   "appraiser_site": "http://www.waltonpa.com/",
+   "owner_name_search": "",
+   "owner_mailing_address": "",
+   "appraiser_confidentiality_form": "https://waltonpa.com/wp-content/uploads/sites/52/2021/12/WCPA-Confidentiality-Request-Form.pdf",
+   "form_revision": "PA-119 Rev. 12/21. Current office confirmation of this older form remains needed.",
+   "notarized": "The published 2021 PDF includes a physical-presence or online-notarization acknowledgment.",
+   "submission_method": "PDF says reply to Main Office, 571 US HWY 90 East, DeFuniak Springs FL 32433, or South Annex, 31 Coastal Centre Blvd Suite 600, Santa Rosa Beach FL 32459.",
+   "trust_display": "",
+   "clerk_records_search": "https://kofilequicklinks.com/waltonfl/",
+   "clerk_redaction_route": "https://waltonclerkfl.gov/uploads/dm/4578/Request_for_Redaction_of_Exempt_Personal_Information",
+   "tax_collector_site": "http://www.waltontaxcollector.com/",
+   "tax_collector_confidentiality_route": "",
+   "elections_confidentiality_route": "",
+   "public_records_request_route": "https://waltonpa.com/wp-content/uploads/sites/52/2021/12/WCPA-Confidentiality-Request-Form.pdf",
+   "public_records_request_email": "",
+   "source": "Florida Department of Revenue, Find a County Official directory",
+   "url": "https://floridarevenue.com/property/_api/web/lists/GetByTitle('Counties')/items?$SELECT=Title,PALink,TCLink,VABLink&$orderby=Title&$top=100",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "appraiser_site": [
+     {
+      "source": "Florida Department of Revenue, Find a County Official directory",
+      "url": "https://floridarevenue.com/property/_api/web/lists/GetByTitle('Counties')/items?$SELECT=Title,PALink,TCLink,VABLink&$orderby=Title&$top=100"
+     }
+    ],
+    "tax_collector_site": [
+     {
+      "source": "Florida Department of Revenue, Find a County Official directory",
+      "url": "https://floridarevenue.com/property/_api/web/lists/GetByTitle('Counties')/items?$SELECT=Title,PALink,TCLink,VABLink&$orderby=Title&$top=100"
+     }
+    ],
+    "appraiser_confidentiality_form": [
+     {
+      "source": "Walton appraiser official source",
+      "url": "https://waltonpa.com/wp-content/uploads/sites/52/2021/12/WCPA-Confidentiality-Request-Form.pdf"
+     }
+    ],
+    "form_revision": [
+     {
+      "source": "Walton appraiser official source",
+      "url": "https://waltonpa.com/wp-content/uploads/sites/52/2021/12/WCPA-Confidentiality-Request-Form.pdf"
+     }
+    ],
+    "notarized": [
+     {
+      "source": "Walton appraiser official source",
+      "url": "https://waltonpa.com/wp-content/uploads/sites/52/2021/12/WCPA-Confidentiality-Request-Form.pdf"
+     }
+    ],
+    "submission_method": [
+     {
+      "source": "Walton appraiser official source",
+      "url": "https://waltonpa.com/wp-content/uploads/sites/52/2021/12/WCPA-Confidentiality-Request-Form.pdf"
+     }
+    ],
+    "employment_evidence": [
+     {
+      "source": "Walton appraiser official source",
+      "url": "https://waltonpa.com/wp-content/uploads/sites/52/2021/12/WCPA-Confidentiality-Request-Form.pdf"
+     }
+    ],
+    "clerk_redaction_route": [
+     {
+      "source": "Walton clerk official source",
+      "url": "https://waltonclerkfl.gov/clerkforms"
+     }
+    ],
+    "clerk_submission": [
+     {
+      "source": "Walton clerk official source",
+      "url": "https://waltonclerkfl.gov/uploads/dm/4578/Request_for_Redaction_of_Exempt_Personal_Information"
+     }
+    ],
+    "clerk_index_limit": [
+     {
+      "source": "Walton clerk official source",
+      "url": "https://waltonclerkfl.gov/uploads/dm/4578/Request_for_Redaction_of_Exempt_Personal_Information"
+     }
+    ],
+    "clerk_records_search": [
+     {
+      "source": "Walton official clerk source",
+      "url": "https://waltonclerk.com/vab"
+     }
+    ],
+    "public_records_request_route": [
+     {
+      "source": "PASLC",
+      "url": "https://waltonpa.com/wp-content/uploads/sites/52/2021/12/WCPA-Confidentiality-Request-Form.pdf"
+     }
+    ]
+   }
+  },
+  {
+   "id": "washington",
+   "county": "Washington",
+   "appraiser_site": "http://www.qpublic.net/washington/",
+   "owner_name_search": "",
+   "owner_mailing_address": "",
+   "appraiser_confidentiality_form": "",
+   "form_revision": "",
+   "notarized": "",
+   "submission_method": "",
+   "trust_display": "",
+   "clerk_records_search": "",
+   "clerk_redaction_route": "https://www.washingtonclerk.com/uploads/2026/09/Request-for-Redaction-of-Exempt-Information-From-Non-Judicial-Public-Records.pdf",
+   "tax_collector_site": "http://www.washingtoncountytaxcollector.com/",
+   "tax_collector_confidentiality_route": "",
+   "elections_confidentiality_route": "",
+   "public_records_request_route": "https://www.qpublic.net/fl/washington/contact.html",
+   "public_records_request_email": "",
+   "source": "Florida Department of Revenue, Find a County Official directory",
+   "url": "https://floridarevenue.com/property/_api/web/lists/GetByTitle('Counties')/items?$SELECT=Title,PALink,TCLink,VABLink&$orderby=Title&$top=100",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "appraiser_site": [
+     {
+      "source": "Florida Department of Revenue, Find a County Official directory",
+      "url": "https://floridarevenue.com/property/_api/web/lists/GetByTitle('Counties')/items?$SELECT=Title,PALink,TCLink,VABLink&$orderby=Title&$top=100"
+     }
+    ],
+    "tax_collector_site": [
+     {
+      "source": "Florida Department of Revenue, Find a County Official directory",
+      "url": "https://floridarevenue.com/property/_api/web/lists/GetByTitle('Counties')/items?$SELECT=Title,PALink,TCLink,VABLink&$orderby=Title&$top=100"
+     }
+    ],
+    "clerk_redaction_route": [
+     {
+      "source": "Washington official clerk source",
+      "url": "https://www.washingtonclerk.com/additional-information/value-adjustment-board/"
+     }
+    ],
+    "public_records_request_route": [
+     {
+      "source": "Washington official appraiser source",
+      "url": "https://www.qpublic.net/fl/washington/contact.html"
+     }
+    ]
+   }
+  }
+ ]
+}

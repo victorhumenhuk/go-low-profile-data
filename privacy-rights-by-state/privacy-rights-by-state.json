@@ -1,0 +1,2628 @@
+{
+ "id": "privacy-rights-by-state",
+ "name": "Household privacy rights by state",
+ "description": "Official-source findings for all 51 jurisdictions. Each supported field has an exact retained quote. Unresolved cells do not imply that a law or right is absent.",
+ "scope": "All 50 states and DC. Source-supported consumer privacy provisions, operative and future dates, agency rules and reviewed narrow protections. Unresolved fields do not establish that a right is absent.",
+ "version": "1.1",
+ "published": "2026-10-24",
+ "verified": "2026-10-24",
+ "update_policy": "Recheck official routes quarterly. Record corrections in the changelog. Legal fields require separate statutory review.",
+ "columns": [
+  {
+   "key": "state",
+   "label": "Jurisdiction"
+  },
+  {
+   "key": "law",
+   "label": "Law"
+  },
+  {
+   "key": "citation",
+   "label": "Citation"
+  },
+  {
+   "key": "effective_date",
+   "label": "Effective date"
+  },
+  {
+   "key": "right_to_delete",
+   "label": "Right to delete"
+  },
+  {
+   "key": "opt_out_sale_sharing",
+   "label": "Opt out sale sharing"
+  },
+  {
+   "key": "global_privacy_signal",
+   "label": "Global privacy signal"
+  },
+  {
+   "key": "authorized_agent",
+   "label": "Authorized agent"
+  },
+  {
+   "key": "agent_proof",
+   "label": "Agent proof"
+  },
+  {
+   "key": "publicly_available_exemption",
+   "label": "Publicly available exemption"
+  },
+  {
+   "key": "broker_registry",
+   "label": "Broker registry"
+  },
+  {
+   "key": "state_deletion_platform",
+   "label": "State deletion platform"
+  },
+  {
+   "key": "narrow_protection",
+   "label": "Other protection established by this review"
+  }
+ ],
+ "changelog": [
+  {
+   "date": "2026-10-24",
+   "change": "Initial source audit. Program contact routes and legal eligibility remain separate."
+  },
+  {
+   "date": "2026-10-24",
+   "change": "Reviewed all 51 jurisdiction entries. Added current primary-source rights, agent rules, dated phases and explicit limits. Unknown cells are not findings of no protection."
+  }
+ ],
+ "license": "https://creativecommons.org/licenses/by/4.0/",
+ "rows": [
+  {
+   "id": "alabama",
+   "state": "Alabama",
+   "law": "Alabama Personal Data Protection Act. Enacted rights begin May 1, 2027.",
+   "citation": "Alabama Code chapter 8-44; Act 2026-552.",
+   "effective_date": "May 1, 2027. Enacted future law.",
+   "right_to_delete": "Covered right to delete personal data concerning the consumer. Statutory exceptions and compliance alternatives apply. This right begins May 1, 2027.",
+   "opt_out_sale_sharing": "Covered opt-outs for targeted advertising, sale and qualifying profiling. The profiling provision specifies solely automated decisions with legal or similarly significant effects. These rights begin May 1, 2027.",
+   "global_privacy_signal": "Not determined within the reviewed source scope.",
+   "authorized_agent": "The enacted section permits a known child's parent or legal guardian, or a consumer's guardian or conservator, to exercise the listed opt-outs. This finding does not establish a general adult-agent procedure. The provision begins May 1, 2027.",
+   "agent_proof": "The enacted provision requires commercially reasonable authentication of consumer requests and permits necessary additional information. Its opt-out fraud qualification is separate. The provision begins May 1, 2027.",
+   "publicly_available_exemption": "The enacted definition includes specified government records, widely distributed media and information the controller reasonably believes the consumer made public. Consumer-rights provisions begin May 1, 2027.",
+   "broker_registry": "Not determined within the reviewed source scope.",
+   "state_deletion_platform": "Not determined within the reviewed source scope.",
+   "narrow_protection": "Not determined within the reviewed source scope.",
+   "source": "alison.legislature.state.al.us",
+   "url": "https://alison.legislature.state.al.us/code-of-alabama?section=8-44-3",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "law": [
+     {
+      "source": "alison.legislature.state.al.us",
+      "url": "https://alison.legislature.state.al.us/code-of-alabama?section=8-44-3"
+     }
+    ],
+    "effective_date": [
+     {
+      "source": "alison.legislature.state.al.us",
+      "url": "https://alison.legislature.state.al.us/code-of-alabama?section=8-44-3"
+     }
+    ],
+    "right_to_delete": [
+     {
+      "source": "alison.legislature.state.al.us",
+      "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2026RS/HB351-enr.pdf"
+     }
+    ],
+    "opt_out_sale_sharing": [
+     {
+      "source": "alison.legislature.state.al.us",
+      "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2026RS/HB351-enr.pdf"
+     }
+    ],
+    "authorized_agent": [
+     {
+      "source": "alison.legislature.state.al.us",
+      "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2026RS/HB351-enr.pdf"
+     }
+    ],
+    "publicly_available_exemption": [
+     {
+      "source": "alison.legislature.state.al.us",
+      "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2026RS/HB351-enr.pdf"
+     }
+    ],
+    "citation": [
+     {
+      "source": "alison.legislature.state.al.us",
+      "url": "https://alison.legislature.state.al.us/code-of-alabama?section=8-44-3"
+     }
+    ],
+    "agent_proof": [
+     {
+      "source": "alison.legislature.state.al.us",
+      "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2026RS/HB351-enr.pdf"
+     }
+    ]
+   }
+  },
+  {
+   "id": "alaska",
+   "state": "Alaska",
+   "law": "Not determined within the reviewed source scope.",
+   "citation": "Not determined within the reviewed source scope.",
+   "effective_date": "Not determined within the reviewed source scope.",
+   "right_to_delete": "Not determined within the reviewed source scope.",
+   "opt_out_sale_sharing": "Not determined within the reviewed source scope.",
+   "global_privacy_signal": "Not determined within the reviewed source scope.",
+   "authorized_agent": "Not determined within the reviewed source scope.",
+   "agent_proof": "Not determined within the reviewed source scope.",
+   "publicly_available_exemption": "Not determined within the reviewed source scope.",
+   "broker_registry": "Not determined within the reviewed source scope.",
+   "state_deletion_platform": "Not determined within the reviewed source scope.",
+   "narrow_protection": "The Alaska Attorney General lists the Alaska Personal Information Protection Act, AS45.48.010-.090. This is a security-breach source, not an omnibus-rights determination.",
+   "source": "law.alaska.gov",
+   "url": "https://law.alaska.gov/consumer/laws.html",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "narrow_protection": [
+     {
+      "source": "law.alaska.gov",
+      "url": "https://law.alaska.gov/consumer/laws.html"
+     }
+    ]
+   }
+  },
+  {
+   "id": "arizona",
+   "state": "Arizona",
+   "law": "Not determined within the reviewed source scope.",
+   "citation": "Not determined within the reviewed source scope.",
+   "effective_date": "Not determined within the reviewed source scope.",
+   "right_to_delete": "Not determined within the reviewed source scope.",
+   "opt_out_sale_sharing": "Not determined within the reviewed source scope.",
+   "global_privacy_signal": "Not determined within the reviewed source scope.",
+   "authorized_agent": "Not determined within the reviewed source scope.",
+   "agent_proof": "Not determined within the reviewed source scope.",
+   "publicly_available_exemption": "Not determined within the reviewed source scope.",
+   "broker_registry": "Not determined within the reviewed source scope.",
+   "state_deletion_platform": "Not determined within the reviewed source scope.",
+   "narrow_protection": "The reviewed Arizona statute addresses investigation and notification of security-system breaches. It is not a general broker-deletion rule.",
+   "source": "www.azleg.gov",
+   "url": "https://www.azleg.gov/viewdocument/?docName=https%3A%2F%2Fwww.azleg.gov%2Fars%2F18%2F00552.htm",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "narrow_protection": [
+     {
+      "source": "www.azleg.gov",
+      "url": "https://www.azleg.gov/viewdocument/?docName=https%3A%2F%2Fwww.azleg.gov%2Fars%2F18%2F00552.htm"
+     }
+    ]
+   }
+  },
+  {
+   "id": "arkansas",
+   "state": "Arkansas",
+   "law": "Not determined within the reviewed source scope.",
+   "citation": "Not determined within the reviewed source scope.",
+   "effective_date": "Not determined within the reviewed source scope.",
+   "right_to_delete": "Not determined within the reviewed source scope.",
+   "opt_out_sale_sharing": "Not determined within the reviewed source scope.",
+   "global_privacy_signal": "Not determined within the reviewed source scope.",
+   "authorized_agent": "Not determined within the reviewed source scope.",
+   "agent_proof": "Not determined within the reviewed source scope.",
+   "publicly_available_exemption": "Not determined within the reviewed source scope.",
+   "broker_registry": "Not determined within the reviewed source scope.",
+   "state_deletion_platform": "Not determined within the reviewed source scope.",
+   "narrow_protection": "Arkansas's official guidance requires reasonable security practices and notice to affected individuals. The Attorney General receives qualifying breach reports.",
+   "source": "arkansasag.gov",
+   "url": "https://arkansasag.gov/divisions/public-protection/identity/security-or-data-breach/",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "narrow_protection": [
+     {
+      "source": "arkansasag.gov",
+      "url": "https://arkansasag.gov/divisions/public-protection/identity/security-or-data-breach/"
+     }
+    ]
+   }
+  },
+  {
+   "id": "california",
+   "state": "California",
+   "law": "California Consumer Privacy Act, as amended by the California Privacy Rights Act.",
+   "citation": "California Civil Code sections 1798.100 through 1798.199.100; 11 CCR section 7063 for the cited agent rule.",
+   "effective_date": "January 1, 2023 for CPRA amendments. This is not the CCPA original enactment date.",
+   "right_to_delete": "Covered right to request deletion of personal information, subject to CCPA exceptions and verification requirements.",
+   "opt_out_sale_sharing": "Covered opt-out of sale and sharing for cross-context behavioral advertising.",
+   "global_privacy_signal": "Covered businesses must honor qualifying opt-out preference signals",
+   "authorized_agent": "California regulations permit an authorized agent to submit deletion, correction and knowledge requests under section 7063. Other request types have their own rules.",
+   "agent_proof": "For deletion, correction and knowledge requests, the business may require signed permission and direct consumer identity verification or direct confirmation of permission. The power-of-attorney exception applies, but a business cannot require a power of attorney merely to use an agent.",
+   "publicly_available_exemption": "Personal information excludes publicly available information",
+   "broker_registry": "CalPrivacy publishes an annual Data Broker Registry. The current registry covers businesses reporting 2025 activities. The dynamic page display does not establish an independently verified broker count.",
+   "state_deletion_platform": "DROP accepts eligible California residents' broker-deletion requests. Broker processing began August 1, 2026. Brokers must access it at least every 45 days, and status updates can take up to 90 days.",
+   "narrow_protection": "Not determined within the reviewed source scope.",
+   "source": "California Privacy Protection Agency FAQs",
+   "url": "https://cppa.ca.gov/faq",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "law": [
+     {
+      "source": "California Privacy Protection Agency FAQs",
+      "url": "https://cppa.ca.gov/faq"
+     }
+    ],
+    "effective_date": [
+     {
+      "source": "California Privacy Protection Agency FAQs",
+      "url": "https://cppa.ca.gov/faq"
+     }
+    ],
+    "right_to_delete": [
+     {
+      "source": "California Privacy Protection Agency FAQs",
+      "url": "https://cppa.ca.gov/faq"
+     }
+    ],
+    "opt_out_sale_sharing": [
+     {
+      "source": "California Privacy Protection Agency FAQs",
+      "url": "https://cppa.ca.gov/faq"
+     }
+    ],
+    "global_privacy_signal": [
+     {
+      "source": "California Privacy Protection Agency FAQs",
+      "url": "https://cppa.ca.gov/faq"
+     }
+    ],
+    "publicly_available_exemption": [
+     {
+      "source": "California Privacy Protection Agency FAQs",
+      "url": "https://cppa.ca.gov/faq"
+     }
+    ],
+    "authorized_agent": [
+     {
+      "source": "cppa.ca.gov",
+      "url": "https://cppa.ca.gov/regulations/pdf/ccpa_statute_eff_20260101.pdf"
+     }
+    ],
+    "agent_proof": [
+     {
+      "source": "cppa.ca.gov",
+      "url": "https://cppa.ca.gov/regulations/pdf/ccpa_statute_eff_20260101.pdf"
+     }
+    ],
+    "state_deletion_platform": [
+     {
+      "source": "privacy.ca.gov",
+      "url": "https://privacy.ca.gov/drop/"
+     }
+    ],
+    "broker_registry": [
+     {
+      "source": "cppa.ca.gov",
+      "url": "https://cppa.ca.gov/data_broker_registry/"
+     }
+    ],
+    "citation": [
+     {
+      "source": "California Privacy Protection Agency FAQs",
+      "url": "https://cppa.ca.gov/faq"
+     }
+    ]
+   }
+  },
+  {
+   "id": "colorado",
+   "state": "Colorado",
+   "law": "Colorado Privacy Act.",
+   "citation": "Colorado Revised Statutes sections 6-1-1301 through 6-1-1314.",
+   "effective_date": "July 1, 2023. The universal opt-out requirement began July 1, 2024.",
+   "right_to_delete": "Covered right to delete personal data concerning the consumer. Statutory exceptions and compliance alternatives apply.",
+   "opt_out_sale_sharing": "Covered opt-outs for targeted advertising, sale and qualifying profiling. The statutory profiling definition and exceptions apply.",
+   "global_privacy_signal": "Covered controllers must honor qualifying opt-out mechanisms or signals beginning July 1, 2024. Technical, consent and statutory conditions apply.",
+   "authorized_agent": "A consumer may designate another person to exercise the statutory opt-outs. This finding does not establish an agent right to exercise every consumer request.",
+   "agent_proof": "The controller must be able to verify or authenticate identity and the agent's authority with commercially reasonable effort.",
+   "publicly_available_exemption": "Personal data excludes publicly available information. The definition includes specified government records and information the controller reasonably believes the consumer made public.",
+   "broker_registry": "Not determined within the reviewed source scope.",
+   "state_deletion_platform": "Not determined within the reviewed source scope.",
+   "narrow_protection": "Not determined within the reviewed source scope.",
+   "source": "Colorado Attorney General CPA information",
+   "url": "https://coag.gov/resources/colorado-privacy-act/",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "effective_date": [
+     {
+      "source": "Colorado Attorney General CPA information",
+      "url": "https://coag.gov/resources/colorado-privacy-act/"
+     }
+    ],
+    "right_to_delete": [
+     {
+      "source": "olls.info",
+      "url": "https://olls.info/crs/crs2026-title-06.htm"
+     }
+    ],
+    "global_privacy_signal": [
+     {
+      "source": "olls.info",
+      "url": "https://olls.info/crs/crs2026-title-06.htm"
+     }
+    ],
+    "law": [
+     {
+      "source": "olls.info",
+      "url": "https://olls.info/crs/crs2026-title-06.htm"
+     }
+    ],
+    "authorized_agent": [
+     {
+      "source": "olls.info",
+      "url": "https://olls.info/crs/crs2026-title-06.htm"
+     }
+    ],
+    "agent_proof": [
+     {
+      "source": "olls.info",
+      "url": "https://olls.info/crs/crs2026-title-06.htm"
+     }
+    ],
+    "opt_out_sale_sharing": [
+     {
+      "source": "olls.info",
+      "url": "https://olls.info/crs/crs2026-title-06.htm"
+     }
+    ],
+    "publicly_available_exemption": [
+     {
+      "source": "olls.info",
+      "url": "https://olls.info/crs/crs2026-title-06.htm"
+     }
+    ],
+    "citation": [
+     {
+      "source": "olls.info",
+      "url": "https://olls.info/crs/crs2026-title-06.htm"
+     }
+    ]
+   }
+  },
+  {
+   "id": "connecticut",
+   "state": "Connecticut",
+   "law": "Connecticut consumer-data privacy provisions, sections 42-515 through 42-526, including amendments operative July 1, 2026.",
+   "citation": "Connecticut General Statutes sections 42-515 through 42-526, with the 2026 supplement.",
+   "effective_date": "July 1, 2023 for the original framework. The cited amended definitions and provisions became operative July 1, 2026.",
+   "right_to_delete": "Covered right to delete personal data provided by or obtained about the consumer. Statutory exceptions and compliance alternatives apply.",
+   "opt_out_sale_sharing": "Covered opt-outs for targeted advertising, sale and qualifying profiling. The profiling provision reaches any automated decision with the specified effects.",
+   "global_privacy_signal": "Covered controllers must honor qualifying opt-out mechanisms or signals beginning January 1, 2025. Technical, consent and statutory conditions apply.",
+   "authorized_agent": "A consumer may designate another person to exercise the statutory opt-outs. This finding does not establish an agent right to exercise every consumer request.",
+   "agent_proof": "The controller must be able to verify or authenticate identity and the agent's authority with commercially reasonable effort.",
+   "publicly_available_exemption": "The current definition includes specified government records, consumer-public information and widely distributed media. It excludes identified biometric data collected without consumer consent.",
+   "broker_registry": "Not determined within the reviewed source scope.",
+   "state_deletion_platform": "Not determined within the reviewed source scope.",
+   "narrow_protection": "Not determined within the reviewed source scope.",
+   "source": "www.cga.ct.gov",
+   "url": "https://www.cga.ct.gov/2026/sup/chap_743jj.htm",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "effective_date": [
+     {
+      "source": "www.cga.ct.gov",
+      "url": "https://www.cga.ct.gov/2026/sup/chap_743jj.htm"
+     }
+    ],
+    "global_privacy_signal": [
+     {
+      "source": "www.cga.ct.gov",
+      "url": "https://www.cga.ct.gov/current/pub/chap_743jj.htm"
+     }
+    ],
+    "right_to_delete": [
+     {
+      "source": "www.cga.ct.gov",
+      "url": "https://www.cga.ct.gov/2026/sup/chap_743jj.htm"
+     }
+    ],
+    "opt_out_sale_sharing": [
+     {
+      "source": "www.cga.ct.gov",
+      "url": "https://www.cga.ct.gov/2026/sup/chap_743jj.htm"
+     }
+    ],
+    "authorized_agent": [
+     {
+      "source": "www.cga.ct.gov",
+      "url": "https://www.cga.ct.gov/current/pub/chap_743jj.htm"
+     }
+    ],
+    "publicly_available_exemption": [
+     {
+      "source": "www.cga.ct.gov",
+      "url": "https://www.cga.ct.gov/2026/sup/chap_743jj.htm"
+     }
+    ],
+    "agent_proof": [
+     {
+      "source": "www.cga.ct.gov",
+      "url": "https://www.cga.ct.gov/current/pub/chap_743jj.htm"
+     }
+    ],
+    "law": [
+     {
+      "source": "www.cga.ct.gov",
+      "url": "https://www.cga.ct.gov/2026/sup/chap_743jj.htm"
+     }
+    ],
+    "applicability": [
+     {
+      "source": "www.cga.ct.gov",
+      "url": "https://www.cga.ct.gov/2026/sup/chap_743jj.htm"
+     }
+    ],
+    "citation": [
+     {
+      "source": "www.cga.ct.gov",
+      "url": "https://www.cga.ct.gov/2026/sup/chap_743jj.htm"
+     }
+    ]
+   }
+  },
+  {
+   "id": "delaware",
+   "state": "Delaware",
+   "law": "Delaware Personal Data Privacy Act.",
+   "citation": "6 Delaware Code chapter 12D.",
+   "effective_date": "January 1, 2025. Qualifying opt-out signals became mandatory January 1, 2026.",
+   "right_to_delete": "Covered right to delete personal data provided by or obtained about the consumer. Statutory exceptions and compliance alternatives apply.",
+   "opt_out_sale_sharing": "Covered opt-outs for targeted advertising, sale and qualifying profiling. The profiling provision specifies solely automated decisions with legal or similarly significant effects.",
+   "global_privacy_signal": "Covered controllers must honor qualifying opt-out mechanisms or signals beginning January 1, 2026. Technical, consent and statutory conditions apply.",
+   "authorized_agent": "A consumer may designate another person to exercise the statutory opt-outs. This finding does not establish an agent right to exercise every consumer request.",
+   "agent_proof": "The controller must be able to verify or authenticate identity and the agent's authority with commercially reasonable effort.",
+   "publicly_available_exemption": "The definition includes lawfully available government records and information the controller reasonably believes the consumer made public through widely distributed media.",
+   "broker_registry": "Not determined within the reviewed source scope.",
+   "state_deletion_platform": "Not determined within the reviewed source scope.",
+   "narrow_protection": "Not determined within the reviewed source scope.",
+   "source": "delcode.delaware.gov",
+   "url": "https://delcode.delaware.gov/title6/c012d/index.html",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "law": [
+     {
+      "source": "delcode.delaware.gov",
+      "url": "https://delcode.delaware.gov/title6/c012d/index.html"
+     }
+    ],
+    "right_to_delete": [
+     {
+      "source": "delcode.delaware.gov",
+      "url": "https://delcode.delaware.gov/title6/c012d/index.html"
+     }
+    ],
+    "opt_out_sale_sharing": [
+     {
+      "source": "delcode.delaware.gov",
+      "url": "https://delcode.delaware.gov/title6/c012d/index.html"
+     }
+    ],
+    "authorized_agent": [
+     {
+      "source": "delcode.delaware.gov",
+      "url": "https://delcode.delaware.gov/title6/c012d/index.html"
+     }
+    ],
+    "agent_proof": [
+     {
+      "source": "delcode.delaware.gov",
+      "url": "https://delcode.delaware.gov/title6/c012d/index.html"
+     }
+    ],
+    "publicly_available_exemption": [
+     {
+      "source": "delcode.delaware.gov",
+      "url": "https://delcode.delaware.gov/title6/c012d/index.html"
+     }
+    ],
+    "effective_date": [
+     {
+      "source": "attorneygeneral.delaware.gov",
+      "url": "https://attorneygeneral.delaware.gov/fraud/personal-data-privacy-portal/frequently-asked-questions/"
+     }
+    ],
+    "global_privacy_signal": [
+     {
+      "source": "delcode.delaware.gov",
+      "url": "https://delcode.delaware.gov/title6/c012d/index.html"
+     }
+    ],
+    "citation": [
+     {
+      "source": "delcode.delaware.gov",
+      "url": "https://delcode.delaware.gov/title6/c012d/index.html"
+     }
+    ]
+   }
+  },
+  {
+   "id": "district-of-columbia",
+   "state": "District of Columbia",
+   "law": "Not determined within the reviewed source scope.",
+   "citation": "Not determined within the reviewed source scope.",
+   "effective_date": "Not determined within the reviewed source scope.",
+   "right_to_delete": "Not determined within the reviewed source scope.",
+   "opt_out_sale_sharing": "Not determined within the reviewed source scope.",
+   "global_privacy_signal": "Not determined within the reviewed source scope.",
+   "authorized_agent": "Not determined within the reviewed source scope.",
+   "agent_proof": "Not determined within the reviewed source scope.",
+   "publicly_available_exemption": "Not determined within the reviewed source scope.",
+   "broker_registry": "Not determined within the reviewed source scope.",
+   "state_deletion_platform": "Not determined within the reviewed source scope.",
+   "narrow_protection": "The reviewed District of Columbia provision requires notification of a security breach. Its notification duties are distinct from consumer deletion requests.",
+   "source": "code.dccouncil.gov",
+   "url": "https://code.dccouncil.gov/us/dc/council/code/sections/28-3852",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "narrow_protection": [
+     {
+      "source": "code.dccouncil.gov",
+      "url": "https://code.dccouncil.gov/us/dc/council/code/sections/28-3852"
+     }
+    ]
+   }
+  },
+  {
+   "id": "florida",
+   "state": "Florida",
+   "law": "Florida Digital Bill of Rights. The law has a limited controller definition and statutory applicability conditions.",
+   "citation": "Florida Statutes sections 501.701 through 501.719.",
+   "effective_date": "July 1, 2024.",
+   "right_to_delete": "Covered right to delete personal data provided by or obtained about the consumer. Statutory exceptions and compliance alternatives apply.",
+   "opt_out_sale_sharing": "Covered opt-outs for targeted advertising, sale and qualifying profiling. The statutory profiling definition and exceptions apply.",
+   "global_privacy_signal": "Not determined within the reviewed source scope.",
+   "authorized_agent": "Section 501.705(1) expressly allows a known child's parent or legal guardian to exercise rights for the child. This excerpt does not establish a general adult-agent procedure.",
+   "agent_proof": "Not determined within the reviewed source scope.",
+   "publicly_available_exemption": "The personal-data definition excludes publicly available information. Section 501.702(28) includes government records and specified information made public through media or permitted consumer disclosure.",
+   "broker_registry": "Not determined within the reviewed source scope.",
+   "state_deletion_platform": "Not determined within the reviewed source scope.",
+   "narrow_protection": "Not determined within the reviewed source scope.",
+   "source": "www.myfloridalegal.com",
+   "url": "https://www.myfloridalegal.com/sites/default/files/2025-01/digital-bill-of-rights-annual-report.pdf",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "law": [
+     {
+      "source": "www.myfloridalegal.com",
+      "url": "https://www.myfloridalegal.com/sites/default/files/2025-01/digital-bill-of-rights-annual-report.pdf"
+     }
+    ],
+    "effective_date": [
+     {
+      "source": "www.myfloridalegal.com",
+      "url": "https://www.myfloridalegal.com/sites/default/files/2025-01/digital-bill-of-rights-annual-report.pdf"
+     }
+    ],
+    "right_to_delete": [
+     {
+      "source": "www.leg.state.fl.us",
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm/Sections/index.cfm-0999/0934/Sections/index.cfm?App_mode=Display_Statute&Search_String=&URL=0500-0599%2F0501%2FSections%2F0501.705.html"
+     }
+    ],
+    "applicability": [
+     {
+      "source": "www.leg.state.fl.us",
+      "url": "https://www.leg.state.fl.us/Statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0501/Sections/0501.702.html"
+     }
+    ],
+    "publicly_available_exemption": [
+     {
+      "source": "www.leg.state.fl.us",
+      "url": "https://www.leg.state.fl.us/Statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0501/Sections/0501.702.html"
+     },
+     {
+      "source": "www.leg.state.fl.us",
+      "url": "https://www.leg.state.fl.us/Statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0501/Sections/0501.702.html"
+     }
+    ],
+    "citation": [
+     {
+      "source": "www.myfloridalegal.com",
+      "url": "https://www.myfloridalegal.com/sites/default/files/2025-01/digital-bill-of-rights-annual-report.pdf"
+     }
+    ],
+    "opt_out_sale_sharing": [
+     {
+      "source": "www.leg.state.fl.us",
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm/Sections/index.cfm-0999/0934/Sections/index.cfm?App_mode=Display_Statute&Search_String=&URL=0500-0599%2F0501%2FSections%2F0501.705.html"
+     }
+    ],
+    "authorized_agent": [
+     {
+      "source": "www.leg.state.fl.us",
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm/Sections/index.cfm-0999/0934/Sections/index.cfm?App_mode=Display_Statute&Search_String=&URL=0500-0599%2F0501%2FSections%2F0501.705.html"
+     }
+    ]
+   }
+  },
+  {
+   "id": "georgia",
+   "state": "Georgia",
+   "law": "Not determined within the reviewed source scope.",
+   "citation": "Not determined within the reviewed source scope.",
+   "effective_date": "Not determined within the reviewed source scope.",
+   "right_to_delete": "Not determined within the reviewed source scope.",
+   "opt_out_sale_sharing": "Not determined within the reviewed source scope.",
+   "global_privacy_signal": "Not determined within the reviewed source scope.",
+   "authorized_agent": "Not determined within the reviewed source scope.",
+   "agent_proof": "Not determined within the reviewed source scope.",
+   "publicly_available_exemption": "Not determined within the reviewed source scope.",
+   "broker_registry": "Not determined within the reviewed source scope.",
+   "state_deletion_platform": "Not determined within the reviewed source scope.",
+   "narrow_protection": "Georgia's Attorney General publishes consumer guidance about online tracking. This reviewed guidance supports practical tracking information, not a conclusion about an omnibus state privacy law.",
+   "source": "consumer.georgia.gov",
+   "url": "https://consumer.georgia.gov/protecting-your-privacy-online",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "narrow_protection": [
+     {
+      "source": "consumer.georgia.gov",
+      "url": "https://consumer.georgia.gov/protecting-your-privacy-online"
+     }
+    ]
+   }
+  },
+  {
+   "id": "hawaii",
+   "state": "Hawaii",
+   "law": "Not determined within the reviewed source scope.",
+   "citation": "Not determined within the reviewed source scope.",
+   "effective_date": "Not determined within the reviewed source scope.",
+   "right_to_delete": "Not determined within the reviewed source scope.",
+   "opt_out_sale_sharing": "Not determined within the reviewed source scope.",
+   "global_privacy_signal": "Not determined within the reviewed source scope.",
+   "authorized_agent": "Not determined within the reviewed source scope.",
+   "agent_proof": "Not determined within the reviewed source scope.",
+   "publicly_available_exemption": "Not determined within the reviewed source scope.",
+   "broker_registry": "Not determined within the reviewed source scope.",
+   "state_deletion_platform": "Not determined within the reviewed source scope.",
+   "narrow_protection": "Hawaii's reviewed statute requires security-breach notice to affected persons and applies to specified businesses and government agencies.",
+   "source": "data.capitol.hawaii.gov",
+   "url": "https://data.capitol.hawaii.gov/hrscurrent/Vol11_Ch0476-0490/HRS0487N/HRS_0487N-0002.htm",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "narrow_protection": [
+     {
+      "source": "data.capitol.hawaii.gov",
+      "url": "https://data.capitol.hawaii.gov/hrscurrent/Vol11_Ch0476-0490/HRS0487N/HRS_0487N-0002.htm"
+     }
+    ]
+   }
+  },
+  {
+   "id": "idaho",
+   "state": "Idaho",
+   "law": "Not determined within the reviewed source scope.",
+   "citation": "Not determined within the reviewed source scope.",
+   "effective_date": "Not determined within the reviewed source scope.",
+   "right_to_delete": "Not determined within the reviewed source scope.",
+   "opt_out_sale_sharing": "Not determined within the reviewed source scope.",
+   "global_privacy_signal": "Not determined within the reviewed source scope.",
+   "authorized_agent": "Not determined within the reviewed source scope.",
+   "agent_proof": "Not determined within the reviewed source scope.",
+   "publicly_available_exemption": "Not determined within the reviewed source scope.",
+   "broker_registry": "Not determined within the reviewed source scope.",
+   "state_deletion_platform": "Not determined within the reviewed source scope.",
+   "narrow_protection": "Idaho's Attorney General explains Title28, chapter51 security-breach duties. State public agencies have a 24-hour Attorney General notice requirement.",
+   "source": "www.ag.idaho.gov",
+   "url": "https://www.ag.idaho.gov/consumer-protection/security-breaches/",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "narrow_protection": [
+     {
+      "source": "www.ag.idaho.gov",
+      "url": "https://www.ag.idaho.gov/consumer-protection/security-breaches/"
+     }
+    ]
+   }
+  },
+  {
+   "id": "illinois",
+   "state": "Illinois",
+   "law": "Not determined within the reviewed source scope.",
+   "citation": "Not determined within the reviewed source scope.",
+   "effective_date": "Not determined within the reviewed source scope.",
+   "right_to_delete": "Not determined within the reviewed source scope.",
+   "opt_out_sale_sharing": "Not determined within the reviewed source scope.",
+   "global_privacy_signal": "Not determined within the reviewed source scope.",
+   "authorized_agent": "Not determined within the reviewed source scope.",
+   "agent_proof": "Not determined within the reviewed source scope.",
+   "publicly_available_exemption": "Not determined within the reviewed source scope.",
+   "broker_registry": "Not determined within the reviewed source scope.",
+   "state_deletion_platform": "Not determined within the reviewed source scope.",
+   "narrow_protection": "Illinois BIPA requires a public retention/destruction policy for covered biometrics, tied to the initial purpose or three years after the last interaction. This is a biometric-specific rule.",
+   "source": "www.ilga.gov",
+   "url": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=074000140K15",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "narrow_protection": [
+     {
+      "source": "www.ilga.gov",
+      "url": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=074000140K15"
+     }
+    ]
+   }
+  },
+  {
+   "id": "indiana",
+   "state": "Indiana",
+   "law": "Indiana Consumer Data Protection Act.",
+   "citation": "Indiana Code article 24-15, as described in the Attorney General's consumer guide.",
+   "effective_date": "January 1, 2026.",
+   "right_to_delete": "Covered right to delete personal data provided by or obtained about the consumer. Statutory exceptions and compliance alternatives apply.",
+   "opt_out_sale_sharing": "Covered opt-outs for targeted advertising, sale and qualifying profiling. The statutory profiling definition and exceptions apply.",
+   "global_privacy_signal": "Not determined within the reviewed source scope.",
+   "authorized_agent": "The Attorney General explains that exercising another adult's rights requires a power of attorney or other legal authorization. The guidance separately recognizes rights for a child.",
+   "agent_proof": "Controllers comply with authenticated requests. The Attorney General explains that a power of attorney or other legal authorization is needed to act for another adult.",
+   "publicly_available_exemption": "The Attorney General explains that personal data excludes publicly available information, including specified government records, media and unrestricted consumer disclosures.",
+   "broker_registry": "Not determined within the reviewed source scope.",
+   "state_deletion_platform": "The Attorney General states that no single centralized deletion request is available under the CDPA. A consumer submits requests directly to individual data holders.",
+   "narrow_protection": "Not determined within the reviewed source scope.",
+   "source": "www.in.gov",
+   "url": "https://www.in.gov/attorneygeneral/files/Consumer-Data-Bill-of-Rights.pdf",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "authorized_agent": [
+     {
+      "source": "www.in.gov",
+      "url": "https://www.in.gov/attorneygeneral/files/Consumer-Data-Bill-of-Rights.pdf"
+     }
+    ],
+    "agent_proof": [
+     {
+      "source": "www.in.gov",
+      "url": "https://www.in.gov/attorneygeneral/files/Consumer-Data-Bill-of-Rights.pdf"
+     }
+    ],
+    "publicly_available_exemption": [
+     {
+      "source": "www.in.gov",
+      "url": "https://www.in.gov/attorneygeneral/files/Consumer-Data-Bill-of-Rights.pdf"
+     }
+    ],
+    "state_deletion_platform": [
+     {
+      "source": "www.in.gov",
+      "url": "https://www.in.gov/attorneygeneral/files/Consumer-Data-Bill-of-Rights.pdf"
+     }
+    ],
+    "effective_date": [
+     {
+      "source": "www.in.gov",
+      "url": "https://www.in.gov/attorneygeneral/files/Consumer-Data-Bill-of-Rights.pdf"
+     }
+    ],
+    "right_to_delete": [
+     {
+      "source": "www.in.gov",
+      "url": "https://www.in.gov/attorneygeneral/files/Consumer-Data-Bill-of-Rights.pdf"
+     }
+    ],
+    "law": [
+     {
+      "source": "www.in.gov",
+      "url": "https://www.in.gov/attorneygeneral/files/Consumer-Data-Bill-of-Rights.pdf"
+     }
+    ],
+    "opt_out_sale_sharing": [
+     {
+      "source": "www.in.gov",
+      "url": "https://www.in.gov/attorneygeneral/files/Consumer-Data-Bill-of-Rights.pdf"
+     }
+    ],
+    "citation": [
+     {
+      "source": "www.in.gov",
+      "url": "https://www.in.gov/attorneygeneral/files/Consumer-Data-Bill-of-Rights.pdf"
+     }
+    ]
+   }
+  },
+  {
+   "id": "iowa",
+   "state": "Iowa",
+   "law": "Iowa Code chapter 715D, Consumer Data Protections.",
+   "citation": "Iowa Code chapter 715D.",
+   "effective_date": "January 1, 2025.",
+   "right_to_delete": "Covered right to delete personal data the consumer provided to the controller. Statutory exceptions apply.",
+   "opt_out_sale_sharing": "Covered right to opt out of sale of personal data under section 715D.3.",
+   "global_privacy_signal": "Not determined within the reviewed source scope.",
+   "authorized_agent": "The reviewed section expressly permits a known child's parent or legal guardian to exercise the child's rights. It does not establish a general adult-agent procedure.",
+   "agent_proof": "Consumer requests require commercially reasonable authentication. The controller may request necessary additional information. The reviewed section does not provide separate adult-agent proof criteria.",
+   "publicly_available_exemption": "The definition includes specified government records, media, consumer-public information and unrestricted disclosures. The statutory audience restriction matters.",
+   "broker_registry": "Not determined within the reviewed source scope.",
+   "state_deletion_platform": "Not determined within the reviewed source scope.",
+   "narrow_protection": "Not determined within the reviewed source scope.",
+   "source": "www.legis.iowa.gov",
+   "url": "https://www.legis.iowa.gov/docs/code/715D.pdf",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "publicly_available_exemption": [
+     {
+      "source": "www.legis.iowa.gov",
+      "url": "https://www.legis.iowa.gov/docs/code/715D.pdf"
+     }
+    ],
+    "right_to_delete": [
+     {
+      "source": "www.legis.iowa.gov",
+      "url": "https://www.legis.iowa.gov/docs/code/715D.pdf"
+     }
+    ],
+    "opt_out_sale_sharing": [
+     {
+      "source": "www.legis.iowa.gov",
+      "url": "https://www.legis.iowa.gov/docs/code/715D.pdf"
+     }
+    ],
+    "law": [
+     {
+      "source": "www.legis.iowa.gov",
+      "url": "https://www.legis.iowa.gov/docs/code/715D.pdf"
+     }
+    ],
+    "effective_date": [
+     {
+      "source": "www.legis.iowa.gov",
+      "url": "https://www.legis.iowa.gov/docs/code/2025/715D.html"
+     }
+    ],
+    "citation": [
+     {
+      "source": "www.legis.iowa.gov",
+      "url": "https://www.legis.iowa.gov/docs/code/715D.pdf"
+     }
+    ],
+    "authorized_agent": [
+     {
+      "source": "www.legis.iowa.gov",
+      "url": "https://www.legis.iowa.gov/docs/code/715D.pdf"
+     }
+    ],
+    "agent_proof": [
+     {
+      "source": "www.legis.iowa.gov",
+      "url": "https://www.legis.iowa.gov/docs/code/715D.pdf"
+     }
+    ]
+   }
+  },
+  {
+   "id": "kansas",
+   "state": "Kansas",
+   "law": "Not determined within the reviewed source scope.",
+   "citation": "Not determined within the reviewed source scope.",
+   "effective_date": "Not determined within the reviewed source scope.",
+   "right_to_delete": "Not determined within the reviewed source scope.",
+   "opt_out_sale_sharing": "Not determined within the reviewed source scope.",
+   "global_privacy_signal": "Not determined within the reviewed source scope.",
+   "authorized_agent": "Not determined within the reviewed source scope.",
+   "agent_proof": "Not determined within the reviewed source scope.",
+   "publicly_available_exemption": "Not determined within the reviewed source scope.",
+   "broker_registry": "Not determined within the reviewed source scope.",
+   "state_deletion_platform": "Not determined within the reviewed source scope.",
+   "narrow_protection": "Kansas's reviewed provision requires a reasonable prompt security-breach investigation and qualifying notice to affected Kansas residents.",
+   "source": "kslegislature.gov",
+   "url": "https://kslegislature.gov/b2025_26/laws/050_000_0000_chapter/050_007a_0000_article/050_007a_0002_section/050_007a_0002_k/",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "narrow_protection": [
+     {
+      "source": "kslegislature.gov",
+      "url": "https://kslegislature.gov/b2025_26/laws/050_000_0000_chapter/050_007a_0000_article/050_007a_0002_section/050_007a_0002_k/"
+     }
+    ]
+   }
+  },
+  {
+   "id": "kentucky",
+   "state": "Kentucky",
+   "law": "Kentucky Consumer Data Protection Act.",
+   "citation": "Kentucky Revised Statutes sections 367.3611 through 367.3629.",
+   "effective_date": "January 1, 2026.",
+   "right_to_delete": "Covered right to delete personal data provided by or obtained about the consumer. Statutory exceptions and compliance alternatives apply.",
+   "opt_out_sale_sharing": "Covered opt-outs for targeted advertising, sale and qualifying profiling. The statutory profiling definition and exceptions apply.",
+   "global_privacy_signal": "Not determined within the reviewed source scope.",
+   "authorized_agent": "Section 367.3615(1) expressly allows a child's parent or legal guardian to exercise the child's rights. The reviewed section does not establish a general adult-agent procedure.",
+   "agent_proof": "The reviewed section requires commercially reasonable authentication of consumer requests and permits necessary additional information. It does not specify separate adult-agent proof criteria.",
+   "publicly_available_exemption": "Personal data excludes deidentified data and publicly available information, including public records.",
+   "broker_registry": "Not determined within the reviewed source scope.",
+   "state_deletion_platform": "Not determined within the reviewed source scope.",
+   "narrow_protection": "Not determined within the reviewed source scope.",
+   "source": "www.ag.ky.gov",
+   "url": "https://www.ag.ky.gov/about/Office-Divisions/ODP/Pages/default.aspx",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "law": [
+     {
+      "source": "www.ag.ky.gov",
+      "url": "https://www.ag.ky.gov/about/Office-Divisions/ODP/Pages/default.aspx"
+     }
+    ],
+    "effective_date": [
+     {
+      "source": "www.ag.ky.gov",
+      "url": "https://www.ag.ky.gov/about/Office-Divisions/ODP/Pages/default.aspx"
+     }
+    ],
+    "right_to_delete": [
+     {
+      "source": "www.ag.ky.gov",
+      "url": "https://www.ag.ky.gov/about/Office-Divisions/ODP/Pages/default.aspx"
+     }
+    ],
+    "opt_out_sale_sharing": [
+     {
+      "source": "www.ag.ky.gov",
+      "url": "https://www.ag.ky.gov/about/Office-Divisions/ODP/Pages/default.aspx"
+     }
+    ],
+    "publicly_available_exemption": [
+     {
+      "source": "www.ag.ky.gov",
+      "url": "https://www.ag.ky.gov/about/Office-Divisions/ODP/KCDPA/Pages/default.aspx"
+     }
+    ],
+    "citation": [
+     {
+      "source": "www.ag.ky.gov",
+      "url": "https://www.ag.ky.gov/about/Office-Divisions/ODP/Pages/default.aspx"
+     }
+    ],
+    "authorized_agent": [
+     {
+      "source": "apps.legislature.ky.gov",
+      "url": "https://apps.legislature.ky.gov/law/Statutes/statute.aspx?id=55838"
+     }
+    ],
+    "agent_proof": [
+     {
+      "source": "apps.legislature.ky.gov",
+      "url": "https://apps.legislature.ky.gov/law/Statutes/statute.aspx?id=55838"
+     }
+    ]
+   }
+  },
+  {
+   "id": "louisiana",
+   "state": "Louisiana",
+   "law": "Louisiana Data Privacy Act. Enacted rights begin January 1, 2027.",
+   "citation": "Louisiana Act 502 of 2026, SB 386.",
+   "effective_date": "January 1, 2027. Enacted future law.",
+   "right_to_delete": "Covered right to delete personal data provided by or obtained about the consumer. Statutory exceptions and compliance alternatives apply. This right begins January 1, 2027.",
+   "opt_out_sale_sharing": "Covered opt-outs for targeted advertising, sale and qualifying profiling. The statutory profiling definition and exceptions apply. These rights begin January 1, 2027.",
+   "global_privacy_signal": "Not determined within the reviewed source scope.",
+   "authorized_agent": "Not determined within the reviewed source scope.",
+   "agent_proof": "Not determined within the reviewed source scope.",
+   "publicly_available_exemption": "The enacted definition includes specified government records, media and unrestricted consumer disclosures. Consumer-rights provisions begin January 1, 2027.",
+   "broker_registry": "Not determined within the reviewed source scope.",
+   "state_deletion_platform": "Not determined within the reviewed source scope.",
+   "narrow_protection": "Not determined within the reviewed source scope.",
+   "source": "www.legis.la.gov",
+   "url": "https://www.legis.la.gov/Legis/ViewDocument.aspx?d=1480202",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "law": [
+     {
+      "source": "www.legis.la.gov",
+      "url": "https://www.legis.la.gov/Legis/ViewDocument.aspx?d=1480202"
+     }
+    ],
+    "effective_date": [
+     {
+      "source": "www.legis.la.gov",
+      "url": "https://www.legis.la.gov/Legis/ViewDocument.aspx?d=1480202"
+     }
+    ],
+    "right_to_delete": [
+     {
+      "source": "www.legis.la.gov",
+      "url": "https://www.legis.la.gov/Legis/ViewDocument.aspx?d=1480202"
+     }
+    ],
+    "opt_out_sale_sharing": [
+     {
+      "source": "www.legis.la.gov",
+      "url": "https://www.legis.la.gov/Legis/ViewDocument.aspx?d=1480202"
+     }
+    ],
+    "publicly_available_exemption": [
+     {
+      "source": "www.legis.la.gov",
+      "url": "https://www.legis.la.gov/Legis/ViewDocument.aspx?d=1480202"
+     }
+    ],
+    "citation": [
+     {
+      "source": "www.legis.la.gov",
+      "url": "https://www.legis.la.gov/Legis/ViewDocument.aspx?d=1480202"
+     }
+    ]
+   }
+  },
+  {
+   "id": "maine",
+   "state": "Maine",
+   "law": "Not determined within the reviewed source scope.",
+   "citation": "Not determined within the reviewed source scope.",
+   "effective_date": "Not determined within the reviewed source scope.",
+   "right_to_delete": "Not determined within the reviewed source scope.",
+   "opt_out_sale_sharing": "Not determined within the reviewed source scope.",
+   "global_privacy_signal": "Not determined within the reviewed source scope.",
+   "authorized_agent": "Not determined within the reviewed source scope.",
+   "agent_proof": "Not determined within the reviewed source scope.",
+   "publicly_available_exemption": "Not determined within the reviewed source scope.",
+   "broker_registry": "Not determined within the reviewed source scope.",
+   "state_deletion_platform": "Not determined within the reviewed source scope.",
+   "narrow_protection": "Maine's enacted 2019 law concerns broadband Internet access service customer information. This row distinguishes that sector-specific law from an omnibus-rights determination.",
+   "source": "legislature.maine.gov",
+   "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?item=9&paper=SP0275&snum=129",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "narrow_protection": [
+     {
+      "source": "legislature.maine.gov",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?item=9&paper=SP0275&snum=129"
+     }
+    ]
+   }
+  },
+  {
+   "id": "maryland",
+   "state": "Maryland",
+   "law": "Maryland Online Data Privacy Act. Current codification begins at Commercial Law section 14-4701.",
+   "citation": "Maryland Commercial Law sections 14-4701 through 14-4713. The enacted 2024 act used different section numbering.",
+   "effective_date": "October 1, 2025.",
+   "right_to_delete": "Covered right to delete personal data provided by or obtained about the consumer. Statutory exceptions and compliance alternatives apply. Retention required by law remains permitted.",
+   "opt_out_sale_sharing": "Covered opt-outs for targeted advertising, sale and qualifying profiling. The profiling provision specifies solely automated decisions with legal or similarly significant effects.",
+   "global_privacy_signal": "Section 14-4706 allows agent designation through a browser setting, extension, global-device setting or similar technology. Authentication conditions apply. This finding does not label every signal unconditionally sufficient.",
+   "authorized_agent": "A consumer may designate an individual to exercise the listed opt-outs. The agent may be designated through the specified Internet, browser or device technology.",
+   "agent_proof": "The controller must be able to authenticate the consumer's identity and the agent's authority using commercially reasonable efforts.",
+   "publicly_available_exemption": "Personal data excludes publicly available information. The current definition conditions government-record use on compliance with imposed restrictions and excludes specified biometric data collected without the consumer's knowledge.",
+   "broker_registry": "Not determined within the reviewed source scope.",
+   "state_deletion_platform": "Not determined within the reviewed source scope.",
+   "narrow_protection": "Not determined within the reviewed source scope.",
+   "source": "oag.maryland.gov",
+   "url": "https://oag.maryland.gov/resources-info/Pages/data-privacy.aspx",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "law": [
+     {
+      "source": "oag.maryland.gov",
+      "url": "https://oag.maryland.gov/resources-info/Pages/data-privacy.aspx"
+     },
+     {
+      "source": "mgaleg.maryland.gov",
+      "url": "https://mgaleg.maryland.gov/mgawebsite/Laws/StatuteText?article=gcl&enactments=true&section=14-4701"
+     },
+     {
+      "source": "mgaleg.maryland.gov",
+      "url": "https://mgaleg.maryland.gov/mgawebsite/Laws/StatuteText?article=gcl&enactments=true&section=14-4701"
+     }
+    ],
+    "effective_date": [
+     {
+      "source": "oag.maryland.gov",
+      "url": "https://oag.maryland.gov/resources-info/Pages/data-privacy.aspx"
+     }
+    ],
+    "authorized_agent": [
+     {
+      "source": "mgaleg.maryland.gov",
+      "url": "https://mgaleg.maryland.gov/mgawebsite/Laws/StatuteText?article=gcl&enactments=false&section=14-4706"
+     }
+    ],
+    "agent_proof": [
+     {
+      "source": "mgaleg.maryland.gov",
+      "url": "https://mgaleg.maryland.gov/mgawebsite/Laws/StatuteText?article=gcl&enactments=false&section=14-4706"
+     }
+    ],
+    "global_privacy_signal": [
+     {
+      "source": "mgaleg.maryland.gov",
+      "url": "https://mgaleg.maryland.gov/mgawebsite/Laws/StatuteText?article=gcl&enactments=false&section=14-4706"
+     }
+    ],
+    "right_to_delete": [
+     {
+      "source": "mgaleg.maryland.gov",
+      "url": "https://mgaleg.maryland.gov/mgawebsite/Laws/StatuteText?article=gcl&enactments=false&section=14-4705"
+     }
+    ],
+    "opt_out_sale_sharing": [
+     {
+      "source": "mgaleg.maryland.gov",
+      "url": "https://mgaleg.maryland.gov/mgawebsite/Laws/StatuteText?article=gcl&enactments=false&section=14-4705"
+     }
+    ],
+    "publicly_available_exemption": [
+     {
+      "source": "mgaleg.maryland.gov",
+      "url": "https://mgaleg.maryland.gov/mgawebsite/Laws/StatuteText?article=gcl&enactments=true&section=14-4701"
+     },
+     {
+      "source": "mgaleg.maryland.gov",
+      "url": "https://mgaleg.maryland.gov/mgawebsite/Laws/StatuteText?article=gcl&enactments=true&section=14-4701"
+     }
+    ],
+    "citation": [
+     {
+      "source": "oag.maryland.gov",
+      "url": "https://oag.maryland.gov/resources-info/Pages/data-privacy.aspx"
+     },
+     {
+      "source": "mgaleg.maryland.gov",
+      "url": "https://mgaleg.maryland.gov/mgawebsite/Laws/StatuteText?article=gcl&enactments=true&section=14-4701"
+     },
+     {
+      "source": "mgaleg.maryland.gov",
+      "url": "https://mgaleg.maryland.gov/mgawebsite/Laws/StatuteText?article=gcl&enactments=true&section=14-4701"
+     }
+    ]
+   }
+  },
+  {
+   "id": "massachusetts",
+   "state": "Massachusetts",
+   "law": "Not determined within the reviewed source scope.",
+   "citation": "Not determined within the reviewed source scope.",
+   "effective_date": "Not determined within the reviewed source scope.",
+   "right_to_delete": "Not determined within the reviewed source scope.",
+   "opt_out_sale_sharing": "Not determined within the reviewed source scope.",
+   "global_privacy_signal": "Not determined within the reviewed source scope.",
+   "authorized_agent": "Not determined within the reviewed source scope.",
+   "agent_proof": "Not determined within the reviewed source scope.",
+   "publicly_available_exemption": "Not determined within the reviewed source scope.",
+   "broker_registry": "Not determined within the reviewed source scope.",
+   "state_deletion_platform": "Not determined within the reviewed source scope.",
+   "narrow_protection": "Massachusetts's reviewed regulation establishes minimum safeguards for paper and electronic records containing residents' personal information. It applies to persons that own or license that information.",
+   "source": "www.mass.gov",
+   "url": "https://www.mass.gov/files/documents/2017/10/02/201cmr17.pdf",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "narrow_protection": [
+     {
+      "source": "www.mass.gov",
+      "url": "https://www.mass.gov/files/documents/2017/10/02/201cmr17.pdf"
+     }
+    ]
+   }
+  },
+  {
+   "id": "michigan",
+   "state": "Michigan",
+   "law": "Not determined within the reviewed source scope.",
+   "citation": "Not determined within the reviewed source scope.",
+   "effective_date": "Not determined within the reviewed source scope.",
+   "right_to_delete": "Not determined within the reviewed source scope.",
+   "opt_out_sale_sharing": "Not determined within the reviewed source scope.",
+   "global_privacy_signal": "Not determined within the reviewed source scope.",
+   "authorized_agent": "Not determined within the reviewed source scope.",
+   "agent_proof": "Not determined within the reviewed source scope.",
+   "publicly_available_exemption": "Not determined within the reviewed source scope.",
+   "broker_registry": "Not determined within the reviewed source scope.",
+   "state_deletion_platform": "Not determined within the reviewed source scope.",
+   "narrow_protection": "Michigan's reviewed Identity Theft Protection Act provision governs qualifying security-breach notices. It is distinct from a general consumer broker-deletion right.",
+   "source": "zeus-milenia.legislature.mi.gov",
+   "url": "https://zeus-milenia.legislature.mi.gov/documents/mcl/pdf/MCL-445-72.pdf",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "narrow_protection": [
+     {
+      "source": "zeus-milenia.legislature.mi.gov",
+      "url": "https://zeus-milenia.legislature.mi.gov/documents/mcl/pdf/MCL-445-72.pdf"
+     }
+    ]
+   }
+  },
+  {
+   "id": "minnesota",
+   "state": "Minnesota",
+   "law": "Minnesota Consumer Data Privacy Act.",
+   "citation": "Minnesota Statutes sections 325M.10 through 325M.21.",
+   "effective_date": "July 31, 2025 generally. Specified postsecondary institutions have a July 31, 2029 compliance date.",
+   "right_to_delete": "Covered right to delete personal data concerning the consumer. Statutory exceptions and compliance alternatives apply.",
+   "opt_out_sale_sharing": "Covered opt-outs for targeted advertising, sale and qualifying profiling. The profiling provision specifies automated decisions with the stated effects.",
+   "global_privacy_signal": "Covered controllers must allow qualifying opt-out preference signals for targeted advertising and sale. The statutory technical and consent conditions apply.",
+   "authorized_agent": "A consumer may designate another person for targeted-advertising and sale opt-outs. Qualifying browser and device technology can designate the agent.",
+   "agent_proof": "The controller must be able to verify identity and the agent's authority with commercially reasonable effort.",
+   "publicly_available_exemption": "Personal data excludes publicly available information. The definition includes specified government records, media and information the controller reasonably believes became lawfully public.",
+   "broker_registry": "Not determined within the reviewed source scope.",
+   "state_deletion_platform": "Not determined within the reviewed source scope.",
+   "narrow_protection": "Not determined within the reviewed source scope.",
+   "source": "www.revisor.mn.gov",
+   "url": "https://www.revisor.mn.gov/statutes/cite/325M/full",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "law": [
+     {
+      "source": "www.revisor.mn.gov",
+      "url": "https://www.revisor.mn.gov/statutes/cite/325M/full"
+     }
+    ],
+    "authorized_agent": [
+     {
+      "source": "www.revisor.mn.gov",
+      "url": "https://www.revisor.mn.gov/statutes/cite/325M/full"
+     }
+    ],
+    "agent_proof": [
+     {
+      "source": "www.revisor.mn.gov",
+      "url": "https://www.revisor.mn.gov/statutes/cite/325M/full"
+     }
+    ],
+    "global_privacy_signal": [
+     {
+      "source": "www.revisor.mn.gov",
+      "url": "https://www.revisor.mn.gov/statutes/cite/325M/full"
+     }
+    ],
+    "publicly_available_exemption": [
+     {
+      "source": "www.revisor.mn.gov",
+      "url": "https://www.revisor.mn.gov/statutes/cite/325M/full"
+     }
+    ],
+    "right_to_delete": [
+     {
+      "source": "www.revisor.mn.gov",
+      "url": "https://www.revisor.mn.gov/statutes/cite/325M/full"
+     }
+    ],
+    "opt_out_sale_sharing": [
+     {
+      "source": "www.revisor.mn.gov",
+      "url": "https://www.revisor.mn.gov/statutes/cite/325M/full"
+     }
+    ],
+    "effective_date": [
+     {
+      "source": "www.revisor.mn.gov",
+      "url": "https://www.revisor.mn.gov/statutes/cite/325M.14"
+     }
+    ],
+    "citation": [
+     {
+      "source": "www.revisor.mn.gov",
+      "url": "https://www.revisor.mn.gov/statutes/cite/325M/full"
+     }
+    ]
+   }
+  },
+  {
+   "id": "mississippi",
+   "state": "Mississippi",
+   "law": "Not determined within the reviewed source scope.",
+   "citation": "Not determined within the reviewed source scope.",
+   "effective_date": "Not determined within the reviewed source scope.",
+   "right_to_delete": "Not determined within the reviewed source scope.",
+   "opt_out_sale_sharing": "Not determined within the reviewed source scope.",
+   "global_privacy_signal": "Not determined within the reviewed source scope.",
+   "authorized_agent": "Not determined within the reviewed source scope.",
+   "agent_proof": "Not determined within the reviewed source scope.",
+   "publicly_available_exemption": "Not determined within the reviewed source scope.",
+   "broker_registry": "Not determined within the reviewed source scope.",
+   "state_deletion_platform": "Not determined within the reviewed source scope.",
+   "narrow_protection": "The reviewed official Mississippi ITS contract expressly requires compliance with the state data-breach notification law at75-24-29. The contract does not establish general deletion or opt-out rights.",
+   "source": "www.its.ms.gov",
+   "url": "https://www.its.ms.gov/sites/default/files/ServicesPDFs/FirstNet%20Instructions%20with%20Contract%20-%2020230706.pdf",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "narrow_protection": [
+     {
+      "source": "www.its.ms.gov",
+      "url": "https://www.its.ms.gov/sites/default/files/ServicesPDFs/FirstNet%20Instructions%20with%20Contract%20-%2020230706.pdf"
+     }
+    ]
+   }
+  },
+  {
+   "id": "missouri",
+   "state": "Missouri",
+   "law": "Not determined within the reviewed source scope.",
+   "citation": "Not determined within the reviewed source scope.",
+   "effective_date": "Not determined within the reviewed source scope.",
+   "right_to_delete": "Not determined within the reviewed source scope.",
+   "opt_out_sale_sharing": "Not determined within the reviewed source scope.",
+   "global_privacy_signal": "Not determined within the reviewed source scope.",
+   "authorized_agent": "Not determined within the reviewed source scope.",
+   "agent_proof": "Not determined within the reviewed source scope.",
+   "publicly_available_exemption": "Not determined within the reviewed source scope.",
+   "broker_registry": "Not determined within the reviewed source scope.",
+   "state_deletion_platform": "Not determined within the reviewed source scope.",
+   "narrow_protection": "The official Revisor page's body requires qualifying breach notice. Its in-page heading is inconsistent with its page title and must not be treated as a clean statutory heading.",
+   "source": "revisor.mo.gov",
+   "url": "https://revisor.mo.gov/main/OneSection.aspx?section=407.1500",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "narrow_protection": [
+     {
+      "source": "revisor.mo.gov",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=407.1500"
+     }
+    ]
+   }
+  },
+  {
+   "id": "montana",
+   "state": "Montana",
+   "law": "Montana Consumer Data Privacy Act, Title 30, chapter 14, part 28.",
+   "citation": "Montana Code Annotated sections 30-14-2801 through 30-14-2820.",
+   "effective_date": "October 1, 2024. The cited current sections incorporate subsequent amendments.",
+   "right_to_delete": "Covered right to delete personal data concerning the consumer. Statutory exceptions and compliance alternatives apply.",
+   "opt_out_sale_sharing": "Covered opt-outs for targeted advertising, sale and qualifying profiling. The profiling provision specifies automated decisions with the stated effects.",
+   "global_privacy_signal": "Covered controllers must honor qualifying opt-out mechanisms or signals beginning January 1, 2025. Technical, consent and statutory conditions apply.",
+   "authorized_agent": "A consumer may designate another person to exercise the statutory opt-outs. This finding does not establish an agent right to exercise every consumer request.",
+   "agent_proof": "The controller must be able to verify or authenticate identity and the agent's authority with commercially reasonable effort.",
+   "publicly_available_exemption": "The definition includes specified government records, widely distributed media and information the controller reasonably believes the consumer made public.",
+   "broker_registry": "Not determined within the reviewed source scope.",
+   "state_deletion_platform": "Not determined within the reviewed source scope.",
+   "narrow_protection": "Not determined within the reviewed source scope.",
+   "source": "mca.legmt.gov",
+   "url": "https://mca.legmt.gov/bills/mca/title_0300/chapter_0140/part_0280/section_0090/0300-0140-0280-0090.html",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "authorized_agent": [
+     {
+      "source": "mca.legmt.gov",
+      "url": "https://mca.legmt.gov/bills/mca/title_0300/chapter_0140/part_0280/section_0090/0300-0140-0280-0090.html"
+     }
+    ],
+    "agent_proof": [
+     {
+      "source": "mca.legmt.gov",
+      "url": "https://mca.legmt.gov/bills/mca/title_0300/chapter_0140/part_0280/section_0090/0300-0140-0280-0090.html"
+     }
+    ],
+    "global_privacy_signal": [
+     {
+      "source": "mca.legmt.gov",
+      "url": "https://mca.legmt.gov/bills/mca/title_0300/chapter_0140/part_0280/section_0090/0300-0140-0280-0090.html"
+     }
+    ],
+    "right_to_delete": [
+     {
+      "source": "mca.legmt.gov",
+      "url": "https://mca.legmt.gov/bills/mca/title_0300/chapter_0140/part_0280/section_0080/0300-0140-0280-0080.html"
+     }
+    ],
+    "opt_out_sale_sharing": [
+     {
+      "source": "mca.legmt.gov",
+      "url": "https://mca.legmt.gov/bills/mca/title_0300/chapter_0140/part_0280/section_0080/0300-0140-0280-0080.html"
+     }
+    ],
+    "publicly_available_exemption": [
+     {
+      "source": "mca.legmt.gov",
+      "url": "https://mca.legmt.gov/bills/mca/title_0300/chapter_0140/part_0280/section_0020/0300-0140-0280-0020.html"
+     }
+    ],
+    "law": [
+     {
+      "source": "mca.legmt.gov",
+      "url": "https://mca.legmt.gov/bills/mca/title_0300/chapter_0140/part_0280/section_0010/0300-0140-0280-0010.html"
+     }
+    ],
+    "effective_date": [
+     {
+      "source": "leg.mt.gov",
+      "url": "https://leg.mt.gov/bills/2023/sesslaws/ch0681.pdf"
+     }
+    ],
+    "citation": [
+     {
+      "source": "mca.legmt.gov",
+      "url": "https://mca.legmt.gov/bills/mca/title_0300/chapter_0140/part_0280/section_0010/0300-0140-0280-0010.html"
+     }
+    ]
+   }
+  },
+  {
+   "id": "nebraska",
+   "state": "Nebraska",
+   "law": "Nebraska Data Privacy Act.",
+   "citation": "Nebraska Revised Statutes sections 87-1101 through 87-1130.",
+   "effective_date": "January 1, 2025.",
+   "right_to_delete": "Covered right to delete personal data provided by or obtained about the consumer. Statutory exceptions and compliance alternatives apply.",
+   "opt_out_sale_sharing": "Covered opt-outs for targeted advertising, sale and qualifying profiling. The statutory profiling definition and exceptions apply.",
+   "global_privacy_signal": "Section 87-1111(5)-(6) permits technology-based opt-out designation subject to statutory verification and technical conditions.",
+   "authorized_agent": "A consumer may designate an agent for targeted-advertising and sale opt-outs. The statute permits qualifying browser and device technology.",
+   "agent_proof": "The controller must be able to verify identity and authority with commercially reasonable effort. Listed statutory exceptions also apply.",
+   "publicly_available_exemption": "The Attorney General explains that personal data excludes publicly available information and data not reasonably linkable to an individual.",
+   "broker_registry": "Not determined within the reviewed source scope.",
+   "state_deletion_platform": "Not determined within the reviewed source scope.",
+   "narrow_protection": "Not determined within the reviewed source scope.",
+   "source": "protectthegoodlife.nebraska.gov",
+   "url": "https://protectthegoodlife.nebraska.gov/data-privacy-homepage",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "law": [
+     {
+      "source": "protectthegoodlife.nebraska.gov",
+      "url": "https://protectthegoodlife.nebraska.gov/data-privacy-homepage"
+     }
+    ],
+    "effective_date": [
+     {
+      "source": "protectthegoodlife.nebraska.gov",
+      "url": "https://protectthegoodlife.nebraska.gov/data-privacy-homepage"
+     }
+    ],
+    "publicly_available_exemption": [
+     {
+      "source": "protectthegoodlife.nebraska.gov",
+      "url": "https://protectthegoodlife.nebraska.gov/data-privacy-homepage"
+     }
+    ],
+    "right_to_delete": [
+     {
+      "source": "nebraskalegislature.gov",
+      "url": "https://nebraskalegislature.gov/laws/statutes.php?statute=87-1107"
+     }
+    ],
+    "opt_out_sale_sharing": [
+     {
+      "source": "nebraskalegislature.gov",
+      "url": "https://nebraskalegislature.gov/laws/statutes.php?statute=87-1107"
+     }
+    ],
+    "authorized_agent": [
+     {
+      "source": "www.nebraskalegislature.gov",
+      "url": "https://www.nebraskalegislature.gov/laws/laws-index/chap87-full.html"
+     }
+    ],
+    "agent_proof": [
+     {
+      "source": "www.nebraskalegislature.gov",
+      "url": "https://www.nebraskalegislature.gov/laws/laws-index/chap87-full.html"
+     }
+    ],
+    "global_privacy_signal": [
+     {
+      "source": "www.nebraskalegislature.gov",
+      "url": "https://www.nebraskalegislature.gov/laws/laws-index/chap87-full.html"
+     }
+    ],
+    "citation": [
+     {
+      "source": "protectthegoodlife.nebraska.gov",
+      "url": "https://protectthegoodlife.nebraska.gov/data-privacy-homepage"
+     }
+    ]
+   }
+  },
+  {
+   "id": "nevada",
+   "state": "Nevada",
+   "law": "Not determined within the reviewed source scope.",
+   "citation": "Not determined within the reviewed source scope.",
+   "effective_date": "Not determined within the reviewed source scope.",
+   "right_to_delete": "Not determined within the reviewed source scope.",
+   "opt_out_sale_sharing": "Not determined within the reviewed source scope.",
+   "global_privacy_signal": "Not determined within the reviewed source scope.",
+   "authorized_agent": "Not determined within the reviewed source scope.",
+   "agent_proof": "Not determined within the reviewed source scope.",
+   "publicly_available_exemption": "Not determined within the reviewed source scope.",
+   "broker_registry": "Not determined within the reviewed source scope.",
+   "state_deletion_platform": "Not determined within the reviewed source scope.",
+   "narrow_protection": "Nevada's Attorney General describes a website link through which residents may request that private information not be sold. This source does not establish an omnibus deletion right.",
+   "source": "ag.nv.gov",
+   "url": "https://ag.nv.gov/News/PR/2023/Attorney_General_Ford_Explains_Currency_of_Data%2C_Encourages_Companies_to_Test_Automated_Systems/",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "narrow_protection": [
+     {
+      "source": "ag.nv.gov",
+      "url": "https://ag.nv.gov/News/PR/2023/Attorney_General_Ford_Explains_Currency_of_Data%2C_Encourages_Companies_to_Test_Automated_Systems/"
+     }
+    ]
+   }
+  },
+  {
+   "id": "new-hampshire",
+   "state": "New Hampshire",
+   "law": "New Hampshire expectation-of-privacy provisions, RSA chapter 507-H.",
+   "citation": "New Hampshire RSA chapter 507-H.",
+   "effective_date": "January 1, 2025. The retained chapter separately labels provisions effective January 1, 2027.",
+   "right_to_delete": "Covered right to delete personal data provided by or obtained about the consumer. Statutory exceptions and compliance alternatives apply.",
+   "opt_out_sale_sharing": "Covered opt-outs for targeted advertising, sale and qualifying profiling. The profiling provision specifies solely automated decisions with legal or similarly significant effects.",
+   "global_privacy_signal": "Covered controllers must honor qualifying opt-out mechanisms or signals beginning January 1, 2025. Technical, consent and statutory conditions apply.",
+   "authorized_agent": "A consumer may designate another person to exercise the statutory opt-outs. This finding does not establish an agent right to exercise every consumer request.",
+   "agent_proof": "The controller must be able to verify or authenticate identity and the agent's authority with commercially reasonable effort.",
+   "publicly_available_exemption": "The statutory definition includes specified government records, widely distributed media and information the controller reasonably believes the consumer made public.",
+   "broker_registry": "Not determined within the reviewed source scope.",
+   "state_deletion_platform": "Not determined within the reviewed source scope.",
+   "narrow_protection": "Not determined within the reviewed source scope.",
+   "source": "gc.nh.gov",
+   "url": "https://gc.nh.gov/rsa/html/LII/507-H/507-H-mrg.htm",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "law": [
+     {
+      "source": "gc.nh.gov",
+      "url": "https://gc.nh.gov/rsa/html/LII/507-H/507-H-mrg.htm"
+     }
+    ],
+    "right_to_delete": [
+     {
+      "source": "gc.nh.gov",
+      "url": "https://gc.nh.gov/rsa/html/LII/507-H/507-H-mrg.htm"
+     }
+    ],
+    "opt_out_sale_sharing": [
+     {
+      "source": "gc.nh.gov",
+      "url": "https://gc.nh.gov/rsa/html/LII/507-H/507-H-mrg.htm"
+     }
+    ],
+    "global_privacy_signal": [
+     {
+      "source": "gc.nh.gov",
+      "url": "https://gc.nh.gov/rsa/html/LII/507-H/507-H-mrg.htm"
+     }
+    ],
+    "effective_date": [
+     {
+      "source": "gc.nh.gov",
+      "url": "https://gc.nh.gov/rsa/html/LII/507-H/507-H-mrg.htm"
+     },
+     {
+      "source": "gc.nh.gov",
+      "url": "https://gc.nh.gov/rsa/html/LII/507-H/507-H-mrg.htm"
+     }
+    ],
+    "authorized_agent": [
+     {
+      "source": "gc.nh.gov",
+      "url": "https://gc.nh.gov/rsa/html/LII/507-H/507-H-mrg.htm"
+     }
+    ],
+    "agent_proof": [
+     {
+      "source": "gc.nh.gov",
+      "url": "https://gc.nh.gov/rsa/html/LII/507-H/507-H-mrg.htm"
+     }
+    ],
+    "publicly_available_exemption": [
+     {
+      "source": "gc.nh.gov",
+      "url": "https://gc.nh.gov/rsa/html/LII/507-H/507-H-mrg.htm"
+     }
+    ],
+    "citation": [
+     {
+      "source": "gc.nh.gov",
+      "url": "https://gc.nh.gov/rsa/html/LII/507-H/507-H-mrg.htm"
+     }
+    ]
+   }
+  },
+  {
+   "id": "new-jersey",
+   "state": "New Jersey",
+   "law": "New Jersey consumer-data privacy law, P.L. 2023, chapter 266, with separate 2026 data-broker provisions.",
+   "citation": "New Jersey Statutes sections 56:8-166.4 onward; P.L. 2026, chapter 25 for the broker registry.",
+   "effective_date": "January 15, 2025. Calculated from the enacted January 16, 2024 approval date plus 365 days, accounting for leap year.",
+   "right_to_delete": "Covered right to delete personal data concerning the consumer. Statutory exceptions and compliance alternatives apply.",
+   "opt_out_sale_sharing": "Covered opt-outs for targeted advertising, sale and qualifying profiling. The statutory profiling definition and exceptions apply.",
+   "global_privacy_signal": "Covered controllers must allow qualifying universal opt-out mechanisms no later than six months after the act's January 15, 2025 effective date. Statutory mechanism requirements apply.",
+   "authorized_agent": "A consumer may designate another person to exercise the statutory opt-outs, including through qualifying browser or device technology.",
+   "agent_proof": "The controller must be able to verify identity and the agent's authority with commercially reasonable effort.",
+   "publicly_available_exemption": "Personal data excludes publicly available information. The definition includes specified government records, widely distributed media and consumer-public information not restricted to a specific audience.",
+   "broker_registry": "P.L. 2026, chapter 25 directs the Division of Consumer Affairs to maintain a public registry of data brokers and data collectors. Approved June 30, 2026. The registry subsection remains inoperative for 270 days following enactment. No operational registry portal is established by this review.",
+   "state_deletion_platform": "Not determined within the reviewed source scope.",
+   "narrow_protection": "Not determined within the reviewed source scope.",
+   "source": "pub.njleg.state.nj.us",
+   "url": "https://pub.njleg.state.nj.us/Bills/2022/PL23/266_.HTM",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "law": [
+     {
+      "source": "pub.njleg.state.nj.us",
+      "url": "https://pub.njleg.state.nj.us/Bills/2022/PL23/266_.HTM"
+     },
+     {
+      "source": "pub.njleg.state.nj.us",
+      "url": "https://pub.njleg.state.nj.us/Bills/2026/PL26/25_.HTM"
+     },
+     {
+      "source": "pub.njleg.state.nj.us",
+      "url": "https://pub.njleg.state.nj.us/Bills/2026/PL26/25_.HTM"
+     }
+    ],
+    "authorized_agent": [
+     {
+      "source": "pub.njleg.state.nj.us",
+      "url": "https://pub.njleg.state.nj.us/Bills/2022/PL23/266_.HTM"
+     }
+    ],
+    "agent_proof": [
+     {
+      "source": "pub.njleg.state.nj.us",
+      "url": "https://pub.njleg.state.nj.us/Bills/2022/PL23/266_.HTM"
+     }
+    ],
+    "effective_date": [
+     {
+      "source": "pub.njleg.state.nj.us",
+      "url": "https://pub.njleg.state.nj.us/Bills/2022/PL23/266_.HTM"
+     }
+    ],
+    "broker_registry": [
+     {
+      "source": "pub.njleg.state.nj.us",
+      "url": "https://pub.njleg.state.nj.us/Bills/2026/PL26/25_.HTM"
+     },
+     {
+      "source": "pub.njleg.state.nj.us",
+      "url": "https://pub.njleg.state.nj.us/Bills/2026/PL26/25_.HTM"
+     }
+    ],
+    "right_to_delete": [
+     {
+      "source": "pub.njleg.state.nj.us",
+      "url": "https://pub.njleg.state.nj.us/Bills/2022/PL23/266_.HTM"
+     }
+    ],
+    "opt_out_sale_sharing": [
+     {
+      "source": "pub.njleg.state.nj.us",
+      "url": "https://pub.njleg.state.nj.us/Bills/2022/PL23/266_.HTM"
+     }
+    ],
+    "global_privacy_signal": [
+     {
+      "source": "pub.njleg.state.nj.us",
+      "url": "https://pub.njleg.state.nj.us/Bills/2022/PL23/266_.HTM"
+     }
+    ],
+    "publicly_available_exemption": [
+     {
+      "source": "pub.njleg.state.nj.us",
+      "url": "https://pub.njleg.state.nj.us/Bills/2022/PL23/266_.HTM"
+     },
+     {
+      "source": "pub.njleg.state.nj.us",
+      "url": "https://pub.njleg.state.nj.us/Bills/2022/PL23/266_.HTM"
+     }
+    ],
+    "citation": [
+     {
+      "source": "pub.njleg.state.nj.us",
+      "url": "https://pub.njleg.state.nj.us/Bills/2022/PL23/266_.HTM"
+     },
+     {
+      "source": "pub.njleg.state.nj.us",
+      "url": "https://pub.njleg.state.nj.us/Bills/2026/PL26/25_.HTM"
+     },
+     {
+      "source": "pub.njleg.state.nj.us",
+      "url": "https://pub.njleg.state.nj.us/Bills/2026/PL26/25_.HTM"
+     }
+    ]
+   }
+  },
+  {
+   "id": "new-mexico",
+   "state": "New Mexico",
+   "law": "Not determined within the reviewed source scope.",
+   "citation": "Not determined within the reviewed source scope.",
+   "effective_date": "Not determined within the reviewed source scope.",
+   "right_to_delete": "Not determined within the reviewed source scope.",
+   "opt_out_sale_sharing": "Not determined within the reviewed source scope.",
+   "global_privacy_signal": "Not determined within the reviewed source scope.",
+   "authorized_agent": "Not determined within the reviewed source scope.",
+   "agent_proof": "Not determined within the reviewed source scope.",
+   "publicly_available_exemption": "Not determined within the reviewed source scope.",
+   "broker_registry": "Not determined within the reviewed source scope.",
+   "state_deletion_platform": "Not determined within the reviewed source scope.",
+   "narrow_protection": "New Mexico's enacted Data Breach Notification Act addresses notice, secure storage and disposal of personal identifying information. This source is the2017 enactment, not an omnibus-law absence finding.",
+   "source": "www.nmlegis.gov",
+   "url": "https://www.nmlegis.gov/sessions/17%20Regular/final/HB0015.PDF",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "narrow_protection": [
+     {
+      "source": "www.nmlegis.gov",
+      "url": "https://www.nmlegis.gov/sessions/17%20Regular/final/HB0015.PDF"
+     }
+    ]
+   }
+  },
+  {
+   "id": "new-york",
+   "state": "New York",
+   "law": "Not determined within the reviewed source scope.",
+   "citation": "Not determined within the reviewed source scope.",
+   "effective_date": "Not determined within the reviewed source scope.",
+   "right_to_delete": "Not determined within the reviewed source scope.",
+   "opt_out_sale_sharing": "Not determined within the reviewed source scope.",
+   "global_privacy_signal": "Not determined within the reviewed source scope.",
+   "authorized_agent": "Not determined within the reviewed source scope.",
+   "agent_proof": "Not determined within the reviewed source scope.",
+   "publicly_available_exemption": "Not determined within the reviewed source scope.",
+   "broker_registry": "Not determined within the reviewed source scope.",
+   "state_deletion_platform": "Not determined within the reviewed source scope.",
+   "narrow_protection": "New York's Attorney General explains SHIELD Act breach-notice expansion and reasonable administrative, technical and physical safeguards.",
+   "source": "ag.ny.gov",
+   "url": "https://ag.ny.gov/resources/organizations/data-breach-reporting/shield-act",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "narrow_protection": [
+     {
+      "source": "ag.ny.gov",
+      "url": "https://ag.ny.gov/resources/organizations/data-breach-reporting/shield-act"
+     }
+    ]
+   }
+  },
+  {
+   "id": "north-carolina",
+   "state": "North Carolina",
+   "law": "Not determined within the reviewed source scope.",
+   "citation": "Not determined within the reviewed source scope.",
+   "effective_date": "Not determined within the reviewed source scope.",
+   "right_to_delete": "Not determined within the reviewed source scope.",
+   "opt_out_sale_sharing": "Not determined within the reviewed source scope.",
+   "global_privacy_signal": "Not determined within the reviewed source scope.",
+   "authorized_agent": "Not determined within the reviewed source scope.",
+   "agent_proof": "Not determined within the reviewed source scope.",
+   "publicly_available_exemption": "Not determined within the reviewed source scope.",
+   "broker_registry": "Not determined within the reviewed source scope.",
+   "state_deletion_platform": "Not determined within the reviewed source scope.",
+   "narrow_protection": "North Carolina's reviewed statute requires qualifying security-breach notices without unreasonable delay, subject to its investigation and law-enforcement provisions.",
+   "source": "ncleg.gov",
+   "url": "https://ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_75/GS_75-65.html",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "narrow_protection": [
+     {
+      "source": "ncleg.gov",
+      "url": "https://ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_75/GS_75-65.html"
+     }
+    ]
+   }
+  },
+  {
+   "id": "north-dakota",
+   "state": "North Dakota",
+   "law": "Not determined within the reviewed source scope.",
+   "citation": "Not determined within the reviewed source scope.",
+   "effective_date": "Not determined within the reviewed source scope.",
+   "right_to_delete": "Not determined within the reviewed source scope.",
+   "opt_out_sale_sharing": "Not determined within the reviewed source scope.",
+   "global_privacy_signal": "Not determined within the reviewed source scope.",
+   "authorized_agent": "Not determined within the reviewed source scope.",
+   "agent_proof": "Not determined within the reviewed source scope.",
+   "publicly_available_exemption": "Not determined within the reviewed source scope.",
+   "broker_registry": "Not determined within the reviewed source scope.",
+   "state_deletion_platform": "Not determined within the reviewed source scope.",
+   "narrow_protection": "North Dakota's reviewed chapter is Notice of Security Breach for Personal Information. This chapter's subject does not establish an omnibus consumer-rights regime.",
+   "source": "ndlegis.gov",
+   "url": "https://ndlegis.gov/prod/cencode/t51c30.pdf",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "narrow_protection": [
+     {
+      "source": "ndlegis.gov",
+      "url": "https://ndlegis.gov/prod/cencode/t51c30.pdf"
+     }
+    ]
+   }
+  },
+  {
+   "id": "ohio",
+   "state": "Ohio",
+   "law": "Not determined within the reviewed source scope.",
+   "citation": "Not determined within the reviewed source scope.",
+   "effective_date": "Not determined within the reviewed source scope.",
+   "right_to_delete": "Not determined within the reviewed source scope.",
+   "opt_out_sale_sharing": "Not determined within the reviewed source scope.",
+   "global_privacy_signal": "Not determined within the reviewed source scope.",
+   "authorized_agent": "Not determined within the reviewed source scope.",
+   "agent_proof": "Not determined within the reviewed source scope.",
+   "publicly_available_exemption": "Not determined within the reviewed source scope.",
+   "broker_registry": "Not determined within the reviewed source scope.",
+   "state_deletion_platform": "Not determined within the reviewed source scope.",
+   "narrow_protection": "The Ohio Attorney General explains that businesses and government entities must give notice when consumers' information is compromised. This is a breach-notice finding.",
+   "source": "www.ohioattorneygeneral.gov",
+   "url": "https://www.ohioattorneygeneral.gov/Individuals-and-Families/Consumers/Identity-Theft",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "narrow_protection": [
+     {
+      "source": "www.ohioattorneygeneral.gov",
+      "url": "https://www.ohioattorneygeneral.gov/Individuals-and-Families/Consumers/Identity-Theft"
+     }
+    ]
+   }
+  },
+  {
+   "id": "oklahoma",
+   "state": "Oklahoma",
+   "law": "Oklahoma consumer-data privacy law, SB 546 of 2026. Enacted rights begin January 1, 2027.",
+   "citation": "Oklahoma SB 546 of 2026, including section 22 commencement.",
+   "effective_date": "January 1, 2027. Enacted future law.",
+   "right_to_delete": "Covered right to delete personal data provided by or obtained about the consumer. Statutory exceptions and compliance alternatives apply. This right begins January 1, 2027.",
+   "opt_out_sale_sharing": "Covered opt-outs for targeted advertising, sale and qualifying profiling. The statutory profiling definition and exceptions apply. These rights begin January 1, 2027.",
+   "global_privacy_signal": "Not determined within the reviewed source scope.",
+   "authorized_agent": "The enacted section expressly permits a known child's parent or legal guardian to exercise the child's rights. This finding does not establish a general adult-agent mechanism. It begins January 1, 2027.",
+   "agent_proof": "The enacted section requires commercially reasonable authentication of consumer requests and permits necessary additional information. It begins January 1, 2027.",
+   "publicly_available_exemption": "The enacted definition includes specified government records, media and unrestricted consumer disclosures. The consumer-rights provisions begin January 1, 2027.",
+   "broker_registry": "Not determined within the reviewed source scope.",
+   "state_deletion_platform": "Not determined within the reviewed source scope.",
+   "narrow_protection": "Not determined within the reviewed source scope.",
+   "source": "www.oklegislature.gov",
+   "url": "https://www.oklegislature.gov/cf_pdf/2025-26%20ENR/SB/SB546%20ENR.PDF",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "effective_date": [
+     {
+      "source": "www.oklegislature.gov",
+      "url": "https://www.oklegislature.gov/cf_pdf/2025-26%20ENR/SB/SB546%20ENR.PDF"
+     }
+    ],
+    "law": [
+     {
+      "source": "www.oklegislature.gov",
+      "url": "https://www.oklegislature.gov/cf_pdf/2025-26%20ENR/SB/SB546%20ENR.PDF"
+     }
+    ],
+    "right_to_delete": [
+     {
+      "source": "www.oklegislature.gov",
+      "url": "https://www.oklegislature.gov/cf_pdf/2025-26%20ENR/SB/SB546%20ENR.PDF"
+     }
+    ],
+    "opt_out_sale_sharing": [
+     {
+      "source": "www.oklegislature.gov",
+      "url": "https://www.oklegislature.gov/cf_pdf/2025-26%20ENR/SB/SB546%20ENR.PDF"
+     }
+    ],
+    "citation": [
+     {
+      "source": "www.oklegislature.gov",
+      "url": "https://www.oklegislature.gov/cf_pdf/2025-26%20ENR/SB/SB546%20ENR.PDF"
+     }
+    ],
+    "publicly_available_exemption": [
+     {
+      "source": "www.oklegislature.gov",
+      "url": "https://www.oklegislature.gov/cf_pdf/2025-26%20ENR/SB/SB546%20ENR.PDF"
+     }
+    ],
+    "authorized_agent": [
+     {
+      "source": "www.oklegislature.gov",
+      "url": "https://www.oklegislature.gov/cf_pdf/2025-26%20ENR/SB/SB546%20ENR.PDF"
+     }
+    ],
+    "agent_proof": [
+     {
+      "source": "www.oklegislature.gov",
+      "url": "https://www.oklegislature.gov/cf_pdf/2025-26%20ENR/SB/SB546%20ENR.PDF"
+     }
+    ]
+   }
+  },
+  {
+   "id": "oregon",
+   "state": "Oregon",
+   "law": "Oregon Consumer Privacy Act.",
+   "citation": "Oregon Revised Statutes sections 646A.570 through 646A.589.",
+   "effective_date": "July 1, 2024 for covered for-profit businesses. July 1, 2025 for covered nonprofit entities.",
+   "right_to_delete": "Covered right to delete personal data concerning the consumer. Statutory exceptions and compliance alternatives apply.",
+   "opt_out_sale_sharing": "Covered opt-outs for targeted advertising, sale and qualifying profiling. The statutory profiling definition and exceptions apply.",
+   "global_privacy_signal": "Covered controllers must honor qualifying opt-out mechanisms or signals beginning January 1, 2026. Technical, consent and statutory conditions apply.",
+   "authorized_agent": "An agent may exercise opt-outs for sale, targeted advertising and profiling. The law does not require a controller to accept an agent's other rights requests.",
+   "agent_proof": "The controller must be able to verify identity and agent authority with commercially reasonable effort. The agent uses the method in the privacy notice.",
+   "publicly_available_exemption": "The reviewed guidance distinguishes public-record mailing lists from mixed profiles combining public and private information. Publicly available data includes specified government, media and consumer-public information.",
+   "broker_registry": "Oregon DCBS registers data brokers under HB 2052 of 2023. Covered brokers must register before collecting, selling or licensing brokered personal data within Oregon.",
+   "state_deletion_platform": "Not determined within the reviewed source scope.",
+   "narrow_protection": "Not determined within the reviewed source scope.",
+   "source": "www.doj.state.or.us",
+   "url": "https://www.doj.state.or.us/consumer-protection/id-theft-data-breaches/privacy/",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "law": [
+     {
+      "source": "www.doj.state.or.us",
+      "url": "https://www.doj.state.or.us/consumer-protection/id-theft-data-breaches/privacy/"
+     }
+    ],
+    "effective_date": [
+     {
+      "source": "www.doj.state.or.us",
+      "url": "https://www.doj.state.or.us/consumer-protection/id-theft-data-breaches/privacy/privacy-law-faqs-for-consumers/"
+     }
+    ],
+    "right_to_delete": [
+     {
+      "source": "www.doj.state.or.us",
+      "url": "https://www.doj.state.or.us/consumer-protection/id-theft-data-breaches/privacy/privacy-law-faqs-for-consumers/"
+     }
+    ],
+    "authorized_agent": [
+     {
+      "source": "www.doj.state.or.us",
+      "url": "https://www.doj.state.or.us/consumer-protection/id-theft-data-breaches/privacy/privacy-law-faqs-for-consumers/"
+     }
+    ],
+    "broker_registry": [
+     {
+      "source": "dfr.oregon.gov",
+      "url": "https://dfr.oregon.gov/business/licensing/data-broker-registry/Pages/index.aspx"
+     }
+    ],
+    "global_privacy_signal": [
+     {
+      "source": "www.doj.state.or.us",
+      "url": "https://www.doj.state.or.us/consumer-protection/for-businesses/privacy-law-faqs-for-businesses/"
+     }
+    ],
+    "agent_proof": [
+     {
+      "source": "www.doj.state.or.us",
+      "url": "https://www.doj.state.or.us/consumer-protection/for-businesses/privacy-law-faqs-for-businesses/"
+     }
+    ],
+    "publicly_available_exemption": [
+     {
+      "source": "www.doj.state.or.us",
+      "url": "https://www.doj.state.or.us/consumer-protection/for-businesses/privacy-law-faqs-for-nonprofits/"
+     }
+    ],
+    "opt_out_sale_sharing": [
+     {
+      "source": "www.doj.state.or.us",
+      "url": "https://www.doj.state.or.us/consumer-protection/id-theft-data-breaches/privacy/privacy-law-faqs-for-consumers/"
+     }
+    ],
+    "citation": [
+     {
+      "source": "www.doj.state.or.us",
+      "url": "https://www.doj.state.or.us/consumer-protection/id-theft-data-breaches/privacy/"
+     }
+    ]
+   }
+  },
+  {
+   "id": "pennsylvania",
+   "state": "Pennsylvania",
+   "law": "Not determined within the reviewed source scope.",
+   "citation": "Not determined within the reviewed source scope.",
+   "effective_date": "Not determined within the reviewed source scope.",
+   "right_to_delete": "Not determined within the reviewed source scope.",
+   "opt_out_sale_sharing": "Not determined within the reviewed source scope.",
+   "global_privacy_signal": "Not determined within the reviewed source scope.",
+   "authorized_agent": "Not determined within the reviewed source scope.",
+   "agent_proof": "Not determined within the reviewed source scope.",
+   "publicly_available_exemption": "Not determined within the reviewed source scope.",
+   "broker_registry": "Not determined within the reviewed source scope.",
+   "state_deletion_platform": "Not determined within the reviewed source scope.",
+   "narrow_protection": "Pennsylvania's Attorney General maintains an official data-breach reporting route under the Breach of Personal Information Notification Act.",
+   "source": "www.attorneygeneral.gov",
+   "url": "https://www.attorneygeneral.gov/report-a-data-breach/",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "narrow_protection": [
+     {
+      "source": "www.attorneygeneral.gov",
+      "url": "https://www.attorneygeneral.gov/report-a-data-breach/"
+     }
+    ]
+   }
+  },
+  {
+   "id": "rhode-island",
+   "state": "Rhode Island",
+   "law": "Rhode Island Data Transparency and Privacy Protection Act.",
+   "citation": "Rhode Island General Laws chapter 6-48.1.",
+   "effective_date": "January 1, 2026.",
+   "right_to_delete": "Covered right to delete personal data provided by or obtained about the consumer. Statutory exceptions and compliance alternatives apply.",
+   "opt_out_sale_sharing": "Covered opt-outs for targeted advertising, sale and qualifying profiling. The profiling provision specifies solely automated decisions with legal or similarly significant effects.",
+   "global_privacy_signal": "Not determined within the reviewed source scope.",
+   "authorized_agent": "A consumer may designate another person to exercise the statutory opt-outs. This finding does not establish an agent right to exercise every consumer request.",
+   "agent_proof": "The controller must be able to verify the customer's identity and the authorized agent's authority to act.",
+   "publicly_available_exemption": "The definition includes specified government records, widely distributed media and information the controller reasonably believes the customer made public.",
+   "broker_registry": "Not determined within the reviewed source scope.",
+   "state_deletion_platform": "Not determined within the reviewed source scope.",
+   "narrow_protection": "Not determined within the reviewed source scope.",
+   "source": "webserver.rilegislature.gov",
+   "url": "https://webserver.rilegislature.gov/Statutes/TITLE6/6-48.1/6-48.1-5.htm",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "law": [
+     {
+      "source": "webserver.rilegislature.gov",
+      "url": "https://webserver.rilegislature.gov/Statutes/TITLE6/6-48.1/6-48.1-5.htm"
+     }
+    ],
+    "effective_date": [
+     {
+      "source": "webserver.rilegislature.gov",
+      "url": "https://webserver.rilegislature.gov/Statutes/TITLE6/6-48.1/6-48.1-5.htm"
+     }
+    ],
+    "right_to_delete": [
+     {
+      "source": "webserver.rilegislature.gov",
+      "url": "https://webserver.rilegislature.gov/Statutes/TITLE6/6-48.1/6-48.1-5.htm"
+     }
+    ],
+    "opt_out_sale_sharing": [
+     {
+      "source": "webserver.rilegislature.gov",
+      "url": "https://webserver.rilegislature.gov/Statutes/TITLE6/6-48.1/6-48.1-5.htm"
+     }
+    ],
+    "authorized_agent": [
+     {
+      "source": "webserver.rilegislature.gov",
+      "url": "https://webserver.rilegislature.gov/Statutes/TITLE6/6-48.1/6-48.1-6.htm"
+     }
+    ],
+    "agent_proof": [
+     {
+      "source": "webserver.rilegislature.gov",
+      "url": "https://webserver.rilegislature.gov/Statutes/TITLE6/6-48.1/6-48.1-6.htm"
+     }
+    ],
+    "citation": [
+     {
+      "source": "webserver.rilegislature.gov",
+      "url": "https://webserver.rilegislature.gov/Statutes/TITLE6/6-48.1/6-48.1-5.htm"
+     }
+    ],
+    "publicly_available_exemption": [
+     {
+      "source": "webserver.rilegislature.gov",
+      "url": "https://webserver.rilegislature.gov/Statutes/TITLE6/6-48.1/6-48.1-2.htm"
+     }
+    ]
+   }
+  },
+  {
+   "id": "south-carolina",
+   "state": "South Carolina",
+   "law": "Not determined within the reviewed source scope.",
+   "citation": "Not determined within the reviewed source scope.",
+   "effective_date": "Not determined within the reviewed source scope.",
+   "right_to_delete": "Not determined within the reviewed source scope.",
+   "opt_out_sale_sharing": "Not determined within the reviewed source scope.",
+   "global_privacy_signal": "Not determined within the reviewed source scope.",
+   "authorized_agent": "Not determined within the reviewed source scope.",
+   "agent_proof": "Not determined within the reviewed source scope.",
+   "publicly_available_exemption": "Not determined within the reviewed source scope.",
+   "broker_registry": "Not determined within the reviewed source scope.",
+   "state_deletion_platform": "Not determined within the reviewed source scope.",
+   "narrow_protection": "South Carolina's reviewed code provision governs security-breach notice to affected residents. This source does not determine general deletion, GPC or agent rules.",
+   "source": "www.scstatehouse.gov",
+   "url": "https://www.scstatehouse.gov/code/t39c001.php",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "narrow_protection": [
+     {
+      "source": "www.scstatehouse.gov",
+      "url": "https://www.scstatehouse.gov/code/t39c001.php"
+     }
+    ]
+   }
+  },
+  {
+   "id": "south-dakota",
+   "state": "South Dakota",
+   "law": "Not determined within the reviewed source scope.",
+   "citation": "Not determined within the reviewed source scope.",
+   "effective_date": "Not determined within the reviewed source scope.",
+   "right_to_delete": "Not determined within the reviewed source scope.",
+   "opt_out_sale_sharing": "Not determined within the reviewed source scope.",
+   "global_privacy_signal": "Not determined within the reviewed source scope.",
+   "authorized_agent": "Not determined within the reviewed source scope.",
+   "agent_proof": "Not determined within the reviewed source scope.",
+   "publicly_available_exemption": "Not determined within the reviewed source scope.",
+   "broker_registry": "Not determined within the reviewed source scope.",
+   "state_deletion_platform": "Not determined within the reviewed source scope.",
+   "narrow_protection": "South Dakota's reviewed statute generally requires qualifying breach disclosure within60 days and notice to the Attorney General above250 affected residents, subject to the statutory conditions.",
+   "source": "sdlegislature.gov",
+   "url": "https://sdlegislature.gov/api/Statutes/22-40-20.html?all=true",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "narrow_protection": [
+     {
+      "source": "sdlegislature.gov",
+      "url": "https://sdlegislature.gov/api/Statutes/22-40-20.html?all=true"
+     }
+    ]
+   }
+  },
+  {
+   "id": "tennessee",
+   "state": "Tennessee",
+   "law": "Tennessee Information Protection Act.",
+   "citation": "Tennessee Code sections 47-18-3301 through 47-18-3315.",
+   "effective_date": "July 1, 2025.",
+   "right_to_delete": "Covered right to request deletion of personal information obtained about the consumer. The reviewed guidance excludes aggregated and deidentified information.",
+   "opt_out_sale_sharing": "Covered opt-outs for targeted advertising, sale and qualifying profiling. The statutory profiling definition and exceptions apply.",
+   "global_privacy_signal": "Not determined within the reviewed source scope.",
+   "authorized_agent": "Not determined within the reviewed source scope.",
+   "agent_proof": "Not determined within the reviewed source scope.",
+   "publicly_available_exemption": "The reviewed definition excludes publicly available, deidentified and aggregated information from personal information.",
+   "broker_registry": "Not determined within the reviewed source scope.",
+   "state_deletion_platform": "Not determined within the reviewed source scope.",
+   "narrow_protection": "Not determined within the reviewed source scope.",
+   "source": "www.tn.gov",
+   "url": "https://www.tn.gov/attorneygeneral/news/2025/4/30/pr25-25.html",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "law": [
+     {
+      "source": "www.tn.gov",
+      "url": "https://www.tn.gov/attorneygeneral/news/2025/4/30/pr25-25.html"
+     }
+    ],
+    "effective_date": [
+     {
+      "source": "www.tn.gov",
+      "url": "https://www.tn.gov/attorneygeneral/news/2025/4/30/pr25-25.html"
+     }
+    ],
+    "right_to_delete": [
+     {
+      "source": "www.tn.gov",
+      "url": "https://www.tn.gov/attorneygeneral/news/2025/4/30/pr25-25.html"
+     }
+    ],
+    "opt_out_sale_sharing": [
+     {
+      "source": "www.tn.gov",
+      "url": "https://www.tn.gov/attorneygeneral/news/2025/4/30/pr25-25.html"
+     }
+    ],
+    "publicly_available_exemption": [
+     {
+      "source": "www.tn.gov",
+      "url": "https://www.tn.gov/attorneygeneral/news/2025/4/30/pr25-25.html"
+     }
+    ],
+    "citation": [
+     {
+      "source": "www.tn.gov",
+      "url": "https://www.tn.gov/attorneygeneral/news/2025/4/30/pr25-25.html"
+     }
+    ]
+   }
+  },
+  {
+   "id": "texas",
+   "state": "Texas",
+   "law": "Texas Data Privacy and Security Act, Business and Commerce Code chapter 541.",
+   "citation": "Texas Business and Commerce Code chapter 541.",
+   "effective_date": "July 1, 2024 generally. Section 541.055(e), the agent and technology route, began January 1, 2025.",
+   "right_to_delete": "Covered right to delete personal data provided by or obtained about the consumer. Statutory exceptions and compliance alternatives apply.",
+   "opt_out_sale_sharing": "Covered opt-outs for targeted advertising, sale and qualifying profiling. The statutory profiling definition and exceptions apply.",
+   "global_privacy_signal": "Section 541.055(e)-(f) permits technology-based agent opt-outs for targeted advertising and sale, subject to verification, technical and statutory exceptions. That subsection became effective January 1, 2025.",
+   "authorized_agent": "A consumer may designate another person for targeted-advertising and sale opt-outs under section 541.055(e). Listed verification and statutory exceptions apply.",
+   "agent_proof": "The controller must be able to verify identity and the agent's authority with commercially reasonable effort. Section 541.055(e) also lists limited exceptions.",
+   "publicly_available_exemption": "The definition includes specified government records and information made public through media, consumers or unrestricted disclosure. Personal data excludes publicly available information.",
+   "broker_registry": "The Secretary of State maintains a searchable central Data Broker Registry under Business and Commerce Code section 510.006.",
+   "state_deletion_platform": "Not determined within the reviewed source scope.",
+   "narrow_protection": "Not determined within the reviewed source scope.",
+   "source": "tcss.legis.texas.gov",
+   "url": "https://tcss.legis.texas.gov/resources/BC/htm/BC.541.htm",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "law": [
+     {
+      "source": "tcss.legis.texas.gov",
+      "url": "https://tcss.legis.texas.gov/resources/BC/htm/BC.541.htm"
+     },
+     {
+      "source": "capitol.texas.gov",
+      "url": "https://capitol.texas.gov/tlodocs/88R/billtext/html/HB00004F.htm"
+     }
+    ],
+    "right_to_delete": [
+     {
+      "source": "tcss.legis.texas.gov",
+      "url": "https://tcss.legis.texas.gov/resources/BC/htm/BC.541.htm"
+     }
+    ],
+    "opt_out_sale_sharing": [
+     {
+      "source": "tcss.legis.texas.gov",
+      "url": "https://tcss.legis.texas.gov/resources/BC/htm/BC.541.htm"
+     }
+    ],
+    "authorized_agent": [
+     {
+      "source": "tcss.legis.texas.gov",
+      "url": "https://tcss.legis.texas.gov/resources/BC/htm/BC.541.htm"
+     }
+    ],
+    "agent_proof": [
+     {
+      "source": "tcss.legis.texas.gov",
+      "url": "https://tcss.legis.texas.gov/resources/BC/htm/BC.541.htm"
+     }
+    ],
+    "broker_registry": [
+     {
+      "source": "www.sos.state.tx.us",
+      "url": "https://www.sos.state.tx.us/statdoc/data-brokers.shtml"
+     }
+    ],
+    "global_privacy_signal": [
+     {
+      "source": "statutes.capitol.texas.gov",
+      "url": "https://statutes.capitol.texas.gov/Docs/BC/htm/BC.541.htm"
+     }
+    ],
+    "publicly_available_exemption": [
+     {
+      "source": "statutes.capitol.texas.gov",
+      "url": "https://statutes.capitol.texas.gov/Docs/BC/htm/BC.541.htm"
+     },
+     {
+      "source": "statutes.capitol.texas.gov",
+      "url": "https://statutes.capitol.texas.gov/Docs/BC/htm/BC.541.htm"
+     }
+    ],
+    "effective_date": [
+     {
+      "source": "capitol.texas.gov",
+      "url": "https://capitol.texas.gov/tlodocs/88R/billtext/html/HB00004F.htm"
+     }
+    ],
+    "citation": [
+     {
+      "source": "tcss.legis.texas.gov",
+      "url": "https://tcss.legis.texas.gov/resources/BC/htm/BC.541.htm"
+     },
+     {
+      "source": "capitol.texas.gov",
+      "url": "https://capitol.texas.gov/tlodocs/88R/billtext/html/HB00004F.htm"
+     }
+    ]
+   }
+  },
+  {
+   "id": "utah",
+   "state": "Utah",
+   "law": "Utah Consumer Privacy Act.",
+   "citation": "Utah Code Title 13, chapter 61.",
+   "effective_date": "December 31, 2023 for the act. The cited current rights section is operative July 1, 2026.",
+   "right_to_delete": "Covered right to delete personal data the consumer provided to the controller. Statutory exceptions apply.",
+   "opt_out_sale_sharing": "Covered opt-outs for targeted advertising and sale of personal data.",
+   "global_privacy_signal": "Not determined within the reviewed source scope.",
+   "authorized_agent": "The reviewed section directs a known child's parent or guardian and a protected adult's guardian or conservator to exercise rights on that person's behalf. It does not establish a general adult-agent mechanism.",
+   "agent_proof": "The controller may require necessary additional information if commercially reasonable authentication of a consumer request fails. The reviewed section does not specify separate adult-agent proof criteria.",
+   "publicly_available_exemption": "The definition includes specified government records, media, consumer-public information and unrestricted disclosures. The statutory audience restriction matters.",
+   "broker_registry": "Not determined within the reviewed source scope.",
+   "state_deletion_platform": "Not determined within the reviewed source scope.",
+   "narrow_protection": "Not determined within the reviewed source scope.",
+   "source": "le.utah.gov",
+   "url": "https://le.utah.gov/xcode/Title13/Chapter61/C13-61-S201_2026070120250507.pdf",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "right_to_delete": [
+     {
+      "source": "le.utah.gov",
+      "url": "https://le.utah.gov/xcode/Title13/Chapter61/C13-61-S201_2026070120250507.pdf"
+     }
+    ],
+    "opt_out_sale_sharing": [
+     {
+      "source": "le.utah.gov",
+      "url": "https://le.utah.gov/xcode/Title13/Chapter61/C13-61-S201_2026070120250507.pdf"
+     }
+    ],
+    "effective_date": [
+     {
+      "source": "le.utah.gov",
+      "url": "https://le.utah.gov/xcode/Title13/Chapter61/C13-61_2022050420231231.pdf"
+     }
+    ],
+    "publicly_available_exemption": [
+     {
+      "source": "le.utah.gov",
+      "url": "https://le.utah.gov/xcode/Title13/Chapter61/C13-61_2022050420231231.pdf"
+     }
+    ],
+    "law": [
+     {
+      "source": "le.utah.gov",
+      "url": "https://le.utah.gov/xcode/Title13/Chapter61/C13-61_2022050420231231.pdf"
+     }
+    ],
+    "citation": [
+     {
+      "source": "le.utah.gov",
+      "url": "https://le.utah.gov/xcode/Title13/Chapter61/C13-61_2022050420231231.pdf"
+     }
+    ],
+    "authorized_agent": [
+     {
+      "source": "le.utah.gov",
+      "url": "https://le.utah.gov/xcode/Title13/Chapter61/C13-61_2022050420231231.pdf"
+     }
+    ],
+    "agent_proof": [
+     {
+      "source": "le.utah.gov",
+      "url": "https://le.utah.gov/xcode/Title13/Chapter61/C13-61_2022050420231231.pdf"
+     }
+    ]
+   }
+  },
+  {
+   "id": "vermont",
+   "state": "Vermont",
+   "law": "Vermont Data Privacy and Online Surveillance Act. Enacted consumer rights begin January 1, 2028.",
+   "citation": "9 Vermont Statutes Annotated chapter 61A; section 2446 for existing data-broker registration.",
+   "effective_date": "January 1, 2028 for the enacted consumer rights. Existing broker-registration rules have separate dates.",
+   "right_to_delete": "Covered right to delete personal data provided by or obtained about the consumer. Statutory exceptions and compliance alternatives apply. This right begins January 1, 2028.",
+   "opt_out_sale_sharing": "Covered opt-outs for targeted advertising, sale and qualifying profiling. The profiling provision reaches any automated decision with the specified effects. These rights begin January 1, 2028.",
+   "global_privacy_signal": "The enacted future provision allows agent designation through qualifying browser, extension or global-device technology. Authentication requirements apply. This finding does not establish unconditional signal acceptance. It begins January 1, 2028.",
+   "authorized_agent": "A consumer may designate another person to exercise the statutory opt-outs. This finding does not establish an agent right to exercise every consumer request. The provision begins January 1, 2028.",
+   "agent_proof": "The controller must be able to verify or authenticate identity and the agent's authority with commercially reasonable effort. The provision begins January 1, 2028.",
+   "publicly_available_exemption": "The future definition includes public sources but excludes specified biometrics, assembled consumer profiles, related inferences, mixed personal-data profiles and other listed material. The consumer-rights provisions begin January 1, 2028.",
+   "broker_registry": "Existing data brokers register annually by January 31 under the current section 2446 rule. The displayed January 1, 2027 amended rule has separate fees, timing and requirements.",
+   "state_deletion_platform": "Not determined within the reviewed source scope.",
+   "narrow_protection": "Not determined within the reviewed source scope.",
+   "source": "legislature.vermont.gov",
+   "url": "https://legislature.vermont.gov/statutes/fullchapter/09/061a",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "law": [
+     {
+      "source": "legislature.vermont.gov",
+      "url": "https://legislature.vermont.gov/statutes/fullchapter/09/061a"
+     }
+    ],
+    "effective_date": [
+     {
+      "source": "legislature.vermont.gov",
+      "url": "https://legislature.vermont.gov/statutes/fullchapter/09/061a"
+     }
+    ],
+    "right_to_delete": [
+     {
+      "source": "legislature.vermont.gov",
+      "url": "https://legislature.vermont.gov/statutes/fullchapter/09/061a"
+     }
+    ],
+    "opt_out_sale_sharing": [
+     {
+      "source": "legislature.vermont.gov",
+      "url": "https://legislature.vermont.gov/statutes/fullchapter/09/061a"
+     }
+    ],
+    "authorized_agent": [
+     {
+      "source": "legislature.vermont.gov",
+      "url": "https://legislature.vermont.gov/statutes/fullchapter/09/061a"
+     }
+    ],
+    "agent_proof": [
+     {
+      "source": "legislature.vermont.gov",
+      "url": "https://legislature.vermont.gov/statutes/fullchapter/09/061a"
+     }
+    ],
+    "publicly_available_exemption": [
+     {
+      "source": "legislature.vermont.gov",
+      "url": "https://legislature.vermont.gov/statutes/fullchapter/09/061a"
+     }
+    ],
+    "broker_registry": [
+     {
+      "source": "legislature.vermont.gov",
+      "url": "https://legislature.vermont.gov/statutes/section/09/062/02446"
+     }
+    ],
+    "citation": [
+     {
+      "source": "legislature.vermont.gov",
+      "url": "https://legislature.vermont.gov/statutes/fullchapter/09/061a"
+     }
+    ],
+    "global_privacy_signal": [
+     {
+      "source": "legislature.vermont.gov",
+      "url": "https://legislature.vermont.gov/statutes/fullchapter/09/061a"
+     }
+    ]
+   }
+  },
+  {
+   "id": "virginia",
+   "state": "Virginia",
+   "law": "Virginia Consumer Data Protection Act.",
+   "citation": "Virginia Code Title 59.1, chapter 53.",
+   "effective_date": "January 1, 2023.",
+   "right_to_delete": "Covered right to delete personal data provided by or obtained about the consumer. Statutory exceptions and compliance alternatives apply.",
+   "opt_out_sale_sharing": "Covered opt-outs for targeted advertising, sale and qualifying profiling. The statutory profiling definition and exceptions apply.",
+   "global_privacy_signal": "Not determined within the reviewed source scope.",
+   "authorized_agent": "The reviewed section expressly permits a known child's parent or legal guardian to invoke the child's rights. It does not establish an adult authorized-agent procedure.",
+   "agent_proof": "Section 59.1-577(B)(4) requires commercially reasonable authentication of consumer requests and permits necessary additional information. The reviewed text does not supply separate adult-agent proof criteria.",
+   "publicly_available_exemption": "The definition includes specified government records, media, consumer-public information and unrestricted disclosures. The statutory audience restriction matters.",
+   "broker_registry": "Not determined within the reviewed source scope.",
+   "state_deletion_platform": "Not determined within the reviewed source scope.",
+   "narrow_protection": "Not determined within the reviewed source scope.",
+   "source": "law.lis.virginia.gov",
+   "url": "https://law.lis.virginia.gov/vacodefull/title59.1/chapter53/",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "law": [
+     {
+      "source": "law.lis.virginia.gov",
+      "url": "https://law.lis.virginia.gov/vacodefull/title59.1/chapter53/"
+     }
+    ],
+    "right_to_delete": [
+     {
+      "source": "law.lis.virginia.gov",
+      "url": "https://law.lis.virginia.gov/vacodefull/title59.1/chapter53/"
+     }
+    ],
+    "opt_out_sale_sharing": [
+     {
+      "source": "law.lis.virginia.gov",
+      "url": "https://law.lis.virginia.gov/vacodefull/title59.1/chapter53/"
+     }
+    ],
+    "publicly_available_exemption": [
+     {
+      "source": "law.lis.virginia.gov",
+      "url": "https://law.lis.virginia.gov/vacodefull/title59.1/chapter53/"
+     }
+    ],
+    "authorized_agent": [
+     {
+      "source": "law.lis.virginia.gov",
+      "url": "https://law.lis.virginia.gov/vacode/title59.1/chapter53/section59.1-577/"
+     }
+    ],
+    "agent_proof": [
+     {
+      "source": "law.lis.virginia.gov",
+      "url": "https://law.lis.virginia.gov/vacode/title59.1/chapter53/section59.1-577/"
+     }
+    ],
+    "effective_date": [
+     {
+      "source": "www.oag.state.va.us",
+      "url": "https://www.oag.state.va.us/consumer-protection/files/tips-and-info/Virginia-Consumer-Data-Protection-Act-Summary-2-2-23.pdf"
+     }
+    ],
+    "citation": [
+     {
+      "source": "law.lis.virginia.gov",
+      "url": "https://law.lis.virginia.gov/vacodefull/title59.1/chapter53/"
+     }
+    ]
+   }
+  },
+  {
+   "id": "washington",
+   "state": "Washington",
+   "law": "Not determined within the reviewed source scope.",
+   "citation": "Not determined within the reviewed source scope.",
+   "effective_date": "Not determined within the reviewed source scope.",
+   "right_to_delete": "Not determined within the reviewed source scope.",
+   "opt_out_sale_sharing": "Not determined within the reviewed source scope.",
+   "global_privacy_signal": "Not determined within the reviewed source scope.",
+   "authorized_agent": "Not determined within the reviewed source scope.",
+   "agent_proof": "Not determined within the reviewed source scope.",
+   "publicly_available_exemption": "Not determined within the reviewed source scope.",
+   "broker_registry": "Not determined within the reviewed source scope.",
+   "state_deletion_platform": "Not determined within the reviewed source scope.",
+   "narrow_protection": "Washington's My Health My Data Act protects consumer health data beyond HIPAA. This is a health-data-specific protection rather than an omnibus-rights finding.",
+   "source": "www.atg.wa.gov",
+   "url": "https://www.atg.wa.gov/protecting-washingtonians-personal-health-data-and-privacy",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "narrow_protection": [
+     {
+      "source": "www.atg.wa.gov",
+      "url": "https://www.atg.wa.gov/protecting-washingtonians-personal-health-data-and-privacy"
+     }
+    ]
+   }
+  },
+  {
+   "id": "west-virginia",
+   "state": "West Virginia",
+   "law": "Not determined within the reviewed source scope.",
+   "citation": "Not determined within the reviewed source scope.",
+   "effective_date": "Not determined within the reviewed source scope.",
+   "right_to_delete": "Not determined within the reviewed source scope.",
+   "opt_out_sale_sharing": "Not determined within the reviewed source scope.",
+   "global_privacy_signal": "Not determined within the reviewed source scope.",
+   "authorized_agent": "Not determined within the reviewed source scope.",
+   "agent_proof": "Not determined within the reviewed source scope.",
+   "publicly_available_exemption": "Not determined within the reviewed source scope.",
+   "broker_registry": "Not determined within the reviewed source scope.",
+   "state_deletion_platform": "Not determined within the reviewed source scope.",
+   "narrow_protection": "West Virginia's reviewed provision requires notice of specified breaches involving unencrypted and unredacted personal information and identity-theft/fraud risk.",
+   "source": "code.wvlegislature.gov",
+   "url": "https://code.wvlegislature.gov/46A-2A-102/",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "narrow_protection": [
+     {
+      "source": "code.wvlegislature.gov",
+      "url": "https://code.wvlegislature.gov/46A-2A-102/"
+     }
+    ]
+   }
+  },
+  {
+   "id": "wisconsin",
+   "state": "Wisconsin",
+   "law": "Not determined within the reviewed source scope.",
+   "citation": "Not determined within the reviewed source scope.",
+   "effective_date": "Not determined within the reviewed source scope.",
+   "right_to_delete": "Not determined within the reviewed source scope.",
+   "opt_out_sale_sharing": "Not determined within the reviewed source scope.",
+   "global_privacy_signal": "Not determined within the reviewed source scope.",
+   "authorized_agent": "Not determined within the reviewed source scope.",
+   "agent_proof": "Not determined within the reviewed source scope.",
+   "publicly_available_exemption": "Not determined within the reviewed source scope.",
+   "broker_registry": "Not determined within the reviewed source scope.",
+   "state_deletion_platform": "Not determined within the reviewed source scope.",
+   "narrow_protection": "Wisconsin DATCP publishes guidance on Wisconsin's Data Breach Notification Law. This source has a security-incident scope.",
+   "source": "datcp.wi.gov",
+   "url": "https://datcp.wi.gov/Pages/Publications/IDTheftDataBreach607.aspx",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "narrow_protection": [
+     {
+      "source": "datcp.wi.gov",
+      "url": "https://datcp.wi.gov/Pages/Publications/IDTheftDataBreach607.aspx"
+     }
+    ]
+   }
+  },
+  {
+   "id": "wyoming",
+   "state": "Wyoming",
+   "law": "Not determined within the reviewed source scope.",
+   "citation": "Not determined within the reviewed source scope.",
+   "effective_date": "Not determined within the reviewed source scope.",
+   "right_to_delete": "Not determined within the reviewed source scope.",
+   "opt_out_sale_sharing": "Not determined within the reviewed source scope.",
+   "global_privacy_signal": "Not determined within the reviewed source scope.",
+   "authorized_agent": "Not determined within the reviewed source scope.",
+   "agent_proof": "Not determined within the reviewed source scope.",
+   "publicly_available_exemption": "Not determined within the reviewed source scope.",
+   "broker_registry": "Not determined within the reviewed source scope.",
+   "state_deletion_platform": "Not determined within the reviewed source scope.",
+   "narrow_protection": "Wyoming's reviewed statute requires a prompt good-faith breach investigation and qualifying notice to affected Wyoming residents. This is a breach rule, not an omnibus deletion mechanism.",
+   "source": "wyoleg.gov",
+   "url": "https://wyoleg.gov/statutes/compress/title40.pdf",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "narrow_protection": [
+     {
+      "source": "wyoleg.gov",
+      "url": "https://wyoleg.gov/statutes/compress/title40.pdf"
+     }
+    ]
+   }
+  }
+ ]
+}

@@ -1,0 +1,172 @@
+{
+ "name": "The Low Profile Standard",
+ "version": "1.4",
+ "url": "https://golowprofile.com/standard",
+ "publisher": "Go Low Profile",
+ "last_verified": "2026-10-24",
+ "license": "https://creativecommons.org/licenses/by/4.0/",
+ "checks": [
+  {
+   "code": "LP-1",
+   "area": "Mail",
+   "check": "Mailing destination reviewed before filing a change of address",
+   "why": "Choose a mailing address you can use. USPS licenses permanent change-of-address data; its full-service dataset covers 48 months.",
+   "source": "USPS PostalPro, NCOALink",
+   "url": "https://postalpro.usps.com/mailing-and-shipping-services/NCOALink",
+   "last_verified": "2026-10-24"
+  },
+  {
+   "code": "LP-2",
+   "area": "Mail",
+   "check": "Private mailing address used where accepted",
+   "why": "Keep required residence and identity addresses accurate. Banks generally need a residential or business street address for customer identification.",
+   "source": "31 CFR 1020.220(a)(2)(i)(A)(3), bank customer identification",
+   "url": "https://www.ecfr.gov/current/title-31/subtitle-B/chapter-X/part-1020/subpart-B/section-1020.220",
+   "last_verified": "2026-10-24"
+  },
+  {
+   "code": "LP-3",
+   "area": "Mail",
+   "check": "New-account address requirements checked before opening",
+   "why": "Ask which address is for mail and which is required for identity or service. A private mailbox does not guarantee exclusion from credit records.",
+   "source": "31 CFR 1020.220(a)(2)(i)(A)(3), bank customer identification",
+   "url": "https://www.ecfr.gov/current/title-31/subtitle-B/chapter-X/part-1020/subpart-B/section-1020.220",
+   "last_verified": "2026-10-24"
+  },
+  {
+   "code": "LP-4",
+   "area": "Credit and utilities",
+   "check": "Credit frozen at Equifax, Experian and TransUnion",
+   "why": "For every adult in the household. Freezes are free.",
+   "source": "USA.gov, credit freezes",
+   "url": "https://www.usa.gov/credit-freeze",
+   "last_verified": "2026-10-24"
+  },
+  {
+   "code": "LP-5",
+   "area": "Credit and utilities",
+   "check": "NCTUE file frozen",
+   "why": "The phone, pay TV and utility exchange is separate from the three bureaus. Its freeze is free too.",
+   "source": "NCTUE, consumer options",
+   "url": "https://nctue.com/consumer/",
+   "last_verified": "2026-10-24"
+  },
+  {
+   "code": "LP-6",
+   "area": "Credit and utilities",
+   "check": "Prescreen opt-outs completed through each applicable route",
+   "why": "Use OptOutPrescreen for participating credit bureaus. A permanent opt-out needs the mailed election form. NCTUE has a separate prescreen opt-out.",
+   "source": "Equifax, pre-screened credit offers",
+   "url": "https://www.equifax.com/personal/education/credit-cards/articles/-/learn/pros-and-cons-of-pre-screened-credit-card-offers/",
+   "last_verified": "2026-10-24"
+  },
+  {
+   "code": "LP-7",
+   "area": "Phones",
+   "check": "Caller ID privacy reviewed with the carrier",
+   "why": "Request outbound caller ID blocking where available. Federal rules include exceptions for emergency services and certain called-party-paid services. Blocking display does not delete carrier records.",
+   "source": "47 CFR 64.1601(b), (d), (f), caller ID privacy and exceptions",
+   "url": "https://www.ecfr.gov/current/title-47/chapter-I/subchapter-B/part-64/subpart-P/section-64.1601",
+   "last_verified": "2026-10-24"
+  },
+  {
+   "code": "LP-8",
+   "area": "Phones",
+   "check": "Separate contact number used for optional sign-ups",
+   "why": "Give your usual number only when needed. Phone numbers can appear in search results. A separate number does not make an account anonymous.",
+   "source": "Google Search Help, Results about you",
+   "url": "https://support.google.com/websearch/answer/12719076",
+   "last_verified": "2026-10-24"
+  },
+  {
+   "code": "LP-9",
+   "area": "Search results",
+   "check": "Relevant Google results reviewed for personal addresses",
+   "why": "Google accepts personal-information removal requests, subject to its policies. Removing a Search result does not remove the information from the source website.",
+   "source": "Google Search Help, Results about you",
+   "url": "https://support.google.com/websearch/answer/12719076",
+   "last_verified": "2026-10-24"
+  },
+  {
+   "code": "LP-10",
+   "area": "Search results",
+   "check": "Results about you notifications enabled where available",
+   "why": "Choose email notifications in Results about you. Google can notify you when it finds matching personal information. Coverage and availability vary.",
+   "source": "Google Search Help, Results about you",
+   "url": "https://support.google.com/websearch/answer/12719076",
+   "last_verified": "2026-10-24"
+  },
+  {
+   "code": "LP-11",
+   "area": "Search results",
+   "check": "People-search requests tracked and rechecked monthly",
+   "why": "Consumer Reports' 2024 study followed 32 volunteers across 13 sites. Every participant still had information listed after four months.",
+   "source": "Consumer Reports, people-search removal study release, August 8, 2024",
+   "url": "https://advocacy.consumerreports.org/press_release/consumer-reports-evaluation-of-people-search-site-removal-services-finds-that-they-are-largely-ineffective/",
+   "last_verified": "2026-10-24"
+  },
+  {
+   "code": "LP-12",
+   "area": "Children",
+   "check": "School directory choices reviewed every school year",
+   "why": "Read each school's current directory notice and deadline. Submit or renew an opt-out when required, and confirm which information it covers.",
+   "source": "US Department of Education, directory information",
+   "url": "https://studentprivacy.ed.gov/content/directory-information",
+   "last_verified": "2026-10-24"
+  },
+  {
+   "code": "LP-13",
+   "area": "Children",
+   "check": "School and team contact-sharing choices checked",
+   "why": "Schools may designate participation in activities and sports as directory information. Check the school's notice. Private clubs set their own policies.",
+   "source": "34 CFR 99.3, directory information definition",
+   "url": "https://www.ecfr.gov/current/title-34/subtitle-A/part-99/subpart-A/section-99.3",
+   "last_verified": "2026-10-24"
+  },
+  {
+   "code": "LP-14",
+   "area": "Children",
+   "check": "No public photos that show the house or school",
+   "why": "Including location tags on family accounts. A phone photo can store the exact place it was taken, and people you share it with can see it.",
+   "source": "Apple, location data in photos",
+   "url": "https://support.apple.com/guide/personal-safety/manage-location-metadata-in-photos-ips0d7a5df82/web",
+   "last_verified": "2026-10-24"
+  },
+  {
+   "code": "LP-15",
+   "area": "The home",
+   "check": "Street View blur requested and outcome checked",
+   "why": "Google says an applied Street View blur is permanent. Use its current request and proof-of-address process, then confirm the result.",
+   "source": "Google Maps Help, Blur Street View Imagery",
+   "url": "https://support.google.com/maps/answer/15439776",
+   "last_verified": "2026-10-24"
+  },
+  {
+   "code": "LP-16",
+   "area": "The home",
+   "check": "Listing photo removal requested and outcome checked",
+   "why": "Use each platform's current owner or support route and record its response. A request is not a confirmed removal.",
+   "source": "Zillow Help, hiding or removing home photos",
+   "url": "https://zillow.zendesk.com/hc/en-us/articles/202036344-How-do-I-hide-or-remove-photos-of-my-home",
+   "last_verified": "2026-10-24"
+  },
+  {
+   "code": "LP-17",
+   "area": "The home",
+   "check": "Private mailbox used for deliveries it accepts",
+   "why": "Confirm acceptance with your mailbox provider. A CMRA receives postal mail for customers. Private-carrier services and delivery details depend on the provider.",
+   "source": "USPS, commercial mail receiving agencies",
+   "url": "https://faq.usps.com/articles/Knowledge/Commercial-Mail-Receiving-Agency-CMRA",
+   "last_verified": "2026-10-24"
+  },
+  {
+   "code": "LP-18",
+   "area": "The home",
+   "check": "Your attorney reviews disclosures before the purchase",
+   "why": "Ask your attorney how filings will show names and addresses. Florida's recording rules generally require grantee names and post-office addresses. Your attorney decides title.",
+   "source": "Florida Statutes 695.26(1)(f), recording requirements",
+   "url": "https://www.flsenate.gov/Laws/Statutes/2026/695.26",
+   "last_verified": "2026-10-24"
+  }
+ ]
+}

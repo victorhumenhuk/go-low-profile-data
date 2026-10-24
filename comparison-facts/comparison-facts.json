@@ -1,0 +1,472 @@
+{
+ "id": "comparison-facts",
+ "name": "Published privacy service prices and scopes",
+ "description": "First-party published options checked on October 24, 2026. GLP writes the best-for judgments. Missing coverage is not a negative coverage claim.",
+ "scope": "Published first-party price and scope evidence for the named subscription, family, concierge and free options. Unestablished features are explicit unknowns, not negative findings.",
+ "version": "1.1",
+ "published": "2026-10-24",
+ "verified": "2026-10-24",
+ "update_policy": "Recheck published prices quarterly.",
+ "columns": [
+  {
+   "key": "name",
+   "label": "Option"
+  },
+  {
+   "key": "price",
+   "label": "Published price"
+  },
+  {
+   "key": "scope",
+   "label": "Published scope"
+  },
+  {
+   "key": "children",
+   "label": "Children"
+  },
+  {
+   "key": "staff",
+   "label": "Staff"
+  },
+  {
+   "key": "county_records",
+   "label": "County source records"
+  },
+  {
+   "key": "turnaround",
+   "label": "Turnaround"
+  },
+  {
+   "key": "accountability",
+   "label": "Responsible provider"
+  },
+  {
+   "key": "best_for",
+   "label": "GLP editorial judgment"
+  }
+ ],
+ "changelog": [
+  {
+   "date": "2026-10-24",
+   "change": "First edition from current first-party sources."
+  },
+  {
+   "date": "2026-10-24",
+   "change": "Added current DeleteMe cost evidence, Optery adult and family options, and current Incogni Concierge staff scope. No personal flow tested."
+  }
+ ],
+ "license": "https://creativecommons.org/licenses/by/4.0/",
+ "rows": [
+  {
+   "id": "go-low-profile",
+   "name": "Go Low Profile",
+   "price": "Review $1,500. Cleanup $4,500. Move Kit $6,000. Upkeep $2,400 a year.",
+   "scope": "Mail, account and record coordination. A licensed agency runs searches where required.",
+   "children": "One household includes two adults and their children under 18.",
+   "staff": "Children and staff included in the Cleanup.",
+   "county_records": "County-record coordination remains subject to each office and the applicable law.",
+   "turnaround": "Cleanup planned over 4 to 8 weeks. Confirm the agreed timing in writing.",
+   "accountability": "Go Low Profile. Search agency named before the search where required.",
+   "best_for": "Best for a family seeking coordinated home-address work beyond broker requests.",
+   "source": "Go Low Profile published household offer",
+   "url": "https://golowprofile.com/pricing",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "price": [
+     {
+      "source": "GLP pricing",
+      "url": "https://golowprofile.com/pricing"
+     },
+     {
+      "source": "GLP pricing",
+      "url": "https://golowprofile.com/pricing"
+     },
+     {
+      "source": "GLP pricing",
+      "url": "https://golowprofile.com/pricing"
+     },
+     {
+      "source": "GLP pricing",
+      "url": "https://golowprofile.com/pricing"
+     }
+    ],
+    "children": [
+     {
+      "source": "GLP pricing",
+      "url": "https://golowprofile.com/pricing"
+     }
+    ],
+    "staff": [
+     {
+      "source": "GLP pricing",
+      "url": "https://golowprofile.com/pricing"
+     }
+    ],
+    "turnaround": [
+     {
+      "source": "GLP pricing",
+      "url": "https://golowprofile.com/pricing"
+     }
+    ],
+    "accountability": [
+     {
+      "source": "GLP pricing",
+      "url": "https://golowprofile.com/pricing"
+     }
+    ]
+   }
+  },
+  {
+   "id": "incogni-standard",
+   "name": "Incogni Standard",
+   "price": "$95.88 per year, billed annually; tax may apply",
+   "scope": "Recurring broker removals across the stated covered sites",
+   "children": "Not established by the retrieved source",
+   "staff": "Not established by the retrieved source",
+   "county_records": "Not established by the retrieved source",
+   "turnaround": "Not promised in the retrieved pricing evidence",
+   "accountability": "Incogni",
+   "best_for": "Best for an individual who wants recurring broker removal at a lower subscription cost.",
+   "source": "Incogni Standard official page",
+   "url": "https://incogni.com/pricing",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "scope": [
+     {
+      "source": "Incogni official pricing",
+      "url": "https://incogni.com/pricing"
+     }
+    ]
+   }
+  },
+  {
+   "id": "incogni-unlimited",
+   "name": "Incogni Unlimited",
+   "price": "$179.88 per year, billed annually; tax may apply",
+   "scope": "Recurring broker removals plus custom requests",
+   "children": "Not established by the retrieved source",
+   "staff": "Not established by the retrieved source",
+   "county_records": "Not established by the retrieved source",
+   "turnaround": "Not promised in the retrieved pricing evidence",
+   "accountability": "Incogni",
+   "best_for": "Best for an individual who wants assisted custom requests alongside broker removals.",
+   "source": "Incogni Unlimited official page",
+   "url": "https://incogni.com/pricing",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "scope": [
+     {
+      "source": "Incogni official pricing",
+      "url": "https://incogni.com/pricing"
+     }
+    ]
+   }
+  },
+  {
+   "id": "incogni-family",
+   "name": "Incogni Family",
+   "price": "$191.88 per year, billed annually; tax may apply",
+   "scope": "Family management for up to five members",
+   "children": "Not established by the retrieved source",
+   "staff": "Not established by the retrieved source",
+   "county_records": "Not established by the retrieved source",
+   "turnaround": "Not promised in the retrieved pricing evidence",
+   "accountability": "Incogni",
+   "best_for": "Best for up to five supported members who want recurring broker removals.",
+   "source": "Incogni Family official page",
+   "url": "https://incogni.com/pricing",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "scope": [
+     {
+      "source": "Incogni official pricing",
+      "url": "https://incogni.com/pricing"
+     }
+    ],
+    "members": [
+     {
+      "source": "Incogni official pricing",
+      "url": "https://incogni.com/pricing"
+     }
+    ]
+   }
+  },
+  {
+   "id": "incogni-family-unlimited",
+   "name": "Incogni Family Unlimited",
+   "price": "$275.88 per year, billed annually; tax may apply",
+   "scope": "Up to five members, with custom requests",
+   "children": "Not established by the retrieved source",
+   "staff": "Not established by the retrieved source",
+   "county_records": "Not established by the retrieved source",
+   "turnaround": "Not promised in the retrieved pricing evidence",
+   "accountability": "Incogni",
+   "best_for": "Best for up to five supported members who want broker removals and custom requests.",
+   "source": "Incogni Family Unlimited official page",
+   "url": "https://incogni.com/pricing",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "scope": [
+     {
+      "source": "Incogni official pricing",
+      "url": "https://incogni.com/pricing"
+     }
+    ],
+    "members": [
+     {
+      "source": "Incogni official pricing",
+      "url": "https://incogni.com/pricing"
+     }
+    ]
+   }
+  },
+  {
+   "id": "incogni-concierge",
+   "name": "Incogni Concierge",
+   "price": "Not published on the retrieved page",
+   "scope": "Dedicated specialist, weekly manual search, Google Maps residential blurring, written assessment and emergency support",
+   "children": "Not established by the retrieved source",
+   "staff": "The company describes coverage for U.S.-based principals, family and household staff.",
+   "county_records": "Not established by the retrieved source",
+   "turnaround": "Not promised in the retrieved pricing evidence",
+   "accountability": "Incogni",
+   "best_for": "Best for households seeking ongoing specialist assistance and emergency response.",
+   "source": "Incogni Concierge official page",
+   "url": "https://incogni.com/concierge",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "staff": [
+     {
+      "source": "Incogni current Concierge help article",
+      "url": "https://support.incogni.com/hc/en-us/articles/39059324161810-What-is-Incogni-Concierge"
+     }
+    ]
+   }
+  },
+  {
+   "id": "blackcloak",
+   "name": "BlackCloak private client service",
+   "price": "Starts at $10,000 per year",
+   "scope": "Devices, home networks, privacy and finances; family coverage can extend to children and household staff",
+   "children": "Family membership can extend to children",
+   "staff": "Family membership can extend to household staff",
+   "county_records": "Not established by the retrieved source",
+   "turnaround": "Not promised in the retrieved pricing evidence",
+   "accountability": "BlackCloak",
+   "best_for": "Best for households that need device and home-network security with concierge support.",
+   "source": "BlackCloak private client service official page",
+   "url": "https://my.blackcloak.io/private-client-services/",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "family": [
+     {
+      "source": "BlackCloak private clients FAQ",
+      "url": "https://my.blackcloak.io/private-client-services/"
+     }
+    ]
+   }
+  },
+  {
+   "id": "google-results",
+   "name": "Google Results about you",
+   "price": "No service price established in the retrieved help article",
+   "scope": "Request removal of eligible personal contact information from Google Search",
+   "children": "Not established by the retrieved source",
+   "staff": "Not established by the retrieved source",
+   "county_records": "Not established by the retrieved source",
+   "turnaround": "Not promised in the retrieved pricing evidence",
+   "accountability": "Google",
+   "best_for": "Best for requesting search-result removal while separately addressing the source.",
+   "source": "Google Results about you official page",
+   "url": "https://support.google.com/websearch/answer/12719076?hl=en",
+   "checked_on": "2026-10-24",
+   "field_citations": {}
+  },
+  {
+   "id": "drop",
+   "name": "California DROP",
+   "price": "Free",
+   "scope": "A California resident can submit one request to registered data brokers",
+   "children": "Not established by the retrieved source",
+   "staff": "Not established by the retrieved source",
+   "county_records": "Not established by the retrieved source",
+   "turnaround": "Not promised in the retrieved pricing evidence",
+   "accountability": "California",
+   "best_for": "Best for California residents seeking a free request across participating registered brokers.",
+   "source": "California DROP official page",
+   "url": "https://privacy.ca.gov/drop/",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "limits": [
+     {
+      "source": "CalPrivacy How DROP works",
+      "url": "https://privacy.ca.gov/drop/how-drop-works/"
+     }
+    ]
+   }
+  },
+  {
+   "id": "deleteme",
+   "name": "DeleteMe Solo",
+   "price": "$129 per year for one person, billed annually",
+   "scope": "Removal requests to covered data broker sites",
+   "children": "Not established by the retrieved source",
+   "staff": "Not established by the retrieved source",
+   "county_records": "Not established by the retrieved source",
+   "turnaround": "Not promised in the retrieved pricing evidence",
+   "accountability": "DeleteMe",
+   "best_for": "Best for an individual who wants a lower-cost broker-removal subscription.",
+   "source": "DeleteMe subscription cost help article",
+   "url": "https://help.joindeleteme.com/hc/en-us/articles/26605377008531-How-much-does-a-DeleteMe-Subscription-cost",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "price": [
+     {
+      "source": "DeleteMe subscription cost help article",
+      "url": "https://help.joindeleteme.com/hc/en-us/articles/26605377008531-How-much-does-a-DeleteMe-Subscription-cost"
+     }
+    ],
+    "scope": [
+     {
+      "source": "DeleteMe choosing a plan help article",
+      "url": "https://help.joindeleteme.com/hc/en-us/articles/8583943913235-Choosing-your-DeleteMe-Plan"
+     }
+    ]
+   }
+  },
+  {
+   "id": "optery-core",
+   "name": "Optery Core",
+   "price": "$39 per person per year, billed yearly",
+   "scope": "Automated broker removal",
+   "children": "Adults 18 and older only. The company excludes minors.",
+   "staff": "A dedicated staff-coordination feature was not established in the reviewed source.",
+   "county_records": "Source-record deletion is not established by this evidence.",
+   "turnaround": "No universal completion time established by the cited pricing page.",
+   "accountability": "Optery",
+   "best_for": "Best for an adult who wants lower-cost automated broker removal.",
+   "source": "Optery U.S. pricing",
+   "url": "https://www.optery.com/pricing/",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "price": [
+     {
+      "source": "Optery U.S. pricing",
+      "url": "https://www.optery.com/pricing/"
+     }
+    ],
+    "children": [
+     {
+      "source": "Optery child and minor policy",
+      "url": "https://help.optery.com/en/article/does-optery-cover-children-or-minors-under-the-age-of-18-10l12da/"
+     }
+    ],
+    "scope": [
+     {
+      "source": "Optery U.S. pricing",
+      "url": "https://www.optery.com/pricing/"
+     }
+    ]
+   }
+  },
+  {
+   "id": "optery-extended",
+   "name": "Optery Extended",
+   "price": "$149 per person per year, billed yearly",
+   "scope": "Broker removal with an assigned privacy agent for special circumstances",
+   "children": "Adults 18 and older only. The company excludes minors.",
+   "staff": "A dedicated staff-coordination feature was not established in the reviewed source.",
+   "county_records": "Source-record deletion is not established by this evidence.",
+   "turnaround": "No universal completion time established by the cited pricing page.",
+   "accountability": "Optery",
+   "best_for": "Best for an adult who wants broker removal with human support.",
+   "source": "Optery U.S. pricing",
+   "url": "https://www.optery.com/pricing/",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "price": [
+     {
+      "source": "Optery U.S. pricing",
+      "url": "https://www.optery.com/pricing/"
+     }
+    ],
+    "children": [
+     {
+      "source": "Optery child and minor policy",
+      "url": "https://help.optery.com/en/article/does-optery-cover-children-or-minors-under-the-age-of-18-10l12da/"
+     }
+    ],
+    "scope": [
+     {
+      "source": "Optery U.S. pricing",
+      "url": "https://www.optery.com/pricing/"
+     }
+    ]
+   }
+  },
+  {
+   "id": "optery-ultimate",
+   "name": "Optery Ultimate",
+   "price": "$249 per person per year, billed yearly",
+   "scope": "Broker removal with custom removal requests, subject to plan conditions",
+   "children": "Adults 18 and older only. The company excludes minors.",
+   "staff": "A dedicated staff-coordination feature was not established in the reviewed source.",
+   "county_records": "Source-record deletion is not established by this evidence.",
+   "turnaround": "No universal completion time established by the cited pricing page.",
+   "accountability": "Optery",
+   "best_for": "Best for an adult who wants broker removal with custom request coverage.",
+   "source": "Optery U.S. pricing",
+   "url": "https://www.optery.com/pricing/",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "price": [
+     {
+      "source": "Optery U.S. pricing",
+      "url": "https://www.optery.com/pricing/"
+     }
+    ],
+    "children": [
+     {
+      "source": "Optery child and minor policy",
+      "url": "https://help.optery.com/en/article/does-optery-cover-children-or-minors-under-the-age-of-18-10l12da/"
+     }
+    ],
+    "scope": [
+     {
+      "source": "Optery U.S. pricing",
+      "url": "https://www.optery.com/pricing/"
+     }
+    ]
+   }
+  },
+  {
+   "id": "optery-family",
+   "name": "Optery for Family",
+   "price": "Member plan prices with volume discounts up to 30 percent. No single household fee is stated.",
+   "scope": "Family management of member invitations, status and plan upgrades",
+   "children": "Adults 18 and older only. The company excludes minors.",
+   "staff": "Dedicated household-staff coverage is not established by the cited evidence.",
+   "county_records": "Source-record deletion is not established by this evidence.",
+   "turnaround": "No universal completion time established by this evidence.",
+   "accountability": "Optery",
+   "best_for": "Best for adults who want grouped plan management and volume pricing.",
+   "source": "Optery for Family",
+   "url": "https://www.optery.com/family/",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "children": [
+     {
+      "source": "Optery child and minor policy",
+      "url": "https://help.optery.com/en/article/does-optery-cover-children-or-minors-under-the-age-of-18-10l12da/"
+     }
+    ],
+    "scope": [
+     {
+      "source": "Optery for Family",
+      "url": "https://www.optery.com/family/"
+     }
+    ]
+   }
+  }
+ ]
+}

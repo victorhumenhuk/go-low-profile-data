@@ -1,0 +1,363 @@
+{
+ "id": "address-confidentiality-program-routes",
+ "name": "34 official address confidentiality program routes",
+ "description": "Official government information for the 34 listed jurisdictions. Program offices determine eligibility. No legal coverage or application outcome is implied.",
+ "scope": "33 named jurisdictions whose official program route was verified. No eligibility or national-completeness claim.",
+ "version": "1.0",
+ "published": "2026-10-24",
+ "verified": "2026-10-24",
+ "update_policy": "Recheck official routes quarterly. Record corrections in the changelog. Legal fields require separate statutory review.",
+ "columns": [
+  {
+   "key": "state",
+   "label": "Jurisdiction"
+  },
+  {
+   "key": "program",
+   "label": "Program"
+  },
+  {
+   "key": "program_url",
+   "label": "Official program page"
+  }
+ ],
+ "changelog": [
+  {
+   "date": "2026-10-24",
+   "change": "Initial source audit. Program contact routes and legal eligibility remain separate."
+  }
+ ],
+ "license": "https://creativecommons.org/licenses/by/4.0/",
+ "rows": [
+  {
+   "id": "california",
+   "state": "California",
+   "program": "Safe at Home",
+   "program_url": "https://www.sos.ca.gov/registries/safe-home",
+   "source": "California official program page",
+   "url": "https://www.sos.ca.gov/registries/safe-home",
+   "checked_on": "2026-10-24",
+   "field_citations": {}
+  },
+  {
+   "id": "colorado",
+   "state": "Colorado",
+   "program": "Address Confidentiality Program",
+   "program_url": "https://dcs.colorado.gov/acp",
+   "source": "Colorado official program page",
+   "url": "https://dcs.colorado.gov/acp",
+   "checked_on": "2026-10-24",
+   "field_citations": {}
+  },
+  {
+   "id": "connecticut",
+   "state": "Connecticut",
+   "program": "Address Confidentiality Program",
+   "program_url": "https://portal.ct.gov/SOTS/Business-Services/ACP/Address-Confidentiality-Program",
+   "source": "Connecticut official program page",
+   "url": "https://portal.ct.gov/SOTS/Business-Services/ACP/Address-Confidentiality-Program",
+   "checked_on": "2026-10-24",
+   "field_citations": {}
+  },
+  {
+   "id": "delaware",
+   "state": "Delaware",
+   "program": "Address Confidentiality Program",
+   "program_url": "https://delcode.delaware.gov/title11/c096/sc02/index.html",
+   "source": "Delaware official program page",
+   "url": "https://delcode.delaware.gov/title11/c096/sc02/index.html",
+   "checked_on": "2026-10-24",
+   "field_citations": {}
+  },
+  {
+   "id": "district-of-columbia",
+   "state": "District of Columbia",
+   "program": "Address Confidentiality Program",
+   "program_url": "https://ovsjg.dc.gov/acp",
+   "source": "District of Columbia official program page",
+   "url": "https://ovsjg.dc.gov/acp",
+   "checked_on": "2026-10-24",
+   "field_citations": {}
+  },
+  {
+   "id": "florida",
+   "state": "Florida",
+   "program": "Address Confidentiality Program",
+   "program_url": "https://www.myfloridalegal.com/criminal-justice",
+   "source": "Florida official program page",
+   "url": "https://www.myfloridalegal.com/criminal-justice",
+   "checked_on": "2026-10-24",
+   "field_citations": {}
+  },
+  {
+   "id": "hawaii",
+   "state": "Hawaii",
+   "program": "Address Confidentiality Program",
+   "program_url": "https://law.hawaii.gov/resources/hawaii-address-confidentiality-program-acp/",
+   "source": "Hawaii official program page",
+   "url": "https://law.hawaii.gov/resources/hawaii-address-confidentiality-program-acp/",
+   "checked_on": "2026-10-24",
+   "field_citations": {}
+  },
+  {
+   "id": "idaho",
+   "state": "Idaho",
+   "program": "Address Confidentiality Program",
+   "program_url": "https://sos.idaho.gov/acp/",
+   "source": "Idaho official program page",
+   "url": "https://sos.idaho.gov/acp/",
+   "checked_on": "2026-10-24",
+   "field_citations": {}
+  },
+  {
+   "id": "illinois",
+   "state": "Illinois",
+   "program": "Address Confidentiality Program",
+   "program_url": "https://illinoisattorneygeneral.gov/safer-communities/supporting-victims-of-crime/address-confidentiality-program/",
+   "source": "Illinois official program page",
+   "url": "https://illinoisattorneygeneral.gov/safer-communities/supporting-victims-of-crime/address-confidentiality-program/",
+   "checked_on": "2026-10-24",
+   "field_citations": {}
+  },
+  {
+   "id": "indiana",
+   "state": "Indiana",
+   "program": "Address Confidentiality Program",
+   "program_url": "https://www.in.gov/attorneygeneral/about-the-office/appeals/victim-services/address-confidentiality-program/",
+   "source": "Indiana official program page",
+   "url": "https://www.in.gov/attorneygeneral/about-the-office/appeals/victim-services/address-confidentiality-program/",
+   "checked_on": "2026-10-24",
+   "field_citations": {}
+  },
+  {
+   "id": "kentucky",
+   "state": "Kentucky",
+   "program": "Safe at Home",
+   "program_url": "https://www.sos.ky.gov/safe-at-home/Pages/About-Safe-At-Home.aspx",
+   "source": "Kentucky official program page",
+   "url": "https://www.sos.ky.gov/safe-at-home/Pages/About-Safe-At-Home.aspx",
+   "checked_on": "2026-10-24",
+   "field_citations": {}
+  },
+  {
+   "id": "louisiana",
+   "state": "Louisiana",
+   "program": "Address Confidentiality Program",
+   "program_url": "https://www.sos.la.gov/our-office/address-confidentiality-program",
+   "source": "Louisiana official program page",
+   "url": "https://www.sos.la.gov/our-office/address-confidentiality-program",
+   "checked_on": "2026-10-24",
+   "field_citations": {}
+  },
+  {
+   "id": "maine",
+   "state": "Maine",
+   "program": "Address Confidentiality Program",
+   "program_url": "https://www.maine.gov/sos/about-us/address-confidentiality-program",
+   "source": "Maine official program page",
+   "url": "https://www.maine.gov/sos/about-us/address-confidentiality-program",
+   "checked_on": "2026-10-24",
+   "field_citations": {}
+  },
+  {
+   "id": "maryland",
+   "state": "Maryland",
+   "program": "Address Confidentiality Program",
+   "program_url": "https://sos.maryland.gov/ACP/Pages/default.aspx",
+   "source": "Maryland official program page",
+   "url": "https://sos.maryland.gov/ACP/Pages/default.aspx",
+   "checked_on": "2026-10-24",
+   "field_citations": {}
+  },
+  {
+   "id": "missouri",
+   "state": "Missouri",
+   "program": "Safe at Home",
+   "program_url": "https://www.sos.mo.gov/business/safeathome/about",
+   "source": "Missouri official program page",
+   "url": "https://www.sos.mo.gov/business/safeathome/about",
+   "checked_on": "2026-10-24",
+   "field_citations": {}
+  },
+  {
+   "id": "nebraska",
+   "state": "Nebraska",
+   "program": "Address Confidentiality Program",
+   "program_url": "https://sos.nebraska.gov/business-services/address-confidentiality-program",
+   "source": "Nebraska official program page",
+   "url": "https://sos.nebraska.gov/business-services/address-confidentiality-program",
+   "checked_on": "2026-10-24",
+   "field_citations": {}
+  },
+  {
+   "id": "nevada",
+   "state": "Nevada",
+   "program": "Confidential Address Program",
+   "program_url": "https://www.dcfs.nv.gov/Programs/CAP/",
+   "source": "Nevada official program page",
+   "url": "https://www.dcfs.nv.gov/Programs/CAP/",
+   "checked_on": "2026-10-24",
+   "field_citations": {}
+  },
+  {
+   "id": "new-jersey",
+   "state": "New Jersey",
+   "program": "Address Confidentiality Program",
+   "program_url": "https://nj.gov/dcf/divisions-offices/dow/acp.shtml",
+   "source": "New Jersey official program page",
+   "url": "https://nj.gov/dcf/divisions-offices/dow/acp.shtml",
+   "checked_on": "2026-10-24",
+   "field_citations": {}
+  },
+  {
+   "id": "new-mexico",
+   "state": "New Mexico",
+   "program": "Safe at Home",
+   "program_url": "https://www.sos.nm.gov/safe-at-home/",
+   "source": "New Mexico official program page",
+   "url": "https://www.sos.nm.gov/safe-at-home/",
+   "checked_on": "2026-10-24",
+   "field_citations": {}
+  },
+  {
+   "id": "new-york",
+   "state": "New York",
+   "program": "Address Confidentiality Program",
+   "program_url": "https://dos.ny.gov/ACP",
+   "source": "New York official program page",
+   "url": "https://dos.ny.gov/ACP",
+   "checked_on": "2026-10-24",
+   "field_citations": {}
+  },
+  {
+   "id": "oklahoma",
+   "state": "Oklahoma",
+   "program": "Address Confidentiality Program",
+   "program_url": "https://oklahoma.gov/oag/about/divisions/victim-advocacy-and-services-unit/acp.html",
+   "source": "Oklahoma official program page",
+   "url": "https://oklahoma.gov/oag/about/divisions/victim-advocacy-and-services-unit/acp.html",
+   "checked_on": "2026-10-24",
+   "field_citations": {}
+  },
+  {
+   "id": "oregon",
+   "state": "Oregon",
+   "program": "Address Confidentiality Program",
+   "program_url": "https://www.doj.state.or.us/crime-victims/victims-services/address-confidentiality-program-acp/",
+   "source": "Oregon official program page",
+   "url": "https://www.doj.state.or.us/crime-victims/victims-services/address-confidentiality-program-acp/",
+   "checked_on": "2026-10-24",
+   "field_citations": {}
+  },
+  {
+   "id": "pennsylvania",
+   "state": "Pennsylvania",
+   "program": "Address Confidentiality Program",
+   "program_url": "https://www.pa.gov/agencies/ova/address-confidentiality",
+   "source": "Pennsylvania official program page",
+   "url": "https://www.pa.gov/agencies/ova/address-confidentiality",
+   "checked_on": "2026-10-24",
+   "field_citations": {}
+  },
+  {
+   "id": "rhode-island",
+   "state": "Rhode Island",
+   "program": "Address Confidentiality Program",
+   "program_url": "https://www.sos.ri.gov/AddressConfidentialityProgram",
+   "source": "Rhode Island official program page",
+   "url": "https://www.sos.ri.gov/AddressConfidentialityProgram",
+   "checked_on": "2026-10-24",
+   "field_citations": {}
+  },
+  {
+   "id": "south-carolina",
+   "state": "South Carolina",
+   "program": "Address Confidentiality Program",
+   "program_url": "https://www.scag.gov/inside-the-office/crime-victim-services-division/address-confidentiality-program-acp/",
+   "source": "South Carolina official program page",
+   "url": "https://www.scag.gov/inside-the-office/crime-victim-services-division/address-confidentiality-program-acp/",
+   "checked_on": "2026-10-24",
+   "field_citations": {}
+  },
+  {
+   "id": "tennessee",
+   "state": "Tennessee",
+   "program": "Safe at Home",
+   "program_url": "https://sos.tn.gov/SafeAtHome",
+   "source": "Tennessee official program page",
+   "url": "https://sos.tn.gov/SafeAtHome",
+   "checked_on": "2026-10-24",
+   "field_citations": {}
+  },
+  {
+   "id": "texas",
+   "state": "Texas",
+   "program": "Address Confidentiality Program",
+   "program_url": "https://www.texasattorneygeneral.gov/crime-victims/victims-violent-crime/address-confidentiality-program",
+   "source": "Texas official program page",
+   "url": "https://www.texasattorneygeneral.gov/crime-victims/victims-violent-crime/address-confidentiality-program",
+   "checked_on": "2026-10-24",
+   "field_citations": {}
+  },
+  {
+   "id": "utah",
+   "state": "Utah",
+   "program": "Safe at Home",
+   "program_url": "https://safeathome.utah.gov/",
+   "source": "Utah official program page",
+   "url": "https://safeathome.utah.gov/",
+   "checked_on": "2026-10-24",
+   "field_citations": {}
+  },
+  {
+   "id": "vermont",
+   "state": "Vermont",
+   "program": "Safe at Home",
+   "program_url": "https://sos.vermont.gov/secretary-of-state-services/safe-at-home",
+   "source": "Vermont official program page",
+   "url": "https://sos.vermont.gov/secretary-of-state-services/safe-at-home",
+   "checked_on": "2026-10-24",
+   "field_citations": {}
+  },
+  {
+   "id": "virginia",
+   "state": "Virginia",
+   "program": "Address Confidentiality Program",
+   "program_url": "https://www.oag.state.va.us/programs-outreach/domestic-violence/address-confidentiality-program",
+   "source": "Virginia official program page",
+   "url": "https://www.oag.state.va.us/programs-outreach/domestic-violence/address-confidentiality-program",
+   "checked_on": "2026-10-24",
+   "field_citations": {}
+  },
+  {
+   "id": "washington",
+   "state": "Washington",
+   "program": "Address Confidentiality Program",
+   "program_url": "https://www.sos.wa.gov/statewide-programs/address-confidentiality-program-acp",
+   "source": "Washington official program page",
+   "url": "https://www.sos.wa.gov/statewide-programs/address-confidentiality-program-acp",
+   "checked_on": "2026-10-24",
+   "field_citations": {}
+  },
+  {
+   "id": "west-virginia",
+   "state": "West Virginia",
+   "program": "Address Confidentiality Program",
+   "program_url": "https://sos.wv.gov/about-us/address-confidentiality-program-acp",
+   "source": "West Virginia official program page",
+   "url": "https://sos.wv.gov/about-us/address-confidentiality-program-acp",
+   "checked_on": "2026-10-24",
+   "field_citations": {}
+  },
+  {
+   "id": "wisconsin",
+   "state": "Wisconsin",
+   "program": "Safe at Home",
+   "program_url": "https://www.wisdoj.gov/Pages/CrimeVictimServices/safe-at-home-address-confidentiality-program.aspx",
+   "source": "Wisconsin official program page",
+   "url": "https://www.wisdoj.gov/Pages/CrimeVictimServices/safe-at-home-address-confidentiality-program.aspx",
+   "checked_on": "2026-10-24",
+   "field_citations": {}
+  }
+ ]
+}

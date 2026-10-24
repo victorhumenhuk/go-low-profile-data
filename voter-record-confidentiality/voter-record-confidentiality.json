@@ -1,0 +1,3039 @@
+{
+ "id": "voter-record-confidentiality",
+ "name": "Voter record confidentiality",
+ "description": "Official voter-record access rules and confidentiality routes, with record-specific conditions and explicit unresolved fields. No individual voter file or record was accessed.",
+ "scope": "All 50 states and DC. Source-backed voter-file access, confidentiality categories, hidden fields and duration where established. Remaining gaps are bounded, not findings that protection is absent.",
+ "version": "1.1",
+ "published": "2026-10-24",
+ "verified": "2026-10-24",
+ "update_policy": "Recheck official routes quarterly. Record corrections in the changelog. Legal fields require separate statutory review.",
+ "columns": [
+  {
+   "key": "state",
+   "label": "Jurisdiction"
+  },
+  {
+   "key": "categories",
+   "label": "Categories"
+  },
+  {
+   "key": "form",
+   "label": "Form"
+  },
+  {
+   "key": "office",
+   "label": "Office"
+  },
+  {
+   "key": "hidden_fields",
+   "label": "Hidden fields"
+  },
+  {
+   "key": "duration",
+   "label": "Duration"
+  },
+  {
+   "key": "statute",
+   "label": "Statute"
+  },
+  {
+   "key": "voter_file_access",
+   "label": "Voter file access"
+  }
+ ],
+ "changelog": [
+  {
+   "date": "2026-10-24",
+   "change": "Initial source audit. Program contact routes and legal eligibility remain separate."
+  },
+  {
+   "date": "2026-10-24",
+   "change": "Completed 51-jurisdiction voter-file access review. Added 223 cited fields, including 51 access rules and specific confidentiality limits. Remaining gaps are explicit."
+  },
+  {
+   "date": "2026-10-24",
+   "change": "Completed source and independent semantic review. Corrected Hawaii to current HAR 3-177-159 and added Mississippi ACP voter eligibility and certification duration. Approval records assistant editorial review only."
+  }
+ ],
+ "license": "https://creativecommons.org/licenses/by/4.0/",
+ "rows": [
+  {
+   "id": "alabama",
+   "state": "Alabama",
+   "categories": "Section 17-4-33(b) covers specified domestic-violence victims or custodians of minors, domestic-violence protection-order situations, and federal/state prosecutors, listed judges, legislators, law-enforcement officers and their spouses. The voter files a signed affidavit with the county board of registrars.",
+   "form": "The Secretary of State supplies a Voter Registration Information Request form. This is a list-request form, not a confidentiality affidavit.",
+   "office": "County board of registrars where the person is registered or intends to register. The Secretary of State supplies the statutory affidavit.",
+   "hidden_fields": "For the qualifying affidavit, the generally available list retains the name and omits all other voter information. Lists provided to federal and state agencies are excepted.",
+   "duration": "Not determined within the reviewed source scope.",
+   "statute": "Ala.Code 17-4-33(b).",
+   "voter_file_access": "The Secretary of State accepts voter-list requests and quotes the fee before processing. Its published request form offers name, residence/mailing address, phone where available, date of birth, and voter-history fields. The qualifying17-4-33(b) affidavit creates a separate restriction.",
+   "source": "Official election source",
+   "url": "https://www.sos.alabama.gov/sites/default/files/voter-pdfs/Public-Inspection-Rules-for-Voter-Registration-Information.pdf",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "form": [
+     {
+      "source": "www.sos.alabama.gov",
+      "url": "https://www.sos.alabama.gov/sites/default/files/voter-pdfs/Public-Inspection-Rules-for-Voter-Registration-Information.pdf"
+     }
+    ],
+    "categories": [
+     {
+      "source": "Alabama Legislature",
+      "url": "https://alison.legislature.state.al.us/code-of-alabama?section=17-4-33"
+     },
+     {
+      "source": "Alabama Legislature",
+      "url": "https://alison.legislature.state.al.us/code-of-alabama?section=17-4-33"
+     }
+    ],
+    "hidden_fields": [
+     {
+      "source": "Alabama Legislature",
+      "url": "https://alison.legislature.state.al.us/code-of-alabama?section=17-4-33"
+     }
+    ],
+    "office": [
+     {
+      "source": "Alabama Legislature",
+      "url": "https://alison.legislature.state.al.us/code-of-alabama?section=17-4-33"
+     },
+     {
+      "source": "Alabama Legislature",
+      "url": "https://alison.legislature.state.al.us/code-of-alabama?section=17-4-33"
+     }
+    ],
+    "voter_file_access": [
+     {
+      "source": "Official election source",
+      "url": "https://www.sos.alabama.gov/sites/default/files/voter-pdfs/Public-Inspection-Rules-for-Voter-Registration-Information.pdf"
+     },
+     {
+      "source": "Official election source",
+      "url": "https://www.sos.alabama.gov/sites/default/files/voter-pdfs/Public-Inspection-Rules-for-Voter-Registration-Information.pdf"
+     }
+    ],
+    "statute": [
+     {
+      "source": "Alabama Legislature",
+      "url": "https://alison.legislature.state.al.us/code-of-alabama?section=17-4-33"
+     }
+    ]
+   }
+  },
+  {
+   "id": "alaska",
+   "state": "Alaska",
+   "categories": "A voter may elect to keep his or her residential address confidential if the mailing address is different from the residence address. This can be requested in writing or by checking the appropriate box on the voter registration application.",
+   "form": "This can be requested in writing or by checking the appropriate box on the voter registration application.",
+   "office": "Not determined within the reviewed source scope.",
+   "hidden_fields": "The listed confidential fields are age/date of birth, SSN, driver-license number, voter identification number, place of birth, signature, and a residence address made private when a different mailing address is supplied.",
+   "duration": "Not determined within the reviewed source scope.",
+   "statute": "Not determined within the reviewed source scope.",
+   "voter_file_access": "Any person may request a statewide or house-district voter list. Public fields include name, residence address unless made private, mailing address, party affiliation and voter history.",
+   "source": "Who is not included in PFD Automatic Voter Registration?",
+   "url": "https://www.elections.alaska.gov/doc/info/PFD%20AVR%20Manual%20FINAL.pdf",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "categories": [
+     {
+      "source": "www.elections.alaska.gov",
+      "url": "https://www.elections.alaska.gov/Core/publicandconfidentialinformation.php"
+     }
+    ],
+    "form": [
+     {
+      "source": "www.elections.alaska.gov",
+      "url": "https://www.elections.alaska.gov/Core/publicandconfidentialinformation.php"
+     }
+    ],
+    "hidden_fields": [
+     {
+      "source": "Who is not included in PFD Automatic Voter Registration?",
+      "url": "https://www.elections.alaska.gov/doc/info/PFD%20AVR%20Manual%20FINAL.pdf"
+     },
+     {
+      "source": "Who is not included in PFD Automatic Voter Registration?",
+      "url": "https://www.elections.alaska.gov/doc/info/PFD%20AVR%20Manual%20FINAL.pdf"
+     },
+     {
+      "source": "Who is not included in PFD Automatic Voter Registration?",
+      "url": "https://www.elections.alaska.gov/doc/info/PFD%20AVR%20Manual%20FINAL.pdf"
+     },
+     {
+      "source": "Who is not included in PFD Automatic Voter Registration?",
+      "url": "https://www.elections.alaska.gov/doc/info/PFD%20AVR%20Manual%20FINAL.pdf"
+     },
+     {
+      "source": "Who is not included in PFD Automatic Voter Registration?",
+      "url": "https://www.elections.alaska.gov/doc/info/PFD%20AVR%20Manual%20FINAL.pdf"
+     },
+     {
+      "source": "Who is not included in PFD Automatic Voter Registration?",
+      "url": "https://www.elections.alaska.gov/doc/info/PFD%20AVR%20Manual%20FINAL.pdf"
+     }
+    ],
+    "voter_file_access": [
+     {
+      "source": "Who is not included in PFD Automatic Voter Registration?",
+      "url": "https://www.elections.alaska.gov/doc/info/PFD%20AVR%20Manual%20FINAL.pdf"
+     }
+    ]
+   }
+  },
+  {
+   "id": "arizona",
+   "state": "Arizona",
+   "categories": "The exact statutory eligible-person definition, co-resident voter rule and the separate protective-order/ACP route must be read together.",
+   "form": "Prescribed affidavit under subsection (B), filed through the superior-court process. Specific operational form URL was not verified.",
+   "office": "Presiding superior-court judge reviews the court request. The county recorder implements the resulting order and has the separate subsection (J) route.",
+   "hidden_fields": "Identifying information, voter-registration documents and voting precinct number under the cited court process. The county recorder seals the order-covered registration within 120 days.",
+   "duration": "Court orders under subsection (E) last five years. Subsection (J) has distinct renewal and post-death continuity for ACP participants.",
+   "statute": "A.R.S. 16-153",
+   "voter_file_access": "Registrant records are restricted to authorized political/campaign/election, nonpartisan registration/outreach, redistricting or other statutory purposes. Commercial requests must be denied. Political/campaign sale to a candidate or committee is distinguished from prohibited commercial use.",
+   "source": "ARIZONA SECRETARY OF STATE",
+   "url": "https://apps.azsos.gov/election/files/epm/2023/20231230_EPM_Final_Edits_406_PM.pdf",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "categories": [
+     {
+      "source": "Arizona Legislature, A.R.S. 16-153",
+      "url": "https://www.azleg.gov/ars/16/00153.htm"
+     },
+     {
+      "source": "Arizona Legislature, A.R.S. 16-153",
+      "url": "https://www.azleg.gov/ars/16/00153.htm"
+     },
+     {
+      "source": "Arizona Legislature, A.R.S. 16-153",
+      "url": "https://www.azleg.gov/ars/16/00153.htm"
+     }
+    ],
+    "form": [
+     {
+      "source": "Arizona Legislature, A.R.S. 16-153",
+      "url": "https://www.azleg.gov/ars/16/00153.htm"
+     }
+    ],
+    "office": [
+     {
+      "source": "Arizona Legislature, A.R.S. 16-153",
+      "url": "https://www.azleg.gov/ars/16/00153.htm"
+     },
+     {
+      "source": "Arizona Legislature, A.R.S. 16-153",
+      "url": "https://www.azleg.gov/ars/16/00153.htm"
+     }
+    ],
+    "hidden_fields": [
+     {
+      "source": "Arizona Legislature, A.R.S. 16-153",
+      "url": "https://www.azleg.gov/ars/16/00153.htm"
+     },
+     {
+      "source": "Arizona Legislature, A.R.S. 16-153",
+      "url": "https://www.azleg.gov/ars/16/00153.htm"
+     }
+    ],
+    "duration": [
+     {
+      "source": "Arizona Legislature, A.R.S. 16-153",
+      "url": "https://www.azleg.gov/ars/16/00153.htm"
+     },
+     {
+      "source": "Arizona Legislature, A.R.S. 16-153",
+      "url": "https://www.azleg.gov/ars/16/00153.htm"
+     }
+    ],
+    "statute": [
+     {
+      "source": "Arizona Legislature, A.R.S. 16-153",
+      "url": "https://www.azleg.gov/ars/16/00153.htm"
+     }
+    ],
+    "voter_file_access": [
+     {
+      "source": "ARIZONA SECRETARY OF STATE",
+      "url": "https://apps.azsos.gov/election/files/epm/2023/20231230_EPM_Final_Edits_406_PM.pdf"
+     },
+     {
+      "source": "ARIZONA SECRETARY OF STATE",
+      "url": "https://apps.azsos.gov/election/files/epm/2023/20231230_EPM_Final_Edits_406_PM.pdf"
+     }
+    ]
+   }
+  },
+  {
+   "id": "arkansas",
+   "state": "Arkansas",
+   "categories": "The secure-voter route covers a registered domestic-violence victim whose case was adjudicated, who obtained a Domestic Abuse Act protection order, or who is recognized as a victim in a court order or ruling.",
+   "form": "Not determined within the reviewed source scope.",
+   "office": "Not determined within the reviewed source scope.",
+   "hidden_fields": "Address information for a secure voter is confidential and excluded from Freedom of Information Act public records. The voter still complies with voter-identification requirements.",
+   "duration": "Not determined within the reviewed source scope.",
+   "statute": "Ark.Code 7-5-112;Ark.Const.Amendment51§8(e) for baseline withheld fields.",
+   "voter_file_access": "The official data-request form permits requests for released voter data and says the state places no use restriction on that released data. It excludes federally or constitutionally restricted fields, which never appear in public files.",
+   "source": "Arkansas Voter Registration Data Request Policies and Instructions",
+   "url": "https://www.sos.arkansas.gov/uploads/Data_Request_Form_Updated.pdf",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "voter_file_access": [
+     {
+      "source": "Arkansas Voter Registration Data Request Policies and Instructions",
+      "url": "https://www.sos.arkansas.gov/uploads/Data_Request_Form_Updated.pdf"
+     },
+     {
+      "source": "Arkansas Voter Registration Data Request Policies and Instructions",
+      "url": "https://www.sos.arkansas.gov/uploads/Data_Request_Form_Updated.pdf"
+     }
+    ],
+    "categories": [
+     {
+      "source": "voter-ar-code",
+      "url": "https://www.sos.arkansas.gov/uploads/elections/Arkansas_Election_Laws_and_Constitution_2025_Edition.pdf"
+     }
+    ],
+    "hidden_fields": [
+     {
+      "source": "voter-ar-code",
+      "url": "https://www.sos.arkansas.gov/uploads/elections/Arkansas_Election_Laws_and_Constitution_2025_Edition.pdf"
+     },
+     {
+      "source": "voter-ar-code",
+      "url": "https://www.sos.arkansas.gov/uploads/elections/Arkansas_Election_Laws_and_Constitution_2025_Edition.pdf"
+     }
+    ],
+    "statute": [
+     {
+      "source": "voter-ar-code",
+      "url": "https://www.sos.arkansas.gov/uploads/elections/Arkansas_Election_Laws_and_Constitution_2025_Edition.pdf"
+     }
+    ]
+   }
+  },
+  {
+   "id": "california",
+   "state": "California",
+   "categories": "A separate2166.7 route covers the defined public-safety officers when the county board authorizes it and the applicant declares a life-threatening circumstance for the officer or family under penalty of perjury. Safe at Home is a separate program.",
+   "form": "Confidential Voter Registration Card",
+   "office": "Not determined within the reviewed source scope.",
+   "hidden_fields": "The2166.7 application covers residence address, telephone number and email address on the registration affidavit. The application itself is public. This is separate from the file-access restrictions for ordinary registrations.",
+   "duration": "For2166.7, the county sets a term no longer than two years. A new application may receive another term no longer than two years. This is not the duration of every California confidentiality program.",
+   "statute": "Cal.Elec.Code 2194 and2166.7;2CCR19000-19009 for file requests.",
+   "voter_file_access": "Authorized uses include election, scholarly, journalistic, political, governmental, record-review and qualifying vendor purposes. Source agencies evaluate applications; this is not an unrestricted public-person lookup right.",
+   "source": "California Secretary of State",
+   "url": "https://www.sos.ca.gov/administration/regulations/current-regulations/elections/access-voter-registration-information",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "form": [
+     {
+      "source": "California Secretary of State Safe at Home",
+      "url": "https://www.sos.ca.gov/registries/safe-home"
+     }
+    ],
+    "voter_file_access": [
+     {
+      "source": "Access to Voter Registration Information :: California Secretary of State",
+      "url": "https://www.sos.ca.gov/administration/regulations/current-regulations/elections/access-voter-registration-information"
+     },
+     {
+      "source": "Access to Voter Registration Information :: California Secretary of State",
+      "url": "https://www.sos.ca.gov/administration/regulations/current-regulations/elections/access-voter-registration-information"
+     },
+     {
+      "source": "Access to Voter Registration Information :: California Secretary of State",
+      "url": "https://www.sos.ca.gov/administration/regulations/current-regulations/elections/access-voter-registration-information"
+     }
+    ],
+    "categories": [
+     {
+      "source": "California Legislature,current Elections Code2166.7",
+      "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=2166.7.&lawCode=ELEC"
+     },
+     {
+      "source": "California Legislature,current Elections Code2166.7",
+      "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=2166.7.&lawCode=ELEC"
+     }
+    ],
+    "hidden_fields": [
+     {
+      "source": "California Legislature,current Elections Code2166.7",
+      "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=2166.7.&lawCode=ELEC"
+     },
+     {
+      "source": "California Legislature,current Elections Code2166.7",
+      "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=2166.7.&lawCode=ELEC"
+     }
+    ],
+    "duration": [
+     {
+      "source": "California Legislature,current Elections Code2166.7",
+      "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=2166.7.&lawCode=ELEC"
+     }
+    ],
+    "statute": [
+     {
+      "source": "California Legislature,current Elections Code2166.7",
+      "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=2166.7.&lawCode=ELEC"
+     }
+    ]
+   }
+  },
+  {
+   "id": "colorado",
+   "state": "Colorado",
+   "categories": "A voter who believes public information exposes the voter or household to criminal harassment or bodily harm may apply at the county clerk and recorder with the confidentiality form and$5 fee. The Colorado ACP is a separate survivor route.",
+   "form": "To become a confidential voter, you must go to your local county clerk and recorder's office, fill out a voter confidentiality form, and pay a $5.00 fee. Refer to this list of county clerk and recorder offices for the necessary contact information.",
+   "office": "To become a confidential voter, you must go to your local county clerk and recorder's office, fill out a voter confidentiality form, and pay a $5.00 fee. Refer to this list of county clerk and recorder offices for the necessary contact information.",
+   "hidden_fields": "The Secretary of State identifies SSN, driver-license number, birth month and day, signature and email as confidential.",
+   "duration": "Not determined within the reviewed source scope.",
+   "statute": "Not determined within the reviewed source scope.",
+   "voter_file_access": "The public information includes name, residential address, party and affiliation date, birth year and voting participation history. Phone and gender identity appear if provided.",
+   "source": "www.sos.state.co.us",
+   "url": "https://www.sos.state.co.us/pubs/elections/FAQs/VoterRegistrationData.html",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "voter_file_access": [
+     {
+      "source": "www.sos.state.co.us",
+      "url": "https://www.sos.state.co.us/pubs/elections/FAQs/VoterRegistrationData.html"
+     }
+    ],
+    "categories": [
+     {
+      "source": "Public Voter Data and Information Requests FAQs",
+      "url": "https://www.sos.state.co.us/pubs/elections/FAQs/VoterRegistrationData.html"
+     },
+     {
+      "source": "Public Voter Data and Information Requests FAQs",
+      "url": "https://www.sos.state.co.us/pubs/elections/FAQs/VoterRegistrationData.html"
+     },
+     {
+      "source": "Public Voter Data and Information Requests FAQs",
+      "url": "https://www.sos.state.co.us/pubs/elections/FAQs/VoterRegistrationData.html"
+     }
+    ],
+    "form": [
+     {
+      "source": "www.sos.state.co.us",
+      "url": "https://www.sos.state.co.us/pubs/elections/FAQs/VoterRegistrationData.html"
+     }
+    ],
+    "office": [
+     {
+      "source": "www.sos.state.co.us",
+      "url": "https://www.sos.state.co.us/pubs/elections/FAQs/VoterRegistrationData.html"
+     }
+    ],
+    "hidden_fields": [
+     {
+      "source": "www.sos.state.co.us",
+      "url": "https://www.sos.state.co.us/pubs/elections/FAQs/VoterRegistrationData.html"
+     }
+    ]
+   }
+  },
+  {
+   "id": "connecticut",
+   "state": "Connecticut",
+   "categories": "The Voter Registry Privacy Program accepts a sworn safety-endangerment statement for the individual or family. It is separate from the survivor ACP. Unlike that ACP, this registry process does not require a confidential move.",
+   "form": "Not determined within the reviewed source scope.",
+   "office": "Not determined within the reviewed source scope.",
+   "hidden_fields": "The safety-based program makes the voter's name and address confidential, with a polling-place election-official exception. Independently, the2026 public file supplies only year of birth.",
+   "duration": "Not determined within the reviewed source scope.",
+   "statute": "Not determined within the reviewed source scope.",
+   "voter_file_access": "The statewide registry file is available on written request to the Secretary of the State for the stated fee. Public Act26-1, section96 removes month/day of birth from released data, leaving year of birth.",
+   "source": "Centralized Voter Registration Information",
+   "url": "https://portal.ct.gov/SOTS/Election-Services/Election-Services/Centralized-Voter-Registration-Information---Voter-Privacy-Program",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "voter_file_access": [
+     {
+      "source": "Centralized Voter Registration Information",
+      "url": "https://portal.ct.gov/SOTS/Election-Services/Election-Services/Centralized-Voter-Registration-Information---Voter-Privacy-Program"
+     },
+     {
+      "source": "Centralized Voter Registration Information",
+      "url": "https://portal.ct.gov/SOTS/Election-Services/Election-Services/Centralized-Voter-Registration-Information---Voter-Privacy-Program"
+     }
+    ],
+    "categories": [
+     {
+      "source": "portal.ct.gov",
+      "url": "https://portal.ct.gov/SOTS/Election-Services/Election-Services/Centralized-Voter-Registration-Information---Voter-Privacy-Program"
+     }
+    ],
+    "hidden_fields": [
+     {
+      "source": "Centralized Voter Registration Information",
+      "url": "https://portal.ct.gov/SOTS/Election-Services/Election-Services/Centralized-Voter-Registration-Information---Voter-Privacy-Program"
+     },
+     {
+      "source": "Centralized Voter Registration Information",
+      "url": "https://portal.ct.gov/SOTS/Election-Services/Election-Services/Centralized-Voter-Registration-Information---Voter-Privacy-Program"
+     }
+    ]
+   }
+  },
+  {
+   "id": "delaware",
+   "state": "Delaware",
+   "categories": "§ 1303. Confidentiality of addresses. (a) A person may petition the Superior Court for an order to have that person's own address, which is required to be placed on voter application, registration or transfer records, kept confidential upon a showing of a legitimate need and lawful purpose. A person's participation in Department of Justice's Address Confidentiality Program shall constitute a legitimate need and lawful purpose for the purposes of this section. Upon submission to the State Election Commissioner and department of elections for the county in which the voter seeks to register of a certified copy of the court order granting confidentiality, the person's address shall be removed from all voter records available for public inspection, as long as the submission is not 21 days prior to an election, in which case the person's address shall be removed from the voter records within 7 days after the election.",
+   "form": "Upon submission to the State Election Commissioner and department of elections for the county in which the voter seeks to register of a certified copy of the court order granting confidentiality, the person's address shall be removed from all voter records available for public inspection, as long as the submission is not 21 days prior to an election, in which case the person's address shall be removed from the voter records within 7 days after the election.",
+   "office": "Upon submission to the State Election Commissioner and department of elections for the county in which the voter seeks to register of a certified copy of the court order granting confidentiality, the person's address shall be removed from all voter records available for public inspection, as long as the submission is not 21 days prior to an election, in which case the person's address shall be removed from the voter records within 7 days after the election.",
+   "hidden_fields": "After the court order is submitted, the address is withheld from public inspection and copying. Law-enforcement requests and further court orders remain exceptions. Court-directed disclosure requires notice to the person within three days and a confidentiality statement from the recipient.",
+   "duration": "(c) Any address rendered confidential pursuant to this section shall remain confidential for as long as the Court shall order.",
+   "statute": "Not determined within the reviewed source scope.",
+   "voter_file_access": "§ 1305. Custody of registration records; public inspection. (a) All registration records, when not in the custody of the registrars, shall be and remain in the custody of the department except as otherwise provided. The registration records shall, during normal business hours of each department, be open to the inspection of anyone desiring to examine the same, without fee or reward, provided, however, that Social Security number, date of birth, driver's license number and telephone number shall not be subject to such inspection. Anyone desiring to do so may be permitted to make copies or partial copies thereof.",
+   "source": "delcode.delaware.gov",
+   "url": "https://delcode.delaware.gov/title15/c013/index.html",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "categories": [
+     {
+      "source": "delcode.delaware.gov",
+      "url": "https://delcode.delaware.gov/title15/c013/index.html"
+     }
+    ],
+    "form": [
+     {
+      "source": "delcode.delaware.gov",
+      "url": "https://delcode.delaware.gov/title15/c013/index.html"
+     }
+    ],
+    "office": [
+     {
+      "source": "delcode.delaware.gov",
+      "url": "https://delcode.delaware.gov/title15/c013/index.html"
+     }
+    ],
+    "hidden_fields": [
+     {
+      "source": "delcode.delaware.gov",
+      "url": "https://delcode.delaware.gov/title15/c013/index.html"
+     }
+    ],
+    "duration": [
+     {
+      "source": "delcode.delaware.gov",
+      "url": "https://delcode.delaware.gov/title15/c013/index.html"
+     }
+    ],
+    "voter_file_access": [
+     {
+      "source": "delcode.delaware.gov",
+      "url": "https://delcode.delaware.gov/title15/c013/index.html"
+     }
+    ]
+   }
+  },
+  {
+   "id": "district-of-columbia",
+   "state": "District of Columbia",
+   "categories": "ACP can cover residents or prospective residents who fear for safety and experienced domestic violence, sexual assault, stalking or trafficking, plus covered victim-service and reproductive-healthcare workers. Recent/planned relocation or adequate measures to keep the current address inaccessible are required. Eligible voters use the statutory mail-ballot process.",
+   "form": "After certification, OVSJG sends the eligible participant's actual address and authorization card to BOE unless the participant opts out. A participant who votes must use a mail-in ballot.",
+   "office": "Not determined within the reviewed source scope.",
+   "hidden_fields": "The BOE notice excludes full/partial SSN, voter-registration number, birth date, email and phone. ACP supplies a separate actual-address protection route; this review does not promote the proposed2024 rule's broader record-removal language.",
+   "duration": "ACP certification lasts three years unless canceled earlier. Renewal adds two years. OVSJG must send expiration notice at least 60 days before certification expires.",
+   "statute": "Not determined within the reviewed source scope.",
+   "voter_file_access": "Voter-registration information is generally public, subject to the form's listed exclusions and additional federal or District confidentiality laws. The BOE form does not promise an unrestricted full-database release.",
+   "source": "Citizen Voter Registration Application | District of Columbia Board of Elections None",
+   "url": "https://dcboe.org/getmedia/7c8e138a-57ab-4626-b7aa-fa1c2ea488ee/VRF-English-01122024.pdf",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "form": [
+     {
+      "source": "§ 4–555.05. Address use by District agencies. | D.C. Law Library",
+      "url": "https://code.dccouncil.gov/us/dc/council/code/sections/4-555.05"
+     },
+     {
+      "source": "§ 4–555.05. Address use by District agencies. | D.C. Law Library",
+      "url": "https://code.dccouncil.gov/us/dc/council/code/sections/4-555.05"
+     }
+    ],
+    "voter_file_access": [
+     {
+      "source": "Citizen Voter Registration Application | District of Columbia Board of Elections None",
+      "url": "https://dcboe.org/getmedia/7c8e138a-57ab-4626-b7aa-fa1c2ea488ee/VRF-English-01122024.pdf"
+     }
+    ],
+    "hidden_fields": [
+     {
+      "source": "Citizen Voter Registration Application | District of Columbia Board of Elections None",
+      "url": "https://dcboe.org/getmedia/7c8e138a-57ab-4626-b7aa-fa1c2ea488ee/VRF-English-01122024.pdf"
+     },
+     {
+      "source": "Citizen Voter Registration Application | District of Columbia Board of Elections None",
+      "url": "https://dcboe.org/getmedia/7c8e138a-57ab-4626-b7aa-fa1c2ea488ee/VRF-English-01122024.pdf"
+     }
+    ],
+    "categories": [
+     {
+      "source": "Address Confidentiality Program | ovsjg",
+      "url": "https://ovsjg.dc.gov/acp"
+     },
+     {
+      "source": "Address Confidentiality Program | ovsjg",
+      "url": "https://ovsjg.dc.gov/acp"
+     }
+    ],
+    "duration": [
+     {
+      "source": "§ 4–555.03. Program applications and certification of participants. | D.C. Law Library",
+      "url": "https://code.dccouncil.gov/us/dc/council/code/sections/4-555.03"
+     },
+     {
+      "source": "§ 4–555.03. Program applications and certification of participants. | D.C. Law Library",
+      "url": "https://code.dccouncil.gov/us/dc/council/code/sections/4-555.03"
+     },
+     {
+      "source": "§ 4–555.03. Program applications and certification of participants. | D.C. Law Library",
+      "url": "https://code.dccouncil.gov/us/dc/council/code/sections/4-555.03"
+     }
+    ]
+   }
+  },
+  {
+   "id": "florida",
+   "state": "Florida",
+   "categories": "Separate routes cover ACP participants and statutorily designated high-risk professionals. ACP conditions appear in sections 97.0585(3) and 741.401-741.465. Occupational requests use the Department of State's exemption form and require a written request to each relevant agency.",
+   "form": "You submit a written request to each agency that may have your information such as your address, photo, and date of birth. However, you must fall within one of the statutorily designated classes of high-risk professionals. Please refer to the Department of State's Public Records Exemption Request form and follow instructions to submit the completed form to the Florida Department of State.",
+   "office": "The Attorney General handles ACP enrollment. Occupational requests go to each agency holding the information. The Department of State publishes its own exemption form.",
+   "hidden_fields": "SSN, driver-license/state-ID numbers and the source of the registration application are withheld. The signature may be viewed, not copied. Eligible high-risk-profession and ACP records have separate protection.",
+   "duration": "The domestic-violence ACP certification lasts four years after filing unless withdrawn or invalidated earlier. The statute requires a renewal procedure. This term is separate from occupational confidentiality under 119.071.",
+   "statute": "Fla.Stat. 97.0585(3),741.401-741.465 and 119.071. Different routes have separate conditions.",
+   "voter_file_access": "Most registration information is public, including name, address, date of birth, party, phone and email. Signature may be viewed but not copied. High-risk-profession and ACP restrictions require separate statutory conditions.",
+   "source": "Florida Department of State, Division of Elections",
+   "url": "https://dos.fl.gov/elections/for-voters/voter-registration/voter-information-is-public-record/",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "voter_file_access": [
+     {
+      "source": "Voter Information is Public Record - Division of Elections - Florida Department of State",
+      "url": "https://dos.fl.gov/elections/for-voters/voter-registration/voter-information-is-public-record/"
+     },
+     {
+      "source": "Voter Information is Public Record - Division of Elections - Florida Department of State",
+      "url": "https://dos.fl.gov/elections/for-voters/voter-registration/voter-information-is-public-record/"
+     }
+    ],
+    "categories": [
+     {
+      "source": "dos.fl.gov",
+      "url": "https://dos.fl.gov/elections/for-voters/voter-registration/voter-information-is-public-record/"
+     }
+    ],
+    "form": [
+     {
+      "source": "dos.fl.gov",
+      "url": "https://dos.fl.gov/elections/for-voters/voter-registration/voter-information-is-public-record/"
+     }
+    ],
+    "hidden_fields": [
+     {
+      "source": "Voter Information is Public Record - Division of Elections - Florida Department of State",
+      "url": "https://dos.fl.gov/elections/for-voters/voter-registration/voter-information-is-public-record/"
+     },
+     {
+      "source": "Voter Information is Public Record - Division of Elections - Florida Department of State",
+      "url": "https://dos.fl.gov/elections/for-voters/voter-registration/voter-information-is-public-record/"
+     }
+    ],
+    "duration": [
+     {
+      "source": "Statutes & Constitution :View Statutes : Online Sunshine",
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799%2F0741%2FSections%2F0741.403.html"
+     },
+     {
+      "source": "Statutes & Constitution :View Statutes : Online Sunshine",
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799%2F0741%2FSections%2F0741.403.html"
+     }
+    ],
+    "office": [
+     {
+      "source": "dos.fl.gov",
+      "url": "https://dos.fl.gov/elections/for-voters/voter-registration/voter-information-is-public-record/"
+     }
+    ],
+    "statute": [
+     {
+      "source": "dos.fl.gov",
+      "url": "https://dos.fl.gov/elections/for-voters/voter-registration/voter-information-is-public-record/"
+     }
+    ]
+   }
+  },
+  {
+   "id": "georgia",
+   "state": "Georgia",
+   "categories": "Georgia resident registered voters with a qualifying protective/restraining order or bona fide residence in a family-violence shelter, as the published conditions specify.",
+   "form": "Submit the VoteSafe Application and either the required order affidavit or qualifying shelter resident certification.",
+   "office": "County registrar.",
+   "hidden_fields": "The participant residence address is confidential from public disclosure and used only for voter-registration purposes.",
+   "duration": "Four years following registrar approval, unless withdrawal or cancellation occurs earlier. A move to another county requires a new application.",
+   "statute": "Not determined within the reviewed source scope.",
+   "voter_file_access": "If needed, purchasers/customers may submit a fillable PDF form Voter List Request Form and payment (please see pricing below) to the mailing address as listed on the top of the form. * The revenue from these voter list orders will be used to support voter list maintenance activities to ensure that Georgia's voter rolls remain the most accurate in the country. ## Voter Registration List Pricing Policy (Adopted July 15, 2024) No custom orders will be accepted, and no refunds are available in any circumstance. Order Type | Price as of July 1, 2024 County District Voter List | $45.00 County Precinct Voter List (up to 5 precincts) | $35.00 County Voter List | $70.00 Municipal Precinct Voter List (up to 5 precincts) | $35.00 Municipal District Voter List | $45.00 Municipal Voter List | $65.00 US Congressional District Voter List | $125.00 State House District Voter List | $75.00 State Senate District Voter List | $95.00 Judicial Circuit District Voter List | $125.00",
+   "source": "sos.ga.gov",
+   "url": "https://sos.ga.gov/page/order-voter-registration-lists-and-files",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "voter_file_access": [
+     {
+      "source": "sos.ga.gov",
+      "url": "https://sos.ga.gov/page/order-voter-registration-lists-and-files"
+     }
+    ],
+    "categories": [
+     {
+      "source": "sos.ga.gov",
+      "url": "https://sos.ga.gov/page/votesafe"
+     }
+    ],
+    "form": [
+     {
+      "source": "sos.ga.gov",
+      "url": "https://sos.ga.gov/page/votesafe"
+     }
+    ],
+    "office": [
+     {
+      "source": "sos.ga.gov",
+      "url": "https://sos.ga.gov/page/votesafe"
+     }
+    ],
+    "hidden_fields": [
+     {
+      "source": "sos.ga.gov",
+      "url": "https://sos.ga.gov/page/votesafe"
+     }
+    ],
+    "duration": [
+     {
+      "source": "sos.ga.gov",
+      "url": "https://sos.ga.gov/page/votesafe"
+     }
+    ]
+   }
+  },
+  {
+   "id": "hawaii",
+   "state": "Hawaii",
+   "categories": "A person may request confidential residence address and telephone information for good cause involving life-threatening circumstances, risk of bodily harm to the person or family, or an unwarranted invasion of privacy. Chapter 801G ACP participants have a separate authorization-card route.",
+   "form": "Use the confidential-registration form prescribed and provided by the chief election officer. It requires a sworn certification by self-subscribing oath stating the request basis. An optional mailing address may be released for election or government purposes. The clerk may request supporting information.",
+   "office": "The county clerk or county elections division administers registration. ACP participants present the current valid program authorization card to an election official.",
+   "hidden_fields": "Information declared confidential under 3-177-159 is not released even for election or government purposes, except the optional mailing address may replace the residence address. ACP participants' name, mailing address, actual address and phone cannot appear in a list or register. ACP actual-address disclosure requires a court order. The repealed ordinary-confidential-voter mail-only restriction is excluded.",
+   "duration": "Ordinary confidential registration lasts two election cycles and then requires reapplication unless the clerk waives it. ACP voters remain a special confidential class until officials learn from the participant or program that participation ended.",
+   "statute": "Hawaii Administrative Rules 3-177-159 and3-177-160. Chapter 3-172 was repealed in the2020 repeal-and-adoption instrument.",
+   "voter_file_access": "Full name, district/precinct designation and voter status are public for any purpose. Other registration records and derived lists are restricted to election or government purposes unless law provides otherwise. Election-purpose releases exclude the listed identifiers and private contact fields. Government requests have a separate justification procedure.",
+   "source": "Hawaii Office of Elections, current Hawaii Administrative Rules Chapter 3-177",
+   "url": "https://elections.hawaii.gov/wp-content/uploads/HAR-Office-of-Elections-1.pdf",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "categories": [
+     {
+      "source": "Hawaii Office of Elections, current Hawaii Administrative Rules Chapter3-177",
+      "url": "https://elections.hawaii.gov/wp-content/uploads/HAR-Office-of-Elections-1.pdf"
+     },
+     {
+      "source": "Hawaii Office of Elections, current Hawaii Administrative Rules Chapter3-177",
+      "url": "https://elections.hawaii.gov/wp-content/uploads/HAR-Office-of-Elections-1.pdf"
+     },
+     {
+      "source": "Hawaii Office of Elections, current Hawaii Administrative Rules Chapter3-177",
+      "url": "https://elections.hawaii.gov/wp-content/uploads/HAR-Office-of-Elections-1.pdf"
+     },
+     {
+      "source": "Hawaii Office of Elections, current Hawaii Administrative Rules Chapter3-177",
+      "url": "https://elections.hawaii.gov/wp-content/uploads/HAR-Office-of-Elections-1.pdf"
+     }
+    ],
+    "hidden_fields": [
+     {
+      "source": "Hawaii Office of Elections, current Hawaii Administrative Rules Chapter3-177",
+      "url": "https://elections.hawaii.gov/wp-content/uploads/HAR-Office-of-Elections-1.pdf"
+     },
+     {
+      "source": "Hawaii Office of Elections, current Hawaii Administrative Rules Chapter3-177",
+      "url": "https://elections.hawaii.gov/wp-content/uploads/HAR-Office-of-Elections-1.pdf"
+     },
+     {
+      "source": "Hawaii Office of Elections, current Hawaii Administrative Rules Chapter3-177",
+      "url": "https://elections.hawaii.gov/wp-content/uploads/HAR-Office-of-Elections-1.pdf"
+     }
+    ],
+    "voter_file_access": [
+     {
+      "source": "Hawaii Office of Elections, current Hawaii Administrative Rules Chapter3-177",
+      "url": "https://elections.hawaii.gov/wp-content/uploads/HAR-Office-of-Elections-1.pdf"
+     },
+     {
+      "source": "Hawaii Office of Elections, current Hawaii Administrative Rules Chapter3-177",
+      "url": "https://elections.hawaii.gov/wp-content/uploads/HAR-Office-of-Elections-1.pdf"
+     },
+     {
+      "source": "Hawaii Office of Elections, current Hawaii Administrative Rules Chapter3-177",
+      "url": "https://elections.hawaii.gov/wp-content/uploads/HAR-Office-of-Elections-1.pdf"
+     }
+    ],
+    "duration": [
+     {
+      "source": "Hawaii Office of Elections, current Hawaii Administrative Rules Chapter3-177",
+      "url": "https://elections.hawaii.gov/wp-content/uploads/HAR-Office-of-Elections-1.pdf"
+     },
+     {
+      "source": "Hawaii Office of Elections, current Hawaii Administrative Rules Chapter3-177",
+      "url": "https://elections.hawaii.gov/wp-content/uploads/HAR-Office-of-Elections-1.pdf"
+     },
+     {
+      "source": "Hawaii Office of Elections, current Hawaii Administrative Rules Chapter3-177",
+      "url": "https://elections.hawaii.gov/wp-content/uploads/HAR-Office-of-Elections-1.pdf"
+     }
+    ],
+    "form": [
+     {
+      "source": "Hawaii Office of Elections, current Hawaii Administrative Rules Chapter3-177",
+      "url": "https://elections.hawaii.gov/wp-content/uploads/HAR-Office-of-Elections-1.pdf"
+     },
+     {
+      "source": "Hawaii Office of Elections, current Hawaii Administrative Rules Chapter3-177",
+      "url": "https://elections.hawaii.gov/wp-content/uploads/HAR-Office-of-Elections-1.pdf"
+     }
+    ],
+    "office": [
+     {
+      "source": "Hawaii Office of Elections, current Hawaii Administrative Rules Chapter3-177",
+      "url": "https://elections.hawaii.gov/wp-content/uploads/HAR-Office-of-Elections-1.pdf"
+     },
+     {
+      "source": "Hawaii Office of Elections, current Hawaii Administrative Rules Chapter3-177",
+      "url": "https://elections.hawaii.gov/wp-content/uploads/HAR-Office-of-Elections-1.pdf"
+     }
+    ],
+    "statute": [
+     {
+      "source": "Hawaii Office of Elections, current Hawaii Administrative Rules Chapter3-177",
+      "url": "https://elections.hawaii.gov/wp-content/uploads/HAR-Office-of-Elections-1.pdf"
+     },
+     {
+      "source": "Hawaii Office of Elections, current Hawaii Administrative Rules Chapter3-177",
+      "url": "https://elections.hawaii.gov/wp-content/uploads/HAR-Office-of-Elections-1.pdf"
+     }
+    ]
+   }
+  },
+  {
+   "id": "idaho",
+   "state": "Idaho",
+   "categories": "ACP applicants must be survivors of domestic violence, sexual assault, stalking, human trafficking or malicious harassment, with a sworn safety statement and documentation. Adults or qualifying guardians may apply. The program includes confidential voter registration.",
+   "form": "Not determined within the reviewed source scope.",
+   "office": "Apply directly to the Office of the Secretary of State for ACP. Use the separate SOS voter/absentee-report request route for public election data.",
+   "hidden_fields": "The official ACP brochure lists confidential voter-registration records among its program protections.",
+   "duration": "ACP certification is valid for four years, with renewal or participant cancellation. This is the certification term for the verified ACP voter route.",
+   "statute": "Not determined within the reviewed source scope.",
+   "voter_file_access": "The Secretary of State supplies a separate Voter Registration and Absentee Ballot Reports request form. Its public-records page prohibits use as a mailing or telephone list under 74-120. Recipient-specific exceptions require that statute, not a blanket unrestricted-use assumption.",
+   "source": "Idaho Secretary of State",
+   "url": "https://sos.idaho.gov/public-records-requests/",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "categories": [
+     {
+      "source": "Address Confidentiality Program – Idaho Secretary of State",
+      "url": "https://sos.idaho.gov/acp/"
+     },
+     {
+      "source": "Address Confidentiality Program – Idaho Secretary of State",
+      "url": "https://sos.idaho.gov/acp/"
+     }
+    ],
+    "hidden_fields": [
+     {
+      "source": "sos.idaho.gov",
+      "url": "https://sos.idaho.gov/downloads/acp_brochure_english.pdf"
+     }
+    ],
+    "duration": [
+     {
+      "source": "Address Confidentiality Program – Idaho Secretary of State",
+      "url": "https://sos.idaho.gov/acp/"
+     }
+    ],
+    "voter_file_access": [
+     {
+      "source": "Public Records Requests - Idaho Secretary of State",
+      "url": "https://sos.idaho.gov/public-records-requests/"
+     },
+     {
+      "source": "Public Records Requests - Idaho Secretary of State",
+      "url": "https://sos.idaho.gov/public-records-requests/"
+     }
+    ],
+    "office": [
+     {
+      "source": "Address Confidentiality Program – Idaho Secretary of State",
+      "url": "https://sos.idaho.gov/acp/"
+     }
+    ]
+   }
+  },
+  {
+   "id": "illinois",
+   "state": "Illinois",
+   "categories": "The Attorney General ACP serves qualifying victims of domestic violence, sexual assault, human trafficking or stalking, including qualifying guardian applications. Applicants must be in Illinois or intend to move there. It has a specific voter application and mail-ballot route.",
+   "form": "Not determined within the reviewed source scope.",
+   "office": "ACP enrollment is handled by the Illinois Attorney General. The ACP voter registration application goes to the local election authority; mail voting is required for this privacy procedure.",
+   "hidden_fields": "For ACP voter privacy, the participant submits the Illinois ACP Voter Registration Application to the local election authority and votes by mail. Ordinary Board files separately omit date of birth. These are distinct restrictions.",
+   "duration": "ACP enrollment lasts four years. Participants may renew at the end of the term or withdraw earlier. Voter confidentiality still requires the separate ACP voting process described in the row.",
+   "statute": "Not determined within the reviewed source scope.",
+   "voter_file_access": "Voter data is available to registered political committees for bona fide political purposes. Use for commercial solicitation or other business purposes is prohibited. (10 ICLS 5/4-8, 5-7, 6-35). Voter data is also available for the limited purposes enumerated in the National Voter Registration Act. See 52 USC 20507.",
+   "source": "www.elections.il.gov",
+   "url": "https://www.elections.il.gov/VotingAndRegistrationSystems/ComputerizedVoterData.aspx",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "voter_file_access": [
+     {
+      "source": "www.elections.il.gov",
+      "url": "https://www.elections.il.gov/VotingAndRegistrationSystems/ComputerizedVoterData.aspx"
+     }
+    ],
+    "categories": [
+     {
+      "source": "Illinois Address Confidentiality Program (ACP)",
+      "url": "https://www.illinoisattorneygeneral.gov/Safer-Communities/Supporting-Victims-of-Crime/Address-Confidentiality-Program/"
+     },
+     {
+      "source": "Illinois Address Confidentiality Program (ACP)",
+      "url": "https://www.illinoisattorneygeneral.gov/Safer-Communities/Supporting-Victims-of-Crime/Address-Confidentiality-Program/"
+     }
+    ],
+    "hidden_fields": [
+     {
+      "source": "Illinois Address Confidentiality Program (ACP)",
+      "url": "https://www.illinoisattorneygeneral.gov/Safer-Communities/Supporting-Victims-of-Crime/Address-Confidentiality-Program/"
+     },
+     {
+      "source": "voter-il-data",
+      "url": "https://www.elections.il.gov/VotingAndRegistrationSystems/ComputerizedVoterData.aspx"
+     }
+    ],
+    "office": [
+     {
+      "source": "Illinois Address Confidentiality Program (ACP)",
+      "url": "https://www.illinoisattorneygeneral.gov/Safer-Communities/Supporting-Victims-of-Crime/Address-Confidentiality-Program/"
+     }
+    ],
+    "duration": [
+     {
+      "source": "Brochure 1",
+      "url": "https://illinoisattorneygeneral.gov/Page-Attachments/ACPBrochure.pdf"
+     },
+     {
+      "source": "Brochure 1",
+      "url": "https://illinoisattorneygeneral.gov/Page-Attachments/ACPBrochure.pdf"
+     }
+    ]
+   }
+  },
+  {
+   "id": "indiana",
+   "state": "Indiana",
+   "categories": "The ACP voter route covers qualifying victims of domestic abuse, stalking, sexual assault, harassment, human trafficking, intimidation or invasion of privacy. Enrollment must be communicated to the county voter office; it is not automatic notice from the ACP.",
+   "form": "Not determined within the reviewed source scope.",
+   "office": "Notify the county voter registration official, usually the county clerk, using the Notice to Government Entity form. ACP is administered by the Attorney General.",
+   "hidden_fields": "A flagged ACP voter record protects name, address, phone and other identifying information, subject to written law-enforcement requests and court orders. The county needs the participant's notice. Public-official/property-website suppression does not itself confer SVRS confidentiality.",
+   "duration": "The ACP voter record is marked confidential for a covered period ending June 30 in the fourth full year of enrollment. This is separate from the annual absentee-application coverage period.",
+   "statute": "Not determined within the reviewed source scope.",
+   "voter_file_access": "County registration records are generally open for inspection/copying. SVRS requests require VRG-24 and use commitments. Some statewide subscribers receive an unrestricted file; other state-level copies omit specified details. County electronic-copy policy must be uniform.",
+   "source": "voter-in-current",
+   "url": "https://www.in.gov/dA/9a3ce04db6/2026-Voter-Registration-Guidebook-Revised-Apr-2026.FINAL.pdf?language_id=1",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "categories": [
+     {
+      "source": "Voter Information: Address Confidentiality",
+      "url": "https://www.in.gov/sos/elections/voter-information/address-confidentiality"
+     },
+     {
+      "source": "Voter Information: Address Confidentiality",
+      "url": "https://www.in.gov/sos/elections/voter-information/address-confidentiality"
+     }
+    ],
+    "duration": [
+     {
+      "source": "voter-in-current",
+      "url": "https://www.in.gov/dA/9a3ce04db6/2026-Voter-Registration-Guidebook-Revised-Apr-2026.FINAL.pdf?language_id=1"
+     }
+    ],
+    "voter_file_access": [
+     {
+      "source": "voter-in-current",
+      "url": "https://www.in.gov/dA/9a3ce04db6/2026-Voter-Registration-Guidebook-Revised-Apr-2026.FINAL.pdf?language_id=1"
+     },
+     {
+      "source": "voter-in-current",
+      "url": "https://www.in.gov/dA/9a3ce04db6/2026-Voter-Registration-Guidebook-Revised-Apr-2026.FINAL.pdf?language_id=1"
+     },
+     {
+      "source": "voter-in-current",
+      "url": "https://www.in.gov/dA/9a3ce04db6/2026-Voter-Registration-Guidebook-Revised-Apr-2026.FINAL.pdf?language_id=1"
+     }
+    ],
+    "hidden_fields": [
+     {
+      "source": "Voter Information: Address Confidentiality",
+      "url": "https://www.in.gov/sos/elections/voter-information/address-confidentiality"
+     },
+     {
+      "source": "Voter Information: Address Confidentiality",
+      "url": "https://www.in.gov/sos/elections/voter-information/address-confidentiality"
+     }
+    ],
+    "office": [
+     {
+      "source": "Voter Information: Address Confidentiality",
+      "url": "https://www.in.gov/sos/elections/voter-information/address-confidentiality"
+     }
+    ]
+   }
+  },
+  {
+   "id": "iowa",
+   "state": "Iowa",
+   "categories": "Safe at Home serves qualifying survivors of domestic abuse/assault, sexual abuse, stalking or human trafficking, and qualifying guardian applications, with a sworn safety statement. It provides confidential voter registration and absentee voting.",
+   "form": "Not determined within the reviewed source scope.",
+   "office": "Not determined within the reviewed source scope.",
+   "hidden_fields": "Public lists exclude SSN, driver-license and non-operator ID numbers. The Safe at Home route separately removes the participant's name from public voter-registration records and keeps the actual address confidential under its exceptions.",
+   "duration": "Safe at Home enrollment lasts four years. The participant must renew at the end of the term or be canceled. This is the verified program term, not a duration for every record exemption.",
+   "statute": "Not determined within the reviewed source scope.",
+   "voter_file_access": "Purchased registration lists may be used to seek votes, for genuine political purposes, bona fide political research, or an elected official's bona fide official purpose. Commercial use is a serious misdemeanor. Statewide/congressional files come from SOS; county auditors handle their districts.",
+   "source": "Iowa Secretary of State",
+   "url": "https://sos.iowa.gov/voter-registration-list-requests",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "voter_file_access": [
+     {
+      "source": "Voter Registration List Requests | Iowa Secretary of State - Paul D. Pate",
+      "url": "https://sos.iowa.gov/voter-registration-list-requests"
+     },
+     {
+      "source": "Voter Registration List Requests | Iowa Secretary of State - Paul D. Pate",
+      "url": "https://sos.iowa.gov/voter-registration-list-requests"
+     }
+    ],
+    "hidden_fields": [
+     {
+      "source": "Voter Registration List Requests | Iowa Secretary of State - Paul D. Pate",
+      "url": "https://sos.iowa.gov/voter-registration-list-requests"
+     },
+     {
+      "source": "SAH Forms Booklet",
+      "url": "https://safeathome.iowa.gov/pdf/SAHFormsBooklet.pdf"
+     }
+    ],
+    "duration": [
+     {
+      "source": "SAH Forms Booklet",
+      "url": "https://safeathome.iowa.gov/pdf/SAHFormsBooklet.pdf"
+     }
+    ],
+    "categories": [
+     {
+      "source": "SAH Forms Booklet",
+      "url": "https://safeathome.iowa.gov/pdf/SAHFormsBooklet.pdf"
+     }
+    ]
+   }
+  },
+  {
+   "id": "kansas",
+   "state": "Kansas",
+   "categories": "The residence-nondisclosure route requires a clearly unwarranted privacy invasion or threat to safety. The standards identify domestic-violence victims, law-enforcement officers and judicial officers as common applicants. Safe at Home supplies an additional confidential-voting route.",
+   "form": "Form RN, Request for Nondisclosure of Residential Address, is the election-office form described by the standards. Safe at Home uses its own coordinated registration and advance-mail voting procedure.",
+   "office": "Not determined within the reviewed source scope.",
+   "hidden_fields": "SSN, driver-license and nondriver-ID numbers must be removed or unreadable before public inspection/copying. A separate residence-nondisclosure request and Safe at Home route apply under the election standards.",
+   "duration": "Not determined within the reviewed source scope.",
+   "statute": "Not determined within the reviewed source scope.",
+   "voter_file_access": "25-2320. Copies of registration records; limitations on public inspection. (a) The county election officer shall allow access to any person at any time during regular business hours, under supervision of the county election officer for the purpose of examining the voter registration books, active voter lists and other lists of voters required to be kept. Any person may make a written request for a copy of the registration books at any time except on any election day. The election officer is hereby directed to provide one or more copies which are accurate insofar as practicable of such books to the person so requesting. The election officer shall provide such copies to the person within 10 days following the request if so requested. The expense of making such copies shall be paid by the person requesting them. The cost of copies shall be established by the county election officer at a price which is not more than the actual cost and shall be set uniformly in order that the price therefor shall be the same for all persons requesting identical copies.(b) No voter registration record shall be made available for public inspection or copying unless the individual's social security number, driver's license number, nondriver's identification card number or any part thereof, has been removed or otherwise been rendered unreadable.",
+   "source": "kslegislature.gov",
+   "url": "https://kslegislature.gov/b2025_26/laws/025_000_0000_chapter/025_023_0000_article/025_023_0020_section/025_023_0020_k/",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "voter_file_access": [
+     {
+      "source": "kslegislature.gov",
+      "url": "https://kslegislature.gov/b2025_26/laws/025_000_0000_chapter/025_023_0000_article/025_023_0020_section/025_023_0020_k/"
+     }
+    ],
+    "hidden_fields": [
+     {
+      "source": "voter-ks-file-code",
+      "url": "https://kslegislature.gov/b2025_26/laws/025_000_0000_chapter/025_023_0000_article/025_023_0020_section/025_023_0020_k/"
+     }
+    ],
+    "categories": [
+     {
+      "source": "Chapter I. Voter Registration",
+      "url": "https://www.sos.ks.gov/elections/19elec/2019-Kansas-Election-Standards-Chapter-I-Voter-Registration.pdf"
+     },
+     {
+      "source": "Chapter I. Voter Registration",
+      "url": "https://www.sos.ks.gov/elections/19elec/2019-Kansas-Election-Standards-Chapter-I-Voter-Registration.pdf"
+     }
+    ],
+    "form": [
+     {
+      "source": "Chapter I. Voter Registration",
+      "url": "https://www.sos.ks.gov/elections/19elec/2019-Kansas-Election-Standards-Chapter-I-Voter-Registration.pdf"
+     }
+    ]
+   }
+  },
+  {
+   "id": "kentucky",
+   "state": "Kentucky",
+   "categories": "Safe at Home covers qualifying crime survivors, including sexual assault, domestic violence, trafficking and stalking. The2023expansion replaced the emergency-protective-order prerequisite with a sworn statement explaining the need to conceal the address.",
+   "form": "Not determined within the reviewed source scope.",
+   "office": "Safe at Home applications go to the Secretary of State. Copies are available through SOS, county clerks and authorized agencies. Public-data requests separately use State Board of Elections Form SBE84.",
+   "hidden_fields": "For Safe at Home participants, the address is hidden on publicly available voter records. Participants may vote by mail-in absentee ballot. This is distinct from ordinary qualified-recipient voter-data access.",
+   "duration": "Certification lasts four years unless canceled or the participant withdraws earlier. It can be renewed before expiration.",
+   "statute": "Not determined within the reviewed source scope.",
+   "voter_file_access": "Qualified candidates, political parties, and committees which advocate for or against an amendment or public question are eligible to request voter information. Every request must be submitted to the State Board of Elections on the",
+   "source": "elect.ky.gov",
+   "url": "https://elect.ky.gov/Candidates/Pages/Request-Voter-Registration-Data.aspx",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "voter_file_access": [
+     {
+      "source": "elect.ky.gov",
+      "url": "https://elect.ky.gov/Candidates/Pages/Request-Voter-Registration-Data.aspx"
+     }
+    ],
+    "categories": [
+     {
+      "source": "About Safe At Home - Secretary of State",
+      "url": "https://www.sos.ky.gov/safe-at-home/Pages/About-Safe-At-Home.aspx"
+     },
+     {
+      "source": "About Safe At Home - Secretary of State",
+      "url": "https://www.sos.ky.gov/safe-at-home/Pages/About-Safe-At-Home.aspx"
+     }
+    ],
+    "hidden_fields": [
+     {
+      "source": "About Safe At Home - Secretary of State",
+      "url": "https://www.sos.ky.gov/safe-at-home/Pages/About-Safe-At-Home.aspx"
+     }
+    ],
+    "duration": [
+     {
+      "source": "About Safe At Home - Secretary of State",
+      "url": "https://www.sos.ky.gov/safe-at-home/Pages/About-Safe-At-Home.aspx"
+     }
+    ],
+    "office": [
+     {
+      "source": "About Safe At Home - Secretary of State",
+      "url": "https://www.sos.ky.gov/safe-at-home/Pages/About-Safe-At-Home.aspx"
+     }
+    ]
+   }
+  },
+  {
+   "id": "louisiana",
+   "state": "Louisiana",
+   "categories": "Certified participants in the Department of State ACP receive a separate protected voter-registration route. The office notifies the parish registrar and supplies the substitute address. The cited program-assistance provision concerns victims of abuse, sexual assault or stalking; full statutory admission criteria still apply.",
+   "form": "Not determined within the reviewed source scope.",
+   "office": "Not determined within the reviewed source scope.",
+   "hidden_fields": "ACP participant names and physical addresses in voter-registration records are confidential. Law-enforcement requests, court orders and program cancellation are statutory exceptions. Registrars use the substitute address for registration and voting.",
+   "duration": "Not determined within the reviewed source scope.",
+   "statute": "Not determined within the reviewed source scope.",
+   "voter_file_access": "A database of public information of registered voters is only available for purchase using specifically defined selection criteria. The voter list is available through email as a PDF or tab delimited text file. In addition, printable address labels in PDF are available upon request during the online ordering process. You can receive a cost estimate and purchase a list of registered voters through our online application. The purchaser is responsible for defining the selection criteria, reviewing the estimate and paying in advance of receipt of the requested list.",
+   "source": "www.sos.la.gov",
+   "url": "https://www.sos.la.gov/elections-voting/purchase-voter-lists",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "voter_file_access": [
+     {
+      "source": "www.sos.la.gov",
+      "url": "https://www.sos.la.gov/elections-voting/purchase-voter-lists"
+     }
+    ],
+    "hidden_fields": [
+     {
+      "source": "RS  44:51-57",
+      "url": "https://www.sos.la.gov/OurOffice/PublishedDocuments/LaRS445157.pdf"
+     },
+     {
+      "source": "RS  44:51-57",
+      "url": "https://www.sos.la.gov/OurOffice/PublishedDocuments/LaRS445157.pdf"
+     }
+    ],
+    "categories": [
+     {
+      "source": "RS  44:51-57",
+      "url": "https://www.sos.la.gov/OurOffice/PublishedDocuments/LaRS445157.pdf"
+     },
+     {
+      "source": "RS  44:51-57",
+      "url": "https://www.sos.la.gov/OurOffice/PublishedDocuments/LaRS445157.pdf"
+     }
+    ]
+   }
+  },
+  {
+   "id": "maine",
+   "state": "Maine",
+   "categories": "Certified Title5§90-B ACP participants may register using an assigned voter code instead of name and the designated program address. The program administrator verifies municipality/district eligibility. This describes the verified ACP route, not every possible safety exemption.",
+   "form": "Not determined within the reviewed source scope.",
+   "office": "The SOS elections division handles ACP voter registration using the assigned code and designated address; records are kept sealed there.",
+   "hidden_fields": "Registration records sealed; participant name absent from public voter lists",
+   "duration": "ACP certification lasts four years unless withdrawn or invalidated earlier. A lapsing participant receives notice and a reapplication form. The voter registration uses the program certification expiration date.",
+   "statute": "Not determined within the reviewed source scope.",
+   "voter_file_access": "Central-system data is confidential except for the statute's recipient/use channels. Campaign/political and current-official lists have use and redistribution limits. A separate public extract under 1(F) cannot include both first and last names. It is not unrestricted identifying voter-file access.",
+   "source": "voter-me-file-code",
+   "url": "https://legislature.maine.gov/statutes/21-A/title21-Asec196-A.html",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "hidden_fields": [
+     {
+      "source": "Maine Legislature, 21-A M.R.S. 122-A",
+      "url": "https://legislature.maine.gov/statutes/21-a/title21-Asec122-A-2.html"
+     }
+    ],
+    "voter_file_access": [
+     {
+      "source": "voter-me-file-code",
+      "url": "https://legislature.maine.gov/statutes/21-A/title21-Asec196-A.html"
+     },
+     {
+      "source": "voter-me-file-code",
+      "url": "https://legislature.maine.gov/statutes/21-A/title21-Asec196-A.html"
+     }
+    ],
+    "categories": [
+     {
+      "source": "                            Title 21-A, §122-A: Alternative registration procedure for participants in Address Confidentiality Program",
+      "url": "https://legislature.maine.gov/statutes/21-a/title21-Asec122-A-2.html"
+     },
+     {
+      "source": "                            Title 21-A, §122-A: Alternative registration procedure for participants in Address Confidentiality Program",
+      "url": "https://legislature.maine.gov/statutes/21-a/title21-Asec122-A-2.html"
+     }
+    ],
+    "duration": [
+     {
+      "source": "Title 5, §90-B: Address Confidentiality Program",
+      "url": "https://legisweb0.legislature.maine.gov/statutes/5/title5sec90-B.html"
+     }
+    ],
+    "office": [
+     {
+      "source": "                            Title 21-A, §122-A: Alternative registration procedure for participants in Address Confidentiality Program",
+      "url": "https://legislature.maine.gov/statutes/21-a/title21-Asec122-A-2.html"
+     },
+     {
+      "source": "                            Title 21-A, §122-A: Alternative registration procedure for participants in Address Confidentiality Program",
+      "url": "https://legislature.maine.gov/statutes/21-a/title21-Asec122-A-2.html"
+     }
+    ]
+   }
+  },
+  {
+   "id": "maryland",
+   "state": "Maryland",
+   "categories": "The March 2025 form covers threatened people, personal-safety nondisclosure, felony victims or witnesses, specified law enforcement personnel, and state or federal judicial officers. Submit the signed form and relevant support to the election board. The categories and documentary standards differ.",
+   "form": "Complete and sign the Confidentiality Request Form, attach supporting documents, and follow its county or State Board delivery instructions. The form warns that confidential status limits online status checks and certain election mailings.",
+   "office": "Not determined within the reviewed source scope.",
+   "hidden_fields": "Approved requests protect residential address, email address and phone number. Confidential voters lose access to online registration or ballot-status checks and certain pre-election mailings.",
+   "duration": "Not determined within the reviewed source scope.",
+   "statute": "Not determined within the reviewed source scope.",
+   "voter_file_access": "Qualified voters may buy state or local voter lists for electoral-process purposes after signing a perjury statement. Commercial solicitation and investigations of suspected voter behavior are excluded.",
+   "source": "Purchasing Voter Data",
+   "url": "https://elections.maryland.gov/voter_registration/data.html",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "form": [
+     {
+      "source": "elections.maryland.gov",
+      "url": "https://elections.maryland.gov/forms/documents/Confidentiality%20Request%20Form.pdf"
+     }
+    ],
+    "hidden_fields": [
+     {
+      "source": "Microsoft Word - SBE Confidential Voter Form updated 10.7.24.docx",
+      "url": "https://elections.maryland.gov/forms/documents/Confidentiality%20Request%20Form.pdf"
+     },
+     {
+      "source": "Microsoft Word - SBE Confidential Voter Form updated 10.7.24.docx",
+      "url": "https://elections.maryland.gov/forms/documents/Confidentiality%20Request%20Form.pdf"
+     }
+    ],
+    "voter_file_access": [
+     {
+      "source": "Purchasing Voter Data",
+      "url": "https://elections.maryland.gov/voter_registration/data.html"
+     },
+     {
+      "source": "Purchasing Voter Data",
+      "url": "https://elections.maryland.gov/voter_registration/data.html"
+     },
+     {
+      "source": "Purchasing Voter Data",
+      "url": "https://elections.maryland.gov/voter_registration/data.html"
+     }
+    ],
+    "categories": [
+     {
+      "source": "Microsoft Word - SBE Confidential Voter Form updated 10.7.24.docx",
+      "url": "https://elections.maryland.gov/forms/documents/Confidentiality%20Request%20Form.pdf"
+     },
+     {
+      "source": "Microsoft Word - SBE Confidential Voter Form updated 10.7.24.docx",
+      "url": "https://elections.maryland.gov/forms/documents/Confidentiality%20Request%20Form.pdf"
+     },
+     {
+      "source": "Microsoft Word - SBE Confidential Voter Form updated 10.7.24.docx",
+      "url": "https://elections.maryland.gov/forms/documents/Confidentiality%20Request%20Form.pdf"
+     },
+     {
+      "source": "Microsoft Word - SBE Confidential Voter Form updated 10.7.24.docx",
+      "url": "https://elections.maryland.gov/forms/documents/Confidentiality%20Request%20Form.pdf"
+     }
+    ]
+   }
+  },
+  {
+   "id": "massachusetts",
+   "state": "Massachusetts",
+   "categories": "Confidential registration may cover a current protection order, protective-shelter residence, victims of specified crimes, or ACP participation. Contact the local election office to establish the applicable route.",
+   "form": "Not determined within the reviewed source scope.",
+   "office": "Not determined within the reviewed source scope.",
+   "hidden_fields": "Public campaign files omit phone, email, veteran status, permanent absentee status, confidential-voter records and minors' records. Confidential voters stay outside the state database and public extracts; a confidential number replaces name and address on the voter list.",
+   "duration": "Not determined within the reviewed source scope.",
+   "statute": "Not determined within the reviewed source scope.",
+   "voter_file_access": "Municipal voter records and electronic files are generally public at production cost. The statewide file is separately limited to statewide campaigns and political parties under licensing restrictions.",
+   "source": "Access to Voter Information",
+   "url": "https://www.sec.state.ma.us/divisions/elections/voting-information/access-to-voter-information.htm",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "voter_file_access": [
+     {
+      "source": "Access to Voter Information",
+      "url": "https://www.sec.state.ma.us/divisions/elections/voting-information/access-to-voter-information.htm"
+     },
+     {
+      "source": "Access to Voter Information",
+      "url": "https://www.sec.state.ma.us/divisions/elections/voting-information/access-to-voter-information.htm"
+     },
+     {
+      "source": "Access to Voter Information",
+      "url": "https://www.sec.state.ma.us/divisions/elections/voting-information/access-to-voter-information.htm"
+     }
+    ],
+    "categories": [
+     {
+      "source": "Access to Voter Information",
+      "url": "https://www.sec.state.ma.us/divisions/elections/voting-information/access-to-voter-information.htm"
+     },
+     {
+      "source": "Access to Voter Information",
+      "url": "https://www.sec.state.ma.us/divisions/elections/voting-information/access-to-voter-information.htm"
+     },
+     {
+      "source": "Access to Voter Information",
+      "url": "https://www.sec.state.ma.us/divisions/elections/voting-information/access-to-voter-information.htm"
+     },
+     {
+      "source": "Access to Voter Information",
+      "url": "https://www.sec.state.ma.us/divisions/elections/voting-information/access-to-voter-information.htm"
+     }
+    ],
+    "hidden_fields": [
+     {
+      "source": "Access to Voter Information",
+      "url": "https://www.sec.state.ma.us/divisions/elections/voting-information/access-to-voter-information.htm"
+     },
+     {
+      "source": "Access to Voter Information",
+      "url": "https://www.sec.state.ma.us/divisions/elections/voting-information/access-to-voter-information.htm"
+     },
+     {
+      "source": "Access to Voter Information",
+      "url": "https://www.sec.state.ma.us/divisions/elections/voting-information/access-to-voter-information.htm"
+     }
+    ]
+   }
+  },
+  {
+   "id": "michigan",
+   "state": "Michigan",
+   "categories": "ACP applicants can include adult or emancipated-minor victims of domestic violence, stalking, sexual assault or trafficking, people at risk of threats or physical harm, and a parent or guardian for a minor or ward. The program requires planning to move and excludes sex-offender registrants. ACP supplies a separate voter-registration process.",
+   "form": "Use the ACP voter-registration option in the program application. Applicants without a Michigan driver or state ID complete the separate ACP Voter Registration Form.",
+   "office": "Not determined within the reviewed source scope.",
+   "hidden_fields": "QVF public releases exclude registration declinations and source agency, driver/state ID, birth month/day, phone, email, digitized signature and SSN last four digits.",
+   "duration": "ACP participation lasts four years and may be renewed. The office sends a renewal notice 60 days before expiration. Cancellation can end it earlier.",
+   "statute": "Not determined within the reviewed source scope.",
+   "voter_file_access": "The official request form describes electronic CSV records on an encrypted flash drive, or FTP where configured. It excludes the listed confidential identifiers. Email and digital dropbox delivery are unavailable under that form.",
+   "source": "www.michigan.gov",
+   "url": "https://www.michigan.gov/-/media/Project/Websites/sos/02lehman/FOIA_FORM.pdf?rev=b1ac9e66e4fd4d97ace0e4d9194ceb64",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "voter_file_access": [
+     {
+      "source": "www.michigan.gov",
+      "url": "https://www.michigan.gov/-/media/Project/Websites/sos/02lehman/FOIA_FORM.pdf?rev=b1ac9e66e4fd4d97ace0e4d9194ceb64"
+     }
+    ],
+    "hidden_fields": [
+     {
+      "source": "Qualified Voter File Data Request Form",
+      "url": "https://www.michigan.gov/-/media/Project/Websites/sos/02lehman/FOIA_FORM.pdf?rev=b1ac9e66e4fd4d97ace0e4d9194ceb64"
+     },
+     {
+      "source": "Qualified Voter File Data Request Form",
+      "url": "https://www.michigan.gov/-/media/Project/Websites/sos/02lehman/FOIA_FORM.pdf?rev=b1ac9e66e4fd4d97ace0e4d9194ceb64"
+     },
+     {
+      "source": "Qualified Voter File Data Request Form",
+      "url": "https://www.michigan.gov/-/media/Project/Websites/sos/02lehman/FOIA_FORM.pdf?rev=b1ac9e66e4fd4d97ace0e4d9194ceb64"
+     },
+     {
+      "source": "Qualified Voter File Data Request Form",
+      "url": "https://www.michigan.gov/-/media/Project/Websites/sos/02lehman/FOIA_FORM.pdf?rev=b1ac9e66e4fd4d97ace0e4d9194ceb64"
+     }
+    ],
+    "categories": [
+     {
+      "source": "Attorney General: ACP Applicants",
+      "url": "https://www.michigan.gov/ag/initiatives/address-confidentiality-program/acp-applicants"
+     },
+     {
+      "source": "Attorney General: ACP Applicants",
+      "url": "https://www.michigan.gov/ag/initiatives/address-confidentiality-program/acp-applicants"
+     },
+     {
+      "source": "Attorney General: ACP Applicants",
+      "url": "https://www.michigan.gov/ag/initiatives/address-confidentiality-program/acp-applicants"
+     }
+    ],
+    "form": [
+     {
+      "source": "Attorney General: ACP Application Instructions",
+      "url": "https://www.michigan.gov/ag/initiatives/address-confidentiality-program/acp-application-instructions"
+     }
+    ],
+    "duration": [
+     {
+      "source": "Attorney General: ACP Participants",
+      "url": "https://www.michigan.gov/ag/initiatives/address-confidentiality-program/acp-participants"
+     },
+     {
+      "source": "Attorney General: ACP Participants",
+      "url": "https://www.michigan.gov/ag/initiatives/address-confidentiality-program/acp-participants"
+     }
+    ]
+   }
+  },
+  {
+   "id": "minnesota",
+   "state": "Minnesota",
+   "categories": "A signed safety statement can require withholding a voter's name from the public list for the voter or family's safety. Safe at Home provides a separate confidential absentee process through the Secretary of State.",
+   "form": "Not determined within the reviewed source scope.",
+   "office": "Not determined within the reviewed source scope.",
+   "hidden_fields": "Public lists exclude full birth date and all SSN, driver, identification, military-ID and passport numbers. Birth year remains a public-list field. Safe at Home participants' names and addresses do not enter the statewide registration system.",
+   "duration": "Safe at Home enrollment lasts four years, renewable. Withdrawal or cancellation can end it earlier. No fixed term was verified for the separate safety-statement route.",
+   "statute": "Not determined within the reviewed source scope.",
+   "voter_file_access": "Registered Minnesota voters can obtain copies of the public-information list for election, political or specified law-enforcement purposes. Inspection is free. Internet publication and onward transfer are restricted, with statutory exceptions.",
+   "source": "voter-mn-code",
+   "url": "https://www.revisor.mn.gov/statutes/cite/201.091",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "voter_file_access": [
+     {
+      "source": "voter-mn-code",
+      "url": "https://www.revisor.mn.gov/statutes/cite/201.091"
+     },
+     {
+      "source": "voter-mn-code",
+      "url": "https://www.revisor.mn.gov/statutes/cite/201.091"
+     },
+     {
+      "source": "voter-mn-code",
+      "url": "https://www.revisor.mn.gov/statutes/cite/201.091"
+     }
+    ],
+    "categories": [
+     {
+      "source": "voter-mn-code",
+      "url": "https://www.revisor.mn.gov/statutes/cite/201.091"
+     },
+     {
+      "source": "voter-mn-code",
+      "url": "https://www.revisor.mn.gov/statutes/cite/201.091"
+     },
+     {
+      "source": "Minnesota Revisor of Statutes",
+      "url": "https://www.revisor.mn.gov/statutes/cite/5B.06"
+     }
+    ],
+    "hidden_fields": [
+     {
+      "source": "voter-mn-code",
+      "url": "https://www.revisor.mn.gov/statutes/cite/201.091"
+     },
+     {
+      "source": "voter-mn-code",
+      "url": "https://www.revisor.mn.gov/statutes/cite/201.091"
+     },
+     {
+      "source": "Minnesota Revisor of Statutes",
+      "url": "https://www.revisor.mn.gov/statutes/cite/5B.06"
+     }
+    ],
+    "duration": [
+     {
+      "source": "Office of the State Of Minnesota Secretary of State",
+      "url": "https://www.sos.mn.gov/safe-at-home/enroll-in-safe-at-home/how-long-will-enrollment-last/"
+     },
+     {
+      "source": "Office of the State Of Minnesota Secretary of State",
+      "url": "https://www.sos.mn.gov/safe-at-home/enroll-in-safe-at-home/how-long-will-enrollment-last/"
+     },
+     {
+      "source": "Office of the State Of Minnesota Secretary of State",
+      "url": "https://www.sos.mn.gov/safe-at-home/enroll-in-safe-at-home/how-long-will-enrollment-last/"
+     }
+    ]
+   }
+  },
+  {
+   "id": "mississippi",
+   "state": "Mississippi",
+   "categories": "Mississippi ACP covers qualifying residents who are victims of domestic violence, sexual assault or stalking. Adults and parents or guardians for minors or incapacitated people may apply. Registered sex offenders and people required to register are excluded. The official program brochure expressly identifies voter registration as a substitute-address use.",
+   "form": "Complete the ACP application and submit it to the Attorney General's Victim Compensation Division. The rule requires the application attestations and victimization evidence; use the program's process before relying on the substitute address for registration.",
+   "office": "Mississippi Office of the Attorney General, Victim Compensation Division administers ACP. Participants are responsible for asking each public body to use the designated address.",
+   "hidden_fields": "The SOS agency-registration manual requires public-release redaction of birth date, driver-license number, SSN last four digits and registration source. ACP separately protects its participants' actual address, phone and other identifying information held by public bodies. Statutory agency and program-file disclosure exceptions remain; this does not promise deletion of every historical voter record.",
+   "duration": "ACP certification lasts four years from certification unless withdrawn, canceled or invalidated earlier. Approved recertification also lasts four years. This is the ACP term, not an expiration of baseline voter identifier redactions.",
+   "statute": "Miss.Code Ann.99-47-1 and Attorney General Administrative Rules Title03 Part1 Chapter07. Election-specific baseline redactions remain governed by separate law.",
+   "voter_file_access": "The Mississippi Secretary of State's Office will provide a statewide voter file and statewide voter history file on a weekly basis to those who sign-up to receive such a file at Statewide Voter File Distribution List at no cost. Those who sign-up will receive an email each week with a Sharefile link to access a statewide voter file and statewide voter history file. This will be the same type of file provided when a statewide voter file is requested through a public records request and will include active and inactive voters.",
+   "source": "Mississippi Office of the Attorney General, Administrative Rules Title03 Part1 Chapter07, official SOS rule bank",
+   "url": "https://www.sos.ms.gov/adminsearch/ACCode/00000267c.pdf",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "voter_file_access": [
+     {
+      "source": "www.sos.ms.gov",
+      "url": "https://www.sos.ms.gov/content/documents/about_us/2025%20Voter%20File%20Weekly%20Distribution%20Program.pdf"
+     }
+    ],
+    "hidden_fields": [
+     {
+      "source": "NATIONAL VOTER REGISTRATION ACT",
+      "url": "https://www.sos.ms.gov/content/documents/Elections/SOS%20NVRA%20GUIDE%20AND%20TRAINING%20MANUAL.pdf"
+     },
+     {
+      "source": "NATIONAL VOTER REGISTRATION ACT",
+      "url": "https://www.sos.ms.gov/content/documents/Elections/SOS%20NVRA%20GUIDE%20AND%20TRAINING%20MANUAL.pdf"
+     },
+     {
+      "source": "Mississippi Office of the Attorney General, Administrative Rules Title03 Part1 Chapter07, official SOS rule bank",
+      "url": "https://www.sos.ms.gov/adminsearch/ACCode/00000267c.pdf"
+     },
+     {
+      "source": "Mississippi Office of the Attorney General, Administrative Rules Title03 Part1 Chapter07, official SOS rule bank",
+      "url": "https://www.sos.ms.gov/adminsearch/ACCode/00000267c.pdf"
+     },
+     {
+      "source": "Mississippi Office of the Attorney General, Administrative Rules Title03 Part1 Chapter07, official SOS rule bank",
+      "url": "https://www.sos.ms.gov/adminsearch/ACCode/00000267c.pdf"
+     }
+    ],
+    "categories": [
+     {
+      "source": "Mississippi Office of the Attorney General, Administrative Rules Title03 Part1 Chapter07, official SOS rule bank",
+      "url": "https://www.sos.ms.gov/adminsearch/ACCode/00000267c.pdf"
+     },
+     {
+      "source": "Mississippi Office of the Attorney General, Administrative Rules Title03 Part1 Chapter07, official SOS rule bank",
+      "url": "https://www.sos.ms.gov/adminsearch/ACCode/00000267c.pdf"
+     },
+     {
+      "source": "Mississippi Office of the Attorney General, Administrative Rules Title03 Part1 Chapter07, official SOS rule bank",
+      "url": "https://www.sos.ms.gov/adminsearch/ACCode/00000267c.pdf"
+     },
+     {
+      "source": "Mississippi Office of the Attorney General, Administrative Rules Title03 Part1 Chapter07, official SOS rule bank",
+      "url": "https://www.sos.ms.gov/adminsearch/ACCode/00000267c.pdf"
+     },
+     {
+      "source": "Mississippi Office of the Attorney General, Walking Away ACP brochure",
+      "url": "https://attorneygenerallynnfitch.com/wp-content/uploads/2020/07/Walking-Away-brochure-ACP.pdf"
+     }
+    ],
+    "form": [
+     {
+      "source": "Mississippi Office of the Attorney General, Administrative Rules Title03 Part1 Chapter07, official SOS rule bank",
+      "url": "https://www.sos.ms.gov/adminsearch/ACCode/00000267c.pdf"
+     },
+     {
+      "source": "Mississippi Office of the Attorney General, Walking Away ACP brochure",
+      "url": "https://attorneygenerallynnfitch.com/wp-content/uploads/2020/07/Walking-Away-brochure-ACP.pdf"
+     }
+    ],
+    "office": [
+     {
+      "source": "Mississippi Office of the Attorney General, Administrative Rules Title03 Part1 Chapter07, official SOS rule bank",
+      "url": "https://www.sos.ms.gov/adminsearch/ACCode/00000267c.pdf"
+     }
+    ],
+    "duration": [
+     {
+      "source": "Mississippi Office of the Attorney General, Administrative Rules Title03 Part1 Chapter07, official SOS rule bank",
+      "url": "https://www.sos.ms.gov/adminsearch/ACCode/00000267c.pdf"
+     },
+     {
+      "source": "Mississippi Office of the Attorney General, Administrative Rules Title03 Part1 Chapter07, official SOS rule bank",
+      "url": "https://www.sos.ms.gov/adminsearch/ACCode/00000267c.pdf"
+     }
+    ],
+    "statute": [
+     {
+      "source": "Mississippi Office of the Attorney General, Administrative Rules Title03 Part1 Chapter07, official SOS rule bank",
+      "url": "https://www.sos.ms.gov/adminsearch/ACCode/00000267c.pdf"
+     }
+    ]
+   }
+  },
+  {
+   "id": "missouri",
+   "state": "Missouri",
+   "categories": "A circuit-court address-closure route covers undercover officers, witness-protection participants and domestic-abuse victims with Chapter 455 protection orders where disclosure could endanger safety. Safe at Home is separate and covers qualifying crime victims and household members.",
+   "form": "Not determined within the reviewed source scope.",
+   "office": "If you did not register to vote during the enrollment process, but later choose to register through the program, you must contact the Safe at Home office to help ensure your information is protected.",
+   "hidden_fields": "A court order closes the residential address to public access and limits its use to election administration. Safe at Home registration uses a voter code and substitute address; local election authorities do not receive the confidential address.",
+   "duration": "Safe at Home certification lasts four years. The separate court-closure route requires continued qualification; voters must notify the court when they no longer qualify.",
+   "statute": "Not determined within the reviewed source scope.",
+   "voter_file_access": "Election authorities provide statutory voter information for a fee under Missouri's public-records law. Released voting-history lists show names, birth years, addresses and party affiliations and cannot be used commercially. Absentee-applicant lists have a separate candidate, campaign or party requester rule.",
+   "source": "voter-mo-file-code",
+   "url": "https://revisor.mo.gov/main/OneSection.aspx?section=115.157",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "categories": [
+     {
+      "source": "voter-mo-file-code",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=115.157"
+     },
+     {
+      "source": "voter-mo-file-code",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=115.157"
+     },
+     {
+      "source": "Missouri Secretary of State",
+      "url": "https://www.sos.mo.gov/business/SafeAtHome/EligibilityRequirements"
+     }
+    ],
+    "office": [
+     {
+      "source": "www.sos.mo.gov",
+      "url": "https://www.sos.mo.gov/business/SafeAtHome/VoterRegistration"
+     }
+    ],
+    "voter_file_access": [
+     {
+      "source": "voter-mo-file-code",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=115.157"
+     },
+     {
+      "source": "voter-mo-file-code",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=115.157"
+     },
+     {
+      "source": "voter-mo-file-code",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=115.157"
+     }
+    ],
+    "hidden_fields": [
+     {
+      "source": "voter-mo-file-code",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=115.157"
+     },
+     {
+      "source": "Missouri Secretary of State",
+      "url": "https://www.sos.mo.gov/business/SafeAtHome/VoterRegistration"
+     }
+    ],
+    "duration": [
+     {
+      "source": "Approval Process - Missouri Secretary of State",
+      "url": "https://www.sos.mo.gov/business/SafeAtHome/ApprovalProcess"
+     },
+     {
+      "source": "Missouri Revisor of Statutes",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=115.157"
+     }
+    ]
+   }
+  },
+  {
+   "id": "montana",
+   "state": "Montana",
+   "categories": "A law-enforcement or reserve officer may request residential-address protection for security, including a spouse at the same address. A separate proof-based route covers listed violent/stalking/custodial-interference victimization or a temporary restraining order/injunction for the voter or a minor in their custody.",
+   "form": "Not determined within the reviewed source scope.",
+   "office": "Not determined within the reviewed source scope.",
+   "hidden_fields": "The verified election-specific protection omits residential address from generally available elector lists while leaving the elector's name public. It does not promise full-record deletion.",
+   "duration": "Not determined within the reviewed source scope.",
+   "statute": "Not determined within the reviewed source scope.",
+   "voter_file_access": "Any individual may request available statewide extracts or local precinct lists for noncommercial use at actual production cost. Protected13-2-115 voters' residential addresses are omitted and names may remain.",
+   "source": "Official election source",
+   "url": "https://mca.legmt.gov/bills/mca/title_0130/chapter_0020/part_0010/section_0220/0130-0020-0010-0220.html",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "voter_file_access": [
+     {
+      "source": "Official election source",
+      "url": "https://mca.legmt.gov/bills/mca/title_0130/chapter_0020/part_0010/section_0220/0130-0020-0010-0220.html"
+     },
+     {
+      "source": "Official election source",
+      "url": "https://mca.legmt.gov/bills/mca/title_0130/chapter_0020/part_0010/section_0220/0130-0020-0010-0220.html"
+     }
+    ],
+    "categories": [
+     {
+      "source": "Official election source",
+      "url": "https://mca.legmt.gov/bills/mca/title_0130/chapter_0020/part_0010/section_0150/0130-0020-0010-0150.html"
+     },
+     {
+      "source": "Official election source",
+      "url": "https://mca.legmt.gov/bills/mca/title_0130/chapter_0020/part_0010/section_0150/0130-0020-0010-0150.html"
+     },
+     {
+      "source": "Official election source",
+      "url": "https://mca.legmt.gov/bills/mca/title_0130/chapter_0020/part_0010/section_0150/0130-0020-0010-0150.html"
+     }
+    ],
+    "hidden_fields": [
+     {
+      "source": "Official election source",
+      "url": "https://mca.legmt.gov/bills/mca/title_0130/chapter_0020/part_0010/section_0150/0130-0020-0010-0150.html"
+     }
+    ]
+   }
+  },
+  {
+   "id": "nebraska",
+   "state": "Nebraska",
+   "categories": "ACP serves qualifying Nebraska survivors of domestic violence, sexual assault or stalking who fear for safety and recently relocated or plan to relocate to an address unknown to the abuser. Parents or guardians can apply for minors or incapacitated people.",
+   "form": "Not determined within the reviewed source scope.",
+   "office": "Not determined within the reviewed source scope.",
+   "hidden_fields": "Public copies/lists exclude digital signatures and information designated confidential under 32-331. Distributed lists also omit information marked private on the application or registration record. The public-list maximum fields differ from the complete register.",
+   "duration": "ACP certification lasts four years after filing unless withdrawn or invalidated earlier. The statute allows a renewal procedure.",
+   "statute": "Not determined within the reviewed source scope.",
+   "voter_file_access": "The SOS requires an approved affidavit and annual fee for the statewide file. Permitted purposes are elections, political activity, registration, law enforcement and jury selection. Commercial use, public display and Internet accessibility are prohibited.",
+   "source": "Voter File Requests | Nebraska Secretary of State",
+   "url": "https://sos.nebraska.gov/elections/voter-file-requests",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "voter_file_access": [
+     {
+      "source": "Voter File Requests | Nebraska Secretary of State",
+      "url": "https://sos.nebraska.gov/elections/voter-file-requests"
+     },
+     {
+      "source": "Voter File Requests | Nebraska Secretary of State",
+      "url": "https://sos.nebraska.gov/elections/voter-file-requests"
+     }
+    ],
+    "categories": [
+     {
+      "source": "Address Confidentiality Program | Nebraska Secretary of State",
+      "url": "https://sos.nebraska.gov/business-services/address-confidentiality-program"
+     },
+     {
+      "source": "Address Confidentiality Program | Nebraska Secretary of State",
+      "url": "https://sos.nebraska.gov/business-services/address-confidentiality-program"
+     }
+    ],
+    "duration": [
+     {
+      "source": "Nebraska Legislature",
+      "url": "https://www.nebraskalegislature.gov/laws/statutes.php?statute=42-1204"
+     },
+     {
+      "source": "Nebraska Legislature",
+      "url": "https://www.nebraskalegislature.gov/laws/statutes.php?statute=42-1204"
+     }
+    ],
+    "hidden_fields": [
+     {
+      "source": "Nebraska Legislature",
+      "url": "https://nebraskalegislature.gov/laws/statutes.php?statute=32-330"
+     },
+     {
+      "source": "Nebraska Legislature",
+      "url": "https://nebraskalegislature.gov/laws/statutes.php?statute=32-330"
+     }
+    ]
+   }
+  },
+  {
+   "id": "nevada",
+   "state": "Nevada",
+   "categories": "Any registered voter may send a written request to the county or city clerk to withhold address and phone from public inquiry and voter lists. Separate court-order and program laws may protect additional records or groups.",
+   "form": "A registered voter submits a written request to the county or city clerk to withhold address and phone from public inquiries and voter lists.",
+   "office": "County or city clerk under NRS 293.558(3).",
+   "hidden_fields": "SSN, driver/state ID and election-process email are confidential. A voter's written request additionally withholds address and phone. Other fields remain subject to specific state or federal confidentiality exceptions.",
+   "duration": "Not determined within the reviewed source scope.",
+   "statute": "Not determined within the reviewed source scope.",
+   "voter_file_access": "Any person may request a county voter list at the statutory per-name charge, subject to293.5002 and293.558 confidentiality exclusions. Political parties receive specified copies free and face separate election-use restrictions.",
+   "source": "Nevada Legislature, NRS Chapter 293",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-293.html",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "categories": [
+     {
+      "source": "NRS: CHAPTER 293 - ELECTIONS",
+      "url": "https://www.leg.state.nv.us/NRS/NRS-293.html"
+     }
+    ],
+    "form": [
+     {
+      "source": "www.leg.state.nv.us",
+      "url": "https://www.leg.state.nv.us/NRS/NRS-293.html"
+     }
+    ],
+    "office": [
+     {
+      "source": "www.leg.state.nv.us",
+      "url": "https://www.leg.state.nv.us/NRS/NRS-293.html"
+     }
+    ],
+    "hidden_fields": [
+     {
+      "source": "NRS: CHAPTER 293 - ELECTIONS",
+      "url": "https://www.leg.state.nv.us/NRS/NRS-293.html"
+     },
+     {
+      "source": "NRS: CHAPTER 293 - ELECTIONS",
+      "url": "https://www.leg.state.nv.us/NRS/NRS-293.html"
+     },
+     {
+      "source": "NRS: CHAPTER 293 - ELECTIONS",
+      "url": "https://www.leg.state.nv.us/NRS/NRS-293.html"
+     }
+    ],
+    "voter_file_access": [
+     {
+      "source": "NRS: CHAPTER 293 - ELECTIONS",
+      "url": "https://www.leg.state.nv.us/NRS/NRS-293.html"
+     },
+     {
+      "source": "NRS: CHAPTER 293 - ELECTIONS",
+      "url": "https://www.leg.state.nv.us/NRS/NRS-293.html"
+     }
+    ]
+   }
+  },
+  {
+   "id": "new-hampshire",
+   "state": "New Hampshire",
+   "categories": "The AG's ACP covers qualifying domestic-violence, stalking or sexual-assault victims and minors or incapacitated people represented by parents or guardians. Qualified participants use a confidential absentee route.",
+   "form": "Not determined within the reviewed source scope.",
+   "office": "Not determined within the reviewed source scope.",
+   "hidden_fields": "ACP names and addresses are excluded from public voter lists, with law-enforcement and court-order exceptions for addresses. General checklist access does not expose other registration-form information or phone/email contact details.",
+   "duration": "ACP certification lasts four years after filing unless withdrawn or invalidated earlier. A name change or failure to report an address change can affect certification.",
+   "statute": "Not determined within the reviewed source scope.",
+   "voter_file_access": "Municipal checklist names, domicile and mailing addresses, municipality and party affiliation are public under RSA91-A. The centralized statewide voter database is separately private and confidential, subject to specific authorized uses.",
+   "source": "Chapter 654 VOTERS AND CHECKLISTS",
+   "url": "https://gc.nh.gov/rsa/html/lxiii/654/654-mrg.htm",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "categories": [
+     {
+      "source": "Chapter 7 ATTORNEYS GENERAL, DIRECTOR OF CHARITABLE TRUSTS, AND COUNTY ATTORNEYS",
+      "url": "https://gc.nh.gov/rsa/html/I/7/7-mrg.htm"
+     },
+     {
+      "source": "Chapter 7 ATTORNEYS GENERAL, DIRECTOR OF CHARITABLE TRUSTS, AND COUNTY ATTORNEYS",
+      "url": "https://gc.nh.gov/rsa/html/I/7/7-mrg.htm"
+     }
+    ],
+    "voter_file_access": [
+     {
+      "source": "Chapter 654 VOTERS AND CHECKLISTS",
+      "url": "https://gc.nh.gov/rsa/html/lxiii/654/654-mrg.htm"
+     },
+     {
+      "source": "Chapter 654 VOTERS AND CHECKLISTS",
+      "url": "https://gc.nh.gov/rsa/html/lxiii/654/654-mrg.htm"
+     }
+    ],
+    "hidden_fields": [
+     {
+      "source": "Chapter 7 ATTORNEYS GENERAL, DIRECTOR OF CHARITABLE TRUSTS, AND COUNTY ATTORNEYS",
+      "url": "https://gc.nh.gov/rsa/html/I/7/7-mrg.htm"
+     },
+     {
+      "source": "New Hampshire General Court",
+      "url": "https://gc.nh.gov/rsa/html/lxiii/654/654-mrg.htm"
+     }
+    ],
+    "duration": [
+     {
+      "source": "Chapter 7 ATTORNEYS GENERAL, DIRECTOR OF CHARITABLE TRUSTS, AND COUNTY ATTORNEYS",
+      "url": "https://gc.nh.gov/rsa/html/I/7/7-mrg.htm"
+     },
+     {
+      "source": "Chapter 7 ATTORNEYS GENERAL, DIRECTOR OF CHARITABLE TRUSTS, AND COUNTY ATTORNEYS",
+      "url": "https://gc.nh.gov/rsa/html/I/7/7-mrg.htm"
+     }
+    ]
+   }
+  },
+  {
+   "id": "new-jersey",
+   "state": "New Jersey",
+   "categories": "The election statute permits victims of domestic violence with a permanent restraining order and feared further violence to register without street address. A separate stalking route covers protected victims or immediate family members with a permanent restraining order and feared death or injury. Approved OIP covered-person redactions also apply to list release.",
+   "form": "Not determined within the reviewed source scope.",
+   "office": "Not determined within the reviewed source scope.",
+   "hidden_fields": "b. Any person who makes public any information which has been provided by a victim of domestic violence, or by a victim of stalking or the family member of such a victim, pursuant to subsection a. of this section concerning the mailing address, post office box or other contact point of the victim or family member or the election district in which the victim or family member resides is guilty of a crime of the fourth degree. L.1994, c.148, s.1; (title amended 2001, c.177, s.1), amended 2001, c.177, s.2. NJSA 19:31-3.3 Digitized images of signatures, use; other information 2.",
+   "duration": "Not determined within the reviewed source scope.",
+   "statute": "Not determined within the reviewed source scope.",
+   "voter_file_access": "Any voter may request a county electronic list for uniform reproduction charges. Lists must exclude voter signatures and approved covered-person home addresses, subject to statutory exceptions.",
+   "source": "New Jersey Department of State, Division of Elections",
+   "url": "https://www.nj.gov/state/dos-statutes-elections-19-31-39.shtml",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "hidden_fields": [
+     {
+      "source": "nj.gov",
+      "url": "https://nj.gov/state/dos-statutes-elections-19-31-39.shtml"
+     }
+    ],
+    "voter_file_access": [
+     {
+      "source": "New Jersey Department of State - Statutes & Rules - Division of Elections, 19-31-39",
+      "url": "https://www.nj.gov/state/dos-statutes-elections-19-31-39.shtml"
+     },
+     {
+      "source": "New Jersey Department of State - Statutes & Rules - Division of Elections, 19-31-39",
+      "url": "https://www.nj.gov/state/dos-statutes-elections-19-31-39.shtml"
+     }
+    ],
+    "categories": [
+     {
+      "source": "New Jersey Department of State - Statutes & Rules - Division of Elections, 19-31-39",
+      "url": "https://nj.gov/state/dos-statutes-elections-19-31-39.shtml"
+     },
+     {
+      "source": "New Jersey Department of State - Statutes & Rules - Division of Elections, 19-31-39",
+      "url": "https://nj.gov/state/dos-statutes-elections-19-31-39.shtml"
+     },
+     {
+      "source": "New Jersey Department of State - Statutes & Rules - Division of Elections, 19-31-39",
+      "url": "https://nj.gov/state/dos-statutes-elections-19-31-39.shtml"
+     }
+    ]
+   }
+  },
+  {
+   "id": "new-mexico",
+   "state": "New Mexico",
+   "categories": "Safe at Home covers qualifying survivors of domestic violence, sexual assault, attempted sexual assault or stalking who relocated or plan to relocate to an address unknown to the abuser. A parent or guardian may apply for a minor or incapacitated person. Participants register through the SOS for confidential absentee voting.",
+   "form": "Not determined within the reviewed source scope.",
+   "office": "Not determined within the reviewed source scope.",
+   "hidden_fields": "Safe at Home keeps the confidential address off public voter lists. Program residential/delivery address, phone and email are not public records while enrolled. County clerks transfer participant registration records to the SOS.",
+   "duration": "Safe at Home certification lasts three years unless canceled earlier. The separate candidate-address form is a different route and is not treated as the voter-program term.",
+   "statute": "Not determined within the reviewed source scope.",
+   "voter_file_access": "SERVIS data may be purchased after signing the required authorization. The SOS describes names, addresses, consented telephone numbers, birth year, party and registration/district data, with an optional voting-history file.",
+   "source": "New Mexico Secretary of State",
+   "url": "https://www.sos.state.nm.us/voting-and-elections/data-and-maps/",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "voter_file_access": [
+     {
+      "source": "Data & Maps | Maggie Toulouse Oliver - New Mexico Secretary of State",
+      "url": "https://www.sos.state.nm.us/voting-and-elections/data-and-maps/"
+     },
+     {
+      "source": "Data & Maps | Maggie Toulouse Oliver - New Mexico Secretary of State",
+      "url": "https://www.sos.state.nm.us/voting-and-elections/data-and-maps/"
+     }
+    ],
+    "categories": [
+     {
+      "source": "Safe at Home Eligibility, FAQs & Resources | Maggie Toulouse Oliver - New Mexico Secretary of State",
+      "url": "https://www.sos.nm.gov/safe-at-home/safe-at-home-eligibility-faqs-and-resources/"
+     },
+     {
+      "source": "Safe at Home Eligibility, FAQs & Resources | Maggie Toulouse Oliver - New Mexico Secretary of State",
+      "url": "https://www.sos.nm.gov/safe-at-home/safe-at-home-eligibility-faqs-and-resources/"
+     }
+    ],
+    "hidden_fields": [
+     {
+      "source": "Safe at Home Eligibility, FAQs & Resources | Maggie Toulouse Oliver - New Mexico Secretary of State",
+      "url": "https://www.sos.nm.gov/safe-at-home/safe-at-home-eligibility-faqs-and-resources/"
+     },
+     {
+      "source": "Safe at Home Eligibility, FAQs & Resources | Maggie Toulouse Oliver - New Mexico Secretary of State",
+      "url": "https://www.sos.nm.gov/safe-at-home/safe-at-home-eligibility-faqs-and-resources/"
+     }
+    ],
+    "duration": [
+     {
+      "source": "Safe at Home Eligibility, FAQs & Resources | Maggie Toulouse Oliver - New Mexico Secretary of State",
+      "url": "https://www.sos.nm.gov/safe-at-home/safe-at-home-eligibility-faqs-and-resources/"
+     }
+    ]
+   }
+  },
+  {
+   "id": "new-york",
+   "state": "New York",
+   "categories": "Domestic-violence victims may deliver a sworn statement to their county election board seeking confidential registration because of threatened physical or emotional harm to themselves or a family or household member. A separate special-ballot option avoids attending the polling place.",
+   "form": "Statement of Confidential Voter",
+   "office": "Not determined within the reviewed source scope.",
+   "hidden_fields": "The confidential registration record stays separate from ordinary records and cannot be publicly inspected or copied. Election officials may access it only within their duties when pertinent and necessary.",
+   "duration": "Confidential registration starts when the county board accepts the application and lasts four years. A new application may be submitted before expiration.",
+   "statute": "Not determined within the reviewed source scope.",
+   "voter_file_access": "New York State Election Law Sec 3-103(5) prohibits using information derived from voter registration records for non-election purposes. When submitting a request for voter registration data it must include a statement that the information requested will be used for an \"elections purpose\" in compliance with New York State Election Law Section 3-103(5). (An \"elections purpose\" has traditionally been interpreted broadly and among other things includes, campaigning, voter outreach, fundraising and academic research.)",
+   "source": "elections.ny.gov",
+   "url": "https://elections.ny.gov/freedom-information-law-foil-requests",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "form": [
+     {
+      "source": "New York Department of State ACP",
+      "url": "https://dos.ny.gov/ACP"
+     }
+    ],
+    "voter_file_access": [
+     {
+      "source": "elections.ny.gov",
+      "url": "https://elections.ny.gov/freedom-information-law-foil-requests"
+     }
+    ],
+    "categories": [
+     {
+      "source": "Confidential Registration | New York State Board of Elections",
+      "url": "https://elections.ny.gov/confidential-registration"
+     },
+     {
+      "source": "Confidential Registration | New York State Board of Elections",
+      "url": "https://elections.ny.gov/confidential-registration"
+     }
+    ],
+    "hidden_fields": [
+     {
+      "source": "Confidential Registration | New York State Board of Elections",
+      "url": "https://elections.ny.gov/confidential-registration"
+     }
+    ],
+    "duration": [
+     {
+      "source": "Confidential Registration | New York State Board of Elections",
+      "url": "https://elections.ny.gov/confidential-registration"
+     },
+     {
+      "source": "Confidential Registration | New York State Board of Elections",
+      "url": "https://elections.ny.gov/confidential-registration"
+     }
+    ]
+   }
+  },
+  {
+   "id": "north-carolina",
+   "state": "North Carolina",
+   "categories": "Voter residential addresses may be confidential under a court order or qualifying ACP enrollment. County boards must take feasible steps to prevent address disclosure on public documents.",
+   "form": "ACP voters present their authorization card and a signed statement to the local election board that public address disclosure would jeopardize their own or a resident family member's physical safety.",
+   "office": "Not determined within the reviewed source scope.",
+   "hidden_fields": "What's not included? Voter birthdate, Social Security number, and driver's license number are confidential under state law and are not included. Voter history is not included; but Voter Registration Data files are linkable to Voter History Data files via NCID or county and voter registration number.",
+   "duration": "For the ACP voter route, the address stays confidential while the voter remains a certified program participant. This does not assign an ACP term to a separate court order.",
+   "statute": "Not determined within the reviewed source scope.",
+   "voter_file_access": "NCSBE publishes weekly public registration-data files covering current and certain former or incomplete registrations. Available variables include status, demographic/party/address and district data. Protected identifiers and full birth date are excluded; voting history is a separate linkable file.",
+   "source": "Voter Registration Data | NCSBE",
+   "url": "https://www.ncsbe.gov/results-data/voter-registration-data",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "voter_file_access": [
+     {
+      "source": "Voter Registration Data | NCSBE",
+      "url": "https://www.ncsbe.gov/results-data/voter-registration-data"
+     },
+     {
+      "source": "Voter Registration Data | NCSBE",
+      "url": "https://www.ncsbe.gov/results-data/voter-registration-data"
+     },
+     {
+      "source": "Voter Registration Data | NCSBE",
+      "url": "https://www.ncsbe.gov/results-data/voter-registration-data"
+     }
+    ],
+    "hidden_fields": [
+     {
+      "source": "www.ncsbe.gov",
+      "url": "https://www.ncsbe.gov/results-data/voter-registration-data"
+     }
+    ],
+    "categories": [
+     {
+      "source": "Numbered Memo 2022-01: Protecting Certain Voter and Elections Security Information | NCSBE",
+      "url": "https://www.ncsbe.gov/blog/2022/03/15/numbered-memo-2022-01-protecting-certain-voter-and-elections-security-information"
+     }
+    ],
+    "form": [
+     {
+      "source": "Address Confidentiality at the North Carolina Department of Justice.",
+      "url": "https://ncdoj.gov/public-protection/acp/"
+     },
+     {
+      "source": "Address Confidentiality at the North Carolina Department of Justice.",
+      "url": "https://ncdoj.gov/public-protection/acp/"
+     }
+    ],
+    "duration": [
+     {
+      "source": "Address Confidentiality at the North Carolina Department of Justice.",
+      "url": "https://ncdoj.gov/public-protection/acp/"
+     }
+    ]
+   }
+  },
+  {
+   "id": "north-dakota",
+   "state": "North Dakota",
+   "categories": "A person who obtained a civil protection order under Chapter 14-07.7 must receive secured-active status. The record remains active for pollbook administration but otherwise is exempt from disclosure.",
+   "form": "Not determined within the reviewed source scope.",
+   "office": "Not determined within the reviewed source scope.",
+   "hidden_fields": "Secured-active records do not enter public pollbook copies or candidate/party files. Birth dates and driver/nondriver ID numbers are exempt and must be redacted from public pollbooks.",
+   "duration": "Not determined within the reviewed source scope.",
+   "statute": "Not determined within the reviewed source scope.",
+   "voter_file_access": "The central voter file supplies authorized fields to candidates, political parties or committees for election-related purposes. Non-election resale or distribution is prohibited. Precinct pollbooks are separately open records after required redactions.",
+   "source": "North Dakota Century Code t16.1c02",
+   "url": "https://www.ndlegis.gov/cencode/t16-1c02.pdf",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "voter_file_access": [
+     {
+      "source": "North Dakota Century Code t16.1c02",
+      "url": "https://www.ndlegis.gov/cencode/t16-1c02.pdf"
+     },
+     {
+      "source": "North Dakota Century Code t16.1c02",
+      "url": "https://www.ndlegis.gov/cencode/t16-1c02.pdf"
+     },
+     {
+      "source": "North Dakota Century Code t16.1c02",
+      "url": "https://www.ndlegis.gov/cencode/t16-1c02.pdf"
+     }
+    ],
+    "categories": [
+     {
+      "source": "North Dakota Century Code t16.1c02",
+      "url": "https://www.ndlegis.gov/cencode/t16-1c02.pdf"
+     },
+     {
+      "source": "North Dakota Century Code t16.1c02",
+      "url": "https://www.ndlegis.gov/cencode/t16-1c02.pdf"
+     }
+    ],
+    "hidden_fields": [
+     {
+      "source": "North Dakota Century Code t16.1c02",
+      "url": "https://www.ndlegis.gov/cencode/t16-1c02.pdf"
+     },
+     {
+      "source": "North Dakota Century Code t16.1c02",
+      "url": "https://www.ndlegis.gov/cencode/t16-1c02.pdf"
+     }
+    ]
+   }
+  },
+  {
+   "id": "ohio",
+   "state": "Ohio",
+   "categories": "Safe at Home covers qualifying people who live, work or attend school in Ohio and fear harm involving domestic violence, stalking, trafficking, rape or sexual battery. Adults may apply for themselves or as parents/guardians for minors, incompetent people or wards. Specified sex-offender categories are excluded.",
+   "form": "Not determined within the reviewed source scope.",
+   "office": "Not determined within the reviewed source scope.",
+   "hidden_fields": "Safe at Home provides a voting process that keeps a participant's address off the public voter-registration database. This source does not claim that every ordinary voter field is confidential.",
+   "duration": "Safe at Home certification lasts four years after filing unless withdrawn or invalidated earlier. Eligible participants may renew with an application assistant.",
+   "statute": "Not determined within the reviewed source scope.",
+   "voter_file_access": "County registration lists are open for public inspection, subject to Safe at Home exceptions. Names and addresses may be copied at the board's office; election-period interference can limit copying.",
+   "source": "Ohio Legislature, Revised Code 3503.26",
+   "url": "https://codes.ohio.gov/ohio-revised-code/section-3503.26",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "categories": [
+     {
+      "source": "Section 111.42 - Ohio Revised Code | Ohio Laws",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-111.42"
+     },
+     {
+      "source": "Section 111.42 - Ohio Revised Code | Ohio Laws",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-111.42"
+     }
+    ],
+    "voter_file_access": [
+     {
+      "source": "Section 3503.26 - Ohio Revised Code | Ohio Laws",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3503.26"
+     },
+     {
+      "source": "Section 3503.26 - Ohio Revised Code | Ohio Laws",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-3503.26"
+     }
+    ],
+    "duration": [
+     {
+      "source": "Section 111.42 - Ohio Revised Code | Ohio Laws",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-111.42"
+     },
+     {
+      "source": "Section 111.42 - Ohio Revised Code | Ohio Laws",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-111.42"
+     }
+    ],
+    "hidden_fields": [
+     {
+      "source": "Safe at Home, Ohio's Address Confidentiality Program",
+      "url": "https://www.ohiosos.gov/globalassets/publications/agency/safeathome.pdf"
+     }
+    ]
+   }
+  },
+  {
+   "id": "oklahoma",
+   "state": "Oklahoma",
+   "categories": "Restricted Records covers specified federal/state officials, judges, prosecutors, uniformed services, law enforcement, correctional and election personnel, protection-order holders and designated family members. ACP separately serves qualifying abuse, assault, stalking, trafficking and child-abduction victims. The election board supplies special registration materials after ACP enrollment.",
+   "form": "Not determined within the reviewed source scope.",
+   "office": "Not determined within the reviewed source scope.",
+   "hidden_fields": "Released lists omit driver-license and SSN identifiers, phone and email. Restricted Records addresses and ACP registration information are excluded. Certain method-of-voting information is also masked by law.",
+   "duration": "Restricted Records does not expire and may continue after retirement. ACP requires reapplication every four years; without renewal notice, secure election-board files are removed after four years.",
+   "statute": "Not determined within the reviewed source scope.",
+   "voter_file_access": "Full EDW voter-list access is limited to statutory eligible requesters, including bona-fide Oklahoma residents who are US citizens, recognized-party representatives and candidates/representatives. Others may apply for basic EDW access, which does not include the full voter list.",
+   "source": "Voter Registration List",
+   "url": "https://oklahoma.gov/elections/candidates/voter-registration-list.html",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "voter_file_access": [
+     {
+      "source": "Voter Registration List",
+      "url": "https://oklahoma.gov/elections/candidates/voter-registration-list.html"
+     },
+     {
+      "source": "Voter Registration List",
+      "url": "https://oklahoma.gov/elections/candidates/voter-registration-list.html"
+     },
+     {
+      "source": "Voter Registration List",
+      "url": "https://oklahoma.gov/elections/candidates/voter-registration-list.html"
+     },
+     {
+      "source": "Voter Registration List",
+      "url": "https://oklahoma.gov/elections/candidates/voter-registration-list.html"
+     }
+    ],
+    "hidden_fields": [
+     {
+      "source": "Voter Registration List",
+      "url": "https://oklahoma.gov/elections/candidates/voter-registration-list.html"
+     },
+     {
+      "source": "Voter Registration List",
+      "url": "https://oklahoma.gov/elections/candidates/voter-registration-list.html"
+     },
+     {
+      "source": "Voter Registration List",
+      "url": "https://oklahoma.gov/elections/candidates/voter-registration-list.html"
+     },
+     {
+      "source": "Voter Registration List",
+      "url": "https://oklahoma.gov/elections/candidates/voter-registration-list.html"
+     }
+    ],
+    "categories": [
+     {
+      "source": "Voter Privacy Programs",
+      "url": "https://oklahoma.gov/elections/voter-registration/voter-privacy-programs.html"
+     },
+     {
+      "source": "Voter Privacy Programs",
+      "url": "https://oklahoma.gov/elections/voter-registration/voter-privacy-programs.html"
+     },
+     {
+      "source": "Voter Privacy Programs",
+      "url": "https://oklahoma.gov/elections/voter-registration/voter-privacy-programs.html"
+     }
+    ],
+    "duration": [
+     {
+      "source": "Voter Privacy Programs",
+      "url": "https://oklahoma.gov/elections/voter-registration/voter-privacy-programs.html"
+     },
+     {
+      "source": "Voter Privacy Programs",
+      "url": "https://oklahoma.gov/elections/voter-registration/voter-privacy-programs.html"
+     }
+    ]
+   }
+  },
+  {
+   "id": "oregon",
+   "state": "Oregon",
+   "categories": "ACP can cover Oregon survivors of domestic violence, sexual assault, stalking, trafficking, bias crime or bias incident, plus qualifying reproductive and gender-affirming health providers. Household and parent/guardian routes exist. ACP voters must use the separate SEL550 residence-address exemption application.",
+   "form": "Not determined within the reviewed source scope.",
+   "office": "Not determined within the reviewed source scope.",
+   "hidden_fields": "SEL550 requests confidentiality for residence address and attached supporting information. It requires a nonexempt mailing address that can remain public. It also lists contact fields and public-safety-officer phone/email requests. Court, law-enforcement and consent disclosures remain possible.",
+   "duration": "SEL550 ordinarily requires reapplication whenever voter registration is updated and permits written revocation. The form explicitly exempts ACP participants from that attestation. ACP's separate term is four years.",
+   "statute": "Not determined within the reviewed source scope.",
+   "voter_file_access": "Any person may get an electronic copy (via SFTP) of a statewide or less than statewide voter list from the Office of the Secretary of State, Elections Division. Requests for a hardcopy of a less than statewide voter list, labels, or other non-electronic formats must be made with the county elections official of each county in which voters to be listed reside. The Secretary of State, Elections Division does not provide hardcopy voter lists.",
+   "source": "sos.oregon.gov",
+   "url": "https://sos.oregon.gov/elections/Pages/request-for-voter-list.aspx",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "voter_file_access": [
+     {
+      "source": "sos.oregon.gov",
+      "url": "https://sos.oregon.gov/elections/Pages/request-for-voter-list.aspx"
+     }
+    ],
+    "categories": [
+     {
+      "source": "Frequently Asked Questions - Oregon Department of Justice : Crime Victim and Survivor Services",
+      "url": "https://www.doj.state.or.us/crime-victims/victims-services/address-confidentiality-program-acp/frequently-asked-questions/"
+     },
+     {
+      "source": "Frequently Asked Questions - Oregon Department of Justice : Crime Victim and Survivor Services",
+      "url": "https://www.doj.state.or.us/crime-victims/victims-services/address-confidentiality-program-acp/frequently-asked-questions/"
+     }
+    ],
+    "duration": [
+     {
+      "source": "Application",
+      "url": "https://sos.oregon.gov/elections/Documents/SEL550.pdf"
+     },
+     {
+      "source": "Application",
+      "url": "https://sos.oregon.gov/elections/Documents/SEL550.pdf"
+     }
+    ],
+    "hidden_fields": [
+     {
+      "source": "Application",
+      "url": "https://sos.oregon.gov/elections/Documents/SEL550.pdf"
+     },
+     {
+      "source": "Application",
+      "url": "https://sos.oregon.gov/elections/Documents/SEL550.pdf"
+     }
+    ]
+   }
+  },
+  {
+   "id": "pennsylvania",
+   "state": "Pennsylvania",
+   "categories": "ACP can cover qualifying victims of domestic violence, sexual assault, stalking, human trafficking or child abduction. Participants may use the substitute address for voter registration.",
+   "form": "The Department of State publishes a voter-list request form. It describes public information, street, walking and full export lists. This is a data-access form, not a confidentiality application.",
+   "office": "Not determined within the reviewed source scope.",
+   "hidden_fields": "Public-information lists cannot contain digitized/electronic signatures or SURE registration numbers. ACP additionally supplies a substitute address for voter registration; this does not establish wholesale removal of all voter fields.",
+   "duration": "ACP enrollment must be renewed every three years. The reviewed source does not assign this term to any separate election confidentiality order.",
+   "statute": "Not determined within the reviewed source scope.",
+   "voter_file_access": "County public-information lists include name, address, birth date and voting history. Access requires identification and a written election, political or law-enforcement purpose statement. Registered Pennsylvania electors may request copies at reproduction/postage cost.",
+   "source": "Pennsylvania General Assembly, Title 25",
+   "url": "https://www.legis.state.pa.us/WU01/LI/LI/CT/HTM/25/00.014.004.000..HTM",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "form": [
+     {
+      "source": "www.pa.gov",
+      "url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dos/programs/voting-and-elections/running-for-office/requestvoterlists.pdf"
+     }
+    ],
+    "voter_file_access": [
+     {
+      "source": "Section 1404.0 - Title 25 - ELECTIONS",
+      "url": "https://www.legis.state.pa.us/WU01/LI/LI/CT/HTM/25/00.014.004.000..HTM"
+     },
+     {
+      "source": "Section 1404.0 - Title 25 - ELECTIONS",
+      "url": "https://www.legis.state.pa.us/WU01/LI/LI/CT/HTM/25/00.014.004.000..HTM"
+     },
+     {
+      "source": "Section 1404.0 - Title 25 - ELECTIONS",
+      "url": "https://www.legis.state.pa.us/WU01/LI/LI/CT/HTM/25/00.014.004.000..HTM"
+     },
+     {
+      "source": "Section 1404.0 - Title 25 - ELECTIONS",
+      "url": "https://www.legis.state.pa.us/WU01/LI/LI/CT/HTM/25/00.014.004.000..HTM"
+     }
+    ],
+    "hidden_fields": [
+     {
+      "source": "Section 1404.0 - Title 25 - ELECTIONS",
+      "url": "https://www.legis.state.pa.us/WU01/LI/LI/CT/HTM/25/00.014.004.000..HTM"
+     }
+    ],
+    "categories": [
+     {
+      "source": "Enroll in the Address Confidentiality Program (ACP)  | Commonwealth of Pennsylvania",
+      "url": "https://www.pa.gov/services/ova/enroll-in-the-address-confidentiality-program--acp--"
+     },
+     {
+      "source": "Enroll in the Address Confidentiality Program (ACP)  | Commonwealth of Pennsylvania",
+      "url": "https://www.pa.gov/services/ova/enroll-in-the-address-confidentiality-program--acp--"
+     }
+    ],
+    "duration": [
+     {
+      "source": "Enroll in the Address Confidentiality Program (ACP)  | Commonwealth of Pennsylvania",
+      "url": "https://www.pa.gov/services/ova/enroll-in-the-address-confidentiality-program--acp--"
+     }
+    ]
+   }
+  },
+  {
+   "id": "rhode-island",
+   "state": "Rhode Island",
+   "categories": "Registered domestic-violence victims within17-28-2(c) may apply to the Department of State for the election ACP. Officials verify the restraining or no-contact order with the named court. Submit both the ACP and voter-registration forms.",
+   "form": "The Department of State offers an official List of Registered Voters Order Form. This source does not establish confidentiality eligibility.",
+   "office": "Not determined within the reviewed source scope.",
+   "hidden_fields": "ACP registrations stay in a separate nonpublic file. Public voter lists omit participant names and addresses. Actual residence and mailing-address disclosures follow17-28-6 exceptions.",
+   "duration": "ACP certification lasts four years from filing unless withdrawn or invalidated earlier. Participants must reapply; officials send notice90days before expiration.",
+   "statute": "Not determined within the reviewed source scope.",
+   "voter_file_access": "(a) Except as otherwise provided in § 17-9.1-6, the original and any duplicate registration cards shall be public records and shall be open to public inspection and copying at all reasonable times. (b) Except where confidentiality is otherwise required under other provisions of this title, all other records concerning the implementation of programs and activities conducted for the purpose of ensuring the accuracy and currency of official lists of eligible voters, and the registration lists prepared pursuant to § 17-9.1-21, shall also be deemed public records.",
+   "source": "webserver.rilegislature.gov",
+   "url": "https://webserver.rilegislature.gov/Statutes/TITLE17/17-9.1/17-9.1-15.htm",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "form": [
+     {
+      "source": "vote.sos.ri.gov",
+      "url": "https://vote.sos.ri.gov/Content/Pdfs/voter-list-OrderForm.pdf"
+     }
+    ],
+    "voter_file_access": [
+     {
+      "source": "webserver.rilegislature.gov",
+      "url": "https://webserver.rilegislature.gov/Statutes/TITLE17/17-9.1/17-9.1-15.htm"
+     }
+    ],
+    "categories": [
+     {
+      "source": "Address Confidentiality for Victims of Domestic Violence (100-RICR-20-00-4) - Rhode Island Department of State",
+      "url": "https://rules.sos.ri.gov/regulations/part/100-20-00-4"
+     },
+     {
+      "source": "Address Confidentiality for Victims of Domestic Violence (100-RICR-20-00-4) - Rhode Island Department of State",
+      "url": "https://rules.sos.ri.gov/regulations/part/100-20-00-4"
+     },
+     {
+      "source": "Address Confidentiality for Victims of Domestic Violence (100-RICR-20-00-4) - Rhode Island Department of State",
+      "url": "https://rules.sos.ri.gov/regulations/part/100-20-00-4"
+     }
+    ],
+    "hidden_fields": [
+     {
+      "source": "Address Confidentiality for Victims of Domestic Violence (100-RICR-20-00-4) - Rhode Island Department of State",
+      "url": "https://rules.sos.ri.gov/regulations/part/100-20-00-4"
+     },
+     {
+      "source": "Address Confidentiality for Victims of Domestic Violence (100-RICR-20-00-4) - Rhode Island Department of State",
+      "url": "https://rules.sos.ri.gov/regulations/part/100-20-00-4"
+     }
+    ],
+    "duration": [
+     {
+      "source": "Address Confidentiality for Victims of Domestic Violence (100-RICR-20-00-4) - Rhode Island Department of State",
+      "url": "https://rules.sos.ri.gov/regulations/part/100-20-00-4"
+     },
+     {
+      "source": "Address Confidentiality for Victims of Domestic Violence (100-RICR-20-00-4) - Rhode Island Department of State",
+      "url": "https://rules.sos.ri.gov/regulations/part/100-20-00-4"
+     }
+    ]
+   }
+  },
+  {
+   "id": "south-carolina",
+   "state": "South Carolina",
+   "categories": "The codified ACP covers qualifying domestic-violence, trafficking, stalking, harassment or sexual-offense victims, with adult, minor-representative and incapacitated-person guardian routes. A registered application assistant recommends applicants. The AG's July 2025 implementation announcement specifically includes voter-registration instructions.",
+   "form": "Not determined within the reviewed source scope.",
+   "office": "Not determined within the reviewed source scope.",
+   "hidden_fields": "ACP participants' absentee-ballot requests are confidential and cannot be publicly released. ACP application/supporting materials also remain confidential. This is narrower than wholesale voter-record deletion.",
+   "duration": "ACP certification lasts four years from initial certification unless withdrawn or invalidated earlier. The AG must send a reapplication form and notice at least four weeks before expiration.",
+   "statute": "Not determined within the reviewed source scope.",
+   "voter_file_access": "Registered South Carolina voters may purchase election lists. Published fields include name, address, birth date, registration/district data and participation history. Commercial solicitation using obtained public-record personal information is prohibited.",
+   "source": "South Carolina Election Commission",
+   "url": "https://scvotes.gov/resources/sale-of-voter-registration-lists/",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "voter_file_access": [
+     {
+      "source": "Sale of Voter Registration Lists - SC Votes - South Carolina Election Commission",
+      "url": "https://scvotes.gov/resources/sale-of-voter-registration-lists/"
+     },
+     {
+      "source": "Sale of Voter Registration Lists - SC Votes - South Carolina Election Commission",
+      "url": "https://scvotes.gov/resources/sale-of-voter-registration-lists/"
+     }
+    ],
+    "hidden_fields": [
+     {
+      "source": "Official election source",
+      "url": "https://www.scag.gov/media/soqgsjsm/2024-south-carolina-code-of-laws-acp-section.pdf"
+     },
+     {
+      "source": "Official election source",
+      "url": "https://www.scag.gov/media/soqgsjsm/2024-south-carolina-code-of-laws-acp-section.pdf"
+     }
+    ],
+    "categories": [
+     {
+      "source": "Official election source",
+      "url": "https://www.scag.gov/media/soqgsjsm/2024-south-carolina-code-of-laws-acp-section.pdf"
+     },
+     {
+      "source": "Official election source",
+      "url": "https://www.scag.gov/media/soqgsjsm/2024-south-carolina-code-of-laws-acp-section.pdf"
+     }
+    ],
+    "duration": [
+     {
+      "source": "Official election source",
+      "url": "https://www.scag.gov/media/soqgsjsm/2024-south-carolina-code-of-laws-acp-section.pdf"
+     },
+     {
+      "source": "Official election source",
+      "url": "https://www.scag.gov/media/soqgsjsm/2024-south-carolina-code-of-laws-acp-section.pdf"
+     }
+    ]
+   }
+  },
+  {
+   "id": "south-dakota",
+   "state": "South Dakota",
+   "categories": "Section12-4-9.2 requires a sworn secured-active application affirming an active protection order under chapter 25-10 or 22-19A, or residence in a chapter 25-10 shelter. The statute requires the specified court verification and, for shelter residents, authorization signed by a shelter official.",
+   "form": "Not determined within the reviewed source scope.",
+   "office": "Not determined within the reviewed source scope.",
+   "hidden_fields": "A secured-active voter record is excluded from public inspection and copying. Exceptions cover law-enforcement requests, court orders and cancellation requested by the designee.",
+   "duration": "Secured-active status lasts five years. The designee can request cancellation earlier.",
+   "statute": "Not determined within the reviewed source scope.",
+   "voter_file_access": "County master registration files are open during office hours. Public access to SSNs, driver-license numbers and birth dates is prohibited; secured-active records have additional exclusions.",
+   "source": "South Dakota Election Myths vs Facts",
+   "url": "https://www.sdsos.gov/elections-voting/upcoming-elections/Myths-vs-Facts-and-FAQS/Myth-vs-Fact.aspx",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "categories": [
+     {
+      "source": "www.sdsos.gov",
+      "url": "https://www.sdsos.gov/elections-voting/assets/2025%20Documents/2025%20Election%20Code.pdf"
+     }
+    ],
+    "hidden_fields": [
+     {
+      "source": "Voting: South Dakota Secretary of State",
+      "url": "https://sdsos.gov/elections-voting/voting/Secure-Active-Designation.aspx"
+     },
+     {
+      "source": "Voting: South Dakota Secretary of State",
+      "url": "https://sdsos.gov/elections-voting/voting/Secure-Active-Designation.aspx"
+     }
+    ],
+    "duration": [
+     {
+      "source": "Voting: South Dakota Secretary of State",
+      "url": "https://sdsos.gov/elections-voting/voting/Secure-Active-Designation.aspx"
+     }
+    ],
+    "voter_file_access": [
+     {
+      "source": "South Dakota Election Myths vs Facts",
+      "url": "https://www.sdsos.gov/elections-voting/upcoming-elections/Myths-vs-Facts-and-FAQS/Myth-vs-Fact.aspx"
+     },
+     {
+      "source": "South Dakota Election Myths vs Facts",
+      "url": "https://www.sdsos.gov/elections-voting/upcoming-elections/Myths-vs-Facts-and-FAQS/Myth-vs-Fact.aspx"
+     }
+    ]
+   }
+  },
+  {
+   "id": "tennessee",
+   "state": "Tennessee",
+   "categories": "Safe at Home applicants are victims of domestic abuse, stalking, trafficking, rape, sexual battery or another sexual offense. Qualifying co-applicants, children and represented people with disabilities can participate. Participants use the special SAH confidential-voter process.",
+   "form": "Not determined within the reviewed source scope.",
+   "office": "Not determined within the reviewed source scope.",
+   "hidden_fields": "The SAH program coordinates removal of the prior voter registration and confidential handling of the new SAH registration. The coordinator supplies absentee-voting instructions; participants should not use the ordinary polling-place process.",
+   "duration": "Safe at Home participation lasts four years and can renew for another four. Withdrawal or cancellation may end participation sooner.",
+   "statute": "Not determined within the reviewed source scope.",
+   "voter_file_access": "Tennessee election data may be purchased for political purposes under the State Election Commission's pricing. Davidson County's election commission publishes a local list-order contact and fee schedule.",
+   "source": "Order a Voter List | Nashville.gov",
+   "url": "https://www.nashville.gov/departments/elections/candidates/order-voter-list",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "voter_file_access": [
+     {
+      "source": "Order a Voter List | Nashville.gov",
+      "url": "https://www.nashville.gov/departments/elections/candidates/order-voter-list"
+     },
+     {
+      "source": "Order a Voter List | Nashville.gov",
+      "url": "https://www.nashville.gov/departments/elections/candidates/order-voter-list"
+     }
+    ],
+    "categories": [
+     {
+      "source": "DIVISIO",
+      "url": "https://publications.tnsosfiles.com/rules/1360/1360-11/1360-11-01.20241208.pdf"
+     },
+     {
+      "source": "DIVISIO",
+      "url": "https://publications.tnsosfiles.com/rules/1360/1360-11/1360-11-01.20241208.pdf"
+     }
+    ],
+    "hidden_fields": [
+     {
+      "source": "| Safe at Home",
+      "url": "https://sos-prod.tnsosgovfiles.com/s3fs-public/document/Participant%20Handbook.pdf?VersionId=DbATSuS3sGjHcqcvWCFRZEWuE18GBqnN"
+     },
+     {
+      "source": "| Safe at Home",
+      "url": "https://sos-prod.tnsosgovfiles.com/s3fs-public/document/Participant%20Handbook.pdf?VersionId=DbATSuS3sGjHcqcvWCFRZEWuE18GBqnN"
+     }
+    ],
+    "duration": [
+     {
+      "source": "| Safe at Home",
+      "url": "https://sos-prod.tnsosgovfiles.com/s3fs-public/document/Participant%20Handbook.pdf?VersionId=DbATSuS3sGjHcqcvWCFRZEWuE18GBqnN"
+     },
+     {
+      "source": "| Safe at Home",
+      "url": "https://sos-prod.tnsosgovfiles.com/s3fs-public/document/Participant%20Handbook.pdf?VersionId=DbATSuS3sGjHcqcvWCFRZEWuE18GBqnN"
+     }
+    ]
+   }
+  },
+  {
+   "id": "texas",
+   "state": "Texas",
+   "categories": "Texas uses separate routes. They include alternate-address registration, specified government personnel under 552.1175, affidavits under Election Code 13.004, and the AG's ACP for qualifying violence, assault, trafficking, stalking or child-abduction victims. Eligibility and hidden fields differ by route.",
+   "form": "By completing and submitting this form to the County Voter Registrar's Office, you are requesting the confidentiality of the voter registration information as stated above. If you want to rescind this confidentiality request, you must do so in writing to the County Voter Registrar's Office.",
+   "office": "Not determined within the reviewed source scope.",
+   "hidden_fields": "All voters' SSN, driver/state ID and registration source are confidential. Approved552.1175 requests additionally protect residence, phone, emergency contact, birth date and family-member information; name remains public with address replaced by asterisks. Affidavit and alternate-address routes have different scope.",
+   "duration": "The current advisory permits written rescission of552.1175 or13.004 confidentiality requests. No single fixed expiration period was verified across the distinct Texas routes. AG ACP enrollment has separate requirements.",
+   "statute": "Not determined within the reviewed source scope.",
+   "voter_file_access": "Names, birth dates, voter identifiers and participation history can appear on Chapter 18 voter lists. Individual-record birth dates have a separate confidentiality rule. Website suppression alone does not prevent a Public Information Act release.",
+   "source": "Address Confidentiality",
+   "url": "https://www.sos.state.tx.us/elections/laws/address-confidentiality.shtml",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "categories": [
+     {
+      "source": "Registering a Voter who is Part of a Confidentiality Program",
+      "url": "https://www.sos.state.tx.us/elections/laws/advisory2026-01.shtml"
+     },
+     {
+      "source": "Registering a Voter who is Part of a Confidentiality Program",
+      "url": "https://www.sos.state.tx.us/elections/laws/advisory2026-01.shtml"
+     },
+     {
+      "source": "Registering a Voter who is Part of a Confidentiality Program",
+      "url": "https://www.sos.state.tx.us/elections/laws/advisory2026-01.shtml"
+     }
+    ],
+    "form": [
+     {
+      "source": "www.sos.state.tx.us",
+      "url": "https://www.sos.state.tx.us/elections/forms/pol-sub/21-20f.pdf"
+     }
+    ],
+    "voter_file_access": [
+     {
+      "source": "Address Confidentiality",
+      "url": "https://www.sos.state.tx.us/elections/laws/address-confidentiality.shtml"
+     },
+     {
+      "source": "Address Confidentiality",
+      "url": "https://www.sos.state.tx.us/elections/laws/address-confidentiality.shtml"
+     }
+    ],
+    "hidden_fields": [
+     {
+      "source": "Registering a Voter who is Part of a Confidentiality Program",
+      "url": "https://www.sos.state.tx.us/elections/laws/advisory2026-01.shtml"
+     },
+     {
+      "source": "Registering a Voter who is Part of a Confidentiality Program",
+      "url": "https://www.sos.state.tx.us/elections/laws/advisory2026-01.shtml"
+     }
+    ],
+    "duration": [
+     {
+      "source": "Registering a Voter who is Part of a Confidentiality Program",
+      "url": "https://www.sos.state.tx.us/elections/laws/advisory2026-01.shtml"
+     }
+    ]
+   }
+  },
+  {
+   "id": "utah",
+   "state": "Utah",
+   "categories": "The official notice lists people who are, or reside with, a person facing domestic or dating violence, a law-enforcement officer, a military member, a public figure, or a person protected by court order. At-risk designation requires an application and the required proof.",
+   "form": "Submit the at-risk designation request form and any required proof to the county clerk. Obtain the current form and proof instructions from that clerk.",
+   "office": "County clerk. The official notice directs applicants to that office for the form and required proof.",
+   "hidden_fields": "The current FAQ protects SSN, driver/state ID, email, full birth date and signature. It distinguishes public, private and withheld records. The May 2026 statutory form also contains phone/email consent text beginningJanuary 1,2027; that future provision is not treated as already operative.",
+   "duration": "Not determined within the reviewed source scope.",
+   "statute": "Not determined within the reviewed source scope.",
+   "voter_file_access": "Utah's current voter guidance describes public registration by default and a private option that still permits authorized political access. Withheld records anonymize personally identifying information but retain specified non-identifying data in releases.",
+   "source": "Utah Lieutenant Governor, voter information",
+   "url": "https://vote.utah.gov/additionalinfo-html/",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "categories": [
+     {
+      "source": "le.utah.gov",
+      "url": "https://le.utah.gov/xcode/Title20A/Chapter2/C20A-2-S104_2026050620260506.pdf"
+     }
+    ],
+    "form": [
+     {
+      "source": "le.utah.gov",
+      "url": "https://le.utah.gov/xcode/Title20A/Chapter2/C20A-2-S104_2026050620260506.pdf"
+     }
+    ],
+    "office": [
+     {
+      "source": "le.utah.gov",
+      "url": "https://le.utah.gov/xcode/Title20A/Chapter2/C20A-2-S104_2026050620260506.pdf"
+     }
+    ],
+    "hidden_fields": [
+     {
+      "source": "Learn How to Register To Vote - Utah Voter Information",
+      "url": "https://vote.utah.gov/additionalinfo-html/"
+     }
+    ],
+    "voter_file_access": [
+     {
+      "source": "Learn How to Register To Vote - Utah Voter Information",
+      "url": "https://vote.utah.gov/additionalinfo-html/"
+     },
+     {
+      "source": "Learn How to Register To Vote - Utah Voter Information",
+      "url": "https://vote.utah.gov/additionalinfo-html/"
+     },
+     {
+      "source": "Learn How to Register To Vote - Utah Voter Information",
+      "url": "https://vote.utah.gov/additionalinfo-html/"
+     }
+    ]
+   }
+  },
+  {
+   "id": "vermont",
+   "state": "Vermont",
+   "categories": "Safe at Home covers qualifying Vermont survivors of domestic violence, sexual assault, stalking or trafficking, and people providing or seeking legally protected reproductive or gender-affirming healthcare. Adults, emancipated minors and parent/guardian applicants can qualify. The protected-record service includes blind absentee voting.",
+   "form": "Not determined within the reviewed source scope.",
+   "office": "Not determined within the reviewed source scope.",
+   "hidden_fields": "Your confidential information (month/day of birth, driver's license or nondriver ID number, last four of SSN, phone, email) is protected by law and is not public.",
+   "duration": "Initial Safe at Home enrollment lasts four years. Participation may continue indefinitely through updated applications at each four-year expiration.",
+   "statute": "Not determined within the reviewed source scope.",
+   "voter_file_access": "Registration places a voter on the public checklist posted before elections. The SOS FAQ states that supplying a mailing address keeps the physical address off publicly provided checklists. Safe at Home offers a separate protected voting process.",
+   "source": "Vermont Secretary of State",
+   "url": "https://sos.vermont.gov/elections/voters/voter-faqs/voter-registration-faqs",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "hidden_fields": [
+     {
+      "source": "sos.vermont.gov",
+      "url": "https://sos.vermont.gov/elections/voters/vermont-voting-rights"
+     }
+    ],
+    "categories": [
+     {
+      "source": "Safe at Home Address Confidentiality Program | Secretary of State",
+      "url": "https://sos.vermont.gov/secretary-of-state-services/safe-at-home"
+     },
+     {
+      "source": "Safe at Home Address Confidentiality Program | Secretary of State",
+      "url": "https://sos.vermont.gov/secretary-of-state-services/safe-at-home"
+     }
+    ],
+    "duration": [
+     {
+      "source": "Safe at Home FAQs | Secretary of State",
+      "url": "https://sos.vermont.gov/secretary-of-state-services/safe-at-home/resources-faqs"
+     },
+     {
+      "source": "Safe at Home FAQs | Secretary of State",
+      "url": "https://sos.vermont.gov/secretary-of-state-services/safe-at-home/resources-faqs"
+     }
+    ],
+    "voter_file_access": [
+     {
+      "source": "Frequently Asked Questions - Voter Registration | Secretary of State",
+      "url": "https://sos.vermont.gov/elections/voters/voter-faqs/voter-registration-faqs"
+     },
+     {
+      "source": "Frequently Asked Questions - Voter Registration | Secretary of State",
+      "url": "https://sos.vermont.gov/elections/voters/voter-faqs/voter-registration-faqs"
+     }
+    ]
+   }
+  },
+  {
+   "id": "virginia",
+   "state": "Virginia",
+   "categories": "Protected-voter routes cover qualifying law enforcement, protection-order holders, threatened/stalked people, ACP participants, specified judicial/legal personnel, approved foster parents and listed election officials, including designated household members. Supply a Virginia PO box. Current or former elected officials appear in future/contingent2026 codification and are not added from those versions.",
+   "form": "Not determined within the reviewed source scope.",
+   "office": "Not determined within the reviewed source scope.",
+   "hidden_fields": "Protected status replaces residence street address with the Virginia PO box on public inspection lists. The voter must report changes to that PO box. This protection does not make every registration field confidential.",
+   "duration": "ACP certification lasts three years and may renew every three years. A participant may withdraw at any time. This term is specific to ACP and does not set an expiration for all protected-voter occupational or safety routes.",
+   "statute": "Not determined within the reviewed source scope.",
+   "voter_file_access": "Candidates for election or political party nomination * Political party committees or officials * Political action committees (PACs) which are currently registered with the ELECT or with the Federal Election Commission * Incumbent office holders * Non-profit organizations which promote voter participation and voter registration; and * Members of the public seeking to promote voter participation and registration by means of a communication or mailing without intimidation or pressure exerted on the recipient (are only eligible to receive a List of Those Who Voted (LTWV). ## Data Included",
+   "source": "www.elections.virginia.gov",
+   "url": "https://www.elections.virginia.gov/candidatepac-info/client-services/",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "voter_file_access": [
+     {
+      "source": "www.elections.virginia.gov",
+      "url": "https://www.elections.virginia.gov/candidatepac-info/client-services/"
+     }
+    ],
+    "categories": [
+     {
+      "source": "Chapter 6 Voter Registration",
+      "url": "https://www.elections.virginia.gov/media/grebhandbook/2025-updates/6_Voter_-Registration_2025_en.pdf"
+     },
+     {
+      "source": "Chapter 6 Voter Registration",
+      "url": "https://www.elections.virginia.gov/media/grebhandbook/2025-updates/6_Voter_-Registration_2025_en.pdf"
+     },
+     {
+      "source": "Chapter 6 Voter Registration",
+      "url": "https://www.elections.virginia.gov/media/grebhandbook/2025-updates/6_Voter_-Registration_2025_en.pdf"
+     },
+     {
+      "source": "Chapter 6 Voter Registration",
+      "url": "https://www.elections.virginia.gov/media/grebhandbook/2025-updates/6_Voter_-Registration_2025_en.pdf"
+     }
+    ],
+    "hidden_fields": [
+     {
+      "source": "Chapter 6 Voter Registration",
+      "url": "https://www.elections.virginia.gov/media/grebhandbook/2025-updates/6_Voter_-Registration_2025_en.pdf"
+     },
+     {
+      "source": "Chapter 6 Voter Registration",
+      "url": "https://www.elections.virginia.gov/media/grebhandbook/2025-updates/6_Voter_-Registration_2025_en.pdf"
+     }
+    ],
+    "duration": [
+     {
+      "source": "Domestic Violence - Address Confidentiality Program",
+      "url": "https://www.oag.state.va.us/programs-outreach/domestic-violence/address-confidentiality-program?highlight=WyJsYXciLCJvbmx5Il0%3D"
+     },
+     {
+      "source": "Domestic Violence - Address Confidentiality Program",
+      "url": "https://www.oag.state.va.us/programs-outreach/domestic-violence/address-confidentiality-program?highlight=WyJsYXciLCJvbmx5Il0%3D"
+     }
+    ]
+   }
+  },
+  {
+   "id": "washington",
+   "state": "Washington",
+   "categories": "ACP can cover Washington survivors of domestic violence, sexual assault, stalking or trafficking who fear for safety, with parent/guardian routes. Threatened or harassed criminal-justice affiliates, election officials and protected healthcare workers have statutory routes; specified household members can be included.",
+   "form": "Not determined within the reviewed source scope.",
+   "office": "Not determined within the reviewed source scope.",
+   "hidden_fields": "ACP protects actual street/mailing address, residence municipality/county, voting precinct and unique home/work/school location identifiers. Participant status and substitute address remain nonconfidential. Participants must use ACP-specific voting forms rather than ordinary online registration.",
+   "duration": "ACP certification lasts four years unless withdrawn or canceled earlier. This is the program-certification term, not a retention period for all historical voter records.",
+   "statute": "Not determined within the reviewed source scope.",
+   "voter_file_access": "(2) Subject to the restrictions of RCW 29A.08.710 and 40.24.060, poll books, precinct lists, and current lists of registered voters are public records and must be made available for public inspection and copying under such reasonable rules and regulations as the county auditor or secretary of state may prescribe. The county auditor or secretary of state shall promptly furnish current lists of registered voters in his or her possession, at actual reproduction cost, to any person requesting such information. The lists shall not be used for the purpose of mailing or delivering any advertisement or offer for any property, establishment, organization, product, or service or for the purpose of mailing or delivering any solicitation for money, services, or anything of value. However, the lists and labels may be used for any political purpose. The county auditor or secretary of state must provide a copy of RCW 29A.08.740 to the person requesting the material that is released under this section.",
+   "source": "www.sos.wa.gov",
+   "url": "https://www.sos.wa.gov/elections/vrdb/extract-requests.aspx",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "voter_file_access": [
+     {
+      "source": "www.sos.wa.gov",
+      "url": "https://www.sos.wa.gov/elections/vrdb/extract-requests.aspx"
+     }
+    ],
+    "acp_enrollment": [
+     {
+      "source": "www.sos.wa.gov",
+      "url": "https://www.sos.wa.gov/statewide-programs/address-confidentiality-program-acp"
+     }
+    ],
+    "categories": [
+     {
+      "source": "Do I Qualify? | WA Secretary of State",
+      "url": "https://www.sos.wa.gov/statewide-programs/address-confidentiality-program-acp/do-i-qualify"
+     },
+     {
+      "source": "Do I Qualify? | WA Secretary of State",
+      "url": "https://www.sos.wa.gov/statewide-programs/address-confidentiality-program-acp/do-i-qualify"
+     }
+    ],
+    "hidden_fields": [
+     {
+      "source": "Address Confidentiality Program (ACP) | WA Secretary of State",
+      "url": "https://www.sos.wa.gov/statewide-programs/address-confidentiality-program-acp"
+     },
+     {
+      "source": "Address Confidentiality Program (ACP) | WA Secretary of State",
+      "url": "https://www.sos.wa.gov/statewide-programs/address-confidentiality-program-acp"
+     },
+     {
+      "source": "Address Confidentiality Program (ACP) | WA Secretary of State",
+      "url": "https://www.sos.wa.gov/statewide-programs/address-confidentiality-program-acp"
+     },
+     {
+      "source": "Address Confidentiality Program (ACP) | WA Secretary of State",
+      "url": "https://www.sos.wa.gov/statewide-programs/address-confidentiality-program-acp"
+     }
+    ],
+    "duration": [
+     {
+      "source": "Address Confidentiality Program (ACP) | WA Secretary of State",
+      "url": "https://www.sos.wa.gov/statewide-programs/address-confidentiality-program-acp"
+     }
+    ]
+   }
+  },
+  {
+   "id": "west-virginia",
+   "state": "West Virginia",
+   "categories": "ACP serves qualifying domestic-violence, sexual-assault, stalking or trafficking victims who recently relocated or plan to relocate to an unknown address. Applicants must avoid creating government records at that address. Adult and parent/guardian routes apply. The designated address may be used for voter registration subject to the statutory process.",
+   "form": "Not determined within the reviewed source scope.",
+   "office": "Not determined within the reviewed source scope.",
+   "hidden_fields": "The SOS identifies SSN, driver/state ID, phone and email as sensitive voter information that it will not release. ACP's designated-address protections are separate.",
+   "duration": "ACP enrollment lasts four years if the participant continues to meet the program requirements. Application-assistant registration has a separate two-year term and is not the voter's term.",
+   "statute": "Not determined within the reviewed source scope.",
+   "voter_file_access": "The SOS states that most voter information is public record, while listed sensitive fields remain private. A public-list request does not expose SSN, driver/state ID, phone or email under this guidance.",
+   "source": "Elections Frequently Asked Questions (FAQs) | WV Secretary of State",
+   "url": "https://sos.wv.gov/elections/voter-information/elections-frequently-asked-questions-faqs",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "hidden_fields": [
+     {
+      "source": "Elections Frequently Asked Questions (FAQs) | WV Secretary of State",
+      "url": "https://sos.wv.gov/elections/voter-information/elections-frequently-asked-questions-faqs"
+     }
+    ],
+    "categories": [
+     {
+      "source": "Address Confidentiality Program (ACP) | WV Secretary of State",
+      "url": "https://sos.wv.gov/index.php/about-us/address-confidentiality-program-acp"
+     },
+     {
+      "source": "Address Confidentiality Program (ACP) | WV Secretary of State",
+      "url": "https://sos.wv.gov/index.php/about-us/address-confidentiality-program-acp"
+     }
+    ],
+    "duration": [
+     {
+      "source": "Address Confidentiality Program (ACP) | WV Secretary of State",
+      "url": "https://sos.wv.gov/index.php/about-us/address-confidentiality-program-acp"
+     }
+    ],
+    "voter_file_access": [
+     {
+      "source": "Elections Frequently Asked Questions (FAQs) | WV Secretary of State",
+      "url": "https://sos.wv.gov/elections/voter-information/elections-frequently-asked-questions-faqs"
+     }
+    ]
+   }
+  },
+  {
+   "id": "wisconsin",
+   "state": "Wisconsin",
+   "categories": "Wisconsin distinguishes confidential electors under 6.47 from protected judicial officers and qualifying family under 757.07(2)(a). Certain victims of domestic abuse, sexual assault or stalking can request confidential status. Judicial privacy requires its own statutory request.",
+   "form": "Not determined within the reviewed source scope.",
+   "office": "Not determined within the reviewed source scope.",
+   "hidden_fields": "WEC releases do not include birth date, age/range, driver-license number, SSN or confidential-elector information. Confidential and protected judicial voters do not appear in data requests; their addresses do not appear in public pollbooks.",
+   "duration": "The WEC2023 municipal-clerk manual describes a24-month confidential-listing renewal period and earlier ending triggers, including order expiration or shelter departure. Inactive confidential registrations remain confidential until lawful destruction. This term does not govern the separate judicial protected-voter route.",
+   "statute": "Not determined within the reviewed source scope.",
+   "voter_file_access": "The official WisVote service accepts voter-data requests, provides a cost and record-count estimate, and offers download after payment. The reviewed process is a data-request route. No voter data was requested or purchased.",
+   "source": "badgervoters.wi.gov",
+   "url": "https://badgervoters.wi.gov/",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "voter_file_access": [
+     {
+      "source": "badgervoters.wi.gov",
+      "url": "https://badgervoters.wi.gov/"
+     }
+    ],
+    "categories": [
+     {
+      "source": "Frequently Asked Questions - Badger Voters",
+      "url": "https://badgervoters.wi.gov/faq"
+     },
+     {
+      "source": "Frequently Asked Questions - Badger Voters",
+      "url": "https://badgervoters.wi.gov/faq"
+     }
+    ],
+    "hidden_fields": [
+     {
+      "source": "Frequently Asked Questions - Badger Voters",
+      "url": "https://badgervoters.wi.gov/faq"
+     },
+     {
+      "source": "Frequently Asked Questions - Badger Voters",
+      "url": "https://badgervoters.wi.gov/faq"
+     }
+    ],
+    "duration": [
+     {
+      "source": "Wisconsin Mu",
+      "url": "https://www.superiorwi.gov/DocumentCenter/View/14892/Election-Administration-Manual-2023-09_1?bidId="
+     },
+     {
+      "source": "Wisconsin Mu",
+      "url": "https://www.superiorwi.gov/DocumentCenter/View/14892/Election-Administration-Manual-2023-09_1?bidId="
+     }
+    ]
+   }
+  },
+  {
+   "id": "wyoming",
+   "state": "Wyoming",
+   "categories": "Not determined within the reviewed source scope.",
+   "form": "Not determined within the reviewed source scope.",
+   "office": "Not determined within the reviewed source scope.",
+   "hidden_fields": "Election records containing SSN or fragments, driver-license number, birth date, phone, tribal ID, email and other protected personal information are confidential. The statute excepts names, gender, addresses, state-generated identifiers and party affiliations from that general confidentiality clause.",
+   "duration": "Not determined within the reviewed source scope.",
+   "statute": "Not determined within the reviewed source scope.",
+   "voter_file_access": "Wyoming registry lists are supplied to statutory political candidates, committees, officials and voter-participation organizations for political purposes only. Commercial use is prohibited. County election records are otherwise public unless the Election Code provides an exception.",
+   "source": "Official election source",
+   "url": "https://wyoleg.gov/statutes/compress/title22.pdf",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "voter_file_access": [
+     {
+      "source": "Official election source",
+      "url": "https://wyoleg.gov/statutes/compress/title22.pdf"
+     },
+     {
+      "source": "Official election source",
+      "url": "https://wyoleg.gov/statutes/compress/title22.pdf"
+     }
+    ],
+    "hidden_fields": [
+     {
+      "source": "Official election source",
+      "url": "https://wyoleg.gov/statutes/compress/title22.pdf"
+     },
+     {
+      "source": "Official election source",
+      "url": "https://wyoleg.gov/statutes/compress/title22.pdf"
+     }
+    ]
+   }
+  }
+ ]
+}

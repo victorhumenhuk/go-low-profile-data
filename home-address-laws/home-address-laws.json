@@ -1,0 +1,1923 @@
+{
+ "id": "home-address-laws",
+ "name": "Home-address protection laws",
+ "description": "Source-backed home-address protection channels, statutory categories, request limits and dated court findings. No individual eligibility determination.",
+ "scope": "Selected in-force laws for 15 states and federal law. Each channel retains its own group definition and exceptions. Unknown fields establish neither protection nor its absence.",
+ "version": "1.1",
+ "published": "2026-10-24",
+ "verified": "2026-10-24",
+ "update_policy": "Quarterly statutory review plus checks after legislation or a court decision.",
+ "columns": [
+  {
+   "key": "state",
+   "label": "Jurisdiction"
+  },
+  {
+   "key": "citation",
+   "label": "Citation"
+  },
+  {
+   "key": "protected_group",
+   "label": "Protected groups in the cited law"
+  },
+  {
+   "key": "effective_date",
+   "label": "Effective date"
+  },
+  {
+   "key": "sunset_date",
+   "label": "Review or sunset"
+  },
+  {
+   "key": "property_records_online",
+   "label": "Online property records"
+  },
+  {
+   "key": "voter_records",
+   "label": "Voter records"
+  },
+  {
+   "key": "drivers_license_records",
+   "label": "Driver records"
+  },
+  {
+   "key": "public_records_requests",
+   "label": "Public records requests"
+  },
+  {
+   "key": "publication_takedown",
+   "label": "Publication or takedown"
+  },
+  {
+   "key": "route",
+   "label": "Request route"
+  },
+  {
+   "key": "duration",
+   "label": "Duration"
+  },
+  {
+   "key": "limits",
+   "label": "Limits"
+  },
+  {
+   "key": "litigation_status",
+   "label": "Court status"
+  }
+ ],
+ "changelog": [
+  {
+   "date": "2026-10-24",
+   "change": "Initial source audit. All legal conclusions remain unapproved."
+  },
+  {
+   "date": "2026-10-24",
+   "change": "Clean California AB343 definition; AB1521 repeal and current civil provision; distinct California DMV/voter channels; Florida DMV/voter channels; Washington employee records; Nevada channel evidence and access limits; federal DPPA; New Jersey court disposition. Exact category catalogs and channel-status records added for all16 rows."
+  },
+  {
+   "date": "2026-10-24",
+   "change": "Reviewed current channels in 15 states and federal law. Corrected California repeal and definition changes, updated 2026 court findings, and retained explicit unknowns."
+  }
+ ],
+ "license": "https://creativecommons.org/licenses/by/4.0/",
+ "rows": [
+  {
+   "id": "florida",
+   "state": "Florida",
+   "citation": "Fla.Stat.119.071(4)(d),97.0585 and119.0712(2)",
+   "protected_group": "The 26 category paragraphs in subsection (4)(d)2.a-z. Each paragraph retains its own active/former, spouse, child and other conditions.",
+   "effective_date": "Not verified. No conclusion about protection or its absence.",
+   "sunset_date": "Category-specific review dates appear in the exact paragraphs. Judicial and agriculture clauses have October 2, 2028 dates. Current county/city attorneys, gaming and clerk clauses have October 2, 2029 dates. The final public-officer clause has October 2, 2030.",
+   "property_records_online": "The property appraiser or tax collector removes the protected name and instrument or official-record locator, rather than removing the street address or legal description when not associated with exempt personal information.",
+   "voter_records": "Section 97.0585 separately protects voter-registration Social Security, driver-license and Florida ID numbers, 16- and 17-year-old preregistrants, and specified registration-process information. A voter signature is exempt from copying. Election-administration disclosure remains permitted. Occupational address requests still require the separate 119.071 custodian analysis.",
+   "drivers_license_records": "Section 119.0712(2) applies DPPA confidentiality and permitted disclosures to Florida motor-vehicle records, including operator permits, titles, registrations and identification cards. This channel is separate from county property-record confidentiality.",
+   "public_records_requests": "Category-specific exemption from section 119.07(1) and the state constitutional public-record right. This is not a private-party deletion right.",
+   "publication_takedown": "Not verified. No conclusion about protection or its absence.",
+   "route": "Written, notarized request to each non-employer custodian. The request identifies the statutory basis, confirms eligibility and identifies the information.",
+   "duration": "Not verified. No conclusion about protection or its absence.",
+   "limits": "Custodial requests, professional access and conveyance rules remain material. A protected official-record residence exemption ends after conveyance as specified in paragraph 8.",
+   "litigation_status": "Not verified. No conclusion about protection or its absence.",
+   "source": "Florida Legislature, current Florida Statutes 119.071",
+   "url": "https://www.leg.state.fl.us/Statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0119/Sections/0119.071.html",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "protected_group": [
+     {
+      "source": "Florida Legislature, current Florida Statutes 119.071",
+      "url": "https://www.leg.state.fl.us/Statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0119/Sections/0119.071.html"
+     }
+    ],
+    "category_text": [
+     {
+      "source": "Florida Legislature, current Florida Statutes 119.071",
+      "url": "https://www.leg.state.fl.us/Statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0119/Sections/0119.071.html"
+     }
+    ],
+    "public_records_requests": [
+     {
+      "source": "Florida Legislature, current Florida Statutes 119.071",
+      "url": "https://www.leg.state.fl.us/Statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0119/Sections/0119.071.html"
+     }
+    ],
+    "route": [
+     {
+      "source": "Florida Legislature, current Florida Statutes 119.071",
+      "url": "https://www.leg.state.fl.us/Statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0119/Sections/0119.071.html"
+     }
+    ],
+    "property_records_online": [
+     {
+      "source": "Florida Legislature, current Florida Statutes 119.071",
+      "url": "https://www.leg.state.fl.us/Statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0119/Sections/0119.071.html"
+     }
+    ],
+    "sunset_date": [
+     {
+      "source": "Florida Legislature, current Florida Statutes 119.071",
+      "url": "https://www.leg.state.fl.us/Statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0119/Sections/0119.071.html"
+     }
+    ],
+    "limits": [
+     {
+      "source": "Florida Legislature, current Florida Statutes 119.071",
+      "url": "https://www.leg.state.fl.us/Statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0119/Sections/0119.071.html"
+     }
+    ],
+    "voter_records": [
+     {
+      "source": "Florida Senate,2026 Statutes",
+      "url": "https://www.flsenate.gov/Laws/Statutes/2026/97.0585"
+     },
+     {
+      "source": "Florida Senate,2026 Statutes",
+      "url": "https://www.flsenate.gov/Laws/Statutes/2026/97.0585"
+     },
+     {
+      "source": "Florida Senate,2026 Statutes",
+      "url": "https://www.flsenate.gov/Laws/Statutes/2026/97.0585"
+     }
+    ],
+    "drivers_license_records": [
+     {
+      "source": "Florida Senate,2026 Statutes",
+      "url": "https://www.flsenate.gov/Laws/Statutes/2026/119.0712"
+     },
+     {
+      "source": "Florida Senate,2026 Statutes",
+      "url": "https://www.flsenate.gov/Laws/Statutes/2026/119.0712"
+     }
+    ],
+    "protected_group_categories": [
+     {
+      "source": "Florida Legislature, current Florida Statutes 119.071",
+      "url": "https://www.leg.state.fl.us/Statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0119/Sections/0119.071.html"
+     }
+    ]
+   },
+   "category_catalog": [
+    {
+     "paragraph": "Fla. Stat. § 119.071(4)(d)2.a. (2026)",
+     "statutory_text": "The home addresses, telephone numbers, dates of birth, and photographs of active or former sworn law enforcement personnel or of active or former civilian personnel employed by a law enforcement agency, including correctional and correctional probation officers, personnel of the Department of Children and Families whose duties include the investigation of abuse, neglect, exploitation, fraud, theft, or other criminal activities, personnel of the Department of Health whose duties are to support the investigation of child abuse or neglect, and personnel of the Department of Revenue or local governments whose responsibilities include revenue collection and enforcement or child support enforcement"
+    },
+    {
+     "paragraph": "Fla. Stat. § 119.071(4)(d)2.b. (2026)",
+     "statutory_text": "The home addresses, telephone numbers, dates of birth, and photographs of current or former nonsworn investigative personnel of the Department of Financial Services whose duties include the investigation of fraud, theft, workers’ compensation coverage requirements and compliance, other related criminal activities, or state regulatory requirement violations"
+    },
+    {
+     "paragraph": "Fla. Stat. § 119.071(4)(d)2.c. (2026)",
+     "statutory_text": "The home addresses, telephone numbers, dates of birth, and photographs of current or former nonsworn investigative personnel of the Office of Financial Regulation’s Bureau of Financial Investigations whose duties include the investigation of fraud, theft, other related criminal activities, or state regulatory requirement violations"
+    },
+    {
+     "paragraph": "Fla. Stat. § 119.071(4)(d)2.d. (2026)",
+     "statutory_text": "The home addresses, telephone numbers, dates of birth, and photographs of current or former firefighters certified in compliance with s. 633.408 "
+    },
+    {
+     "paragraph": "Fla. Stat. § 119.071(4)(d)2.e. (2026)",
+     "statutory_text": "The home addresses, dates of birth, and telephone numbers of current or former justices of the Supreme Court, district court of appeal judges, circuit court judges, and county court judges and current judicial assistants"
+    },
+    {
+     "paragraph": "Fla. Stat. § 119.071(4)(d)2.f. (2026)",
+     "statutory_text": "The home addresses, telephone numbers, dates of birth, and photographs of current or former state attorneys, assistant state attorneys, statewide prosecutors, or assistant statewide prosecutors"
+    },
+    {
+     "paragraph": "Fla. Stat. § 119.071(4)(d)2.g. (2026)",
+     "statutory_text": "The home addresses, dates of birth, and telephone numbers of general magistrates, special magistrates, judges of compensation claims, administrative law judges of the Division of Administrative Hearings, and child support enforcement hearing officers"
+    },
+    {
+     "paragraph": "Fla. Stat. § 119.071(4)(d)2.h. (2026)",
+     "statutory_text": "The home addresses, telephone numbers, dates of birth, and photographs of current or former human resource, labor relations, or employee relations directors, assistant directors, managers, or assistant managers of any local government agency or water management district whose duties include hiring and firing employees, labor contract negotiation, administration, or other personnel-related duties"
+    },
+    {
+     "paragraph": "Fla. Stat. § 119.071(4)(d)2.i. (2026)",
+     "statutory_text": "The home addresses, telephone numbers, dates of birth, and photographs of current or former code enforcement officers"
+    },
+    {
+     "paragraph": "Fla. Stat. § 119.071(4)(d)2.j. (2026)",
+     "statutory_text": "The home addresses, telephone numbers, places of employment, dates of birth, and photographs of current or former guardians ad litem, as defined in s. 39.01 "
+    },
+    {
+     "paragraph": "Fla. Stat. § 119.071(4)(d)2.k. (2026)",
+     "statutory_text": "The home addresses, telephone numbers, dates of birth, and photographs of current or former juvenile probation officers, juvenile probation supervisors, detention superintendents, assistant detention superintendents, juvenile justice detention officers I and II, juvenile justice detention officer supervisors, juvenile justice residential officers, juvenile justice residential officer supervisors I and II, juvenile justice counselors, juvenile justice counselor supervisors, human services counselor administrators, senior human services counselor administrators, rehabilitation therapists, and social services counselors of the Department of Juvenile Justice"
+    },
+    {
+     "paragraph": "Fla. Stat. § 119.071(4)(d)2.l. (2026)",
+     "statutory_text": "The home addresses, telephone numbers, dates of birth, and photographs of current or former public defenders, assistant public defenders, criminal conflict and civil regional counsel, and assistant criminal conflict and civil regional counsel"
+    },
+    {
+     "paragraph": "Fla. Stat. § 119.071(4)(d)2.m. (2026)",
+     "statutory_text": "The home addresses, telephone numbers, dates of birth, and photographs of current or former investigators or inspectors of the Department of Business and Professional Regulation"
+    },
+    {
+     "paragraph": "Fla. Stat. § 119.071(4)(d)2.n. (2026)",
+     "statutory_text": "The home addresses, telephone numbers, and dates of birth of county tax collectors"
+    },
+    {
+     "paragraph": "Fla. Stat. § 119.071(4)(d)2.o. (2026)",
+     "statutory_text": "The home addresses, telephone numbers, dates of birth, and photographs of current or former personnel of the Department of Health whose duties include, or result in, the determination or adjudication of eligibility for social security disability benefits, the investigation or prosecution of complaints filed against health care practitioners, or the inspection of health care practitioners or health care facilities licensed by the Department of Health"
+    },
+    {
+     "paragraph": "Fla. Stat. § 119.071(4)(d)2.p. (2026)",
+     "statutory_text": "The home addresses, telephone numbers, dates of birth, and photographs of current or former impaired practitioner consultants who are retained by an agency or current or former employees of an impaired practitioner consultant whose duties result in a determination of a person’s skill and safety to practice a licensed profession"
+    },
+    {
+     "paragraph": "Fla. Stat. § 119.071(4)(d)2.q. (2026)",
+     "statutory_text": "The home addresses, telephone numbers, dates of birth, and photographs of current or former emergency medical technicians or paramedics certified under chapter 401"
+    },
+    {
+     "paragraph": "Fla. Stat. § 119.071(4)(d)2.r. (2026)",
+     "statutory_text": "The home addresses, telephone numbers, dates of birth, and photographs of current or former personnel employed in an agency’s office of inspector general or internal audit department whose duties include auditing or investigating waste, fraud, abuse, theft, exploitation, or other activities that could lead to criminal prosecution or administrative discipline"
+    },
+    {
+     "paragraph": "Fla. Stat. § 119.071(4)(d)2.s. (2026)",
+     "statutory_text": "The home addresses, telephone numbers, dates of birth, and photographs of current or former directors, managers, supervisors, nurses, and clinical employees of an addiction treatment facility"
+    },
+    {
+     "paragraph": "Fla. Stat. § 119.071(4)(d)2.t. (2026)",
+     "statutory_text": "The home addresses, telephone numbers, dates of birth, and photographs of current or former directors, managers, supervisors, and clinical employees of a child advocacy center that meets the standards of s. 39.3035 (2) and fulfills the screening requirement of s. 39.3035 (3), and the members of a Child Protection Team as described in s. 39.303 whose duties include supporting the investigation of child abuse or sexual abuse, child abandonment, child neglect, and child exploitation or to provide services as part of a multidisciplinary case review team"
+    },
+    {
+     "paragraph": "Fla. Stat. § 119.071(4)(d)2.u. (2026)",
+     "statutory_text": "The home addresses, telephone numbers, places of employment, dates of birth, and photographs of current or former staff and domestic violence advocates, as defined in s. 90.5036 (1)(b), of domestic violence centers certified by the Department of Children and Families under chapter 39"
+    },
+    {
+     "paragraph": "Fla. Stat. § 119.071(4)(d)2.v. (2026)",
+     "statutory_text": "The home addresses, telephone numbers, dates of birth, and photographs of current or former inspectors or investigators of the Department of Agriculture and Consumer Services"
+    },
+    {
+     "paragraph": "Fla. Stat. § 119.071(4)(d)2.w. (2026)",
+     "statutory_text": "The home addresses, telephone numbers, dates of birth, and photographs of current county attorneys, assistant county attorneys, deputy county attorneys, city attorneys, assistant city attorneys, and deputy city attorneys"
+    },
+    {
+     "paragraph": "Fla. Stat. § 119.071(4)(d)2.x. (2026)",
+     "statutory_text": "The home addresses, telephone numbers, dates of birth, and photographs of current or former commissioners of the Florida Gaming Control Commission"
+    },
+    {
+     "paragraph": "Fla. Stat. § 119.071(4)(d)2.y. (2026)",
+     "statutory_text": "The home addresses, telephone numbers, dates of birth, and photographs of current clerks of the circuit court, deputy clerks of the circuit court, and clerk of the circuit court personnel"
+    },
+    {
+     "paragraph": "Fla. Stat. § 119.071(4)(d)2.z. (2026)",
+     "statutory_text": "As used in this sub-subparagraph, the term: (A) “Congressional member” means a person who is elected to serve as a member of the United States House of Representatives or is elected or appointed to serve as a member of the United States Senate. (B) “Partial home address” means the dwelling location at which an individual resides and includes the physical address, mailing address, street address, parcel identification number, plot identification number, legal property description, neighborhood name and lot number, GPS coordinates, and any other descriptive property information that may reveal the partial home address, except for the city and zip code. (C) “Public officer” means a person who holds one of the following offices: Governor, Lieutenant Governor, Chief Financial Officer, Attorney General, Agriculture Commissioner, state representative, state senator, property appraiser, supervisor of elections, school superintendent, school board member, mayor, city commissioner, or county commissioner. (II) The following information is exempt from s. 119.07 (1) and s. 24(a), Art. I of the State Constitution: (A) The partial home addresses of a current congressional member or public officer and his or her spouse or adult child. (B) The telephone numbers of a current congressional member or public officer and his or her spouse or adult child. (C) The name, home addresses, telephone numbers, and date of birth of a minor child of a current congressional member or public officer and the name and location of the school or day care facility attended by the minor child. (III) This sub-subparagraph is subject to the Open Government Sunset Review Act in accordance with s. 119.15 and shall stand repealed on October 2, 2030, unless reviewed and saved from repeal through reenactment by the Legislature."
+    }
+   ]
+  },
+  {
+   "id": "california",
+   "state": "California",
+   "citation": "Cal.Gov.Code7920.500 and7928.205;Elec.Code2166.7;Veh.Code1808.4;Civ.Code1798.84.1;AB1521,Stats.2025 ch.200",
+   "protected_group": "The nonexclusive 18-category definition includes state constitutional officers, legislators, active or retired state and specified federal or tribal judges, court commissioners, State Bar Court judges, prosecutors, public defenders, local elected officials, specified appointees, police chiefs, sheriffs, public safety officials, administrative law judges, and court-appointed children's counsel in family or dependency proceedings. Each separate voter or DMV statute has its own eligibility list.",
+   "effective_date": "The clean AB 343 definition is effectiveJanuary 1, 2026. The current agency Internet rule reflects AB 1785, effectiveJanuary 1, 2025. Civil Code 1798.84.1 added by AB 1521 is effectiveJanuary 1, 2026.",
+   "sunset_date": "Not verified. No conclusion about protection or its absence.",
+   "property_records_online": "Section 7928.205 prohibits an agency from publicly posting the home address, telephone number, or both name and assessor parcel number associated with the home address, without written permission. A legally required notice or publication remains allowed.",
+   "voter_records": "Section 2166.7 provides a separate public-safety-officer application route only if the county board authorizes it. The applicant declares a life-threatening circumstance under penalty of perjury. The application is public. Its officer definition is limited to specified subdivisions of Government Code 7920.535.",
+   "drivers_license_records": "Vehicle Code 1808.4 protects home addresses in DMV records on request for its separately enumerated persons. Courts, law enforcement, BOE, specified subpoena-based attorney access, and legally entitled agencies remain exceptions. Records may remain open with the address removed.",
+   "public_records_requests": "The cited rule addresses unrestricted agency Internet posting. Separate general public-records request exemptions are not established by this section alone.",
+   "publication_takedown": "AB 1521 repealed former Government Code 7928.210 through 7928.230. The former written-demand takedown provisions must not be presented as current. Current Civil Code 1798.84.1 instead addresses Internet solicitation, sale or trade of covered contact information with intent to cause imminent great bodily harm. It is not an ordinary written-notice deletion rule.",
+   "route": "For the agency Internet rule, the official's written permission is needed before the agency posts covered information. Voter and DMV requests use separate statutory procedures.",
+   "duration": "Channel-specific. Voter confidentiality under 2166.7 lasts no more than two years and may be renewed for another period no longer than two years. Section 1808.4 provides permanent address suppression on request for specified retired judges or peace officers, with separate survivor periods and exceptions. No single duration applies to all channels.",
+   "limits": "The agency Internet rule retains legally required notices. The voter application is public and has its own risk and county-authorization conditions. The DMV provision has its own categories and disclosure exceptions. The 18-category agency definition does not automatically determine voter or DMV eligibility.",
+   "litigation_status": "Not verified. No conclusion about protection or its absence.",
+   "source": "California Legislature,current clean Government Code and separately cited channel statutes",
+   "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=7920.500.&lawCode=GOV",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "category_text": [
+     {
+      "source": "California Legislature, clean current code",
+      "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=7920.500.&lawCode=GOV"
+     }
+    ],
+    "protected_group": [
+     {
+      "source": "California Legislature, clean current code",
+      "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=7920.500.&lawCode=GOV"
+     }
+    ],
+    "property_records_online": [
+     {
+      "source": "California Legislature, clean current code",
+      "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=7928.205.&lawCode=GOV"
+     },
+     {
+      "source": "California Legislature, clean current code",
+      "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=7928.205.&lawCode=GOV"
+     }
+    ],
+    "effective_date": [
+     {
+      "source": "California Legislature, clean current code",
+      "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=7920.500.&lawCode=GOV"
+     },
+     {
+      "source": "California Legislature, clean current code",
+      "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=7928.205.&lawCode=GOV"
+     },
+     {
+      "source": "California Legislature, current Civil Code",
+      "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=1798.84.1.&lawCode=CIV"
+     }
+    ],
+    "public_records_requests": [
+     {
+      "source": "California Legislature, clean current code",
+      "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=7928.205.&lawCode=GOV"
+     }
+    ],
+    "route": [
+     {
+      "source": "California Legislature, clean current code",
+      "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=7928.205.&lawCode=GOV"
+     }
+    ],
+    "publication_takedown": [
+     {
+      "source": "California Legislature, chaptered AB1521",
+      "url": "https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB1521"
+     },
+     {
+      "source": "California Legislature, chaptered AB1521",
+      "url": "https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB1521"
+     },
+     {
+      "source": "California Legislature, chaptered AB1521",
+      "url": "https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB1521"
+     },
+     {
+      "source": "California Legislature, chaptered AB1521",
+      "url": "https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB1521"
+     },
+     {
+      "source": "California Legislature, chaptered AB1521",
+      "url": "https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB1521"
+     },
+     {
+      "source": "California Legislature, current Civil Code",
+      "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=1798.84.1.&lawCode=CIV"
+     }
+    ],
+    "voter_records": [
+     {
+      "source": "California Legislature, current Elections Code",
+      "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=2166.7.&lawCode=ELEC"
+     },
+     {
+      "source": "California Legislature, current Elections Code",
+      "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=2166.7.&lawCode=ELEC"
+     }
+    ],
+    "drivers_license_records": [
+     {
+      "source": "California Legislature, current Vehicle Code",
+      "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=1808.4.&lawCode=VEH"
+     },
+     {
+      "source": "California Legislature, current Vehicle Code",
+      "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=1808.4.&lawCode=VEH"
+     },
+     {
+      "source": "California Legislature, current Vehicle Code",
+      "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=1808.4.&lawCode=VEH"
+     }
+    ],
+    "duration": [
+     {
+      "source": "California Legislature, current Elections Code",
+      "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=2166.7.&lawCode=ELEC"
+     },
+     {
+      "source": "California Legislature, current Vehicle Code",
+      "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=1808.4.&lawCode=VEH"
+     },
+     {
+      "source": "California Legislature, current Vehicle Code",
+      "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=1808.4.&lawCode=VEH"
+     }
+    ],
+    "limits": [
+     {
+      "source": "California Legislature, clean current code",
+      "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=7928.205.&lawCode=GOV"
+     },
+     {
+      "source": "California Legislature, current Elections Code",
+      "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=2166.7.&lawCode=ELEC"
+     },
+     {
+      "source": "California Legislature, current Vehicle Code",
+      "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=1808.4.&lawCode=VEH"
+     }
+    ],
+    "voter_protected_group": [
+     {
+      "source": "California Legislature,current public-safety definition",
+      "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=7920.535.&lawCode=GOV"
+     }
+    ],
+    "protected_group_categories": [
+     {
+      "source": "California Legislature, clean current code",
+      "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=7920.500.&lawCode=GOV"
+     }
+    ]
+   },
+   "category_catalog": [
+    {
+     "paragraph": "a",
+     "statutory_text": "(a) A state constitutional officer."
+    },
+    {
+     "paragraph": "b",
+     "statutory_text": "(b) A Member of the Legislature."
+    },
+    {
+     "paragraph": "c",
+     "statutory_text": "(c) An active or retired judge, court commissioner, or judge of the State Bar Court."
+    },
+    {
+     "paragraph": "d",
+     "statutory_text": "(d) A district attorney."
+    },
+    {
+     "paragraph": "e",
+     "statutory_text": "(e) A public defender."
+    },
+    {
+     "paragraph": "f",
+     "statutory_text": "(f) A member of a city council."
+    },
+    {
+     "paragraph": "g",
+     "statutory_text": "(g) A member of a board of supervisors."
+    },
+    {
+     "paragraph": "h",
+     "statutory_text": "(h) An appointee of the Governor."
+    },
+    {
+     "paragraph": "i",
+     "statutory_text": "(i) An appointee of the Legislature."
+    },
+    {
+     "paragraph": "j",
+     "statutory_text": "(j) A mayor."
+    },
+    {
+     "paragraph": "k",
+     "statutory_text": "(k) A city attorney."
+    },
+    {
+     "paragraph": "l",
+     "statutory_text": "(l) A police chief or sheriff."
+    },
+    {
+     "paragraph": "m",
+     "statutory_text": "(m) A public safety official."
+    },
+    {
+     "paragraph": "n",
+     "statutory_text": "(n) A state administrative law judge."
+    },
+    {
+     "paragraph": "o",
+     "statutory_text": "(o) An active or retired federal judge or federal defender."
+    },
+    {
+     "paragraph": "p",
+     "statutory_text": "(p) A member of the United States Congress or appointee of the President of the United States."
+    },
+    {
+     "paragraph": "q",
+     "statutory_text": "(q) An active or retired judge of a federally recognized Indian tribe."
+    },
+    {
+     "paragraph": "r",
+     "statutory_text": "(r) An appointee of a court to serve as children’s counsel in a family or dependency proceeding."
+    }
+   ]
+  },
+  {
+   "id": "new-york",
+   "state": "New York",
+   "citation": "N.Y. Judiciary Law 859",
+   "protected_group": "Active and former specified New York judges and specified federal judges sitting or maintaining chambers in New York. Requested family coverage includes spouse, former spouse, parent, child and sibling.",
+   "effective_date": "Not verified. No conclusion about protection or its absence.",
+   "sunset_date": "Not verified. No conclusion about protection or its absence.",
+   "property_records_online": "Not verified. No conclusion about protection or its absence.",
+   "voter_records": "Not verified. No conclusion about protection or its absence.",
+   "drivers_license_records": "Not verified. No conclusion about protection or its absence.",
+   "public_records_requests": "Not verified. No conclusion about protection or its absence.",
+   "publication_takedown": "After statutory notice, recipients have 72 hours to cease making the identified information public. The definition includes Internet, other public media and sharing, trading or transfer.",
+   "route": "A signed request goes to the employer or former employer. It specifies information, family members and each recipient. The state-judge employer sends notice within five business days. The federal employer may send notice.",
+   "duration": "Not verified. No conclusion about protection or its absence.",
+   "limits": "News/public concern, information voluntarily published after the effective date, information received from public or federal agencies, and DPPA permissible uses are excluded from the notice provisions.",
+   "litigation_status": "Not verified. No conclusion about protection or its absence.",
+   "source": "New York Senate, Judiciary Law 859",
+   "url": "https://www.nysenate.gov/legislation/laws/JUD/859",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "category_text": [
+     {
+      "source": "New York Senate, Judiciary Law 859",
+      "url": "https://www.nysenate.gov/legislation/laws/JUD/859"
+     }
+    ],
+    "protected_group": [
+     {
+      "source": "New York Senate, Judiciary Law 859",
+      "url": "https://www.nysenate.gov/legislation/laws/JUD/859"
+     }
+    ],
+    "route": [
+     {
+      "source": "New York Senate, Judiciary Law 859",
+      "url": "https://www.nysenate.gov/legislation/laws/JUD/859"
+     }
+    ],
+    "publication_takedown": [
+     {
+      "source": "New York Senate, Judiciary Law 859",
+      "url": "https://www.nysenate.gov/legislation/laws/JUD/859"
+     },
+     {
+      "source": "New York Senate, Judiciary Law 859",
+      "url": "https://www.nysenate.gov/legislation/laws/JUD/859"
+     }
+    ],
+    "limits": [
+     {
+      "source": "New York Senate, Judiciary Law 859",
+      "url": "https://www.nysenate.gov/legislation/laws/JUD/859"
+     }
+    ],
+    "protected_group_categories": [
+     {
+      "source": "New York Senate, Judiciary Law 859",
+      "url": "https://www.nysenate.gov/legislation/laws/JUD/859"
+     }
+    ]
+   },
+   "category_catalog": [
+    {
+     "paragraph": "section-specific definition",
+     "statutory_text": "(a) \"Eligible individual\" shall mean an actively employed or former: (i) judge or justice of the unified court system or judge of the housing part of the civil court of the city of New York; or (ii) a federal judge, which shall include a federal judge or a senior, recalled, or retired federal judge sitting or maintaining chambers in New York, where such federal judge means: (A) a justice of the United States or a judge of the United States, as those terms are defined in section 451 of title 28, United States Code; (B) a bankruptcy judge appointed under section 152 of title 28, United States Code; (C) a United States magistrate judge appointed under section 631 of title 28, United States Code; (D) a judge confirmed by the United States Senate and empowered by statute in any commonwealth, territory, or possession to perform the duties of a federal judge; (E) a judge of the United States Court of Federal Claims appointed under section 171 of title 28, United States Code; (F) a judge of the United States Court of Appeals for Veterans Claims appointed under section 7253 of title 38, United States Code; (G) a judge of the United States Court of Appeals for the Armed Forces appointed under section 942 of title 10, United States Code; (H) a judge of the United States Tax Court appointed under section 7443 of the Internal Revenue Code of 1986; or (I) a special trial judge of the United States Tax Court appointed under section 7443A of the Internal Revenue Code of 1986. (b) \"Immediate family\" shall mean, for each eligible individual, the spouse, former spouse, parent, child, and sibling."
+    }
+   ]
+  },
+  {
+   "id": "new-jersey",
+   "state": "New Jersey",
+   "citation": "N.J.S.A. 56:8-166.1; government route under 47:1-17",
+   "protected_group": "Active, formerly active or retired judicial officers, law enforcement officers, DCPP child protective investigators, prosecutors and immediate family residing in the household. Nested statutory definitions require separate review.",
+   "effective_date": "Not verified. No conclusion about protection or its absence.",
+   "sunset_date": "Not verified. No conclusion about protection or its absence.",
+   "property_records_online": "Not verified. No conclusion about protection or its absence.",
+   "voter_records": "Not verified. No conclusion about protection or its absence.",
+   "drivers_license_records": "Not verified. No conclusion about protection or its absence.",
+   "public_records_requests": "Not verified. No conclusion about protection or its absence.",
+   "publication_takedown": "Within 10 business days after statutory written notice, a person, business or association must cease disclosure or redisclosure of the home address or unpublished home telephone number.",
+   "route": "The private-recipient route uses direct written notice by an authorized person. Government-record suppression uses the separate OIP portal.",
+   "duration": "Not verified. No conclusion about protection or its absence.",
+   "limits": "Government custodians are excluded from \"Person\" in this private-recipient provision. Specified unredacted professional access, printed news and telephone-directory exceptions remain.",
+   "litigation_status": "On August 12, 2026, the New Jersey Supreme Court held that actual-damages claims under section 166.1(c)(1) require no mental state. The court left constitutionality to the Third Circuit. No later federal disposition was confirmed in this review.",
+   "source": "New Jersey Legislature, N.J.S.A. 56:8-166.1 current text",
+   "url": "https://lis.njleg.state.nj.us/nxt/gateway.dll/statutes/1/54204/54609?f=templates%24fn%3Ddocument-frameset.htm%24q%3D%5Brank%2C100%3A%5Bdomain%3A%5Band%3A56%3A8-166.1+Person%2C+business%2C+association+prohibited+from+publishing+certain+information+on+the+Internet.%5D%5D+%5Bsum%3A56%3A8-166.1+Person%2C+business%2C+association+prohibited+from+publishing+certain+information+on+the+Internet.%5D+%5D+%24x%3Dserver%243.0",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "category_text": [
+     {
+      "source": "New Jersey Legislature, N.J.S.A. 56:8-166.1 current text",
+      "url": "https://lis.njleg.state.nj.us/nxt/gateway.dll/statutes/1/54204/54609?f=templates%24fn%3Ddocument-frameset.htm%24q%3D%5Brank%2C100%3A%5Bdomain%3A%5Band%3A56%3A8-166.1+Person%2C+business%2C+association+prohibited+from+publishing+certain+information+on+the+Internet.%5D%5D+%5Bsum%3A56%3A8-166.1+Person%2C+business%2C+association+prohibited+from+publishing+certain+information+on+the+Internet.%5D+%5D+%24x%3Dserver%243.0"
+     }
+    ],
+    "protected_group": [
+     {
+      "source": "New Jersey Legislature, N.J.S.A. 56:8-166.1 current text",
+      "url": "https://lis.njleg.state.nj.us/nxt/gateway.dll/statutes/1/54204/54609?f=templates%24fn%3Ddocument-frameset.htm%24q%3D%5Brank%2C100%3A%5Bdomain%3A%5Band%3A56%3A8-166.1+Person%2C+business%2C+association+prohibited+from+publishing+certain+information+on+the+Internet.%5D%5D+%5Bsum%3A56%3A8-166.1+Person%2C+business%2C+association+prohibited+from+publishing+certain+information+on+the+Internet.%5D+%5D+%24x%3Dserver%243.0"
+     }
+    ],
+    "publication_takedown": [
+     {
+      "source": "New Jersey Legislature, N.J.S.A. 56:8-166.1 current text",
+      "url": "https://lis.njleg.state.nj.us/nxt/gateway.dll/statutes/1/54204/54609?f=templates%24fn%3Ddocument-frameset.htm%24q%3D%5Brank%2C100%3A%5Bdomain%3A%5Band%3A56%3A8-166.1+Person%2C+business%2C+association+prohibited+from+publishing+certain+information+on+the+Internet.%5D%5D+%5Bsum%3A56%3A8-166.1+Person%2C+business%2C+association+prohibited+from+publishing+certain+information+on+the+Internet.%5D+%5D+%24x%3Dserver%243.0"
+     }
+    ],
+    "route": [
+     {
+      "source": "New Jersey Legislature, N.J.S.A. 56:8-166.1 current text",
+      "url": "https://lis.njleg.state.nj.us/nxt/gateway.dll/statutes/1/54204/54609?f=templates%24fn%3Ddocument-frameset.htm%24q%3D%5Brank%2C100%3A%5Bdomain%3A%5Band%3A56%3A8-166.1+Person%2C+business%2C+association+prohibited+from+publishing+certain+information+on+the+Internet.%5D%5D+%5Bsum%3A56%3A8-166.1+Person%2C+business%2C+association+prohibited+from+publishing+certain+information+on+the+Internet.%5D+%5D+%24x%3Dserver%243.0"
+     },
+     {
+      "source": "New Jersey OIP, About the Office",
+      "url": "https://www.nj.gov/dca/oip/about.shtml"
+     }
+    ],
+    "limits": [
+     {
+      "source": "New Jersey Legislature, N.J.S.A. 56:8-166.1 current text",
+      "url": "https://lis.njleg.state.nj.us/nxt/gateway.dll/statutes/1/54204/54609?f=templates%24fn%3Ddocument-frameset.htm%24q%3D%5Brank%2C100%3A%5Bdomain%3A%5Band%3A56%3A8-166.1+Person%2C+business%2C+association+prohibited+from+publishing+certain+information+on+the+Internet.%5D%5D+%5Bsum%3A56%3A8-166.1+Person%2C+business%2C+association+prohibited+from+publishing+certain+information+on+the+Internet.%5D+%5D+%24x%3Dserver%243.0"
+     }
+    ],
+    "litigation_status": [
+     {
+      "source": "New Jersey Supreme Court, Atlas Data Privacy Corp. v. We Inform, LLC, A-8-25, August 12, 2026, pages 29 and 41-42",
+      "url": "https://cases.justia.com/new-jersey/supreme-court/2026-a-8-25.pdf?ts=1786543750"
+     },
+     {
+      "source": "New Jersey Supreme Court, Atlas Data Privacy Corp. v. We Inform, LLC, A-8-25, August 12, 2026, pages 29 and 41-42",
+      "url": "https://cases.justia.com/new-jersey/supreme-court/2026-a-8-25.pdf?ts=1786543750"
+     }
+    ],
+    "protected_group_categories": [
+     {
+      "source": "New Jersey Legislature, N.J.S.A. 56:8-166.1 current text",
+      "url": "https://lis.njleg.state.nj.us/nxt/gateway.dll/statutes/1/54204/54609?f=templates%24fn%3Ddocument-frameset.htm%24q%3D%5Brank%2C100%3A%5Bdomain%3A%5Band%3A56%3A8-166.1+Person%2C+business%2C+association+prohibited+from+publishing+certain+information+on+the+Internet.%5D%5D+%5Bsum%3A56%3A8-166.1+Person%2C+business%2C+association+prohibited+from+publishing+certain+information+on+the+Internet.%5D+%5D+%24x%3Dserver%243.0"
+     }
+    ]
+   },
+   "category_catalog": [
+    {
+     "paragraph": "section-specific definition",
+     "statutory_text": "\"Covered person\" means an active, formerly active, or retired judicial officer, law enforcement officer, or child protective investigator in the Division of Child Protection and Permanency, as those terms are defined by section 1 of P.L.1995, c.23 (C.47:1A-1.1), or prosecutor, and any immediate family member residing in the same household as such judicial officer, law enforcement officer, child protective investigator in the Division of Child Protection and Permanency, or prosecutor."
+    }
+   ]
+  },
+  {
+   "id": "connecticut",
+   "state": "Connecticut",
+   "citation": "Conn. Gen. Stat. 1-217",
+   "protected_group": "Thirteen employment categories under subsection (a), plus the separate municipal election-worker rule in subsection (d).",
+   "effective_date": "2024-07-01 for the election-worker amendment under P.A.24-148 section 31.",
+   "sunset_date": "Not verified. No conclusion about protection or its absence.",
+   "property_records_online": "Subsection (e) preserves documents defined in 7-35 bb and lists under 12-55. This section cannot support blanket land-record or tax-roll suppression.",
+   "voter_records": "The section preserves unredacted disclosure of lists prepared under title 9. Separate voter provisions were not researched.",
+   "drivers_license_records": "This section expressly does not apply to DMV records described in section 14-10. That is a scope exclusion, not a finding that no other protection exists.",
+   "public_records_requests": "Employer personnel, medical and similar files receive the subsection (a) rule. Non-employer requests require a written confidentiality request and business address. Subsection (c) distinguishes named-person requests and electronic lists from other records.",
+   "publication_takedown": "Not verified. No conclusion about protection or its absence.",
+   "route": "Submit the subsection (c) written request and business address to the holding agency. Municipal election personnel use the separate municipality request in subsection (d).",
+   "duration": "The separate municipal election-worker rule runs from 90 days before an election or a later request to 90 days after the election, subject to its office exception.",
+   "limits": "Complaints go to the FOI Commission. The section requires a willful and knowing violation for its penalty and creates no private right of action.",
+   "litigation_status": "Not verified. No conclusion about protection or its absence.",
+   "source": "Connecticut General Assembly, current Chapter 14",
+   "url": "https://www.cga.ct.gov/current/pub/chap_014.htm",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "category_text": [
+     {
+      "source": "Connecticut General Assembly, current Chapter 14",
+      "url": "https://www.cga.ct.gov/current/pub/chap_014.htm"
+     }
+    ],
+    "protected_group": [
+     {
+      "source": "Connecticut General Assembly, current Chapter 14",
+      "url": "https://www.cga.ct.gov/current/pub/chap_014.htm"
+     },
+     {
+      "source": "Connecticut General Assembly, current Chapter 14",
+      "url": "https://www.cga.ct.gov/current/pub/chap_014.htm"
+     }
+    ],
+    "public_records_requests": [
+     {
+      "source": "Connecticut General Assembly, current Chapter 14",
+      "url": "https://www.cga.ct.gov/current/pub/chap_014.htm"
+     },
+     {
+      "source": "Connecticut General Assembly, current Chapter 14",
+      "url": "https://www.cga.ct.gov/current/pub/chap_014.htm"
+     }
+    ],
+    "route": [
+     {
+      "source": "Connecticut General Assembly, current Chapter 14",
+      "url": "https://www.cga.ct.gov/current/pub/chap_014.htm"
+     },
+     {
+      "source": "Connecticut General Assembly, current Chapter 14",
+      "url": "https://www.cga.ct.gov/current/pub/chap_014.htm"
+     }
+    ],
+    "drivers_license_records": [
+     {
+      "source": "Connecticut General Assembly, current Chapter 14",
+      "url": "https://www.cga.ct.gov/current/pub/chap_014.htm"
+     }
+    ],
+    "voter_records": [
+     {
+      "source": "Connecticut General Assembly, current Chapter 14",
+      "url": "https://www.cga.ct.gov/current/pub/chap_014.htm"
+     }
+    ],
+    "property_records_online": [
+     {
+      "source": "Connecticut General Assembly, current Chapter 14",
+      "url": "https://www.cga.ct.gov/current/pub/chap_014.htm"
+     }
+    ],
+    "duration": [
+     {
+      "source": "Connecticut General Assembly, current Chapter 14",
+      "url": "https://www.cga.ct.gov/current/pub/chap_014.htm"
+     }
+    ],
+    "limits": [
+     {
+      "source": "Connecticut General Assembly, current Chapter 14",
+      "url": "https://www.cga.ct.gov/current/pub/chap_014.htm"
+     }
+    ],
+    "effective_date": [
+     {
+      "source": "Connecticut General Assembly, current Chapter 14",
+      "url": "https://www.cga.ct.gov/current/pub/chap_014.htm"
+     }
+    ],
+    "protected_group_categories": [
+     {
+      "source": "Connecticut General Assembly, current Chapter 14",
+      "url": "https://www.cga.ct.gov/current/pub/chap_014.htm"
+     }
+    ]
+   },
+   "category_catalog": [
+    {
+     "paragraph": "1",
+     "statutory_text": "(1) A federal court judge, federal court magistrate, judge of the Superior Court, Appellate Court or Supreme Court of the state, or family support magistrate;"
+    },
+    {
+     "paragraph": "2",
+     "statutory_text": "(2) A sworn member of a municipal police department, a sworn member of the Division of State Police within the Department of Emergency Services and Public Protection or a sworn law enforcement officer within the Department of Energy and Environmental Protection;"
+    },
+    {
+     "paragraph": "3",
+     "statutory_text": "(3) An employee of the Department of Correction;"
+    },
+    {
+     "paragraph": "4",
+     "statutory_text": "(4) An attorney-at-law who represents or has represented the state in a criminal prosecution;"
+    },
+    {
+     "paragraph": "5",
+     "statutory_text": "(5) An attorney-at-law who is or has been employed by the Division of Public Defender Services or a social worker who is employed by the Division of Public Defender Services;"
+    },
+    {
+     "paragraph": "6",
+     "statutory_text": "(6) An inspector employed by the Division of Criminal Justice;"
+    },
+    {
+     "paragraph": "7",
+     "statutory_text": "(7) A firefighter;"
+    },
+    {
+     "paragraph": "8",
+     "statutory_text": "(8) An employee of the Department of Children and Families;"
+    },
+    {
+     "paragraph": "9",
+     "statutory_text": "(9) A member or employee of the Board of Pardons and Paroles;"
+    },
+    {
+     "paragraph": "10",
+     "statutory_text": "(10) An employee of the judicial branch;"
+    },
+    {
+     "paragraph": "11",
+     "statutory_text": "(11) An employee of the Department of Mental Health and Addiction Services who provides direct care to patients;"
+    },
+    {
+     "paragraph": "12",
+     "statutory_text": "(12) A member or employee of the Commission on Human Rights and Opportunities; or"
+    },
+    {
+     "paragraph": "13",
+     "statutory_text": "(13) A state marshal appointed by the State Marshal Commission pursuant to section 6-38b."
+    }
+   ]
+  },
+  {
+   "id": "massachusetts",
+   "state": "Massachusetts",
+   "citation": "Mass. Gen. Laws ch. 66, 10B",
+   "protected_group": "Specified criminal-justice and unelected legislative personnel and families. Victim and reproductive/gender-affirming care categories have a separate records condition. A following paragraph covers public employees' contact details in identifying records.",
+   "effective_date": "2025-11-05 for the amended second paragraph, 2025 chapter 16 section 5.",
+   "sunset_date": "Not verified. No conclusion about protection or its absence.",
+   "property_records_online": "Not verified. No conclusion about protection or its absence.",
+   "voter_records": "Not verified. No conclusion about protection or its absence.",
+   "drivers_license_records": "Not verified. No conclusion about protection or its absence.",
+   "public_records_requests": "Specified personnel information is protected in employer and retirement records. Other protected categories require records identifying that category. The statute contains express permitted disclosures.",
+   "publication_takedown": "Not verified. No conclusion about protection or its absence.",
+   "route": "Not verified. No conclusion about protection or its absence.",
+   "duration": "Not verified. No conclusion about protection or its absence.",
+   "limits": "Section 10 B also protects specified contact details of public employees and their families in governmental records identifying the employment category. The clause retains limited employee-organization, retiree-organization, criminal-justice and legally required disclosures. The identifying-record and custodian conditions must accompany a summary; this does not establish blanket removal from every property website.",
+   "litigation_status": "Not verified. No conclusion about protection or its absence.",
+   "source": "Massachusetts General Court, General Laws Chapter 66 Section 10B",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleX/Chapter66/Section10B",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "protected_group": [
+     {
+      "source": "Massachusetts General Court, General Laws Chapter 66 Section 10B",
+      "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleX/Chapter66/Section10B"
+     }
+    ],
+    "category_text": [
+     {
+      "source": "Massachusetts General Court, General Laws Chapter 66 Section 10B",
+      "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleX/Chapter66/Section10B"
+     }
+    ],
+    "public_records_requests": [
+     {
+      "source": "Massachusetts General Court, General Laws Chapter 66 Section 10B",
+      "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleX/Chapter66/Section10B"
+     },
+     {
+      "source": "Massachusetts General Court, General Laws Chapter 66 Section 10B",
+      "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleX/Chapter66/Section10B"
+     }
+    ],
+    "effective_date": [
+     {
+      "source": "Massachusetts General Court, General Laws Chapter 66 Section 10B",
+      "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleX/Chapter66/Section10B"
+     }
+    ],
+    "limits": [
+     {
+      "source": "Massachusetts Legislature,current General Laws",
+      "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleX/Chapter66/Section10B"
+     },
+     {
+      "source": "Massachusetts Legislature,current General Laws",
+      "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleX/Chapter66/Section10B"
+     }
+    ],
+    "protected_group_categories": [
+     {
+      "source": "Massachusetts General Court, General Laws Chapter 66 Section 10B",
+      "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleX/Chapter66/Section10B"
+     }
+    ]
+   },
+   "category_catalog": [
+    {
+     "paragraph": "section-specific definition",
+     "statutory_text": "The home address, personal email address and home telephone number of law enforcement, judicial, prosecutorial, department of youth services, department of children and families, department of correction and any other public safety and criminal justice system personnel, and of unelected general court personnel, shall not be public records in the custody of the employers of such personnel or the public employee retirement administration commission or any retirement board established under chapter 32 and shall not be disclosed, but such information may be disclosed to an employee organization under chapter 150E, a nonprofit organization for retired public employees under chapter 180 or to criminal justice agencies as defined in said section 167 of said chapter 6. The name, home address, telephone number and personal email address of a family member of any such personnel shall not be public records in the custody of the employers of the foregoing persons or the public employee retirement administration commission or any retirement board established under chapter 32 and shall not be disclosed. The home address, telephone number, personal email address or place of employment or education of victims of adjudicated crimes, of victims of domestic violence and of persons engaged or trained in the provision, facilitation or promotion of reproductive health care services or gender-affirming health care services, as defined in section 11I1/2 of chapter 12, and the name, home address, telephone number, personal email address or place of employment or education of a family member of any of the foregoing shall not be public records in the custody of a government agency which maintains records identifying such persons as falling within such categories and shall not be disclosed."
+    }
+   ]
+  },
+  {
+   "id": "texas",
+   "state": "Texas",
+   "citation": "Tex.Tax Code25.025;Tex.Elec.Code15.052(b)-(c)",
+   "protected_group": "The current code enumerates 37 categories. The older Comptroller form has fewer categories and does not replace the current statute.",
+   "effective_date": "Not verified. No conclusion about protection or its absence.",
+   "sunset_date": "Not verified. No conclusion about protection or its absence.",
+   "property_records_online": "Named-person home-address information in appraisal records becomes confidential upon the election or the specified judicial notification. The rule covers appraisal records, not every county record.",
+   "voter_records": "Election Code 15.052(b) directs the registrar to omit specified judges' and federal officials' residence addresses, and applicable family addresses, after qualification notice from the Office of Court Administration. A district voter may request residence certification under subsection(c), but the registrar may not release the judge's address. This is distinct from the 37-category appraisal-record list.",
+   "drivers_license_records": "Not verified. No conclusion about protection or its absence.",
+   "public_records_requests": "Covered information is available only for official use by the appraisal district and specified state, taxing and political-subdivision bodies.",
+   "publication_takedown": "Not verified. No conclusion about protection or its absence.",
+   "route": "Use the Comptroller-prescribed form with each holding appraisal district. Judges and their spouses have the statutory OCA-notification route.",
+   "duration": "The election remains valid until the individual rescinds it in writing.",
+   "limits": "Property may still be disclosed by address if it does not identify the electing individual in connection with that address.",
+   "litigation_status": "Not verified. No conclusion about protection or its absence.",
+   "source": "Texas Legislature, current Tax Code Chapter 25",
+   "url": "https://tcss.legis.texas.gov/resources/TX/htm/TX.25.htm#25.025",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "category_text": [
+     {
+      "source": "Texas Legislature, current Tax Code Chapter 25",
+      "url": "https://tcss.legis.texas.gov/resources/TX/htm/TX.25.htm#25.025"
+     }
+    ],
+    "protected_group": [
+     {
+      "source": "Texas Legislature, current Tax Code Chapter 25",
+      "url": "https://tcss.legis.texas.gov/resources/TX/htm/TX.25.htm#25.025"
+     }
+    ],
+    "property_records_online": [
+     {
+      "source": "Texas Legislature, current Tax Code Chapter 25",
+      "url": "https://tcss.legis.texas.gov/resources/TX/htm/TX.25.htm#25.025"
+     }
+    ],
+    "public_records_requests": [
+     {
+      "source": "Texas Legislature, current Tax Code Chapter 25",
+      "url": "https://tcss.legis.texas.gov/resources/TX/htm/TX.25.htm#25.025"
+     }
+    ],
+    "duration": [
+     {
+      "source": "Texas Legislature, current Tax Code Chapter 25",
+      "url": "https://tcss.legis.texas.gov/resources/TX/htm/TX.25.htm#25.025"
+     }
+    ],
+    "limits": [
+     {
+      "source": "Texas Legislature, current Tax Code Chapter 25",
+      "url": "https://tcss.legis.texas.gov/resources/TX/htm/TX.25.htm#25.025"
+     }
+    ],
+    "route": [
+     {
+      "source": "Texas Legislature, current Tax Code Chapter 25",
+      "url": "https://tcss.legis.texas.gov/resources/TX/htm/TX.25.htm#25.025"
+     }
+    ],
+    "voter_records": [
+     {
+      "source": "Texas Legislature,current election-code page",
+      "url": "https://statutes.capitol.texas.gov/?artSec=15.052&chapter=EL.15&code=EL&tab=1"
+     },
+     {
+      "source": "Texas Legislature,current election-code page",
+      "url": "https://statutes.capitol.texas.gov/?artSec=15.052&chapter=EL.15&code=EL&tab=1"
+     }
+    ],
+    "protected_group_categories": [
+     {
+      "source": "Texas Legislature, current Tax Code Chapter 25",
+      "url": "https://tcss.legis.texas.gov/resources/TX/htm/TX.25.htm#25.025"
+     }
+    ]
+   },
+   "category_catalog": [
+    {
+     "paragraph": "1",
+     "statutory_text": "(1) a current or former peace officer as defined by Article 2A.001, Code of Criminal Procedure, and the spouse or surviving spouse of the peace officer;"
+    },
+    {
+     "paragraph": "2",
+     "statutory_text": "(2) the adult child of a current peace officer as defined by Article 2A.001, Code of Criminal Procedure;"
+    },
+    {
+     "paragraph": "3",
+     "statutory_text": "(3) a current or honorably retired county jailer as defined by Section 1701.001, Occupations Code;"
+    },
+    {
+     "paragraph": "4",
+     "statutory_text": "(4) an employee of the Texas Department of Criminal Justice;"
+    },
+    {
+     "paragraph": "5",
+     "statutory_text": "(5) a commissioned security officer as defined by Section 1702.002, Occupations Code;"
+    },
+    {
+     "paragraph": "6",
+     "statutory_text": "(6) an individual who shows that the individual, the individual's child, or another person in the individual's household is a victim of family violence as defined by Section 71.004, Family Code, by providing: (A) a copy of a protective order issued under Chapter 85, Family Code, or a magistrate's order for emergency protection issued under Article 17.292, Code of Criminal Procedure; or (B) other independent documentary evidence necessary to show that the individual, the individual's child, or another person in the individual's household is a victim of family violence;"
+    },
+    {
+     "paragraph": "7",
+     "statutory_text": "(7) an individual who shows that the individual, the individual's child, or another person in the individual's household is a victim of sexual assault or abuse, stalking, or trafficking of persons by providing: (A) a copy of a protective order issued under Subchapter A or B, Chapter 7B, Code of Criminal Procedure, or a magistrate's order for emergency protection issued under Article 17.292, Code of Criminal Procedure; or (B) other independent documentary evidence necessary to show that the individual, the individual's child, or another person in the individual's household is a victim of sexual assault or abuse, stalking, or trafficking of persons;"
+    },
+    {
+     "paragraph": "8",
+     "statutory_text": "(8) a participant in the address confidentiality program administered by the attorney general under Subchapter B, Chapter 58, Code of Criminal Procedure, who provides proof of certification under Article 58.059, Code of Criminal Procedure;"
+    },
+    {
+     "paragraph": "9",
+     "statutory_text": "(9) a federal judge, a federal bankruptcy judge, a marshal of the United States Marshals Service, a state judge, or a family member of a federal judge, a federal bankruptcy judge, a marshal of the United States Marshals Service, or a state judge;"
+    },
+    {
+     "paragraph": "10",
+     "statutory_text": "(10) a current or former district attorney, criminal district attorney, or county or municipal attorney whose jurisdiction includes any criminal law or child protective services matters;"
+    },
+    {
+     "paragraph": "11",
+     "statutory_text": "(11) a current or former employee of a district attorney, criminal district attorney, or county or municipal attorney whose jurisdiction includes any criminal law or child protective services matters;"
+    },
+    {
+     "paragraph": "12",
+     "statutory_text": "(12) an officer or employee of a community supervision and corrections department established under Chapter 76, Government Code, who performs a duty described by Section 76.004(b) of that code;"
+    },
+    {
+     "paragraph": "13",
+     "statutory_text": "(13) a criminal investigator of the United States as described by Article 2A.002(a), Code of Criminal Procedure;"
+    },
+    {
+     "paragraph": "14",
+     "statutory_text": "(14) a current or honorably retired police officer or inspector of the United States Federal Protective Service;"
+    },
+    {
+     "paragraph": "15",
+     "statutory_text": "(15) a current or former United States attorney, assistant United States attorney, federal public defender, deputy federal public defender, or assistant federal public defender and the spouse and child of the attorney or public defender;"
+    },
+    {
+     "paragraph": "16",
+     "statutory_text": "(16) a current or former employee of the office of the attorney general and a family member of the current or former employee;"
+    },
+    {
+     "paragraph": "17",
+     "statutory_text": "(17) a medical examiner or person who performs forensic analysis or testing who is employed by this state or one or more political subdivisions of this state;"
+    },
+    {
+     "paragraph": "18",
+     "statutory_text": "(18) a current or former member of the United States armed forces who has served in an area that the president of the United States by executive order designates for purposes of 26 U.S.C. Section 112 as an area in which armed forces of the United States are or have engaged in combat;"
+    },
+    {
+     "paragraph": "19",
+     "statutory_text": "(19) a current or former employee of the Texas Juvenile Justice Department or of the predecessors in function of the department;"
+    },
+    {
+     "paragraph": "20",
+     "statutory_text": "(20) a current or former juvenile probation or supervision officer certified by the Texas Juvenile Justice Department, or the predecessors in function of the department, under Title 12, Human Resources Code;"
+    },
+    {
+     "paragraph": "21",
+     "statutory_text": "(21) a current or former employee of a juvenile justice program or facility, as those terms are defined by Section 261.405, Family Code;"
+    },
+    {
+     "paragraph": "22",
+     "statutory_text": "(22) a current or former employee of the Texas Civil Commitment Office or the predecessor in function of the office or a division of the office;"
+    },
+    {
+     "paragraph": "23",
+     "statutory_text": "(23) a current or former employee of a federal judge or state judge;"
+    },
+    {
+     "paragraph": "24",
+     "statutory_text": "(24) a current or former child protective services caseworker, adult protective services caseworker, or investigator for the Department of Family and Protective Services or a current or former employee of a department contractor performing child protective services caseworker, adult protective services caseworker, or investigator functions for the contractor on behalf of the department;"
+    },
+    {
+     "paragraph": "25",
+     "statutory_text": "(25) an elected public officer;"
+    },
+    {
+     "paragraph": "26",
+     "statutory_text": "(26) a firefighter or volunteer firefighter or emergency medical services personnel as defined by Section 773.003, Health and Safety Code;"
+    },
+    {
+     "paragraph": "27",
+     "statutory_text": "(27) a customs and border protection officer or border patrol agent of United States Customs and Border Protection or the spouse, surviving spouse, or adult child of a customs and border protection officer or border patrol agent;"
+    },
+    {
+     "paragraph": "28",
+     "statutory_text": "(28) a current or former employee or contract staff member of a university health care provider at a corrections facility operated by the Texas Department of Criminal Justice or the Texas Juvenile Justice Department;"
+    },
+    {
+     "paragraph": "29",
+     "statutory_text": "(29) a current or former attorney for the Department of Family and Protective Services;"
+    },
+    {
+     "paragraph": "30",
+     "statutory_text": "(30) a member of the governing board of an institution of higher education or a private or independent institution of higher education, as those terms are defined by Section 61.003, Education Code;"
+    },
+    {
+     "paragraph": "31",
+     "statutory_text": "(31) the chancellor or other chief executive officer of a university system, as defined by Section 61.003, Education Code;"
+    },
+    {
+     "paragraph": "32",
+     "statutory_text": "(32) the president or other chief executive officer of an institution of higher education or a private or independent institution of higher education, as those terms are defined by Section 61.003, Education Code;"
+    },
+    {
+     "paragraph": "33",
+     "statutory_text": "(33) a current or former employee of a public defender's office as defined by Article 26.044(a), Code of Criminal Procedure;"
+    },
+    {
+     "paragraph": "34",
+     "statutory_text": "(34) a current or former county clerk, district clerk, or county and district clerk, or a current or former employee of the office of a county clerk, district clerk, or county and district clerk;"
+    },
+    {
+     "paragraph": "35",
+     "statutory_text": "(35) a current or former employee whose duties relate to court administration, including a court clerk, court coordinator, court administrator, juvenile case manager, law clerk, or staff attorney;"
+    },
+    {
+     "paragraph": "36",
+     "statutory_text": "(36) a current or former employee of the Office of Court Administration of the Texas Judicial System and entities administratively attached to the office; and"
+    },
+    {
+     "paragraph": "37",
+     "statutory_text": "(37) a current or former employee or commissioner of the State Commission on Judicial Conduct."
+    }
+   ]
+  },
+  {
+   "id": "colorado",
+   "state": "Colorado",
+   "citation": "Colo. Rev. Stat. 18-9-313; separate 18-9-313.5 and 313.7",
+   "protected_group": "The exact protected-person definition below controls. Election workers and elected officials also have distinct sections; those definitions are not interchangeable.",
+   "effective_date": "2026-06-02 for the cited HB 26-1422 amendments, including subsection (2.9).",
+   "sunset_date": "Not verified. No conclusion about protection or its absence.",
+   "property_records_online": "A protected person may request removal or nonpublication from a state or local official's Internet records. The government-request affidavit includes evidence of status and an imminent serious threat.",
+   "voter_records": "Not verified. No conclusion about protection or its absence.",
+   "drivers_license_records": "Not verified. No conclusion about protection or its absence.",
+   "public_records_requests": "Not verified. No conclusion about protection or its absence.",
+   "publication_takedown": "Private recipients of a qualifying written request must remove the published information within 72 hours and notify the protected person. This 2026 provision is separate from the threat-based criminal prohibition.",
+   "route": "Government requests include full name, home address, protected-status evidence and a sworn threat statement. Private requests identify the publication and status and use certified or electronic mail.",
+   "duration": "Not verified. No conclusion about protection or its absence.",
+   "limits": "Specified real-estate parties retain access to unredacted records held by the clerk/recorder, assessor or treasurer.",
+   "litigation_status": "Not verified. No conclusion about protection or its absence.",
+   "source": "Colorado General Assembly OLLS, 2026 CRS Title 18",
+   "url": "https://olls.info/crs/crs2026-title-18.htm",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "category_text": [
+     {
+      "source": "Colorado General Assembly OLLS, 2026 CRS Title 18",
+      "url": "https://olls.info/crs/crs2026-title-18.htm"
+     }
+    ],
+    "protected_group": [
+     {
+      "source": "Colorado General Assembly OLLS, 2026 CRS Title 18",
+      "url": "https://olls.info/crs/crs2026-title-18.htm"
+     }
+    ],
+    "property_records_online": [
+     {
+      "source": "Colorado General Assembly OLLS, 2026 CRS Title 18",
+      "url": "https://olls.info/crs/crs2026-title-18.htm"
+     }
+    ],
+    "route": [
+     {
+      "source": "Colorado General Assembly OLLS, 2026 CRS Title 18",
+      "url": "https://olls.info/crs/crs2026-title-18.htm"
+     },
+     {
+      "source": "Colorado General Assembly OLLS, 2026 CRS Title 18",
+      "url": "https://olls.info/crs/crs2026-title-18.htm"
+     }
+    ],
+    "publication_takedown": [
+     {
+      "source": "Colorado General Assembly OLLS, 2026 CRS Title 18",
+      "url": "https://olls.info/crs/crs2026-title-18.htm"
+     }
+    ],
+    "effective_date": [
+     {
+      "source": "Colorado General Assembly OLLS, 2026 CRS Title 18",
+      "url": "https://olls.info/crs/crs2026-title-18.htm"
+     }
+    ],
+    "limits": [
+     {
+      "source": "Colorado General Assembly OLLS, 2026 CRS Title 18",
+      "url": "https://olls.info/crs/crs2026-title-18.htm"
+     }
+    ],
+    "protected_group_categories": [
+     {
+      "source": "Colorado General Assembly OLLS, 2026 CRS Title 18",
+      "url": "https://olls.info/crs/crs2026-title-18.htm"
+     }
+    ]
+   },
+   "category_catalog": [
+    {
+     "paragraph": "section-specific definition",
+     "statutory_text": "(n) \"Protected person\" means an educator, a code enforcement officer, a human services worker, a public health worker, a child representative, a health-care worker, a reproductive health-care services worker, an officer or agent of the state bureau of animal protection, an animal control officer, an office of the respondent parents' counsel staff member or contractor, a current or former judge, a judicial employee, an elected official, staff of the general assembly, a peace officer, a prosecutor, a public defender, a public safety worker, or a firefighter."
+    }
+   ]
+  },
+  {
+   "id": "arizona",
+   "state": "Arizona",
+   "citation": "A.R.S. 11-483, 11-484, 16-153 and 28-454",
+   "protected_group": "Eligibility is section-specific. The assessor/treasurer definition is reproduced below. Recorder, voter and transportation definitions must each control their own channel.",
+   "effective_date": "Not verified. No conclusion about protection or its absence.",
+   "sunset_date": "Not verified. No conclusion about protection or its absence.",
+   "property_records_online": "Assessor/treasurer and recorder protections use separate court orders. A combined affidavit must satisfy both sections. Orders require a finding that restriction reduces danger; the property-address exclusion remains material.",
+   "voter_records": "Section 11-484 expressly excludes voter registration. The separate 16-153 court process covers the eligible person and co-resident voters, includes a five-year order and additional ACP/protective-order mechanisms.",
+   "drivers_license_records": "Section 28-454 has its own eligibility and court process. The department must redact identifying information within 150 days of receiving the order.",
+   "public_records_requests": "Not verified. No conclusion about protection or its absence.",
+   "publication_takedown": "Not verified. No conclusion about protection or its absence.",
+   "route": "File the prescribed affidavit with the presiding superior-court judge. Specified agency personnel submit through their commanding officer or agency head. Recorder requests identify each instrument.",
+   "duration": "The cited assessor/treasurer and recorder orders last five years, subject to statutory release/vacatur rules.",
+   "limits": "The current assessor/treasurer definition excludes assessor parcel numbers, legal descriptions and property addresses from identifying information. Do not promise removal of those fields.",
+   "litigation_status": "Not verified. No conclusion about protection or its absence.",
+   "source": "Arizona Legislature, A.R.S. 11-484",
+   "url": "https://www.azleg.gov/ars/11/00484.htm",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "category_text": [
+     {
+      "source": "Arizona Legislature, A.R.S. 11-484",
+      "url": "https://www.azleg.gov/ars/11/00484.htm"
+     }
+    ],
+    "protected_group": [
+     {
+      "source": "Arizona Legislature, A.R.S. 11-484",
+      "url": "https://www.azleg.gov/ars/11/00484.htm"
+     }
+    ],
+    "property_records_online": [
+     {
+      "source": "Arizona Legislature, A.R.S. 11-484",
+      "url": "https://www.azleg.gov/ars/11/00484.htm"
+     },
+     {
+      "source": "Arizona Legislature, A.R.S. 11-484",
+      "url": "https://www.azleg.gov/ars/11/00484.htm"
+     },
+     {
+      "source": "Arizona Legislature, A.R.S. 11-483",
+      "url": "https://www.azleg.gov/ars/11/00483.htm"
+     }
+    ],
+    "route": [
+     {
+      "source": "Arizona Legislature, A.R.S. 11-484",
+      "url": "https://www.azleg.gov/ars/11/00484.htm"
+     },
+     {
+      "source": "Arizona Legislature, A.R.S. 11-483",
+      "url": "https://www.azleg.gov/ars/11/00483.htm"
+     }
+    ],
+    "duration": [
+     {
+      "source": "Arizona Legislature, A.R.S. 11-484",
+      "url": "https://www.azleg.gov/ars/11/00484.htm"
+     },
+     {
+      "source": "Arizona Legislature, A.R.S. 11-483",
+      "url": "https://www.azleg.gov/ars/11/00483.htm"
+     }
+    ],
+    "voter_records": [
+     {
+      "source": "Arizona Legislature, A.R.S. 11-484",
+      "url": "https://www.azleg.gov/ars/11/00484.htm"
+     },
+     {
+      "source": "Arizona Legislature, A.R.S. 16-153",
+      "url": "https://www.azleg.gov/ars/16/00153.htm"
+     },
+     {
+      "source": "Arizona Legislature, A.R.S. 16-153",
+      "url": "https://www.azleg.gov/ars/16/00153.htm"
+     }
+    ],
+    "drivers_license_records": [
+     {
+      "source": "Arizona Legislature, A.R.S. 28-454",
+      "url": "https://www.azleg.gov/ars/28/00454.htm"
+     }
+    ],
+    "limits": [
+     {
+      "source": "Arizona Legislature, A.R.S. 11-484",
+      "url": "https://www.azleg.gov/ars/11/00484.htm"
+     }
+    ],
+    "protected_group_categories": [
+     {
+      "source": "Arizona Legislature, A.R.S. 11-484",
+      "url": "https://www.azleg.gov/ars/11/00484.htm"
+     }
+    ]
+   },
+   "category_catalog": [
+    {
+     "paragraph": "section-specific definition",
+     "statutory_text": "5. \"Eligible person\" means a health professional, election officer, public official, former public official, peace officer, spouse of a peace officer, spouse or minor child of a deceased peace officer, justice, judge, commissioner, hearing officer, public defender, prosecutor, code enforcement officer, adult or juvenile corrections officer, corrections support staff member, probation officer, member of the commission on appellate court appointments, member of the board of executive clemency, law enforcement support staff member, employee of the department of child safety or employee of adult protective services who has direct contact with families in the course of employment, national guard member who is acting in support of a law enforcement agency, person who is protected under an order of protection or injunction against harassment, person who is a participant in the address confidentiality program pursuant to title 41, chapter 1, article 3, or firefighter who is assigned to the Arizona counter terrorism information center in the department of public safety."
+    }
+   ]
+  },
+  {
+   "id": "nevada",
+   "state": "Nevada",
+   "citation": "NRS250.120-160;247.530-540;293.906-908;481.091;2025 ch.134(SB273)",
+   "protected_group": "The current assessor list includes 22 lettered personal categories and qualifying domestic-violence shelter entities. Section 250.145 separately permits danger-based petitions by other persons.",
+   "effective_date": "Not verified. No conclusion about protection or its absence.",
+   "sunset_date": "Not verified. No conclusion about protection or its absence.",
+   "property_records_online": "The cited confidentiality process concerns county assessor records. Personal information includes the listed residential address and private contact fields; assessor parcel numbers are excluded.",
+   "voter_records": "A separate Secretary of State/county/city-clerk court-order channel appears in NRS 293.906/293.908. The 2025 enacted amendment adds civilian law-enforcement support employees and firefighters or retired firefighters. The complete current compiled voter-category list was not retrieved because the official host blocked access.",
+   "drivers_license_records": "The 2025 enacted SB 273 amendment expands the NRS 481.091 alternate-address display program to civilian law-enforcement support employees and firefighters or retired firefighters. An alternate address on a license is a distinct issue from disclosure of all underlying DMV records. The complete current compiled section was inaccessible.",
+   "public_records_requests": "County-recorder confidentiality uses NRS 247.530 and the 247.540 list, separately from assessor records. Subject to the statutory exception, the listed person or entity obtains a court order based on a sworn affidavit identifying eligibility and sufficient justification.",
+   "publication_takedown": "Not verified. No conclusion about protection or its absence.",
+   "route": "Listed persons/entities generally need a court order based on a sworn affidavit. A person issued an ACP fictitious address may use the separate direct assessor request with proof.",
+   "duration": "For the other-person danger route under 250.145, the court order must expire five years after issuance. That duration is not assumed for every 250.130 order.",
+   "limits": "NRS 250.160 permits specified government, court, investigation, research, marketing and media uses. The enumerated conditions require application to the recipient.",
+   "litigation_status": "Not verified. No conclusion about protection or its absence.",
+   "source": "Nevada Legislature, current NRS Chapter 250",
+   "url": "https://www.leg.state.nv.us/nrs/NRS-250.html",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "category_text": [
+     {
+      "source": "Nevada Legislature, current NRS Chapter 250",
+      "url": "https://www.leg.state.nv.us/nrs/NRS-250.html"
+     }
+    ],
+    "protected_group": [
+     {
+      "source": "Nevada Legislature, current NRS Chapter 250",
+      "url": "https://www.leg.state.nv.us/nrs/NRS-250.html"
+     }
+    ],
+    "property_records_online": [
+     {
+      "source": "Nevada Legislature, current NRS Chapter 250",
+      "url": "https://www.leg.state.nv.us/nrs/NRS-250.html"
+     }
+    ],
+    "route": [
+     {
+      "source": "Nevada Legislature, current NRS Chapter 250",
+      "url": "https://www.leg.state.nv.us/nrs/NRS-250.html"
+     }
+    ],
+    "duration": [
+     {
+      "source": "Nevada Legislature, current NRS Chapter 250",
+      "url": "https://www.leg.state.nv.us/nrs/NRS-250.html"
+     }
+    ],
+    "limits": [
+     {
+      "source": "Nevada Legislature, NRS 250.160",
+      "url": "https://www.leg.state.nv.us/nrs/NRS-250.html"
+     }
+    ],
+    "public_records_requests": [
+     {
+      "source": "Nevada Legislature, compiled county-recorder statute",
+      "url": "https://www.leg.state.nv.us/Division/Legal/LawLibrary/nrs/NRS-247.html"
+     }
+    ],
+    "voter_records": [
+     {
+      "source": "Nevada Legislature,2025 enacted law",
+      "url": "https://www.leg.state.nv.us/Statutes/83rd2025/Stats202506.html"
+     }
+    ],
+    "drivers_license_records": [
+     {
+      "source": "Nevada Legislature,2025 enacted law",
+      "url": "https://www.leg.state.nv.us/Statutes/83rd2025/Stats202506.html"
+     }
+    ],
+    "protected_group_categories": [
+     {
+      "source": "Nevada Legislature, current NRS Chapter 250",
+      "url": "https://www.leg.state.nv.us/nrs/NRS-250.html"
+     }
+    ]
+   },
+   "category_catalog": [
+    {
+     "paragraph": "section-specific definition",
+     "statutory_text": "NRS 250.140 Certain persons and entities authorized to request personal information maintained by county assessor to be kept confidential. 1. The following persons may request that personal information described in subsection 1, 2 or 3 of NRS 250.120 that is contained in the records of a county assessor be kept confidential: (a) Any justice or judge in this State. (b) Any senior justice or senior judge in this State. (c) Any court-appointed master or judicial officer in this State. (d) Any judicial personnel of an Indian tribe. (e) Any clerk of a court, court administrator or court executive officer in this State. (f) Any county or city clerk or registrar of voters charged with the powers and duties relating to elections and any deputy appointed by such county or city clerk or registrar of voters in the elections division of the county or city. (g) Any public officer. (h) Any peace officer or retired peace officer. (i) Any firefighter or retired firefighter. (j) Any prosecutor. (k) Any state or county public defender. (l) Any person employed by the Office of the Attorney General who prosecutes or defends actions on behalf of the State of Nevada or any agency in the Executive Department of the State Government. (m) Any person, including, without limitation, a social worker, employed by this State or a political subdivision of this State who as part of his or her normal job responsibilities: (1) Interacts with the public; and (2) Performs tasks related to child welfare services or child protective services or tasks that expose the person to comparable dangers. (n) Any county manager in this State. (o) Any inspector, officer or investigator employed by this State or a political subdivision of this State designated by his or her employer: (1) Who possesses specialized training in code enforcement; (2) Who, as part of his or her normal job responsibilities, interacts with the public; and (3) Whose primary duties are the performance of tasks related to code enforcement. (p) Any civilian employee who provides support services to a law enforcement agency. (q) Any provider of health care who practices in reproductive health. (r) Any employee of or volunteer for a health care facility that provides services related to reproductive health. (s) Any provider of gender-affirming care. (t) The spouse, domestic partner or minor child of a person described in paragraphs (a) to (s), inclusive. (u) The surviving spouse, domestic partner or minor child of a person described in paragraphs (a) to (s), inclusive, who was killed in the performance of his or her duties. (v) Any person for whom a fictitious address has been issued pursuant to NRS 217.462 to 217.471, inclusive. 2. Any nonprofit entity in this State that maintains a confidential location for the purpose of providing shelter to victims of domestic violence may request that the personal information described in subsection 4 of NRS 250.120 that is contained in the records of a county assessor be kept confidential."
+    }
+   ]
+  },
+  {
+   "id": "washington",
+   "state": "Washington",
+   "citation": "RCW4.24.680 and42.56.250(1)(d)",
+   "protected_group": "Peace officers, corrections persons, justices, judges, commissioners, public defenders and prosecutors. Statutory family and category definitions control.",
+   "effective_date": "Not verified. No conclusion about protection or its absence.",
+   "sunset_date": "Not verified. No conclusion about protection or its absence.",
+   "property_records_online": "Good-faith ordinary public functions of county assessor/auditor employees are expressly excepted.",
+   "voter_records": "Not verified. No conclusion about protection or its absence.",
+   "drivers_license_records": "Not verified. No conclusion about protection or its absence.",
+   "public_records_requests": "RCW 42.56.250(1)(d) separately exempts residential and specified personal contact details in agency personnel, public-employment, volunteer-roster and employee-mailing-list records. It includes specified dependent information. This is a record-context exemption, not blanket suppression of assessor or recorder records.",
+   "publication_takedown": "The section prohibits knowing Internet disclosure only when an imminent serious safety threat is reasonably apparent to the publisher. This source does not establish an unconditional notice-based takedown.",
+   "route": "Not verified. No conclusion about protection or its absence.",
+   "duration": "Not verified. No conclusion about protection or its absence.",
+   "limits": "The threat and knowledge conditions must be satisfied. The ordinary assessor/auditor publication exception prevents a blanket property-record suppression claim.",
+   "litigation_status": "Not verified. No conclusion about protection or its absence.",
+   "source": "Washington Legislature, RCW 4.24.680",
+   "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=4.24.680",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "category_text": [
+     {
+      "source": "Washington Legislature, RCW 4.24.680",
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=4.24.680"
+     }
+    ],
+    "protected_group": [
+     {
+      "source": "Washington Legislature, RCW 4.24.680",
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=4.24.680"
+     }
+    ],
+    "publication_takedown": [
+     {
+      "source": "Washington Legislature, RCW 4.24.680",
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=4.24.680"
+     }
+    ],
+    "property_records_online": [
+     {
+      "source": "Washington Legislature, RCW 4.24.680",
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=4.24.680"
+     }
+    ],
+    "limits": [
+     {
+      "source": "Washington Legislature, RCW 4.24.680",
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=4.24.680"
+     }
+    ],
+    "public_records_requests": [
+     {
+      "source": "Washington Legislature, current RCW",
+      "url": "https://app.leg.wa.gov/Rcw/default.aspx?cite=42.56.250"
+     },
+     {
+      "source": "Washington Legislature, current RCW",
+      "url": "https://app.leg.wa.gov/Rcw/default.aspx?cite=42.56.250"
+     }
+    ],
+    "protected_group_categories": [
+     {
+      "source": "Washington Legislature, RCW 4.24.680",
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=4.24.680"
+     }
+    ]
+   },
+   "category_catalog": [
+    {
+     "paragraph": "section-specific definition",
+     "statutory_text": "(1) A person shall not knowingly make available on the world wide web the personal information of a peace officer, corrections person, justice, judge, commissioner, public defender, or prosecutor if the dissemination of the personal information poses an imminent and serious threat to the peace officer's, corrections person's, justice's, judge's, commissioner's, public defender's, or prosecutor's safety or the safety of that person's immediate family and the threat is reasonably apparent to the person making the information available on the world wide web to be serious and imminent. (2) It is not a violation of this section if an employee of a county auditor or county assessor publishes personal information, in good faith, on the website of the county auditor or county assessor in the ordinary course of carrying out public functions. (3) For the purposes of this section: (a) \"Commissioner\" means a commissioner of the superior court, court of appeals, or supreme court. (b) \"Corrections person\" means any employee or volunteer who by state, county, municipal, or combination thereof, statute has the responsibility for the confinement, care, management, training, treatment, education, supervision, or counseling of those whose civil rights have been limited in some way by legal sanction. (c) \"Immediate family\" means a peace officer's, corrections person's, justice's, judge's, commissioner's, public defender's, or prosecutor's spouse, child, or parent and any other adult who lives in the same residence as the person. (d) \"Judge\" means a judge of the United States district court, the United States court of appeals, the United States magistrate, the United States bankruptcy court, and the Washington court of appeals, superior court, district court, or municipal court. (e) \"Justice\" means a justice of the United States supreme court or Washington supreme court. (f) \"Personal information\" means a peace officer's, corrections person's, justice's, judge's, commissioner's, public defender's, or prosecutor's home address, home telephone number, pager number, social security number, home email address, directions to the person's home, or photographs of the person's home or vehicle. (g) \"Prosecutor\" means a county prosecuting attorney, a city attorney, the attorney general, or a United States attorney and their assistants or deputies. (h) \"Public defender\" means a federal public defender, or other public defender, and his or her assistants or deputies."
+    }
+   ]
+  },
+  {
+   "id": "illinois",
+   "state": "Illinois",
+   "citation": "705 ILCS 90/1-10, 2-1 and 2-5; P.A. 104-0278",
+   "protected_group": "The definition lists seven judicial categories, including identified federal and Illinois courts and administrative law judges. It includes active, former and deceased officers.",
+   "effective_date": "2026-01-01 for the administrative-law-judge expansion.",
+   "sunset_date": "Not verified. No conclusion about protection or its absence.",
+   "property_records_online": "The government rule concerns publicly available content generally. Its definition includes government records available online, on request or under FOIA. This is not a parcel-specific mechanism.",
+   "voter_records": "Not verified. No conclusion about protection or its absence.",
+   "drivers_license_records": "Not verified. No conclusion about protection or its absence.",
+   "public_records_requests": "After a proper request, agencies remove personal information within five business days. It then remains exempt from FOIA unless the officer consents.",
+   "publication_takedown": "Private recipients of a written judicial request have 72 hours to remove the personal information from the Internet.",
+   "route": "Written notice is signed by the judicial officer or an employer representative. Full section 2-10 procedure requires final review.",
+   "duration": "Not verified. No conclusion about protection or its absence.",
+   "limits": "Not verified. No conclusion about protection or its absence.",
+   "litigation_status": "Not verified. No conclusion about protection or its absence.",
+   "source": "Illinois General Assembly, Public Act 104-0278",
+   "url": "https://ilga.gov/legislation/publicacts/View/104-0278",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "category_text": [
+     {
+      "source": "Illinois General Assembly, Public Act 104-0278",
+      "url": "https://ilga.gov/legislation/publicacts/View/104-0278"
+     }
+    ],
+    "protected_group": [
+     {
+      "source": "Illinois General Assembly, Public Act 104-0278",
+      "url": "https://ilga.gov/legislation/publicacts/View/104-0278"
+     }
+    ],
+    "effective_date": [
+     {
+      "source": "Illinois General Assembly, Public Act 104-0278",
+      "url": "https://ilga.gov/legislation/publicacts/View/104-0278"
+     }
+    ],
+    "public_records_requests": [
+     {
+      "source": "Illinois General Assembly, 705 ILCS 90/2-1",
+      "url": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=070500900K2-1"
+     }
+    ],
+    "property_records_online": [
+     {
+      "source": "Illinois General Assembly, 705 ILCS 90/2-1",
+      "url": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=070500900K2-1"
+     },
+     {
+      "source": "Illinois General Assembly, Public Act 104-0278",
+      "url": "https://ilga.gov/legislation/publicacts/View/104-0278"
+     }
+    ],
+    "publication_takedown": [
+     {
+      "source": "Illinois General Assembly, 705 ILCS 90/2-5",
+      "url": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=070500900K2-5"
+     }
+    ],
+    "route": [
+     {
+      "source": "Illinois General Assembly, Public Act 104-0278",
+      "url": "https://ilga.gov/legislation/publicacts/View/104-0278"
+     }
+    ],
+    "protected_group_categories": [
+     {
+      "source": "Illinois General Assembly, Public Act 104-0278",
+      "url": "https://ilga.gov/legislation/publicacts/View/104-0278"
+     }
+    ]
+   },
+   "category_catalog": [
+    {
+     "paragraph": "1",
+     "statutory_text": "(1) Justices of the United States Supreme Court and the Illinois Supreme Court;"
+    },
+    {
+     "paragraph": "2",
+     "statutory_text": "(2) Judges of the United States Court of Appeals;"
+    },
+    {
+     "paragraph": "3",
+     "statutory_text": "(3) Judges and magistrate judges of the United States District Court;"
+    },
+    {
+     "paragraph": "4",
+     "statutory_text": "(4) Judges of the United States Bankruptcy Court;"
+    },
+    {
+     "paragraph": "5",
+     "statutory_text": "(5) Judges of the Illinois Appellate Court;"
+    },
+    {
+     "paragraph": "6",
+     "statutory_text": "(6) Judges and associate judges of the Illinois Circuit Courts; and"
+    },
+    {
+     "paragraph": "7",
+     "statutory_text": "(7) Administrative law judges as defined in Section 1-15 of the Illinois Administrative Procedure Act."
+    }
+   ]
+  },
+  {
+   "id": "georgia",
+   "state": "Georgia",
+   "citation": "O.C.G.A. 50-18-78, enacted SB215 (2023)",
+   "protected_group": "Law-enforcement officers under the enacted definition. The text is narrower than earlier proposals covering general public employees.",
+   "effective_date": "Not verified. No conclusion about protection or its absence.",
+   "sunset_date": "Not verified. No conclusion about protection or its absence.",
+   "property_records_online": "Local governments remove residential address or telephone information from property records on their own websites within 30 days of the officer's written request. The PII definition includes the spouse.",
+   "voter_records": "Not verified. No conclusion about protection or its absence.",
+   "drivers_license_records": "Not verified. No conclusion about protection or its absence.",
+   "public_records_requests": "Not verified. No conclusion about protection or its absence.",
+   "publication_takedown": "Not verified. No conclusion about protection or its absence.",
+   "route": "Each local government must provide an online request form, which may include employment verification.",
+   "duration": "Not verified. No conclusion about protection or its absence.",
+   "limits": "The enacted section limits relief for failure to remove to an injunction against the county employee with the ministerial duty. It does not establish a private-party deletion route.",
+   "litigation_status": "Not verified. No conclusion about protection or its absence.",
+   "source": "Georgia Governor, enacted SB215/AP",
+   "url": "https://gov.georgia.gov/document/2023-signed-legislation/sb-215/download",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "category_text": [
+     {
+      "source": "Georgia Governor, enacted SB215/AP",
+      "url": "https://gov.georgia.gov/document/2023-signed-legislation/sb-215/download"
+     }
+    ],
+    "protected_group": [
+     {
+      "source": "Georgia Governor, enacted SB215/AP",
+      "url": "https://gov.georgia.gov/document/2023-signed-legislation/sb-215/download"
+     }
+    ],
+    "property_records_online": [
+     {
+      "source": "Georgia Governor, enacted SB215/AP",
+      "url": "https://gov.georgia.gov/document/2023-signed-legislation/sb-215/download"
+     }
+    ],
+    "route": [
+     {
+      "source": "Georgia Governor, enacted SB215/AP",
+      "url": "https://gov.georgia.gov/document/2023-signed-legislation/sb-215/download"
+     }
+    ],
+    "limits": [
+     {
+      "source": "Georgia Governor, enacted SB215/AP",
+      "url": "https://gov.georgia.gov/document/2023-signed-legislation/sb-215/download"
+     }
+    ],
+    "protected_group_categories": [
+     {
+      "source": "Georgia Governor, enacted SB215/AP",
+      "url": "https://gov.georgia.gov/document/2023-signed-legislation/sb-215/download"
+     }
+    ]
+   },
+   "category_catalog": [
+    {
+     "paragraph": "section-specific definition",
+     "statutory_text": "(1) 'Law enforcement officer' means a sheriff, deputy sheriff, police officer, policeman, 14 peace officer, officer or member of the Department of Public Safety, or other officer or 15 official who has the power of arrest and who is responsible for enforcing the criminal 16 laws of the federal government or the state or its political subdivisions. S. B. 215 -1- 23 SB 215/AP 17"
+    }
+   ]
+  },
+  {
+   "id": "utah",
+   "state": "Utah",
+   "citation": "Utah Code 63A-19-408, renumbered from 63G-2-303",
+   "protected_group": "Listed current/former justice, military and law-enforcement roles and other government employees meeting the credible-threat or unique-duty risk condition. Family coverage requires co-residence.",
+   "effective_date": "2026-05-06 for this current renumbered section.",
+   "sunset_date": "Not verified. No conclusion about protection or its absence.",
+   "property_records_online": "The recorder, treasurer, auditor or assessor may comply by blocking public access to home address, home telephone, situs address and SSN in assessment/tax rolls and indexes.",
+   "voter_records": "Not verified. No conclusion about protection or its absence.",
+   "drivers_license_records": "Not verified. No conclusion about protection or its absence.",
+   "public_records_requests": "The application asks each government agency to classify the identified records or portions as private.",
+   "publication_takedown": "Not verified. No conclusion about protection or its absence.",
+   "route": "Apply in writing to every holding government agency, identify specific records and obtain certification from the highest-ranking official in the chain of command. Each agency supplies its form.",
+   "duration": "The form expires at the earlier of four years after signature or one year after the agency receives official death notice. It may be rescinded earlier.",
+   "limits": "Written consent, court order and certified death certificate permit release. Subpoenas trigger the separate notice and motion-to-quash process.",
+   "litigation_status": "Not verified. No conclusion about protection or its absence.",
+   "source": "Utah Legislature, current 63A-19-408 PDF",
+   "url": "https://le.utah.gov/xcode/Title63A/Chapter19/C63A-19-S408_2026050620260506.pdf",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "category_text": [
+     {
+      "source": "Utah Legislature, current 63A-19-408 PDF",
+      "url": "https://le.utah.gov/xcode/Title63A/Chapter19/C63A-19-S408_2026050620260506.pdf"
+     }
+    ],
+    "protected_group": [
+     {
+      "source": "Utah Legislature, current 63A-19-408 PDF",
+      "url": "https://le.utah.gov/xcode/Title63A/Chapter19/C63A-19-S408_2026050620260506.pdf"
+     }
+    ],
+    "effective_date": [
+     {
+      "source": "Utah Legislature, current 63A-19-408 PDF",
+      "url": "https://le.utah.gov/xcode/Title63A/Chapter19/C63A-19-S408_2026050620260506.pdf"
+     }
+    ],
+    "route": [
+     {
+      "source": "Utah Legislature, current 63A-19-408 PDF",
+      "url": "https://le.utah.gov/xcode/Title63A/Chapter19/C63A-19-S408_2026050620260506.pdf"
+     }
+    ],
+    "property_records_online": [
+     {
+      "source": "Utah Legislature, current 63A-19-408 PDF",
+      "url": "https://le.utah.gov/xcode/Title63A/Chapter19/C63A-19-S408_2026050620260506.pdf"
+     }
+    ],
+    "public_records_requests": [
+     {
+      "source": "Utah Legislature, current 63A-19-408 PDF",
+      "url": "https://le.utah.gov/xcode/Title63A/Chapter19/C63A-19-S408_2026050620260506.pdf"
+     }
+    ],
+    "limits": [
+     {
+      "source": "Utah Legislature, current 63A-19-408 PDF",
+      "url": "https://le.utah.gov/xcode/Title63A/Chapter19/C63A-19-S408_2026050620260506.pdf"
+     }
+    ],
+    "duration": [
+     {
+      "source": "Utah Legislature, current 63A-19-408 PDF",
+      "url": "https://le.utah.gov/xcode/Title63A/Chapter19/C63A-19-S408_2026050620260506.pdf"
+     }
+    ],
+    "protected_group_categories": [
+     {
+      "source": "Utah Legislature, current 63A-19-408 PDF",
+      "url": "https://le.utah.gov/xcode/Title63A/Chapter19/C63A-19-S408_2026050620260506.pdf"
+     }
+    ]
+   },
+   "category_catalog": [
+    {
+     "paragraph": "section-specific definition",
+     "statutory_text": "(a) \"At-risk government employee\" means a current or former: (i) peace officer as specified in Section 53-13-102; (ii) state or federal judge of an appellate, district, justice, or juvenile court, or court commissioner; (iii) judge authorized by Title 39A, Chapter 5, Utah Code of Military Justice; (iv) judge authorized by Armed Forces, Title 10, United States Code; (v) federal prosecutor; (vi) prosecutor appointed pursuant to Armed Forces, Title 10, United States Code; (vii) law enforcement official as defined in Section 53-5a-311; (viii) prosecutor authorized by Title 39A, Chapter 5, Utah Code of Military Justice; or (ix) state, federal, or local government employee who, because of the unique nature of the employee's regular work assignments or because of one or more recent credible threats directed to or against the employee, would be at immediate and substantial risk of physical harm if the employee's personal information is disclosed. (b) \"Family member\" means the spouse, child, sibling, parent, or grandparent of an at-risk government employee who is living with the employee."
+    }
+   ]
+  },
+  {
+   "id": "hawaii",
+   "state": "Hawaii",
+   "citation": "HRS Chapter 92H",
+   "protected_group": "Eleven statutory classes, including listed executive officials, legislators, judges, court administrators, election-office employees/volunteers and persons designated for good cause. Federal judges have a Hawaii residence/property nexus.",
+   "effective_date": "2024-10-01, as expressly substituted in the current chapter revision note.",
+   "sunset_date": "Not verified. No conclusion about protection or its absence.",
+   "property_records_online": "Protected personal information includes property ownership, the official's name/residential address in property tax records, voter registration and absentee-ballot applications. \"Home\" excludes investment property.",
+   "voter_records": "The chapter reaches Internet publication of covered voter-registration and absentee-application information. It preserves the separate statutory government-record access rights.",
+   "drivers_license_records": "Not verified. No conclusion about protection or its absence.",
+   "public_records_requests": "Chapter 92 H preserves chapter 92 F and other access rights while restricting public Internet availability after a valid request.",
+   "publication_takedown": "A valid request normally requires removal from controlled Internet/social-media sites within three business days, subject to chapter exceptions and extension procedure.",
+   "route": "Direct private-recipient requests may be submitted by the servant or an employer representative with written consent. Government requests must come through the specified department head or court representative and identify each record/index.",
+   "duration": "The written request remains valid until written permission to release or the covered servant's death.",
+   "limits": "Exceptions include title-industry record copies, government sharing, legally required public notices, news/public concern, voluntary publication and specified federal privacy-law uses.",
+   "litigation_status": "Not verified. No conclusion about protection or its absence.",
+   "source": "Hawaii Legislature, HRS 92H-1",
+   "url": "https://data.capitol.hawaii.gov/hrscurrent/Vol02_Ch0046-0115/HRS0092H/HRS_0092H-0001.htm",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "category_text": [
+     {
+      "source": "Hawaii Legislature, HRS 92H-1",
+      "url": "https://data.capitol.hawaii.gov/hrscurrent/Vol02_Ch0046-0115/HRS0092H/HRS_0092H-0001.htm"
+     }
+    ],
+    "protected_group": [
+     {
+      "source": "Hawaii Legislature, HRS 92H-1",
+      "url": "https://data.capitol.hawaii.gov/hrscurrent/Vol02_Ch0046-0115/HRS0092H/HRS_0092H-0001.htm"
+     }
+    ],
+    "property_records_online": [
+     {
+      "source": "Hawaii Legislature, HRS 92H-1",
+      "url": "https://data.capitol.hawaii.gov/hrscurrent/Vol02_Ch0046-0115/HRS0092H/HRS_0092H-0001.htm"
+     },
+     {
+      "source": "Hawaii Legislature, HRS 92H-1",
+      "url": "https://data.capitol.hawaii.gov/hrscurrent/Vol02_Ch0046-0115/HRS0092H/HRS_0092H-0001.htm"
+     }
+    ],
+    "voter_records": [
+     {
+      "source": "Hawaii Legislature, HRS 92H-1",
+      "url": "https://data.capitol.hawaii.gov/hrscurrent/Vol02_Ch0046-0115/HRS0092H/HRS_0092H-0001.htm"
+     },
+     {
+      "source": "Hawaii Legislature, HRS 92H-8",
+      "url": "https://data.capitol.hawaii.gov/hrscurrent/Vol02_Ch0046-0115/HRS0092H/HRS_0092H-0008.htm"
+     }
+    ],
+    "publication_takedown": [
+     {
+      "source": "Hawaii Legislature, HRS 92H-2",
+      "url": "https://data.capitol.hawaii.gov/hrscurrent/Vol02_Ch0046-0115/HRS0092H/HRS_0092H-0002.htm"
+     }
+    ],
+    "route": [
+     {
+      "source": "Hawaii Legislature, HRS 92H-3",
+      "url": "https://data.capitol.hawaii.gov/hrscurrent/Vol02_Ch0046-0115/HRS0092H/HRS_0092H-0003.htm"
+     }
+    ],
+    "duration": [
+     {
+      "source": "Hawaii Legislature, HRS 92H-3",
+      "url": "https://data.capitol.hawaii.gov/hrscurrent/Vol02_Ch0046-0115/HRS0092H/HRS_0092H-0003.htm"
+     }
+    ],
+    "public_records_requests": [
+     {
+      "source": "Hawaii Legislature, HRS 92H-8",
+      "url": "https://data.capitol.hawaii.gov/hrscurrent/Vol02_Ch0046-0115/HRS0092H/HRS_0092H-0008.htm"
+     }
+    ],
+    "limits": [
+     {
+      "source": "Hawaii Legislature, HRS 92H-6",
+      "url": "https://data.capitol.hawaii.gov/hrscurrent/Vol02_Ch0046-0115/HRS0092H/HRS_0092H-0006.htm"
+     }
+    ],
+    "effective_date": [
+     {
+      "source": "Hawaii Legislature, HRS 92H-6",
+      "url": "https://data.capitol.hawaii.gov/hrscurrent/Vol02_Ch0046-0115/HRS0092H/HRS_0092H-0006.htm"
+     }
+    ],
+    "protected_group_categories": [
+     {
+      "source": "Hawaii Legislature, HRS 92H-1",
+      "url": "https://data.capitol.hawaii.gov/hrscurrent/Vol02_Ch0046-0115/HRS0092H/HRS_0092H-0001.htm"
+     }
+    ]
+   },
+   "category_catalog": [
+    {
+     "paragraph": "section-specific definition",
+     "statutory_text": "\"Covered public servant\" means: (1) The governor; (2) The lieutenant governor; (3) The administrative director appointed pursuant to section 26-3; (4) Any head of a department established under section 26-4; (5) Any member of the legislature; (6) Any active, formerly active, or retired: (A) Justice of the Hawaii supreme court; (B) Judge of the Hawaii intermediate appellate court; (C) Judge of a Hawaii circuit court or circuit family court; (D) Judge of a Hawaii district court or district family court; or (E) Per diem judge of a Hawaii district court or district family court; (7) Any active, formerly active, or retired: (A) Justice of the United States Supreme Court; (B) Judge of the United States Court of Appeals; (C) Judge or magistrate judge of the United States District Court; or (D) Judge of the United States Bankruptcy Court, who resides in the State, formerly resided in the State while serving as a federal judge, or owns real property in the State; (8) The administrative director of the courts; (9) The deputy administrative director of the courts; (10) Any employee or volunteer of the office of elections; or (11) Any person designated for good cause by the governor, president of the senate, speaker of the house of representatives, chief justice, chief judge of the United States District Court for the District of Hawaii, or chairperson of the office of Hawaiian affairs in the designator's respective body. \"Family\" means spouses or reciprocal beneficiaries, former spouses or former reciprocal beneficiaries, persons who have a child in common, parents, children, persons related by consanguinity, and persons jointly residing or formerly residing in the same dwelling unit."
+    }
+   ]
+  },
+  {
+   "id": "federal",
+   "state": "Federal",
+   "citation": "Public Law117-263,div.E,titleLIX,subtitleD,5931-5939;18U.S.C.2721",
+   "protected_group": "Specified federal judges and immediate family. The definitions and exceptions in sections 5933 and 5937 must accompany any summary.",
+   "effective_date": "The default is enactment. Specified provisions in 5934(c)(1), (d) and (e) take effect 120 days after enactment. The excerpt retains the exact rule without replacing it with an unverified calendar calculation.",
+   "sunset_date": "Not verified. No conclusion about protection or its absence.",
+   "property_records_online": "Section 5934(c) establishes grants to states. It does not by itself establish a universal closure rule for every state property record.",
+   "voter_records": "Not verified. No conclusion about protection or its absence.",
+   "drivers_license_records": "The DPPA, 18 U.S.C.2721, restricts state-DMV disclosure of personal information and highly restricted information, subject to statutory exceptions and permissible uses. It is a separate general motor-vehicle-record law, not a judicial-privacy request to remove all public websites.",
+   "public_records_requests": "Federal agencies receiving a proper request mark covered information private and remove it from availability within 72 hours, subject to the section's exceptions.",
+   "publication_takedown": "Section 5934(d) separately regulates knowing data-broker transfers and private Internet publication after written request, including a 72-hour removal requirement.",
+   "route": "The at-risk individual or agent submits statutory written notice. The Administrative Office or appropriate Article I court may act as the judge's agent.",
+   "duration": "Not verified. No conclusion about protection or its absence.",
+   "limits": "The act preserves specified news/public-concern speech, consent and government sharing. Section 5934(d) also contains publication/source exceptions and the data-broker definition has exclusions.",
+   "litigation_status": "Not verified. No conclusion about protection or its absence.",
+   "source": "Congress, Public Law 117-263, Subtitle D",
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-117publ263/html/PLAW-117publ263.htm",
+   "checked_on": "2026-10-24",
+   "field_citations": {
+    "category_text": [
+     {
+      "source": "Congress, Public Law 117-263, Subtitle D",
+      "url": "https://www.govinfo.gov/content/pkg/PLAW-117publ263/html/PLAW-117publ263.htm"
+     }
+    ],
+    "federal_judge_definition": [
+     {
+      "source": "Congress, Public Law 117-263, Subtitle D",
+      "url": "https://www.govinfo.gov/content/pkg/PLAW-117publ263/html/PLAW-117publ263.htm"
+     }
+    ],
+    "protected_group": [
+     {
+      "source": "Congress, Public Law 117-263, Subtitle D",
+      "url": "https://www.govinfo.gov/content/pkg/PLAW-117publ263/html/PLAW-117publ263.htm"
+     }
+    ],
+    "public_records_requests": [
+     {
+      "source": "Congress, Public Law 117-263, Subtitle D",
+      "url": "https://www.govinfo.gov/content/pkg/PLAW-117publ263/html/PLAW-117publ263.htm"
+     }
+    ],
+    "route": [
+     {
+      "source": "Congress, Public Law 117-263, Subtitle D",
+      "url": "https://www.govinfo.gov/content/pkg/PLAW-117publ263/html/PLAW-117publ263.htm"
+     }
+    ],
+    "publication_takedown": [
+     {
+      "source": "Congress, Public Law 117-263, Subtitle D",
+      "url": "https://www.govinfo.gov/content/pkg/PLAW-117publ263/html/PLAW-117publ263.htm"
+     }
+    ],
+    "property_records_online": [
+     {
+      "source": "Congress, Public Law 117-263, Subtitle D",
+      "url": "https://www.govinfo.gov/content/pkg/PLAW-117publ263/html/PLAW-117publ263.htm"
+     }
+    ],
+    "limits": [
+     {
+      "source": "Congress, Public Law 117-263, Subtitle D",
+      "url": "https://www.govinfo.gov/content/pkg/PLAW-117publ263/html/PLAW-117publ263.htm"
+     },
+     {
+      "source": "Congress, Public Law 117-263, Subtitle D",
+      "url": "https://www.govinfo.gov/content/pkg/PLAW-117publ263/html/PLAW-117publ263.htm"
+     }
+    ],
+    "effective_date": [
+     {
+      "source": "Congress, Public Law 117-263, Subtitle D",
+      "url": "https://www.govinfo.gov/content/pkg/PLAW-117publ263/html/PLAW-117publ263.htm"
+     }
+    ],
+    "drivers_license_records": [
+     {
+      "source": "U.S. House Office of Law Revision Counsel, current United States Code",
+      "url": "https://uscode.house.gov/view.xhtml?edition=prelim&num=0&req=granuleid%3AUSC-prelim-title18-section2721"
+     },
+     {
+      "source": "U.S. House Office of Law Revision Counsel, current United States Code",
+      "url": "https://uscode.house.gov/view.xhtml?edition=prelim&num=0&req=granuleid%3AUSC-prelim-title18-section2721"
+     }
+    ],
+    "protected_group_categories": [
+     {
+      "source": "Congress, Public Law 117-263, Subtitle D",
+      "url": "https://www.govinfo.gov/content/pkg/PLAW-117publ263/html/PLAW-117publ263.htm"
+     }
+    ]
+   },
+   "category_catalog": [
+    {
+     "paragraph": "section-specific definition",
+     "statutory_text": "(1) At-risk individual.--The term at-risk individual'' means-- (A) a Federal judge; (B) a senior, recalled, or retired Federal judge; (C) any individual who is the spouse, parent, sibling, or child of an individual described in subparagraph (A) or (B); (D) any individual to whom an individual described in subparagraph (A) or (B) stands in loco parentis; or [[Page 136 STAT. 3460]] (E) any other individual living in the household of an individual described in subparagraph (A) or (B)."
+    }
+   ]
+  }
+ ]
+}
