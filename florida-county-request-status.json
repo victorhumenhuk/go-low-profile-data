@@ -110,8 +110,9 @@
       "provider_status": "queued",
       "route": "other county office, forwarding requested",
       "official_route_source": "https://www.collierclerk.com/contact-us/",
-      "appraiser_receipt": "unconfirmed",
-      "count_result": null
+      "appraiser_receipt": "unconfirmed, acknowledgement from forwarding clerk office only",
+      "count_result": null,
+      "receiving_office_acknowledgement": "automated acknowledgement received"
     },
     {
       "county": "Columbia",
@@ -500,8 +501,9 @@
       "provider_status": "queued",
       "route": "appraiser office or official",
       "official_route_source": "https://pbcpao.gov/public-records-requests.htm",
-      "appraiser_receipt": "unconfirmed",
-      "count_result": null
+      "appraiser_receipt": "automated appraiser-office acknowledgement",
+      "count_result": null,
+      "receiving_office_acknowledgement": "automated acknowledgement received"
     },
     {
       "county": "Pasco",
@@ -673,5 +675,7 @@
       "appraiser_receipt": "unconfirmed",
       "count_result": null
     }
-  ]
+  ],
+  "automated_receiving_office_acknowledgements": 2,
+  "automated_appraiser_office_acknowledgements": 1
 }
